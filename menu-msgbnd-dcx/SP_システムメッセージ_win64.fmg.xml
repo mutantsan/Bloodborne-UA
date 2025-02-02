@@ -99,9 +99,9 @@
 <text id="65412">%null%</text>
 <text id="65413">%null%</text>
 <text id="70000">%null%</text>
-<text id="20001000">Lost connection to session.</text>
-<text id="20001001">Leaving session due to
-network instability.</text>
+<text id="20001000">Втрачено підключення до сеансу.</text>
+<text id="20001001">Завершення сеансу через
+нестабільність мережі.</text>
 <text id="20001002">%null%</text>
 <text id="20001003">%null%</text>
 <text id="20001004">%null%</text>

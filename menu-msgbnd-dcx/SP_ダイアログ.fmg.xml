@@ -5,35 +5,35 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="1">OK</text>
-<text id="2">CANCEL</text>
-<text id="3">YES</text>
-<text id="4">NO</text>
-<text id="15">RETRY</text>
-<text id="16">CONTINUE</text>
-<text id="17">BACK TO TITLE</text>
+<text id="1">ОК</text>
+<text id="2">СКАСУВАТИ</text>
+<text id="3">ТАК</text>
+<text id="4">НІ</text>
+<text id="15">ПОВТОРИТИ</text>
+<text id="16">ПРОДОВЖИТИ</text>
+<text id="17">ПОВЕРНУТИСЯ В ГОЛОВНЕ МЕНЮ</text>
 <text id="18">%null%</text>
 <text id="19">%null%</text>
-<text id="20">Yes, I would</text>
-<text id="21">Never</text>
-<text id="22">I will hunt</text>
-<text id="23">I vow not to hunt</text>
-<text id="4001">Failed to connect to Bloodborne server.
-Returning to title menu.</text>
+<text id="20">Так</text>
+<text id="21">Ніколи</text>
+<text id="22">Я полюватиму</text>
+<text id="23">Присягаюся не полювати</text>
+<text id="4001">Не вдалося підключитися до сервера Bloodborne.
+Повернення до головного меню.</text>
 <text id="4002">%null%</text>
 <text id="4003">%null%</text>
 <text id="4004">%null%</text>
 <text id="4005">%null%</text>
-<text id="4006">Failed to change privacy settings.
-Try again later.</text>
-<text id="4007">Failed to obtain Chalice Dungeon info.
-Try again later.</text>
+<text id="4006">Не вдалося змінити налаштування конфіденційності.
+Спробуйте пізніше.</text>
+<text id="4007">Не вдалося отримати інформацію про підземелля Чаші.
+Спробуйте пізніше.</text>
 <text id="4008">%null%</text>
-<text id="4009">Failed to join Chalice Dungeon.
-Try again later.</text>
+<text id="4009">Не вдалося приєднатися до підземелля Чаші.
+Спробуйте пізніше.</text>
 <text id="4010">%null%</text>
-<text id="4011">Failed to contribute ritual materials.
-Try again later.</text>
+<text id="4011">Не вдалося внести ритуальні матеріали.
+Спробуйте пізніше.</text>
 <text id="4101">The Bloodborne server administrator has restricted
 this Sony Entertainment Network account's access to multiplayer features.</text>
 <text id="4102">The Bloodborne server administrator has restricted
@@ -43,17 +43,17 @@ this Sony Entertainment Network account's Chalice Dungeon functionality.</text>
 <text id="4104">The Bloodborne server administrator has restricted
 this Sony Entertainment Network account's specter functionality.</text>
 <text id="4201">The Bloodborne server is no longer available.
-Returning to title menu.</text>
+Повернення до головного меню.</text>
 <text id="4301">Lost connection to Bloodborne server.
-Returning to title menu.</text>
+Повернення до головного меню.</text>
 <text id="4401">&lt;?ssInfoMsg?&gt;
-Returning to title menu.</text>
+Повернення до головного меню.</text>
 <text id="4402">Failed to resolve Bloodborne server status.
-Returning to title menu.</text>
+Повернення до головного меню.</text>
 <text id="4403">Failed to acquire Bloodborne server information.
-Returning to title menu.</text>
+Повернення до головного меню.</text>
 <text id="4601">Failed to connect to Bloodborne server.
-Returning to title menu.</text>
+Повернення до головного меню.</text>
 <text id="4602">After a period of no access,
 the selected dungeon data was deleted
 from the Bloodborne server.</text>
@@ -63,36 +63,36 @@ matching this Chalice Glyph.</text>
 <text id="4605">No dungeon found that can be joined.</text>
 <text id="4606">Could not find a Chalice Dungeon matching your criteria.</text>
 <text id="4701">Lost connection to the network.
-Returning to title menu.</text>
+Повернення до головного меню.</text>
 <text id="4801">You have been signed out of "PlayStation Network".
-Returning to title menu.</text>
+Повернення до головного меню.</text>
 <text id="4802">Lost communication with "PlayStation Network".
-Returning to title menu.</text>
+Повернення до головного меню.</text>
 <text id="4803">Your PlayStation®Plus membership has expired.
-Returning to title menu.</text>
+Повернення до головного меню.</text>
 <text id="5001">Session lost.</text>
 <text id="5002">Exiting session due to unstable connection.</text>
-<text id="5003">Network error has occurred. 
+<text id="5003">Network error has occurred.
 You have been disconnected.</text>
 <text id="40200">Not enough Blood Echoes.</text>
 <text id="40201">%null%</text>
 <text id="40202">%null%</text>
-<text id="40203">Not enough Insight.</text>
-<text id="40300">Restore to default settings?</text>
-<text id="102000">Select quantity of
+<text id="40203">Недостатньо Озаріння.</text>
+<text id="40300">Відновити стандартні налаштування?</text>
+<text id="102000">Оберіть скільки
 &lt;?itemName?&gt;
-to discard.</text>
-<text id="102001">Discard
+треба викинути.</text>
+<text id="102001">Викинути
 &lt;?itemName?&gt;?</text>
-<text id="102002">This will discard selected item.</text>
-<text id="102003">Cannot discard this item.</text>
-<text id="102004">Select quantity of &lt;?itemName?&gt; to use.</text>
+<text id="102002">Вибраний предмет буде викинуто.</text>
+<text id="102003">Неможливо викинути цей предмет.</text>
+<text id="102004">Оберіть скільки &lt;?itemName?&gt; використати.</text>
 <text id="102005">%null%</text>
 <text id="102006">%null%</text>
 <text id="102007">%null%</text>
 <text id="102008">%null%</text>
 <text id="102009">%null%</text>
-<text id="102010">Cannot discard currently equipped items.</text>
+<text id="102010">Не можна викинути поточні оснащені предмети.</text>
 <text id="102011">%null%</text>
 <text id="102012">%null%</text>
 <text id="102013">%null%</text>
@@ -151,11 +151,11 @@ Still okay to use?</text>
 <text id="110007">%null%</text>
 <text id="110008">%null%</text>
 <text id="110009">%null%</text>
-<text id="110010">Network cannot be used in offline mode. 
+<text id="110010">Network cannot be used in offline mode.
 
 To use network features,
 select Log In from title menu.</text>
-<text id="110011">Network cannot be used in offline mode. 
+<text id="110011">Network cannot be used in offline mode.
 
 Please return to title menu and log in
 to make use of network features.</text>
@@ -176,7 +176,7 @@ and level up?</text>
 <text id="211009">%null%</text>
 <text id="211010">Level at maximum.
 Cannot raise level any further.</text>
-<text id="212000">Effect overlaps with memorized Caryll Rune. 
+<text id="212000">Effect overlaps with memorized Caryll Rune.
 Overlapping effects will not stack.
 OK?</text>
 <text id="221000">Use &lt;?demandSoul?&gt; Blood Echoes and
@@ -202,8 +202,8 @@ Removed blood gem will be lost.</text>
 Old blood gem will be lost.</text>
 <text id="222003">This blood gem cannot be removed after it is fused.
 Are you sure you want to fuse?</text>
-<text id="222004">Effect overlaps with fused blood gem. 
-Overlapping effects will not stack. 
+<text id="222004">Effect overlaps with fused blood gem.
+Overlapping effects will not stack.
 OK?</text>
 <text id="222005">Blood gems fused to weapons can only be removed
 by fusing other blood gems</text>
@@ -287,17 +287,17 @@ Excess items will remain stored.</text>
 as inventory will exceed max.</text>
 <text id="262000">Remove chalice?
 (This will expunge dungeon and erase progress)</text>
-<text id="262001">Chalice Dungeon Search cannot be used in offline mode. 
-Please return to title menu and log in to make use of 
+<text id="262001">Chalice Dungeon Search cannot be used in offline mode.
+Please return to title menu and log in to make use of
 network features.</text>
-<text id="262002">Chalice Glyph cannot be used in offline mode. 
-Please return to title menu and log in to make use of 
+<text id="262002">Chalice Glyph cannot be used in offline mode.
+Please return to title menu and log in to make use of
 network features.</text>
-<text id="262003">Share Chalice Dungeon cannot be used in offline mode. 
-Please return to title menu and log in to make use of 
+<text id="262003">Share Chalice Dungeon cannot be used in offline mode.
+Please return to title menu and log in to make use of
 network features.</text>
 <text id="262004">%null%</text>
-<text id="262005">Cannot change the privacy setting of a 
+<text id="262005">Cannot change the privacy setting of a
 Chalice Dungeon once shared.</text>
 <text id="263000">Confirm settings and start ritual?</text>
 <text id="263001">Conduct a ritual to create a Chalice Dungeon?
@@ -312,9 +312,9 @@ Materials will be consumed.</text>
 <text id="263009">%null%</text>
 <text id="263010">Root Chalice Rituals require a network
 connection to obtain server data.</text>
-<text id="265000">Make public? 
+<text id="265000">Make public?
 *Setting is permanent.</text>
-<text id="265001">Make private? 
+<text id="265001">Make private?
 *Setting is permanent.</text>
 <text id="265100">Privacy settings complete.</text>
 <text id="266000">Join the selected Chalice Dungeon?</text>
@@ -337,14 +337,14 @@ has been found. Entering corresponding Chalice Dungeon.</text>
 <text id="269000">Quick-search and join an accessible Chalice Dungeon? </text>
 <text id="269001">Quick-search a Beckoning Bell chime and begin co-op?</text>
 <text id="269002">Quick-search a Sinister Bell chime and become an adversary?</text>
-<text id="269003">Dungeon quick-search cannot be used in offline mode. 
+<text id="269003">Dungeon quick-search cannot be used in offline mode.
 Please return to title menu and log in
 to make use of network features.</text>
 <text id="269004">%null%</text>
-<text id="269005">Co-op quick-search cannot be used in offline mode. 
+<text id="269005">Co-op quick-search cannot be used in offline mode.
 Please return to title menu and log in
 to make use of network features.</text>
-<text id="269006">Adversarial Quick-search cannot be used in offline mode. 
+<text id="269006">Adversarial Quick-search cannot be used in offline mode.
 Please return to title menu and log in
 to make use of network features.</text>
 <text id="269007">Joining accessible quick-search Chalice Dungeon.
@@ -385,39 +385,39 @@ This feature is not currently available.</text>
 <text id="302209">%null%</text>
 <text id="302210">Searching for the chime of a
 Beckoning Bell with matching password.</text>
-<text id="305000">Cannot view Vileblood Register in offline mode.</text>
-<text id="305001">Failed to obtain register information.</text>
-<text id="305002">Finish viewing Vileblood Register</text>
-<text id="305003">Acquiring register info...</text>
+<text id="305000">Перегляд Реєстру Сквернокровних не доступний в офлайн режимі.</text>
+<text id="305001">Збій при отриманні інформації реєстру.</text>
+<text id="305002">Завершити перегляд Реєстру Сквернокровних</text>
+<text id="305003">Запит даних реєстру...</text>
 <text id="305004">%null%</text>
 <text id="305005">%null%</text>
 <text id="305006">%null%</text>
 <text id="305007">%null%</text>
 <text id="305008">%null%</text>
 <text id="305009">%null%</text>
-<text id="305010">Cannot check League Directory in offline mode.</text>
-<text id="305011">Failed to acquire directory info.</text>
-<text id="305012">Exit League Directory</text>
-<text id="305013">Acquiring directory info...</text>
-<text id="310000">You haven't written any notes.</text>
-<text id="310001">No recently read notes.</text>
-<text id="311000">Delete this note?</text>
-<text id="311001">This is a fine note.</text>
-<text id="311002">This is a foul note.</text>
-<text id="321000">Note will be written with current content.</text>
-<text id="322000">Delete this note from list?</text>
-<text id="400001">Failed to load save data.</text>
-<text id="400002">Save data is corrupted.</text>
+<text id="305010">Неможливо переглянути список членів ліги в автономному режимі.</text>
+<text id="305011">Не вдалося отримати інформацію про членів ліги</text>
+<text id="305012">Вийти з каталогу членів ліги</text>
+<text id="305013">Отримання інформації про каталог...</text>
+<text id="310000">Ви не написали жодної нотатки.</text>
+<text id="310001">Немає нещодавно прочитаних нотаток.</text>
+<text id="311000">Видалити цю нотатку?</text>
+<text id="311001">Це гарна нотатка.</text>
+<text id="311002">Це погана нотатка.</text>
+<text id="321000">Нотатка буде записана з поточним вмістом.</text>
+<text id="322000">Видалити цю нотатку зі списку?</text>
+<text id="400001">Не вдалося завантажити дані збереження.</text>
+<text id="400002">Дані збереження пошкоджені.</text>
 <text id="400003">At the end of the previous session,
 Exit Game (system menu) may not have been selected.
 
 Failure to end session with Exit Game may result
 in loss of progress.</text>
-<text id="401001">Returning to title menu.</text>
-<text id="401002">Starting game in offline mode. 
+<text id="401001">Повернення до головного меню.</text>
+<text id="401002">Starting game in offline mode.
 
-To use network features, check to see 
-if your connection is set up properly, 
+To use network features, check to see
+if your connection is set up properly,
 and select Log In from title menu.</text>
 <text id="401003">%null%</text>
 <text id="401004">%null%</text>
@@ -427,10 +427,10 @@ and select Log In from title menu.</text>
 <text id="401008">%null%</text>
 <text id="401009">%null%</text>
 <text id="401010">Play in online mode?</text>
-<text id="401011">Lost connection to the network. 
-Switching to offline mode. 
-To use network features, check to see 
-if your connection is set up properly, 
+<text id="401011">Lost connection to the network.
+Switching to offline mode.
+To use network features, check to see
+if your connection is set up properly,
 and select Log In from title menu.</text>
 <text id="401012">You have been signed out of "PlayStation Network".
 Switching to offline mode.
@@ -438,11 +438,11 @@ Switching to offline mode.
 To use network features, check to see
 if your connection is set up properly,
 and select Log In from title menu.</text>
-<text id="401013">Lost communication with "PlayStation Network". 
+<text id="401013">Lost communication with "PlayStation Network".
 Switching to offline mode.
 
-To use network features, check to see 
-if your connection is set up properly, 
+To use network features, check to see
+if your connection is set up properly,
 and select Log In from title menu.</text>
 <text id="401102">Failed to create save data.
 Press OK to try again.</text>
@@ -497,7 +497,7 @@ play with online features.</text>
 <text id="401408">%null%</text>
 <text id="401409">%null%</text>
 <text id="401410">%null%</text>
-<text id="401411">Terms of service have changed. 
+<text id="401411">Terms of service have changed.
 
 Please reacquaint yourself with the
 terms of the agreement.</text>
@@ -588,7 +588,7 @@ has been interrupted.</text>
 <text id="401914">Failed to communicate with the Bloodborne server.
 Select OK to try again.</text>
 <text id="401991">Process failed.
-Returning to title menu.</text>
+Повернення до головного меню.</text>
 <text id="401992">%null%</text>
 <text id="401993">%null%</text>
 <text id="401994">%null%</text>
@@ -659,13 +659,13 @@ To continue without saving, select CONTINUE.</text>
 <text id="406017">%null%</text>
 <text id="406018">%null%</text>
 <text id="406019">%null%</text>
-<text id="406020">Game install incomplete. 
+<text id="406020">Game install incomplete.
 Cannot load save data created by
 a fully installed game.</text>
-<text id="406021">Game install incomplete. 
+<text id="406021">Game install incomplete.
 Cannot load save data.</text>
 <text id="420000">Save the present settings as a favorite?</text>
-<text id="420001">A favorite already exists for these settings. 
+<text id="420001">A favorite already exists for these settings.
 Save and overwrite present settings?</text>
 <text id="420002">Discard present changes and load favorite?</text>
 <text id="420003">%null%</text>

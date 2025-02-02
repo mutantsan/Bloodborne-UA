@@ -5,8 +5,8 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="100">Hunter's Mark</text>
-<text id="111">Silencing Blank</text>
+<text id="100">Мисливська Мітка</text>
+<text id="111">Розсіюючий Постріл</text>
 <text id="112">%null%</text>
 <text id="113">%null%</text>
 <text id="114">%null%</text>
@@ -15,7 +15,7 @@
 <text id="117">%null%</text>
 <text id="118">%null%</text>
 <text id="119">%null%</text>
-<text id="120">Notebook</text>
+<text id="120">Нотатник</text>
 <text id="121">%null%</text>
 <text id="122">%null%</text>
 <text id="123">%null%</text>
@@ -25,7 +25,7 @@
 <text id="127">%null%</text>
 <text id="128">%null%</text>
 <text id="129">%null%</text>
-<text id="130">Vileblood Register</text>
+<text id="130">Реєстр Сквернокровних</text>
 <text id="131">League Staff</text>
 <text id="200">Beckoning Bell</text>
 <text id="201">%null%</text>

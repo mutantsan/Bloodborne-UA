@@ -6,31 +6,31 @@
 <bigendian>False</bigendian>
 <entries>
 <text id="1">OK</text>
-<text id="2">CANCEL</text>
-<text id="3">YES</text>
-<text id="4">NO</text>
-<text id="5">Accept</text>
-<text id="6">Do Not Accept</text>
+<text id="2">СКАСУВАТИ</text>
+<text id="3">ТАК</text>
+<text id="4">НІ</text>
+<text id="5">Прийняти</text>
+<text id="6">Не Приймати</text>
 <text id="7">%null%</text>
 <text id="8">%null%</text>
 <text id="18300">&lt;?selectUD?&gt;:Select &lt;?conclusion?&gt;:Details &lt;?categoryChangeL?&gt;:Previous 100 &lt;?categoryChangeR?&gt;:Next 100 &lt;?shortCutL?&gt;:Show top &lt;?shortCutR?&gt;:Your Grades</text>
 <text id="41000">This will delete selected profile.
 Is this OK?</text>
-<text id="45000">This game uses an auto-save feature. Do not 
-power off the PlayStation®3 system when the 
+<text id="45000">This game uses an auto-save feature. Do not
+power off the PlayStation®3 system when the
 HDD access indicator is flashing.</text>
 <text id="45001">Save file version differs from game version.
 Quit game and sign in to PlayStation®Network
 to download update.</text>
-<text id="45100">There is not enough available space on the hard disk drive. 
-To play Dark Souls, at least &lt;?dataSize?&gt; MB is required. 
+<text id="45100">There is not enough available space on the hard disk drive.
+To play Dark Souls, at least &lt;?dataSize?&gt; MB is required.
 
 Please quit the game and make space on the HDD.</text>
 <text id="45101">%null%</text>
 <text id="45102">%null%</text>
-<text id="45103">There is not enough available space on the HDD. 
-To install the Trophy Set, 
-at least &lt;?dataSize?&gt;d KB of space is required.  
+<text id="45103">There is not enough available space on the HDD.
+To install the Trophy Set,
+at least &lt;?dataSize?&gt;d KB of space is required.
 
 
 Select [OK] to start the Delete Utility.
@@ -62,9 +62,9 @@ Would you like to create new SAVE DATA?
 The current SAVE DATA will be overwritten.
 
 Press the CANCEL button to reload SAVE DATA</text>
-<text id="45122">Last time, the game may have been closed before 
-quitting to the Title Screen first. To quit to the 
-Title Screen, always select the Quit Game option 
+<text id="45122">Last time, the game may have been closed before
+quitting to the Title Screen first. To quit to the
+Title Screen, always select the Quit Game option
 from the System tab in the Start Menu.
 
 Failing to quit the game properly can result
@@ -142,9 +142,8 @@ You will only be able to play offline</text>
 You will only be able to play offline</text>
 <text id="50525">Cannot use server at this time
 You will only be able to play offline</text>
-<text id="51100">You have been signed out from
-PlayStation®Network.
-Returning to the Title Screen.</text>
+<text id="51100">Ви вийшли з PlayStation®Network.
+Повернення до Головного Меню.</text>
 <text id="65400">%null%</text>
 <text id="65401">%null%</text>
 <text id="65402">%null%</text>
@@ -155,34 +154,34 @@ Returning to the Title Screen.</text>
 <text id="65407">%null%</text>
 <text id="65408">%null%</text>
 <text id="65409">%null%</text>
-<text id="65410">Downloading advanced data</text>
-<text id="65411">Failed to download advanced data
+<text id="65410">Завантаження розширених даних</text>
+<text id="65411">Не вдалося завантажити розширені дані
 
-*Advanced data is only tallied for players near top</text>
-<text id="65412">Acquiring your data</text>
-<text id="65413">Your data was not found</text>
+*Розширені дані враховуються лише для гравців, близьких до лідерів</text>
+<text id="65412">Отримання ваших даних</text>
+<text id="65413">Ваші дані не знайдено</text>
 <text id="70000">%null%</text>
-<text id="20001000">Session lost.</text>
-<text id="20001001">Network connection has become unstable.
-Leaving session.</text>
-<text id="20001002">You have signed out from PlayStation®Network.
-Returning to the Title Screen...</text>
-<text id="20001003">Failed to create session.</text>
-<text id="20001004">Failed to join session.</text>
-<text id="20001005">You have signed out from PlayStation®Network.
-Returning to the Title Screen...</text>
+<text id="20001000">Сеанс втрачено.</text>
+<text id="20001001">З'єднання з мережею стало нестабільним.
+Вихід із сеансу.</text>
+<text id="20001002">Ви вийшли з PlayStation®Network.
+Повернення до Головного Меню...</text>
+<text id="20001003">Не вдалося створити сеанс.</text>
+<text id="20001004">Не вдалося приєднатися до сеансу.</text>
+<text id="20001005">Ви вийшли з PlayStation®Network.
+Повернення до Головного Меню...</text>
 <text id="20001006">%null%</text>
 <text id="20001007">%null%</text>
 <text id="20001008">%null%</text>
 <text id="20001009">%null%</text>
-<text id="20001010">You have signed out from PlayStation®Network.
-You must sign in to access Network Play.
-Returning to the Title Screen...</text>
+<text id="20001010">Ви вийшли з PlayStation®Network.
+Вам потрібно увійти, щоб мати доступ до Мережевої Гри.
+Повернення до Головного Меню...</text>
 <text id="20001011">%null%</text>
 <text id="20001012">%null%</text>
 <text id="20001013">%null%</text>
 <text id="20001014">%null%</text>
-<text id="20001015">P2P connection has been lost
-Returning to Main Menu</text>
+<text id="20001015">P2P з'єднання втрачено
+Повернення до головного меню</text>
 </entries>
 </fmg>

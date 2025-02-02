@@ -7,11 +7,11 @@
 <entries>
 <text id="1000">∞</text>
 <text id="3000">OK</text>
-<text id="3001">CANCEL</text>
-<text id="3002">YES</text>
-<text id="3003">NO</text>
-<text id="3004">ACCEPT</text>
-<text id="3005">CANCEL</text>
+<text id="3001">СКАСУВАТИ</text>
+<text id="3002">ТАК</text>
+<text id="3003">НІ</text>
+<text id="3004">ПРИЙНЯТИ</text>
+<text id="3005">СКАСУВАТИ</text>
 <text id="10000">None</text>
 <text id="10001">Regular</text>
 <text id="10002">%null%</text>
