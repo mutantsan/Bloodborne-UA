@@ -5,27 +5,27 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="1000">NOT NEEDED</text>
-<text id="1100">NOT NEEDED</text>
-<text id="1200">NOT NEEDED</text>
-<text id="1300">NOT NEEDED</text>
-<text id="1400">NOT NEEDED</text>
-<text id="1500">NOT NEEDED</text>
-<text id="1600">NOT NEEDED</text>
-<text id="1700">NOT NEEDED</text>
-<text id="1800">NOT NEEDED</text>
-<text id="1900">NOT NEEDED</text>
-<text id="3000">NOT NEEDED</text>
-<text id="3100">NOT NEEDED</text>
-<text id="3200">NOT NEEDED</text>
-<text id="3300">NOT NEEDED</text>
-<text id="3400">NOT NEEDED</text>
-<text id="3500">NOT NEEDED</text>
-<text id="3600">NOT NEEDED</text>
-<text id="3700">NOT NEEDED</text>
-<text id="3800">NOT NEEDED</text>
-<text id="3900">NOT NEEDED</text>
-<text id="5000">NOT NEEDED</text>
+<text id="1000">НЕ ПОТРІБНО</text>
+<text id="1100">НЕ ПОТРІБНО</text>
+<text id="1200">НЕ ПОТРІБНО</text>
+<text id="1300">НЕ ПОТРІБНО</text>
+<text id="1400">НЕ ПОТРІБНО</text>
+<text id="1500">НЕ ПОТРІБНО</text>
+<text id="1600">НЕ ПОТРІБНО</text>
+<text id="1700">НЕ ПОТРІБНО</text>
+<text id="1800">НЕ ПОТРІБНО</text>
+<text id="1900">НЕ ПОТРІБНО</text>
+<text id="3000">НЕ ПОТРІБНО</text>
+<text id="3100">НЕ ПОТРІБНО</text>
+<text id="3200">НЕ ПОТРІБНО</text>
+<text id="3300">НЕ ПОТРІБНО</text>
+<text id="3400">НЕ ПОТРІБНО</text>
+<text id="3500">НЕ ПОТРІБНО</text>
+<text id="3600">НЕ ПОТРІБНО</text>
+<text id="3700">НЕ ПОТРІБНО</text>
+<text id="3800">НЕ ПОТРІБНО</text>
+<text id="3900">НЕ ПОТРІБНО</text>
+<text id="5000">НЕ ПОТРІБНО</text>
 <text id="10000">Attire of the retired hunter Djura.
 This worn wolf cap was his trademark.
 
@@ -53,7 +53,7 @@ A product of the scourge of the beast that once plagued Old Yharnam and culminat
 Designed to be highly resistant to fire. Wearers of this attire hunted down victims of the scourge who survived the raging flames and stench of singed blood.</text>
 <text id="20000">Iron helmet worn by hunters of the Unseen Village.
 
-The hunters of Yahar'gul answer to the village's founders, the School of Mensis. Hunters in name only, these kidnappers wear their black hoods low to shadow their 
+The hunters of Yahar'gul answer to the village's founders, the School of Mensis. Hunters in name only, these kidnappers wear their black hoods low to shadow their
 eyes.
 
 This helm is made of metal, a rarity for hunter garb, and has high defense, but only against physical attacks.</text>
@@ -78,9 +78,9 @@ His pale countenance mimics the labyrinth Watchers.
 
 Willem kept two loyal servants back at Byrgenwerth.
 When they were sent into the labyrinth, they encountered
-the eldritch Truth, and went mad. One became the 
-password gatekeeper, while Dores became a graveguard 
-of the forest. 
+the eldritch Truth, and went mad. One became the
+password gatekeeper, while Dores became a graveguard
+of the forest.
 
 Both remained loyal, even in madness.</text>
 <text id="31000">Robe of Dores, graveguard of the Forbidden Woods.
@@ -89,9 +89,9 @@ Countless bloodied ritual tools hang from its back.
 
 Willem kept two loyal servants back at Byrgenwerth.
 When they were sent into the labyrinth, they encountered
-the eldritch Truth, and went mad. One became the 
-password gatekeeper, while Dores became a graveguard 
-of the forest. 
+the eldritch Truth, and went mad. One became the
+password gatekeeper, while Dores became a graveguard
+of the forest.
 
 Both remained loyal, even in madness.</text>
 <text id="32000">Manchettes of Dores, graveguard of the Forbidden Woods.
@@ -100,9 +100,9 @@ Covered in the blood of untidy rituals.
 
 Willem kept two loyal servants back at Byrgenwerth.
 When they were sent into the labyrinth, they encountered
-the eldritch Truth, and went mad. One became the 
-password gatekeeper, while Dores became a graveguard 
-of the forest. 
+the eldritch Truth, and went mad. One became the
+password gatekeeper, while Dores became a graveguard
+of the forest.
 
 Both remained loyal, even in madness.</text>
 <text id="33000">Leggings of Dores, graveguard of the Forbidden Woods.
@@ -111,9 +111,9 @@ Covered in the blood of untidy rituals.
 
 Willem kept two loyal servants back at Byrgenwerth.
 When they were sent into the labyrinth, they encountered
-the eldritch Truth, and went mad. One became the 
-password gatekeeper, while Dores became a graveguard 
-of the forest. 
+the eldritch Truth, and went mad. One became the
+password gatekeeper, while Dores became a graveguard
+of the forest.
 
 Both remained loyal, even in madness.</text>
 <text id="40000">A mask made of bone ash, worn by the oldest keepers.
@@ -253,8 +253,8 @@ The Cainhurst way is a mix of nostalgia and bombast.
 They take great pride even in the blood-stained
 corpses of beasts that they leave behind, confident
 that they will stand as examples of decadent art.</text>
-<text id="90000">NOT NEEDED</text>
-<text id="91000">NOT NEEDED</text>
+<text id="90000">НЕ ПОТРІБНО</text>
+<text id="91000">НЕ ПОТРІБНО</text>
 <text id="100000">Silver helmet worn by the royal guards who protect Annalise, Queen of the Vilebloods at Cainhurst Castle.
 
 This paper-thin silver armor is said to deflect blood of ill-intent, and is what allows the royal guards to capture prey for their beloved Queen, so that one day, she may bear a Child of Blood.</text>
@@ -273,7 +273,7 @@ Most Healing Church hunters are elementary doctors
 who understand the importance of early prevention of
 the scourge, achieved by disposing of victims, and
 even potential victims, before signs of sickness manifest
-themselves. 
+themselves.
 
 Their black attire is synonymous with fear,
 and that peculiar Yharnam madness.</text>
@@ -282,9 +282,9 @@ of the Healing Church, flutters proudly on their backs.
 
 Most Healing Church hunters are elementary doctors
 who understand the importance of early prevention of
-the scourge, achieved by disposing of victims, and even 
+the scourge, achieved by disposing of victims, and even
 potential victims, before signs of sickness manifest
-themselves. 
+themselves.
 
 Their black attire is synonymous with fear,
 and that peculiar Yharnam madness.</text>
@@ -300,7 +300,7 @@ Most Healing Church hunters are elementary doctors
 who understand the importance of early prevention of
 the scourge, achieved by disposing of victims, and
 even potential victims, before signs of sickness manifest
-themselves. 
+themselves.
 
 Their black attire is synonymous with fear,
 and that peculiar Yharnam madness.</text>
@@ -399,7 +399,7 @@ They contain much more than mere hunter trinkets, indeed, they hide the very sec
 commanded by the martyr Logarius.
 
 The conical gold helmet, symbol of the executioners,
-represents luminosity, ambition, and an unflagging 
+represents luminosity, ambition, and an unflagging
 resolve to face impurity, staring it down with stern,
 golden spirit.
 
@@ -432,14 +432,14 @@ Later became the basis for all Church attire.
 As the great Logarius once said, "Acts of goodness are
 not always wise, and acts of evil are not always foolish,
 but regardless, we shall always strive to be good."</text>
-<text id="160000">NOT NEEDED</text>
-<text id="161000">NOT NEEDED</text>
-<text id="162000">NOT NEEDED</text>
-<text id="163000">NOT NEEDED</text>
-<text id="170000">NOT NEEDED</text>
-<text id="171000">NOT NEEDED</text>
-<text id="172000">NOT NEEDED</text>
-<text id="173000">NOT NEEDED</text>
+<text id="160000">НЕ ПОТРІБНО</text>
+<text id="161000">НЕ ПОТРІБНО</text>
+<text id="162000">НЕ ПОТРІБНО</text>
+<text id="163000">НЕ ПОТРІБНО</text>
+<text id="170000">НЕ ПОТРІБНО</text>
+<text id="171000">НЕ ПОТРІБНО</text>
+<text id="172000">НЕ ПОТРІБНО</text>
+<text id="173000">НЕ ПОТРІБНО</text>
 <text id="180000">Wood-carved mask of Eileen the Crow, Hunter of Hunters.
 The beak contains incense to mask scents of blood and beast.
 
@@ -473,20 +473,20 @@ with the Great Ones of the dream.
 
 But to an observer, the iron cage appears to be precisely
 what delivered them to their harrowing nightmare.</text>
-<text id="191000">Uniform of the students of Byrgenwerth, a bygone 
+<text id="191000">Uniform of the students of Byrgenwerth, a bygone
 institute of learning. Features a thick cape.
 
-The Healing Church has its roots in Byrgenwerth, and 
+The Healing Church has its roots in Byrgenwerth, and
 naturally borrows heavily from its uniform design.
 
 The focus not on knowledge, or thought, but on pure
 pretension would surely bring Master Willem to despair,
 if only he knew.</text>
-<text id="192000">NOT NEEDED</text>
-<text id="193000">Uniform of the students of Byrgenwerth, a bygone 
+<text id="192000">НЕ ПОТРІБНО</text>
+<text id="193000">Uniform of the students of Byrgenwerth, a bygone
 institute of learning.
 
-The Healing Church has its roots in Byrgenwerth, and 
+The Healing Church has its roots in Byrgenwerth, and
 naturally borrows heavily from its uniform design.
 
 The focus not on knowledge, or thought, but on pure
@@ -608,7 +608,7 @@ Not long after, the nightmare began.</text>
 Not typical clothing for Yharnam, perhaps it is of foreign origin. It is said, after all, the traveler came to Yharnam from afar.
 
 Without memory, who will ever know?</text>
-<text id="240000">NOT NEEDED</text>
+<text id="240000">НЕ ПОТРІБНО</text>
 <text id="241000">Attire of the retired hunter Djura.
 Painted with ash in a ceremony to ward off blood.
 
@@ -642,9 +642,9 @@ and expose a mirage that hides a secret.
 
 And so Logarius donned the crown of his own volition,
 determined to prevent a single soul from stumbling
-upon the vile secret. 
+upon the vile secret.
 
-What visions did he see, sitting serenely upon his 
+What visions did he see, sitting serenely upon his
 new throne?</text>
 <text id="260000">An iron helm resembling an upside-down bucket.
 
@@ -678,18 +678,18 @@ These doctors are superiors to the black preventative hunters, and specialists i
 They believe that medicine is not a means of treatment but rather a method for research, and that some knowledge can only be obtained by exposing oneself to sickness.</text>
 <text id="291000">Attire of special Church doctors.
 
-These doctors are superiors to the black preventative 
-hunters, and specialists in experimentally backed blood 
+These doctors are superiors to the black preventative
+hunters, and specialists in experimentally backed blood
 ministration and the scourge of the beast.
 
 They believe that medicine is not a means of treatment
 but rather a method for research, and that some knowledge
 can only be obtained by exposing oneself to sickness.</text>
-<text id="292000">NOT NEEDED</text>
+<text id="292000">НЕ ПОТРІБНО</text>
 <text id="293000">Attire of special Church doctors.
 
-These doctors are superiors to the black preventative 
-hunters, and specialists in experimentally backed blood 
+These doctors are superiors to the black preventative
+hunters, and specialists in experimentally backed blood
 ministration and the scourge of the beast.
 
 They believe that medicine is not a means of treatment
@@ -704,7 +704,7 @@ The focus not on knowledge, or thought, but on pure pretension would surely brin
 
 Worn by the nobles of the old bloodline that traces back
 to the forsaken Castle Cainhurst.</text>
-<text id="313000">Shoes worn by Arianna, woman of the night 
+<text id="313000">Shoes worn by Arianna, woman of the night
 in the Cathedral Ward.
 
 Innocent and cute, in contrast with its owner.</text>
@@ -845,67 +845,67 @@ But if you do, listen carefully, for the sticky sound. Drip, drop. As water, see
 <text id="461000">%null%</text>
 <text id="470000">%null%</text>
 <text id="471000">%null%</text>
-<text id="480000">NOT NEEDED</text>
-<text id="481000">NOT NEEDED</text>
-<text id="482000">NOT NEEDED</text>
-<text id="483000">NOT NEEDED</text>
-<text id="490000">NOT NEEDED</text>
-<text id="491000">NOT NEEDED</text>
-<text id="492000">NOT NEEDED</text>
-<text id="493000">NOT NEEDED</text>
-<text id="503000">NOT NEEDED</text>
-<text id="511000">NOT NEEDED</text>
-<text id="521000">NOT NEEDED</text>
-<text id="541000">NOT NEEDED</text>
-<text id="542000">NOT NEEDED</text>
-<text id="543000">NOT NEEDED</text>
-<text id="550000">NOT NEEDED</text>
-<text id="563000">NOT NEEDED</text>
-<text id="571000">NOT NEEDED</text>
-<text id="573000">NOT NEEDED</text>
+<text id="480000">НЕ ПОТРІБНО</text>
+<text id="481000">НЕ ПОТРІБНО</text>
+<text id="482000">НЕ ПОТРІБНО</text>
+<text id="483000">НЕ ПОТРІБНО</text>
+<text id="490000">НЕ ПОТРІБНО</text>
+<text id="491000">НЕ ПОТРІБНО</text>
+<text id="492000">НЕ ПОТРІБНО</text>
+<text id="493000">НЕ ПОТРІБНО</text>
+<text id="503000">НЕ ПОТРІБНО</text>
+<text id="511000">НЕ ПОТРІБНО</text>
+<text id="521000">НЕ ПОТРІБНО</text>
+<text id="541000">НЕ ПОТРІБНО</text>
+<text id="542000">НЕ ПОТРІБНО</text>
+<text id="543000">НЕ ПОТРІБНО</text>
+<text id="550000">НЕ ПОТРІБНО</text>
+<text id="563000">НЕ ПОТРІБНО</text>
+<text id="571000">НЕ ПОТРІБНО</text>
+<text id="573000">НЕ ПОТРІБНО</text>
 <text id="581000">%null%</text>
-<text id="582000">NOT NEEDED</text>
-<text id="592000">NOT NEEDED</text>
-<text id="600000">NOT NEEDED</text>
-<text id="602000">NOT NEEDED</text>
-<text id="610000">NOT NEEDED</text>
-<text id="611000">NOT NEEDED</text>
-<text id="620000">NOT NEEDED</text>
-<text id="621000">NOT NEEDED</text>
-<text id="630000">NOT NEEDED</text>
-<text id="641000">NOT NEEDED</text>
-<text id="650000">NOT NEEDED</text>
-<text id="651000">NOT NEEDED</text>
-<text id="653000">NOT NEEDED</text>
-<text id="660000">NOT NEEDED</text>
-<text id="661000">NOT NEEDED</text>
-<text id="671000">NOT NEEDED</text>
-<text id="680000">NOT NEEDED</text>
-<text id="682000">NOT NEEDED</text>
-<text id="690000">NOT NEEDED</text>
-<text id="700000">NOT NEEDED</text>
-<text id="701000">NOT NEEDED</text>
-<text id="703000">NOT NEEDED</text>
-<text id="710000">NOT NEEDED</text>
-<text id="712000">NOT NEEDED</text>
-<text id="723000">NOT NEEDED</text>
-<text id="730000">NOT NEEDED</text>
-<text id="732000">NOT NEEDED</text>
-<text id="740000">NOT NEEDED</text>
-<text id="741000">NOT NEEDED</text>
-<text id="743000">NOT NEEDED</text>
-<text id="750000">NOT NEEDED</text>
-<text id="751000">NOT NEEDED</text>
-<text id="762000">NOT NEEDED</text>
-<text id="772000">NOT NEEDED</text>
-<text id="782000">NOT NEEDED</text>
-<text id="790000">NOT NEEDED</text>
-<text id="800000">NOT NEEDED</text>
-<text id="811000">NOT NEEDED</text>
-<text id="813000">NOT NEEDED</text>
-<text id="820000">NOT NEEDED</text>
-<text id="821000">NOT NEEDED</text>
-<text id="831000">NOT NEEDED</text>
+<text id="582000">НЕ ПОТРІБНО</text>
+<text id="592000">НЕ ПОТРІБНО</text>
+<text id="600000">НЕ ПОТРІБНО</text>
+<text id="602000">НЕ ПОТРІБНО</text>
+<text id="610000">НЕ ПОТРІБНО</text>
+<text id="611000">НЕ ПОТРІБНО</text>
+<text id="620000">НЕ ПОТРІБНО</text>
+<text id="621000">НЕ ПОТРІБНО</text>
+<text id="630000">НЕ ПОТРІБНО</text>
+<text id="641000">НЕ ПОТРІБНО</text>
+<text id="650000">НЕ ПОТРІБНО</text>
+<text id="651000">НЕ ПОТРІБНО</text>
+<text id="653000">НЕ ПОТРІБНО</text>
+<text id="660000">НЕ ПОТРІБНО</text>
+<text id="661000">НЕ ПОТРІБНО</text>
+<text id="671000">НЕ ПОТРІБНО</text>
+<text id="680000">НЕ ПОТРІБНО</text>
+<text id="682000">НЕ ПОТРІБНО</text>
+<text id="690000">НЕ ПОТРІБНО</text>
+<text id="700000">НЕ ПОТРІБНО</text>
+<text id="701000">НЕ ПОТРІБНО</text>
+<text id="703000">НЕ ПОТРІБНО</text>
+<text id="710000">НЕ ПОТРІБНО</text>
+<text id="712000">НЕ ПОТРІБНО</text>
+<text id="723000">НЕ ПОТРІБНО</text>
+<text id="730000">НЕ ПОТРІБНО</text>
+<text id="732000">НЕ ПОТРІБНО</text>
+<text id="740000">НЕ ПОТРІБНО</text>
+<text id="741000">НЕ ПОТРІБНО</text>
+<text id="743000">НЕ ПОТРІБНО</text>
+<text id="750000">НЕ ПОТРІБНО</text>
+<text id="751000">НЕ ПОТРІБНО</text>
+<text id="762000">НЕ ПОТРІБНО</text>
+<text id="772000">НЕ ПОТРІБНО</text>
+<text id="782000">НЕ ПОТРІБНО</text>
+<text id="790000">НЕ ПОТРІБНО</text>
+<text id="800000">НЕ ПОТРІБНО</text>
+<text id="811000">НЕ ПОТРІБНО</text>
+<text id="813000">НЕ ПОТРІБНО</text>
+<text id="820000">НЕ ПОТРІБНО</text>
+<text id="821000">НЕ ПОТРІБНО</text>
+<text id="831000">НЕ ПОТРІБНО</text>
 <text id="840000">%null%</text>
 <text id="841000">%null%</text>
 <text id="851000">%null%</text>
@@ -916,34 +916,34 @@ But if you do, listen carefully, for the sticky sound. Drip, drop. As water, see
 <text id="870000">%null%</text>
 <text id="872000">%null%</text>
 <text id="880000">%null%</text>
-<text id="900000">NOT NEEDED</text>
-<text id="901000">NOT NEEDED</text>
-<text id="902000">NOT NEEDED</text>
-<text id="903000">NOT NEEDED</text>
-<text id="910000">NOT NEEDED</text>
-<text id="911000">NOT NEEDED</text>
-<text id="912000">NOT NEEDED</text>
-<text id="913000">NOT NEEDED</text>
-<text id="950000">NOT NEEDED</text>
-<text id="951000">NOT NEEDED</text>
-<text id="952000">NOT NEEDED</text>
-<text id="953000">NOT NEEDED</text>
-<text id="960000">NOT NEEDED</text>
-<text id="961000">NOT NEEDED</text>
-<text id="962000">NOT NEEDED</text>
-<text id="963000">NOT NEEDED</text>
-<text id="970000">NOT NEEDED</text>
-<text id="971000">NOT NEEDED</text>
-<text id="972000">NOT NEEDED</text>
-<text id="973000">NOT NEEDED</text>
-<text id="980000">NOT NEEDED</text>
-<text id="981000">NOT NEEDED</text>
-<text id="982000">NOT NEEDED</text>
-<text id="983000">NOT NEEDED</text>
-<text id="990000">NOT NEEDED</text>
-<text id="991000">NOT NEEDED</text>
-<text id="992000">NOT NEEDED</text>
-<text id="993000">NOT NEEDED</text>
+<text id="900000">НЕ ПОТРІБНО</text>
+<text id="901000">НЕ ПОТРІБНО</text>
+<text id="902000">НЕ ПОТРІБНО</text>
+<text id="903000">НЕ ПОТРІБНО</text>
+<text id="910000">НЕ ПОТРІБНО</text>
+<text id="911000">НЕ ПОТРІБНО</text>
+<text id="912000">НЕ ПОТРІБНО</text>
+<text id="913000">НЕ ПОТРІБНО</text>
+<text id="950000">НЕ ПОТРІБНО</text>
+<text id="951000">НЕ ПОТРІБНО</text>
+<text id="952000">НЕ ПОТРІБНО</text>
+<text id="953000">НЕ ПОТРІБНО</text>
+<text id="960000">НЕ ПОТРІБНО</text>
+<text id="961000">НЕ ПОТРІБНО</text>
+<text id="962000">НЕ ПОТРІБНО</text>
+<text id="963000">НЕ ПОТРІБНО</text>
+<text id="970000">НЕ ПОТРІБНО</text>
+<text id="971000">НЕ ПОТРІБНО</text>
+<text id="972000">НЕ ПОТРІБНО</text>
+<text id="973000">НЕ ПОТРІБНО</text>
+<text id="980000">НЕ ПОТРІБНО</text>
+<text id="981000">НЕ ПОТРІБНО</text>
+<text id="982000">НЕ ПОТРІБНО</text>
+<text id="983000">НЕ ПОТРІБНО</text>
+<text id="990000">НЕ ПОТРІБНО</text>
+<text id="991000">НЕ ПОТРІБНО</text>
+<text id="992000">НЕ ПОТРІБНО</text>
+<text id="993000">НЕ ПОТРІБНО</text>
 <text id="1020000">%null%</text>
 <text id="1021000">%null%</text>
 <text id="1022000">%null%</text>

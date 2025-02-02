@@ -5,18 +5,18 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="10100">Name</text>
-<text id="10101">Gender</text>
-<text id="10102">Origin</text>
+<text id="10100">Ім'я</text>
+<text id="10101">Стать</text>
+<text id="10102">Походження</text>
 <text id="10103">*</text>
 <text id="10104">%null%</text>
 <text id="10105">%null%</text>
 <text id="10106">%null%</text>
 <text id="10107">%null%</text>
-<text id="10108">Age</text>
-<text id="10200">Level</text>
-<text id="10201">Blood Echoes</text>
-<text id="10202">Required</text>
+<text id="10108">Вік</text>
+<text id="10200">Рівень</text>
+<text id="10201">Кроваві Спогади</text>
+<text id="10202">Необхідно</text>
 <text id="10203">%null%</text>
 <text id="10204">%null%</text>
 <text id="10205">%null%</text>
@@ -24,17 +24,17 @@
 <text id="10207">%null%</text>
 <text id="10208">%null%</text>
 <text id="10209">%null%</text>
-<text id="10210">Insight</text>
+<text id="10210">Прозріння</text>
 <text id="10300">*</text>
-<text id="10400">Vitality</text>
-<text id="10401">Endurance</text>
-<text id="10402">Strength</text>
-<text id="10403">Skill</text>
-<text id="10404">Bloodtinge</text>
-<text id="10405">Arcane</text>
-<text id="10500">HP</text>
+<text id="10400">Життєздатність</text>
+<text id="10401">Стійкість</text>
+<text id="10402">Сила</text>
+<text id="10403">Майстерність</text>
+<text id="10404">Відтінок крові</text>
+<text id="10405">Таємне знання</text>
+<text id="10500">ОЗ</text>
 <text id="10501">%null%</text>
-<text id="10502">Stamina</text>
+<text id="10502">Витривалість</text>
 <text id="10503">%null%</text>
 <text id="10504">%null%</text>
 <text id="10505">%null%</text>
@@ -44,7 +44,7 @@
 <text id="10509">%null%</text>
 <text id="10510">%null%</text>
 <text id="10511">%null%</text>
-<text id="10512">Discovery</text>
+<text id="10512">Відкриття</text>
 <text id="10513">%null%</text>
 <text id="10514">%null%</text>
 <text id="10515">%null%</text>
@@ -375,13 +375,13 @@ the more you will find.</text>
 <text id="30517">%null%</text>
 <text id="30518">%null%</text>
 <text id="30519">%null%</text>
-<text id="30520">The ATK value of the weapon 
+<text id="30520">The ATK value of the weapon
 equipped in right hand slot 1.</text>
-<text id="30521">The ATK value of the weapon 
+<text id="30521">The ATK value of the weapon
 equipped in right hand slot 2.</text>
-<text id="30522">The ATK value of the weapon 
+<text id="30522">The ATK value of the weapon
 equipped in left hand slot 1.</text>
-<text id="30523">The ATK value of the weapon 
+<text id="30523">The ATK value of the weapon
 equipped in left hand slot 2.</text>
 <text id="30524">Ability to defend against attacks
 made with bare flesh or against
@@ -593,7 +593,7 @@ in order to fuse.</text>
 <text id="34010">%null%</text>
 <text id="34011">Various effects produced
 by blood gem.</text>
-<text id="35001">Caryll Rune classifications. 
+<text id="35001">Caryll Rune classifications.
 Some runes can only be used
 when under certain Oaths.</text>
 <text id="35002">%null%</text>
@@ -605,7 +605,7 @@ when under certain Oaths.</text>
 <text id="35008">%null%</text>
 <text id="35009">%null%</text>
 <text id="35010">Caryll Rune's various effects.</text>
-<text id="36001">Type of item. 
+<text id="36001">Type of item.
 Tells you whether or not
 it will be consumed with use.</text>
 <text id="36002">Number of Quicksilver Bullets
@@ -1080,7 +1080,7 @@ by this Chalice</text>
 <text id="223000">Repair</text>
 <text id="231000">Required</text>
 <text id="231001">Blood Echoes</text>
-<text id="231002">Insight</text>
+<text id="231002">Прозріння</text>
 <text id="231003">Required</text>
 <text id="231004">%null%</text>
 <text id="231005">%null%</text>
@@ -1089,9 +1089,9 @@ by this Chalice</text>
 <text id="231008">%null%</text>
 <text id="231009">%null%</text>
 <text id="231010">Buy</text>
-<text id="231011">Buy with Insight</text>
-<text id="231012">Choose weapon</text>
-<text id="232000">Echoes earned</text>
+<text id="231011">Купити за Прозріння</text>
+<text id="231012">Обрати зброю</text>
+<text id="232000">Спогадів здобуто</text>
 <text id="232001">%null%</text>
 <text id="232002">%null%</text>
 <text id="232003">%null%</text>
@@ -1480,17 +1480,17 @@ by this Chalice</text>
 <text id="401168">%null%</text>
 <text id="401169">%null%</text>
 <text id="401170">Registering data with Bloodborne server...</text>
-<text id="401301">Continue</text>
-<text id="401302">Load Game</text>
-<text id="401303">New Game</text>
-<text id="401304">System</text>
-<text id="401305">Information</text>
-<text id="401306">Log In</text>
-<text id="401307">Opinion Box</text>
+<text id="401301">Продовжити</text>
+<text id="401302">Завантажити Гру</text>
+<text id="401303">Нова Гра</text>
+<text id="401304">Налаштування</text>
+<text id="401305">Інформація</text>
+<text id="401306">Увійти</text>
+<text id="401307">Скринька Відгуків</text>
 <text id="401308">%null%</text>
 <text id="401309">%null%</text>
-<text id="401310">Online</text>
-<text id="401311">Offline</text>
+<text id="401310">Онлайн</text>
+<text id="401311">Офлайн</text>
 <text id="401312">*</text>
 <text id="401313">*</text>
 <text id="401314">%null%</text>
@@ -1501,8 +1501,8 @@ by this Chalice</text>
 <text id="401319">%null%</text>
 <text id="401320">App ver.</text>
 <text id="401321">Server ver.</text>
-<text id="401400">Information</text>
-<text id="401401">There is no new information.</text>
+<text id="401400">Інформація</text>
+<text id="401401">Немає нової інформації.</text>
 <text id="401500">User Agreement</text>
 <text id="401501">%null%</text>
 <text id="401502">%null%</text>
