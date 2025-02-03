@@ -20,34 +20,34 @@
 <text id="105000">Check stats.</text>
 <text id="110000">Set controls.</text>
 <text id="110001">Adjust the game environment.</text>
-<text id="110002">Adjust the brightness level.</text>
-<text id="110003">Change network settings.</text>
-<text id="110004">Exit game and return to title menu.</text>
-<text id="110005">Change language settings.</text>
+<text id="110002">Налаштувати рівень яскравості.</text>
+<text id="110003">Зміна налаштувань мережі.</text>
+<text id="110004">Вийти з гри та повернутися до головного меню.</text>
+<text id="110005">Змінити налаштування мови.</text>
 <text id="111000">Change environment.</text>
-<text id="111101">Turn subtitles ON/OFF.</text>
+<text id="111101">Увімк./вимк. субтитри</text>
 <text id="111102">Turn HUD ON/OFF.</text>
-<text id="111103">Adjust music volume.</text>
-<text id="111104">Adjust sound effects volume.</text>
-<text id="111105">Adjust voice volume.</text>
-<text id="112000">Adjust the brightness level.</text>
-<text id="113000">Change controls.</text>
-<text id="113100">Change camera x-axis.</text>
-<text id="113101">Change camera y-axis.</text>
+<text id="111103">Налаштувати гучність музики.</text>
+<text id="111104">Налаштувати гучність звукових ефектів.</text>
+<text id="111105">Налаштувати гучність голосу.</text>
+<text id="112000">Налаштувати рівень яскравості.</text>
+<text id="113000">Змінити управління</text>
+<text id="113100">Змінити ось X камери</text>
+<text id="113101">Змінити ось Y камери</text>
 <text id="113102">%null%</text>
-<text id="113103">Set camera movement speed.</text>
-<text id="113104">Auto lock-on to new target when former target dies.</text>
+<text id="113103">Установіть швидкість руху камери.</text>
+<text id="113104">Автоматичне перемикання на нову ціль після смерті попередньої.</text>
 <text id="113105">%null%</text>
-<text id="113106">Set whether the camera automatically avoids walls.</text>
-<text id="113107">Set strength of controller vibration.</text>
-<text id="114000">Change network settings.</text>
-<text id="114100">Set region for matching.</text>
-<text id="114101">Change options for display of player names.</text>
-<text id="114102">Edit to match with players using the same password.</text>
-<text id="115000">Change language settings. Changes applied on exit.</text>
-<text id="115100">Change text language.</text>
-<text id="115101">Change voice language.</text>
-<text id="211000">Select attribute to boost.</text>
+<text id="113106">Установіть, чи буде камера автоматично уникати стіни.</text>
+<text id="113107">Установіть силу вібрації контролера.</text>
+<text id="114000">Зміна налаштувань мережі.</text>
+<text id="114100">Встановити регіон для пошуку.</text>
+<text id="114101">Змінити параметри відображення імен гравців.</text>
+<text id="114102">Змінити, щоб грати з гравцями, що використовують такий пароль.</text>
+<text id="115000">Зміна мови. Зміни застосовуються при виході.</text>
+<text id="115100">Змінити мову тексту.</text>
+<text id="115101">Змінити мову озвучення.</text>
+<text id="211000">Виберіть атрибут для посилення.</text>
 <text id="211001">%null%</text>
 <text id="211002">%null%</text>
 <text id="211003">%null%</text>
@@ -190,28 +190,28 @@ and has no bearing on ability.</text>
 <text id="402303">Aged
 Age only affects appearance,
 and has no bearing on ability.</text>
-<text id="402401">Ordinary, happy upbringing.
-All attributes average.</text>
-<text id="402402">Lone survivor of lost hamlet.
-High life essence and vigor.</text>
-<text id="402403">Suffered misfortune in youth.
-Highly resilient as a result.</text>
-<text id="402404">Terribly violent past.
-Rash, but stronger for it.</text>
-<text id="402405">Born specialist, fit for
-sleuthing or academia.</text>
-<text id="402406">Experienced in war. A soldier
-with strength and skill.</text>
-<text id="402407">Scion to a respectable line
-with faith in your pedigree.</text>
-<text id="402408">Faced terrible hardships, but
-now confident in your purpose.</text>
-<text id="402409">You are nothing. Talentless.
-You shouldn't have been born.</text>
+<text id="402401">В тебе було звичайне минуле, щасливчик.
+Усі показники середні.</text>
+<text id="402402">Ти єдиний, хто вижив у знищеному селі.
+У тебе висока життєва сила і витривалість.</text>
+<text id="402403">Ти пережив жахливе дитинство.
+Це розвило твою стійкість.</text>
+<text id="402404">У тебе було жорстоке минуле.
+Ти був необачним, але це зробило тебе сильнішим.</text>
+<text id="402405">Ти професіонал своєї справи.
+Детектив, професор, щось на кшталт цього.</text>
+<text id="402406">Ти маєш досвід служби в армії.
+Твоя сила й майстерність загартовані в бою.</text>
+<text id="402407">Ти нащадок давнього роду.
+Ти віриш у свій родовід та пишаєшся ним.</text>
+<text id="402408">Твоє минуле було сповнене труднощів.
+Це повинно було мати якийсь сенс...</text>
+<text id="402409">Ти не маєш нічого. Ти безталанний.
+Тобі не слід було народжуватись.</text>
 <text id="402410">(Not Needed)</text>
-<text id="406000">Select profile to load.</text>
-<text id="406001">Select profile to delete.</text>
-<text id="420012">Reset fine-tuned appearance to default.</text>
+<text id="406000">Оберіть профіль для завантаження.</text>
+<text id="406001">Оберіть профіль для видалення.</text>
+<text id="420012">Скинути до стандартних налаштувань зовнішності.</text>
 <text id="421100">Select build.</text>
 <text id="421101">%null%</text>
 <text id="421102">%null%</text>
@@ -227,10 +227,8 @@ You shouldn't have been born.</text>
 <text id="421112">Дуже струнка статура.</text>
 <text id="421113">М'язиста статура.</text>
 <text id="421114">Дуже м'язиста статура.</text>
-<text id="421115">Top-heavy
-muscular physique.</text>
-<text id="421116">Bottom-heavy
-muscular physique.</text>
+<text id="421115">М'язистий верх</text>
+<text id="421116">М'язистий низ</text>
 <text id="421117">Пропорц. велика голова.
 Мабуть, має великий мозок.</text>
 <text id="421118">Пропорц. маленька голова.</text>
@@ -260,23 +258,23 @@ muscular physique.</text>
 <text id="425900">Рот.</text>
 <text id="426000">Підборіддя.</text>
 <text id="426100">Щелепа.</text>
-<text id="426200">Fine-tune skin color.</text>
-<text id="426300">Edit eye area.</text>
-<text id="426400">Edit lipstick.</text>
-<text id="427100">Select size of right pupil.</text>
-<text id="427200">Edit color of right pupil.</text>
-<text id="427300">Select size of left pupil.</text>
-<text id="427400">Edit color of left pupil.</text>
-<text id="428000">Edit hair/facial hair.</text>
-<text id="428001">Edit hair/brow/eyelashes.</text>
-<text id="428100">Обрати Зачіску.</text>
+<text id="426200">Налаштувати колір шкіри.</text>
+<text id="426300">Редагувати область очей.</text>
+<text id="426400">Редагувати колір губ.</text>
+<text id="427100">Обрати розмір правої зіниці.</text>
+<text id="427200">Редагувати колір правої зіниці.</text>
+<text id="427300">Обрати розмір лівої зіниці.</text>
+<text id="427400">Редагувати колір лівої зіниці.</text>
+<text id="428000">Редагувати волосся/вуса.</text>
+<text id="428001">Змінити зачіску/брови/вії.</text>
+<text id="428100">Обрати зачіску.</text>
 <text id="428200">Колір волосся.</text>
-<text id="428300">Select beard type.</text>
+<text id="428300">Обрати тип бороди.</text>
 <text id="428400">Колір бороди.</text>
-<text id="428700">Edit hair/brow/beard color.</text>
-<text id="428701">Edit hair/brow color.</text>
+<text id="428700">Змінити колір зачіски/бров/бороди.</text>
+<text id="428701">Змінити колір зачіски/бров.</text>
 <text id="429100">Select appearance of tattoo/mark.</text>
-<text id="429200">Select glasses.</text>
+<text id="429200">Обрати окуляри.</text>
 <text id="430000">Змінити тату/родимку/окуляри.</text>
 <text id="430100">Змінити колір тату/родимки.</text>
 <text id="430200">Налашт. масштаб і положення тату/родимки.</text>
