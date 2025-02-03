@@ -1,7 +1,32 @@
 Root Chalice - Всеосяжна Чаша
 Isz - Ізз
 Sinister - Зловісна
+Blood Echoes - Кроваві спогади
+Loran - Лоран
+Pthumeru - Птумеру
+
+
+Locations:
 Hintertomb - Усамітнена Гробниця
+
+
+Armory:
+
+Cleaver Saw - Клинкова пила
+Blunderbuss - Мушкетон
+Hunter’s Axe - Мисливська сокира
+Pistol - Пістоль
+Kirkhammer (教会の石槌 Church Mallet букв) - Церковний молот
+Warped Twinblades - Викривлені клинки
+Blade of Mercy - Меч милосердя
+
+
+NPCs:
 Rom, the Vacuous Spider - Ром, Бездумний Павук
 Mergo's Wet Nurse - Годувальниця Мерго
 Gehrman, the First Hunter - Герман, Перший Мисливець
+
+Blackplume Hunter - Чорноперий мисливець
+Church Hunter - Церковний мисливець
+Axe Hunter - Мисливець з сокирою
+Saw Hunter - Мисливець з пилою
