@@ -16,7 +16,7 @@ Cleaver Saw - Клинкова пила
 Blunderbuss - Мушкетон
 Hunter’s Axe - Мисливська сокира
 Pistol - Пістоль
-Kirkhammer (教会の石槌 Church Mallet букв) - Церковний молот
+Kirkhammer (教会の石槌 Church Mallet) - Церковний молот
 Warped Twinblades - Викривлені клинки
 Blade of Mercy - Меч милосердя
 
@@ -25,8 +25,25 @@ NPCs:
 Rom, the Vacuous Spider - Ром, Бездумний Павук
 Mergo's Wet Nurse - Годувальниця Мерго
 Gehrman, the First Hunter - Герман, Перший Мисливець
+Father Gascoigne - Отець Гаскойн
+Yharnam, Pthumerian Queen - Ярнам, Птумерійська Королева
+Irreverent Izzy ( 背教者イジー) - Відступник Іззі
 
 Blackplume Hunter - Чорноперий мисливець
 Church Hunter - Церковний мисливець
 Axe Hunter - Мисливець з сокирою
 Saw Hunter - Мисливець з пилою
+
+
+Words:
+summon - закликати
+
+
+Covenants:
+Tomb Prospector - Розкрадач Гробниць
+Hunter of Hunters (狩人狩り) - Винищувач Мисливців
+The Executioners (処刑隊 Execution Squad) - Каральний Загін
+The Vileblood (穢れた血族) - Нечистокровні
+
+Rune:
+Radiance - Сяйво
