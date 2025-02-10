@@ -1,10 +1,8 @@
 Root Chalice - Всеосяжна Чаша
 Isz - Ізз
 Sinister - Зловісна
-Blood Echoes - Кроваві спогади
 Loran - Лоран
 Pthumeru - Птумеру
-
 
 Locations:
 Hintertomb - Усамітнена Гробниця
@@ -21,7 +19,7 @@ Warped Twinblades - Викривлені клинки
 Blade of Mercy - Меч милосердя
 
 
-NPCs:
+NPCs and names:
 Rom, the Vacuous Spider - Ром, Бездумний Павук
 Mergo's Wet Nurse - Годувальниця Мерго
 Gehrman, the First Hunter - Герман, Перший Мисливець
@@ -34,10 +32,19 @@ Church Hunter - Церковний мисливець
 Axe Hunter - Мисливець з сокирою
 Saw Hunter - Мисливець з пилою
 
+Great Ones - Великі
+
+Oedon (オドン) - Одон
 
 Words:
 summon - закликати
+beast - почвара
+Impurity - Нечистота
 
+Communion - Причастя
+Corruption - Порча
+eldritch - страшний
+runesmith - рунознавець
 
 Covenants:
 Tomb Prospector - Розкрадач Гробниць
@@ -47,3 +54,39 @@ The Vileblood (穢れた血族) - Нечистокровні
 
 Rune:
 Radiance - Сяйво
+Guidance - Настанова
+Caryll Runes (カレル文字) - Руни Каріла
+Clockwise Metamorphosis (右回りの変態) - Метаморфоза
+Anti-Clockwise Metamorphosis (左回りの変態) - Зворотня Метаморфоза
+Oedon Liaison (オドンの交わり) - Зв'язок з Одоном
+Lake - Озеро
+Deep Sea - Глибоке море
+Destroyer - Руйнівник
+Reveler (歓楽者) - Гедоніст
+Liaison - Зв'язок
+Heir - Спадкоємець
+Beast - Почвара
+Moon - Місяць
+Eye - Око
+
+Stats:
+Insight - Прозріння
+Vitality - Життєздатність
+Endurance - Стійкість
+Strength - Сила
+Skill - Майстерність
+Bloodtinge - Відтінок крові
+Arcane - Таємне знання
+HP - ОЗ
+Stamina - Витривалість
+
+resistance - опір ефектам
+
+visceral attacks - смертельні атаки
+
+Items:
+blood vial - ампула крові
+
+
+Blood Echoes - Кроваві спогади
+Quicksilver Bullet - Ртутна куля

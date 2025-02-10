@@ -116,7 +116,7 @@
 <text id="102000">Weight</text>
 <text id="102001">Durablty</text>
 <text id="102100">ATK</text>
-<text id="102101">Physical</text>
+<text id="102101">Фізичний</text>
 <text id="102102">Magic</text>
 <text id="102103">Fire</text>
 <text id="102104">Lightning</text>
@@ -126,7 +126,7 @@
 <text id="102108">ShotRange</text>
 <text id="102109">PyroAdjust</text>
 <text id="102120">DmgReduction%</text>
-<text id="102121">Physical</text>
+<text id="102121">Фізичний</text>
 <text id="102122">Magic</text>
 <text id="102123">Fire</text>
 <text id="102124">Lightning</text>

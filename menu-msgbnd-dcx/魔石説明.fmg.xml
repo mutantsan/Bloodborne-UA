@@ -111,7 +111,7 @@
 <text id="1001503">Посилює будь-яку зброю та додає властивість.</text>
 <text id="1001504">Посилює будь-яку зброю та додає властивість.</text>
 <text id="1001505">Посилює будь-яку зброю та додає властивість.</text>
-<text id="1001506">Луч. самоцвет бездны. Сов. оружие и доб. св-во.</text>
+<text id="1001506">Посилює будь-яку зброю та додає властивість</text>
 <text id="1001600">Посилює будь-яку зброю та додає властивість.</text>
 <text id="1001601">Посилює будь-яку зброю та додає властивість.</text>
 <text id="1001602">Посилює будь-яку зброю та додає властивість.</text>
@@ -119,7 +119,7 @@
 <text id="1001604">Посилює будь-яку зброю та додає властивість.</text>
 <text id="1001605">Посилює будь-яку зброю та додає властивість.</text>
 <text id="1001606">Посилює будь-яку зброю та додає властивість.</text>
-<text id="1001700">Луч. кров. самоцвет. Сов. оружие и доб. св-во.</text>
+<text id="1001700">Посилює будь-яку зброю та додає властивість</text>
 <text id="1001701">Посилює будь-яку зброю та додає властивість.</text>
 <text id="1001702">Посилює будь-яку зброю та додає властивість.</text>
 <text id="1001703">Посилює будь-яку зброю та додає властивість.</text>
@@ -2814,8 +2814,8 @@
 <text id="4105004">Посилює будь-яку зброю та додає властивість.</text>
 <text id="4105005">Посилює будь-яку зброю та додає властивість.</text>
 <text id="4105006">Посилює будь-яку зброю та додає властивість.</text>
-<text id="5000000">Луч. кров. самоцвет. Сов. оружие и доб. св-во.</text>
-<text id="5100000">Луч. кров. самоцвет. Сов. оружие и доб. св-во.</text>
+<text id="5000000">Посилює будь-яку зброю та додає властивість</text>
+<text id="5100000">Посилює будь-яку зброю та додає властивість</text>
 <text id="6000000">Посилює будь-яку зброю та додає властивість.</text>
 <text id="6000100">Посилює будь-яку зброю та додає властивість.</text>
 <text id="6000101">Посилює будь-яку зброю та додає властивість.</text>
@@ -3522,9 +3522,9 @@
 <text id="11000001">"Eye" rune. Make additional discoveries.</text>
 <text id="11000002">One of the "Metamorphosis" runes. Raises HP.</text>
 <text id="11000003">One of the "Metamorphosis" runes. Raises stamina.</text>
-<text id="11000004">"Clawmark" rune. Strengthens visceral attacks.</text>
-<text id="11000005">"Blood Rapture" rune. Visceral attacks restore HP.</text>
-<text id="11000006">A "Liaison" rune. Visceral attacks restore QS Bullets.</text>
+<text id="11000004">Посилює смертельні атаки.</text>
+<text id="11000005">Смертельні атаки відновлюють ОЗ.</text>
+<text id="11000006">Смертельні атаки відновлюють ртутні кулі.</text>
 <text id="11000007">"Heir" rune. Visceral attacks grant more Blood Echoes.</text>
 <text id="11000008">Одна з рун «Озеро». Підвищує захист.</text>
 <text id="11000009">Одна з рун «Озеро». Підвищує захист.</text>
@@ -3539,7 +3539,7 @@
 <text id="11000018">A "Deep Sea" rune. Increases rapid poison resistance.</text>
 <text id="11000019">A "Deep Sea" rune. Increases frenzy resistance.</text>
 <text id="11000020">A "Deep Sea" rune. Increases all resistance types.</text>
-<text id="11000021">"Beast" rune. Boosts effect of temporary transformation.</text>
+<text id="11000021">Руна "Почвара". Підсилює ефект тимчасового перетворення.</text>
 <text id="11000022">%null%</text>
 <text id="11000023">%null%</text>
 <text id="11000024">%null%</text>

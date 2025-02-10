@@ -5,33 +5,33 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="40330">Restore to default settings.</text>
-<text id="40331">Confirm settings and continue.</text>
-<text id="101000">View items in your possession.</text>
+<text id="40330">Скинути до стандартних налаштувань.</text>
+<text id="40331">Підтвердити та продовжити.</text>
+<text id="101000">Перегляд предметів у розпорядженні.</text>
 <text id="101001">Change game settings or exit game.</text>
 <text id="101002">Equip weapon.</text>
 <text id="101003">Equip protection.</text>
 <text id="101004">Equip quick items.</text>
 <text id="101005">%null%</text>
 <text id="101006">Check stats.</text>
-<text id="102000">Select item to use.</text>
-<text id="103000">Select weapon/attire to equip.</text>
-<text id="104000">Select item to equip.</text>
+<text id="102000">Обрати предмет для використання.</text>
+<text id="103000">Обрати зброю/вбрання для екіпірування.</text>
+<text id="104000">Обрати предмет для екіпірування.</text>
 <text id="105000">Check stats.</text>
 <text id="110000">Set controls.</text>
-<text id="110001">Adjust the game environment.</text>
+<text id="110001">Налаштувани ігрове оточення.</text>
 <text id="110002">Налаштувати рівень яскравості.</text>
 <text id="110003">Зміна налаштувань мережі.</text>
 <text id="110004">Вийти з гри та повернутися до головного меню.</text>
 <text id="110005">Змінити налаштування мови.</text>
 <text id="111000">Change environment.</text>
 <text id="111101">Увімк./вимк. субтитри</text>
-<text id="111102">Turn HUD ON/OFF.</text>
+<text id="111102">Показувати інфо. панель.</text>
 <text id="111103">Налаштувати гучність музики.</text>
 <text id="111104">Налаштувати гучність звукових ефектів.</text>
 <text id="111105">Налаштувати гучність голосу.</text>
 <text id="112000">Налаштувати рівень яскравості.</text>
-<text id="113000">Змінити управління</text>
+<text id="113000">Налаштувати керування</text>
 <text id="113100">Змінити ось X камери</text>
 <text id="113101">Змінити ось Y камери</text>
 <text id="113102">%null%</text>
