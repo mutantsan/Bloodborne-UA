@@ -82,6 +82,9 @@ Names:
     jp: 背教者イジー
     uk: Відступник Іззі
     note: "The name of the character in Japanese is '背教者イジー' which translates to 'Heretic Izzy'."
+  Chalice Dungeon:
+    en: Chalice Dungeon
+    uk: Підземелля Чаші
 
 Runes:
   Radiance:
@@ -138,6 +141,9 @@ Runes:
   Eye:
     en: Eye
     uk: Око
+  Blood gem:
+    en: Blood gem
+    uk: Кривавий самоцвіт
 
 Covenants:
   Tomb Prospector:
@@ -206,6 +212,9 @@ Items:
     jp: 汎聖杯
     uk: Всеосяжна Чаша
     note: "The name of the item in Japanese is '汎聖杯' which translates to 'Universal Holy Grail'."
+  Chalice Glyph:
+    en: Chalice Glyph
+    uk: Гліф Чаші
 
 Other:
   summon:

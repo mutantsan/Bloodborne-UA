@@ -34,47 +34,51 @@
 <text id="4010">%null%</text>
 <text id="4011">Не вдалося внести ритуальні матеріали.
 Спробуйте пізніше.</text>
-<text id="4101">The Bloodborne server administrator has restricted
-this Sony Entertainment Network account's access to multiplayer features.</text>
-<text id="4102">The Bloodborne server administrator has restricted
-this Sony Entertainment Network account's ability to jot down or read notes.</text>
-<text id="4103">The Bloodborne server administrator has restricted
-this Sony Entertainment Network account's Chalice Dungeon functionality.</text>
-<text id="4104">The Bloodborne server administrator has restricted
-this Sony Entertainment Network account's specter functionality.</text>
-<text id="4201">The Bloodborne server is no longer available.
+<text id="4101">Адміністратор сервера Bloodborne обмежив
+доступ цього облікового запису Sony Entertainment Network
+до багатокористувацьких функцій.</text>
+<text id="4102">Адміністратор сервера Bloodborne обмежив
+можливість цього облікового запису Sony Entertainment Network
+залишати або читати нотатки.</text>
+<text id="4103">Адміністратор сервера Bloodborne обмежив
+функціональність Підземель Чаші для цього облікового запису
+Sony Entertainment Network.</text>
+<text id="4104">Адміністратор сервера Bloodborne обмежив
+можливість використання примар для цього облікового запису
+Sony Entertainment Network.</text>
+<text id="4201">Сервер Bloodborne недоступний.
 Повернення до головного меню.</text>
-<text id="4301">Lost connection to Bloodborne server.
+<text id="4301">Втрачено з'єднання з сервером Bloodborne.
 Повернення до головного меню.</text>
 <text id="4401">&lt;?ssInfoMsg?&gt;
 Повернення до головного меню.</text>
-<text id="4402">Failed to resolve Bloodborne server status.
+<text id="4402">Не вдалося визначити статус сервера Bloodborne.
 Повернення до головного меню.</text>
-<text id="4403">Failed to acquire Bloodborne server information.
+<text id="4403">Не вдалося отримати інформацію про сервер Bloodborne.
 Повернення до головного меню.</text>
-<text id="4601">Failed to connect to Bloodborne server.
+<text id="4601">Не вдалося підключитися до сервера Bloodborne.
 Повернення до головного меню.</text>
-<text id="4602">After a period of no access,
-the selected dungeon data was deleted
-from the Bloodborne server.</text>
-<text id="4603">No dungeons found using the given Chalice Glyph.</text>
-<text id="4604">You don't meet the requirements to join the dungeon
-matching this Chalice Glyph.</text>
-<text id="4605">No dungeon found that can be joined.</text>
-<text id="4606">Could not find a Chalice Dungeon matching your criteria.</text>
-<text id="4701">Lost connection to the network.
+<text id="4602">Після тривалого періоду відсутності
+вибрані дані підземелля було видалено
+з сервера Bloodborne.</text>
+<text id="4603">Не знайдено підземель, що відповідають цьому гліфу чаші.</text>
+<text id="4604">Ви не відповідаєте вимогам для приєднання до підземелля,
+що відповідає цьому гліфу чаші.</text>
+<text id="4605">Відсутні підземелля, до яких можна приєднатися.</text>
+<text id="4606">Не вдалося знайти підземелля чаші, що відповідає вашим критеріям.</text>
+<text id="4701">Втрачено з’єднання з мережею.
 Повернення до головного меню.</text>
-<text id="4801">You have been signed out of "PlayStation Network".
+<text id="4801">Ви вийшли з облікового запису "PlayStation Network".
 Повернення до головного меню.</text>
-<text id="4802">Lost communication with "PlayStation Network".
+<text id="4802">Втрачено зв’язок з "PlayStation Network".
 Повернення до головного меню.</text>
-<text id="4803">Your PlayStation®Plus membership has expired.
+<text id="4803">Термін дії вашої підписки на PlayStation®Plus закінчився.
 Повернення до головного меню.</text>
-<text id="5001">Session lost.</text>
-<text id="5002">Exiting session due to unstable connection.</text>
-<text id="5003">Network error has occurred.
-You have been disconnected.</text>
-<text id="40200">Not enough Blood Echoes.</text>
+<text id="5001">Сесію втрачено.</text>
+<text id="5002">Вихід з сесії через нестабільне з’єднання.</text>
+<text id="5003">Сталася помилка мережі.
+Ви були відключені.</text>
+<text id="40200">Недостатньо кровавих спогадів.</text>
 <text id="40201">%null%</text>
 <text id="40202">%null%</text>
 <text id="40203">Недостатньо Озаріння.</text>
@@ -102,7 +106,7 @@ You have been disconnected.</text>
 <text id="102017">%null%</text>
 <text id="102018">%null%</text>
 <text id="102019">%null%</text>
-<text id="102020">Cannot use as item's attribute requirements not met.</text>
+<text id="102020">Не можна використовувати, оскільки вимоги атрибутів не виконано.</text>
 <text id="102021">%null%</text>
 <text id="102022">%null%</text>
 <text id="102023">%null%</text>
@@ -112,7 +116,7 @@ You have been disconnected.</text>
 <text id="102027">%null%</text>
 <text id="102028">%null%</text>
 <text id="102029">%null%</text>
-<text id="102030">Using this item has no effect.</text>
+<text id="102030">Використання цього предмету нічого не дає.</text>
 <text id="102031">%null%</text>
 <text id="102032">%null%</text>
 <text id="102033">%null%</text>
@@ -122,8 +126,8 @@ You have been disconnected.</text>
 <text id="102037">%null%</text>
 <text id="102038">%null%</text>
 <text id="102039">%null%</text>
-<text id="102040">Fused blood gems will be lost when the item is discarded.
-Okay?</text>
+<text id="102040">Вплавлені криваві самоцвіти будуть втрачені, якщо викинути цей предмет.
+Підвердити?</text>
 <text id="102041">%null%</text>
 <text id="102042">%null%</text>
 <text id="102043">%null%</text>
@@ -649,25 +653,25 @@ To continue without saving, select CONTINUE.</text>
 <text id="404007">%null%</text>
 <text id="404008">%null%</text>
 <text id="404009">%null%</text>
-<text id="404010">Discard present changes and return?</text>
-<text id="406011">Start with selected profile?</text>
-<text id="406012">Delete selected profile and begin a new game?</text>
-<text id="406013">OK to delete selected profile?</text>
+<text id="404010">Скасувати поточні зміни та повернутися?</text>
+<text id="406011">Розпочати з обраним профілем?</text>
+<text id="406012">Видалити вибраний профіль та почати нову гру?</text>
+<text id="406013">Видалити вибраний профіль?</text>
 <text id="406014">%null%</text>
 <text id="406015">%null%</text>
 <text id="406016">%null%</text>
 <text id="406017">%null%</text>
 <text id="406018">%null%</text>
 <text id="406019">%null%</text>
-<text id="406020">Game install incomplete.
-Cannot load save data created by
-a fully installed game.</text>
-<text id="406021">Game install incomplete.
-Cannot load save data.</text>
-<text id="420000">Save the present settings as a favorite?</text>
-<text id="420001">A favorite already exists for these settings.
-Save and overwrite present settings?</text>
-<text id="420002">Discard present changes and load favorite?</text>
+<text id="406020">Встановлення гри не завершене.
+Неможливо завантажити збережені дані,
+створені у повністю встановленій грі.</text>
+<text id="406021">Встановлення гри не завершене.
+Неможливо завантажити збережені дані.</text>
+<text id="420000">Зберегти поточні налаштування у обрані?</text>
+<text id="420001">Обрані налаштування для цього вже існують.
+Зберегти та перезаписати поточні налаштування?</text>
+<text id="420002">Скасувати зміни та завантажити обрані налаштування?</text>
 <text id="420003">%null%</text>
 <text id="420004">%null%</text>
 <text id="420005">%null%</text>
@@ -675,13 +679,13 @@ Save and overwrite present settings?</text>
 <text id="420007">%null%</text>
 <text id="420008">%null%</text>
 <text id="420009">%null%</text>
-<text id="420010">No favorites saved.</text>
-<text id="506000">Some items could not be acquired as they would
-exceed max for inventory or storage.</text>
-<text id="506001">Unable to acquire &lt;?itemName?&gt;
-due to inventory or storage max.</text>
-<text id="506002">Unable to acquire every &lt;?itemName?&gt;
-due to inventory or storage max.</text>
+<text id="420010">Немає збережених даних у обраному.</text>
+<text id="506000">Деякі предмети неможливо отримати, оскільки
+їхня кількість перевищить максимум у інвентарі або сховищі.</text>
+<text id="506001">Не вдалося отримати &lt;?itemName?&gt;
+через перевищення ліміту інвентарю або сховища.</text>
+<text id="506002">Не вдалося отримати всі &lt;?itemName?&gt;
+через перевищення ліміту інвентарю або сховища.</text>
 <text id="600000">*</text>
 <text id="600001">*</text>
 <text id="600002">*</text>

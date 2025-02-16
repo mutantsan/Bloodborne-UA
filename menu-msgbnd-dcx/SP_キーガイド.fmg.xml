@@ -5,8 +5,8 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="1000">L pad button</text>
-<text id="1001">R pad button</text>
+<text id="1000">Л. кнопка панелі</text>
+<text id="1001">П. кнопка панелі</text>
 <text id="100000">OK</text>
 <text id="100001">Підтвердити</text>
 <text id="100002">Використати предмет</text>
@@ -29,7 +29,7 @@
 <text id="120001">Спробувати</text>
 <text id="120002">Завершити</text>
 <text id="120003">Захист УВІМК/ВИМК</text>
-<text id="120004">Remove</text>
+<text id="120004">Прибрати</text>
 <text id="120005">Підтвердити</text>
 <text id="120006">Почати ритуал</text>
 <text id="120007">Видалити</text>
