@@ -1,0 +1,242 @@
+Armory:
+  Cleaver Saw:
+    en: Cleaver Saw
+    uk: Клинкова пила
+  Blunderbuss:
+    en: Blunderbuss
+    uk: Мушкетон
+  Hunter’s Axe:
+    en: Hunter’s Axe
+    uk: Мисливська сокира
+  Pistol:
+    en: Pistol
+    uk: Пістолет
+  Kirkhammer:
+    en: Kirkhammer
+    jp: 教会の石槌
+    uk: Церковний молот
+    note: "The name of the weapon in Japanese is '教会の石槌' which translates to 'Church's Stone Hammer'."
+  Warped Twinblades:
+    en: Warped Twinblades
+    uk:
+      - Викривлені клинки
+      - Викривлені двоклинки
+  Blade of Mercy:
+    en: Blade of Mercy
+    uk: Меч милосердя
+
+Names:
+  Oedon:
+    en: Oedon
+    jp: オドン
+    uk: Одон
+  Hintertomb:
+    en: Hintertomb
+    jp: 僻墓
+    uk: Усамітнена Гробниця
+    note: "The name of the location in Japanese is '僻墓' which translates to 'Remote Grave'."
+  Pthumeru:
+    en: Pthumeru
+    uk: Птумеру
+  Loran:
+    en: Loran
+    uk: Лоран
+  Isz:
+    en: Isz
+    uk: Ізз
+  Great Ones:
+    en: Great Ones
+    jp: 大きい
+    uk: Великі
+  Saw Hunter:
+    en: Saw Hunter
+    uk: Мисливець з пилою
+  Axe Hunter:
+    en: Axe Hunter
+    uk: Мисливець з сокирою
+  Church Hunter:
+    en: Church Hunter
+    uk: Церковний мисливець
+  Blackplume Hunter:
+    en: Blackplume Hunter
+    uk: Чорноперий мисливець
+  Rom, the Vacuous Spider:
+    en: Rom, the Vacuous Spider
+    jp: 白痴の蜘蛛、ロマ
+    uk: Ром, Бездумний Павук
+    note: "The name of the boss in Japanese is '白痴の蜘蛛、ロマ' which translates to 'Idiot Spider, Rom'."
+  Mergo's Wet Nurse:
+    en: Mergo's Wet Nurse
+    uk: Годувальниця Мерго
+  Gehrman, the First Hunter:
+    en: Gehrman, the First Hunter
+    uk: Герман, Перший Мисливець
+  Father Gascoigne:
+    en: Father Gascoigne
+    uk: Отець Гаскойн
+  Yharnam, Pthumerian Queen:
+    en: Yharnam, Pthumerian Queen
+    uk: Ярнам, Птумерійська Королева
+  Irreverent Izzy:
+    en: Irreverent Izzy
+    jp: 背教者イジー
+    uk: Відступник Іззі
+    note: "The name of the character in Japanese is '背教者イジー' which translates to 'Heretic Izzy'."
+
+Runes:
+  Radiance:
+    en: Radiance
+    uk: Сяйво
+  Guidance:
+    en: Guidance
+    uk: Настанова
+  Caryll Runes:
+    en: Caryll Runes
+    jp: カレル文字
+    uk: Руни Каріла
+  Clockwise Metamorphosis:
+    en: Clockwise Metamorphosis
+    jp: 右回りの変態
+    uk: Метаморфоза
+    note: "The name of the rune in Japanese is '右回りの変態' which translates to 'Rightward Transformation'."
+  Anti-Clockwise Metamorphosis:
+    en: Anti-Clockwise Metamorphosis
+    jp: 左回りの変態
+    uk: Зворотня Метаморфоза
+    note: "The name of the rune in Japanese is '左回りの変態' which translates to 'Leftward Transformation'."
+  Oedon Liaison:
+    en: Oedon Liaison
+    jp: オドンの交わり
+    uk: Зв'язок з Одоном
+    note: "The name of the rune in Japanese is 'オドンの交わり' which translates to 'Oedon's Intercourse'."
+  Lake:
+    en: Lake
+    uk: Озеро
+  Deep Sea:
+    en: Deep Sea
+    uk: Глибоке море
+  Destroyer:
+    en: Destroyer
+    uk: Руйнівник
+  Reveler:
+    en: Reveler
+    jp: 歓楽者
+    uk: Гедоніст
+    note: "The name of the rune in Japanese is '歓楽者' which translates to 'Hedonist'."
+  Liaison:
+    en: Liaison
+    uk: Зв'язок
+  Heir:
+    en: Heir
+    uk: Спадкоємець
+  Beast:
+    en: Beast
+    uk: Почвара
+  Moon:
+    en: Moon
+    uk: Місяць
+  Eye:
+    en: Eye
+    uk: Око
+
+Covenants:
+  Tomb Prospector:
+    en: Tomb Prospector
+    uk: Розкрадач Гробниць
+  Hunter of Hunters:
+    en: Hunter of Hunters
+    jp: 狩人狩り
+    uk: Винищувач Мисливців
+  The Executioners:
+    en: The Executioners
+    jp: 処刑隊
+    uk: Каральний Загін
+    note: "The name of the covenant in Japanese is '処刑隊' which translates to 'Execution Squad'."
+  The Vileblood:
+    en: The Vileblood
+    jp: 穢れた血族
+    uk: Нечистокровні
+
+Stats:
+  Insight:
+    en: Insight
+    uk: Прозріння
+  Vitality:
+    en: Vitality
+    uk: Життєздатність
+  Endurance:
+    en: Endurance
+    uk: Стійкість
+  Strength:
+    en: Strength
+    uk: Сила
+  Skill:
+    en: Skill
+    uk: Майстерність
+  Bloodtinge:
+    en: Bloodtinge
+    uk: Відтінок крові
+  Arcane:
+    en: Arcane
+    uk: Таємне знання
+  HP:
+    en: HP
+    uk: ОЗ
+  Stamina:
+    en: Stamina
+    uk: Витривалість
+  resistance:
+    en: resistance
+    uk: опір ефектам
+
+Items:
+  blood vial:
+    en: blood vial
+    uk: ампула крові
+  Blood Echoes:
+    en: Blood Echoes
+    jp: 血の遺志
+    uk: Кроваві спогади
+    note: "The name of the item in Japanese is '血の遺志' which translates to 'Blood's Will'."
+  Quicksilver Bullet:
+    en: Quicksilver Bullet
+    uk: Ртутна куля
+  Root Chalice:
+    en: Root Chalice
+    jp: 汎聖杯
+    uk: Всеосяжна Чаша
+    note: "The name of the item in Japanese is '汎聖杯' which translates to 'Universal Holy Grail'."
+
+Other:
+  summon:
+    en: summon
+    uk: закликати
+  beast:
+    en: beast
+    uk:
+      - звір
+      - почвара
+    note: Переклад слово "beast" може бути різним в залежності від контексту. З огляду на сеттінг гри.
+  impurity:
+    en: impurity
+    uk: нечистота
+  runesmith:
+    en: runesmith
+    uk: рунознавець
+  Communion:
+    en: Communion
+    uk: Причастя
+  Corruption:
+    en: Corruption
+    uk:
+      - Порча
+      - Порочність
+  eldritch:
+    en: eldritch
+    uk: потойбічний
+  visceral attacks:
+    en: visceral attacks
+    uk: смертельні атаки
+  Sinister:
+    en: Sinister
+    uk: Зловісний
