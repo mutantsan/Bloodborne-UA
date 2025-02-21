@@ -210,7 +210,7 @@
 <text id="12028">%null%</text>
 <text id="12029">Resistance</text>
 <text id="14001">*</text>
-<text id="14002">Rating</text>
+<text id="14002">Рейтинг</text>
 <text id="14003">Shape</text>
 <text id="14004">%null%</text>
 <text id="14005">%null%</text>
@@ -660,12 +660,12 @@ Features of each area will differ.</text>
 <text id="37008">%null%</text>
 <text id="37009">%null%</text>
 <text id="37010">%null%</text>
-<text id="37011">Additional rite enabled
-by this Chalice</text>
-<text id="39001">Number of this item held.</text>
-<text id="39002">Number of this item in storage.</text>
-<text id="40000">Standard</text>
-<text id="40001">Order Acquired</text>
+<text id="37011">Додатковий обряд, увімкнений
+цією чашею</text>
+<text id="39001">Кількість цього предмета у наявності.</text>
+<text id="39002">Кількість цього предмета в сховищі.</text>
+<text id="40000">Стандартний</text>
+<text id="40001">Порядок отримання</text>
 <text id="40002">%null%</text>
 <text id="40003">%null%</text>
 <text id="40004">%null%</text>
@@ -674,7 +674,7 @@ by this Chalice</text>
 <text id="40007">%null%</text>
 <text id="40008">%null%</text>
 <text id="40009">%null%</text>
-<text id="40010">No. Held</text>
+<text id="40010">У наявності</text>
 <text id="40011">%null%</text>
 <text id="40012">%null%</text>
 <text id="40013">%null%</text>
@@ -714,9 +714,9 @@ by this Chalice</text>
 <text id="40047">%null%</text>
 <text id="40048">%null%</text>
 <text id="40049">%null%</text>
-<text id="40050">Rating</text>
-<text id="40051">No. of Effects</text>
-<text id="40052">Shape</text>
+<text id="40050">Рейтинг</text>
+<text id="40051">Кількість ефектів</text>
+<text id="40052">Форма</text>
 <text id="40053">%null%</text>
 <text id="40054">%null%</text>
 <text id="40055">%null%</text>
@@ -724,13 +724,13 @@ by this Chalice</text>
 <text id="40057">%null%</text>
 <text id="40058">%null%</text>
 <text id="40059">%null%</text>
-<text id="40060">Depth</text>
-<text id="40061">Area</text>
+<text id="40060">Глибина</text>
+<text id="40061">Регіон</text>
 <text id="40100">*</text>
 <text id="40101">*</text>
 <text id="40102">*</text>
-<text id="40300">On</text>
-<text id="40301">Off</text>
+<text id="40300">Увімк.</text>
+<text id="40301">Вимк.</text>
 <text id="40302">*</text>
 <text id="40303">%null%</text>
 <text id="40304">%null%</text>
@@ -958,7 +958,7 @@ by this Chalice</text>
 <text id="112007">%null%</text>
 <text id="112008">%null%</text>
 <text id="112009">%null%</text>
-<text id="112010">Встан. повзунок так, щоб людина була видимою, а потвора ні.</text>
+<text id="112010">Встан. повзунок так, щоб людина була видимою, а звір ні.</text>
 <text id="112011">%null%</text>
 <text id="112012">%null%</text>
 <text id="112013">%null%</text>

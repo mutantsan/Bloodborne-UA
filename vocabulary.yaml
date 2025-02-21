@@ -85,6 +85,31 @@ Names:
   Chalice Dungeon:
     en: Chalice Dungeon
     uk: Підземелля Чаші
+  Cainhurst:
+    en: Cainhurst
+    jp: カイン
+    uk:
+      - Каїнголм # preferred
+      - Каїнгоф
+    note: "The name of the location in Japanese is 'カイン' which translates to 'Cain'."
+  Byrgenwerth:
+    en: Byrgenwerth
+    uk: Бірґенверт
+  Healing Church:
+    en: Healing Church
+    uk: Церква Зцілення
+  Paleblood:
+    en: Paleblood
+    uk: Блідокров
+  Eileen:
+    en: Eileen
+    uk: Ейлін
+  Logarius:
+    en: Logarius
+    uk: Логаріус
+  Ludwig:
+    en: Ludwig
+    uk: Людвіг
 
 Runes:
   Radiance:
@@ -145,7 +170,7 @@ Runes:
     en: Blood gem
     uk: Кривавий самоцвіт
 
-Covenants:
+Covenants and players:
   Tomb Prospector:
     en: Tomb Prospector
     uk: Розкрадач Гробниць
@@ -162,6 +187,24 @@ Covenants:
     en: The Vileblood
     jp: 穢れた血族
     uk: Нечистокровні
+  Confederate:
+    en: Confederate
+    jp: 連盟員
+    uk: Союзник
+    note: "The name of the covenant in Japanese is '連盟員' which translates to 'Federation Member'."
+  Cooperator:
+    en: Cooperator
+    jp: 協力者
+    uk: Поплічник
+    note: "The name of the covenant in Japanese is '協力者' which translates to 'Collaborator'."
+  Adversary:
+    en: Adversary
+    jp: 敵対者
+    uk: Супротивник
+    note: "The name of the covenant in Japanese is '敵対者' which translates to 'Opponent'."
+  Powder Keg:
+    en: Powder Keg
+    uk: Порохівники
 
 Stats:
   Insight:
@@ -215,7 +258,9 @@ Items:
   Chalice Glyph:
     en: Chalice Glyph
     uk: Гліф Чаші
-
+  Holy Shawl:
+    en: Holy Shawl
+    uk: Священна Риза
 Other:
   summon:
     en: summon
@@ -249,3 +294,29 @@ Other:
   Sinister:
     en: Sinister
     uk: Зловісний
+  Surgery Altar:
+    en: Surgery Altar
+    uk: Хірургічний Вівтар.
+
+Attack types:
+  slash:
+    en: slash
+    uk: рублячі
+  blunt:
+    en: blunt
+    uk: тупі
+  arcane:
+    en: arcane
+    uk: таємні
+  fire:
+    en: fire
+    uk: вогняні
+  bolt:
+    en: bolt
+    uk: блискавичні
+  blood:
+    en: blood
+    uk: криваві
+  thrust:
+    en: thrust
+    uk: колючі

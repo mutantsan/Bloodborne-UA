@@ -75,27 +75,27 @@ but the beckoner is a Vileblood, and thus an adversary.</text>
 <text id="101500">Discovered the chime of a Beckoning Bell,
 but the beckoner is a blood-addled hunter, and thus an adversary.</text>
 <text id="102001">The bell's resonance has beckoned &lt;?joinName?&gt;.</text>
-<text id="102002">Adversary &lt;?joinName?&gt; has arrived.</text>
+<text id="102002">Супротивник &lt;?joinName?&gt; has arrived.</text>
 <text id="102003">&lt;?joinName?&gt; has arrived by the bell's resonance</text>
 <text id="102004">&lt;?joinName?&gt; has arrived by the bell's resonance</text>
 <text id="102005">&lt;?joinName?&gt; has arrived by the bell's resonance</text>
-<text id="102006">Confederate &lt;?joinName?&gt; has arrived
+<text id="102006">Союзник &lt;?joinName?&gt; has arrived
 by the bell's resonance.</text>
-<text id="102007">Confederate &lt;?joinName?&gt; has arrived
+<text id="102007">Союзник &lt;?joinName?&gt; has arrived
 by the bell's resonance.</text>
-<text id="102051">Old Hunter &lt;?joinName?&gt; has arrived
+<text id="102051">Старий Мисливець &lt;?joinName?&gt; has arrived
 by the bell's resonance.</text>
-<text id="102052">Old Hunter &lt;?joinName?&gt; has arrived
+<text id="102052">Старий Мисливець &lt;?joinName?&gt; has arrived
 by the bell's resonance.</text>
-<text id="102053">Old Hunter &lt;?joinName?&gt; has arrived
+<text id="102053">Старий Мисливець &lt;?joinName?&gt; has arrived
 by the bell's resonance.</text>
-<text id="102054">Old Hunter &lt;?joinName?&gt; has arrived
+<text id="102054">Старий Мисливець &lt;?joinName?&gt; has arrived
 by the bell's resonance.</text>
-<text id="102055">Old Hunter &lt;?joinName?&gt; has arrived
+<text id="102055">Старий Мисливець &lt;?joinName?&gt; has arrived
 by the bell's resonance.</text>
-<text id="102056">Confederate &lt;?joinName?&gt; has arrived
+<text id="102056">Союзник &lt;?joinName?&gt; has arrived
 by the bell's resonance.</text>
-<text id="102057">Confederate &lt;?joinName?&gt; has arrived
+<text id="102057">Союзник &lt;?joinName?&gt; has arrived
 by the bell's resonance.</text>
 <text id="102100">Entered the world of &lt;?hostName?&gt;,
 who beckoned you here.</text>
@@ -110,20 +110,20 @@ the blood-addled hunter &lt;?hostName?&gt;.</text>
 &lt;?hostName?&gt;.</text>
 <text id="102700">You are now in the world of the beckoner,
 &lt;?hostName?&gt;.</text>
-<text id="103001">Cooperator &lt;?deadName?&gt; has died.</text>
-<text id="103002">Adversary &lt;?deadName?&gt; has died.</text>
-<text id="103003">Vileblood &lt;?deadName?&gt; has died.</text>
-<text id="103004">Executioner &lt;?deadName?&gt; has died.</text>
-<text id="103005">Hunter of Hunters, &lt;?deadName?&gt;, has died.</text>
-<text id="103006">Confederate &lt;?deadName?&gt; has died.</text>
-<text id="103007">Confederate &lt;?deadName?&gt; has died.</text>
-<text id="103051">Old Hunter &lt;?deadName?&gt; has died.</text>
-<text id="103052">Old Hunter &lt;?deadName?&gt; has died.</text>
-<text id="103053">Old Hunter &lt;?deadName?&gt; has died.</text>
-<text id="103054">Old Hunter &lt;?deadName?&gt; has died.</text>
-<text id="103055">Old Hunter &lt;?deadName?&gt; has died.</text>
-<text id="103056">Confederate &lt;?deadName?&gt; has died.</text>
-<text id="103057">Confederate &lt;?deadName?&gt; has died.</text>
+<text id="103001">Поплічник &lt;?deadName?&gt; загинув.</text>
+<text id="103002">Супротивник &lt;?deadName?&gt; загинув.</text>
+<text id="103003">Нечистокровний &lt;?deadName?&gt; загинув.</text>
+<text id="103004">Executioner &lt;?deadName?&gt; загинув.</text>
+<text id="103005">Винищувач Мисливців, &lt;?deadName?&gt;, загинув.</text>
+<text id="103006">Союзник &lt;?deadName?&gt; загинув.</text>
+<text id="103007">Союзник &lt;?deadName?&gt; загинув.</text>
+<text id="103051">Старий Мисливець &lt;?deadName?&gt; загинув.</text>
+<text id="103052">Старий Мисливець &lt;?deadName?&gt; загинув.</text>
+<text id="103053">Старий Мисливець &lt;?deadName?&gt; загинув.</text>
+<text id="103054">Старий Мисливець &lt;?deadName?&gt; загинув.</text>
+<text id="103055">Старий Мисливець &lt;?deadName?&gt; загинув.</text>
+<text id="103056">Союзник &lt;?deadName?&gt; загинув.</text>
+<text id="103057">Союзник &lt;?deadName?&gt; загинув.</text>
 <text id="103100">Ви померли.
 Повернення у ваш світ.</text>
 <text id="103101">Ваш заклинач помер.
@@ -135,35 +135,35 @@ the blood-addled hunter &lt;?hostName?&gt;.</text>
 <text id="105100">Beckoner has challenged
 &lt;?npcNameId@500000?&gt;.</text>
 <text id="105199">The beckoner has begun the final battle.</text>
-<text id="105200">Battle with &lt;?npcNameId@1000?&gt; has commenced.
+<text id="105200">Бій з &lt;?npcNameId@1000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="105299">The beckoner has begun the final battle.
 Повернення у ваш світ.</text>
-<text id="105300">Battle with &lt;?npcNameId@1000?&gt; has commenced. Повернення у ваш світ.</text>
+<text id="105300">Бій з &lt;?npcNameId@1000?&gt; розпочався. Повернення у ваш світ.</text>
 <text id="105399">The Executioner has begun the final battle.
 Повернення у ваш світ.</text>
-<text id="105400">Battle with &lt;?npcNameId@1000?&gt; has commenced. Повернення у ваш світ.</text>
+<text id="105400">Бій з &lt;?npcNameId@1000?&gt; розпочався. Повернення у ваш світ.</text>
 <text id="105499">The Vileblood has begun the final battle.
 Повернення у ваш світ.</text>
-<text id="105500">Battle with &lt;?npcNameId@1000?&gt; has commenced. Повернення у ваш світ.</text>
+<text id="105500">Бій з &lt;?npcNameId@1000?&gt; розпочався. Повернення у ваш світ.</text>
 <text id="105599">The blood-addled hunter has begun the final battle.
 Повернення у ваш світ.</text>
-<text id="106100">&lt;?npcNameId@1000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="106100">&lt;?npcNameId@1000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="106199">The final battle has ended.
 It is time to bid farewell.</text>
 <text id="106200">Beckoner &lt;?hostName?&gt; has fallen.
 It is time to bid farewell.</text>
 <text id="106300">Executioner &lt;?hostName?&gt; has fallen.
 It is time to bid farewell.</text>
-<text id="106400">Vileblood &lt;?hostName?&gt; has fallen.
+<text id="106400">Нечистокровний &lt;?hostName?&gt; has fallen.
 It is time to bid farewell.</text>
 <text id="106500">Blood-addled hunter &lt;?hostName?&gt; has fallen.
 It is time to bid farewell.</text>
 <text id="107000">Beckoner</text>
-<text id="107100">Cooperator</text>
+<text id="107100">Поплічник</text>
 <text id="107150">Old Hunter</text>
-<text id="107200">Adversary</text>
+<text id="107200">Супротивник</text>
 <text id="107250">Old Hunter</text>
 <text id="107300">Vileblood</text>
 <text id="107350">Old Hunter</text>
@@ -171,14 +171,14 @@ It is time to bid farewell.</text>
 <text id="107450">Old Hunter</text>
 <text id="107500">Hunter of Hunters</text>
 <text id="107550">Old Hunter</text>
-<text id="107600">Confederate</text>
-<text id="107650">Confederate</text>
-<text id="107700">Confederate</text>
-<text id="107750">Confederate</text>
+<text id="107600">Союзник</text>
+<text id="107650">Союзник</text>
+<text id="107700">Союзник</text>
+<text id="107750">Союзник</text>
 <text id="109000">Drawn by the bell's timbre,
 a bell-ringing woman has appeared somewhere.</text>
 <text id="109001">The bell-ringing woman has left, and the sound of the sinister bell has ceased.</text>
-<text id="141010">Battle with &lt;?npcNameId@1000?&gt; has commenced.
+<text id="141010">Бій з &lt;?npcNameId@1000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141011">%null%</text>
 <text id="141012">%null%</text>
@@ -189,7 +189,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141017">%null%</text>
 <text id="141018">%null%</text>
 <text id="141019">%null%</text>
-<text id="141020">Battle with &lt;?npcNameId@106000?&gt; has commenced.
+<text id="141020">Бій з &lt;?npcNameId@106000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141021">%null%</text>
 <text id="141022">%null%</text>
@@ -200,7 +200,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141027">%null%</text>
 <text id="141028">%null%</text>
 <text id="141029">%null%</text>
-<text id="141030">Battle with &lt;?npcNameId@127000?&gt; has commenced.
+<text id="141030">Бій з &lt;?npcNameId@127000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141031">%null%</text>
 <text id="141032">%null%</text>
@@ -211,7 +211,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141037">%null%</text>
 <text id="141038">%null%</text>
 <text id="141039">%null%</text>
-<text id="141040">Battle with &lt;?npcNameId@209000?&gt; has commenced.
+<text id="141040">Бій з &lt;?npcNameId@209000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141041">%null%</text>
 <text id="141042">%null%</text>
@@ -222,7 +222,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141047">%null%</text>
 <text id="141048">%null%</text>
 <text id="141049">%null%</text>
-<text id="141050">Battle with &lt;?npcNameId@210000?&gt; has commenced.
+<text id="141050">Бій з &lt;?npcNameId@210000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141051">%null%</text>
 <text id="141052">%null%</text>
@@ -233,7 +233,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141057">%null%</text>
 <text id="141058">%null%</text>
 <text id="141059">%null%</text>
-<text id="141060">Battle with &lt;?npcNameId@212010?&gt; has commenced.
+<text id="141060">Бій з &lt;?npcNameId@212010?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141061">%null%</text>
 <text id="141062">%null%</text>
@@ -244,7 +244,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141067">%null%</text>
 <text id="141068">%null%</text>
 <text id="141069">%null%</text>
-<text id="141070">Battle with &lt;?npcNameId@212020?&gt; has commenced.
+<text id="141070">Бій з &lt;?npcNameId@212020?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141071">%null%</text>
 <text id="141072">%null%</text>
@@ -255,7 +255,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141077">%null%</text>
 <text id="141078">%null%</text>
 <text id="141079">%null%</text>
-<text id="141080">Battle with &lt;?npcNameId@212030?&gt; has commenced.
+<text id="141080">Бій з &lt;?npcNameId@212030?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141081">%null%</text>
 <text id="141082">%null%</text>
@@ -266,7 +266,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141087">%null%</text>
 <text id="141088">%null%</text>
 <text id="141089">%null%</text>
-<text id="141090">Battle with &lt;?npcNameId@216000?&gt; has commenced.
+<text id="141090">Бій з &lt;?npcNameId@216000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141091">%null%</text>
 <text id="141092">%null%</text>
@@ -277,7 +277,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141097">%null%</text>
 <text id="141098">%null%</text>
 <text id="141099">%null%</text>
-<text id="141100">Battle with &lt;?npcNameId@232000?&gt; has commenced.
+<text id="141100">Бій з &lt;?npcNameId@232000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141101">%null%</text>
 <text id="141102">%null%</text>
@@ -288,7 +288,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141107">%null%</text>
 <text id="141108">%null%</text>
 <text id="141109">%null%</text>
-<text id="141110">Battle with &lt;?npcNameId@251000?&gt; has commenced.
+<text id="141110">Бій з &lt;?npcNameId@251000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141111">%null%</text>
 <text id="141112">%null%</text>
@@ -299,7 +299,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141117">%null%</text>
 <text id="141118">%null%</text>
 <text id="141119">%null%</text>
-<text id="141120">Battle with &lt;?npcNameId@257000?&gt; has commenced.
+<text id="141120">Бій з &lt;?npcNameId@257000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141121">%null%</text>
 <text id="141122">%null%</text>
@@ -310,7 +310,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141127">%null%</text>
 <text id="141128">%null%</text>
 <text id="141129">%null%</text>
-<text id="141130">Battle with &lt;?npcNameId@271000?&gt; has commenced.
+<text id="141130">Бій з &lt;?npcNameId@271000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141131">%null%</text>
 <text id="141132">%null%</text>
@@ -321,7 +321,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141137">%null%</text>
 <text id="141138">%null%</text>
 <text id="141139">%null%</text>
-<text id="141140">Battle with &lt;?npcNameId@1000?&gt; has commenced.
+<text id="141140">Бій з &lt;?npcNameId@1000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141141">%null%</text>
 <text id="141142">%null%</text>
@@ -332,7 +332,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141147">%null%</text>
 <text id="141148">%null%</text>
 <text id="141149">%null%</text>
-<text id="141150">Battle with &lt;?npcNameId@272000?&gt; has commenced.
+<text id="141150">Бій з &lt;?npcNameId@272000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141151">%null%</text>
 <text id="141152">%null%</text>
@@ -343,7 +343,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141157">%null%</text>
 <text id="141158">%null%</text>
 <text id="141159">%null%</text>
-<text id="141160">Battle with &lt;?npcNameId@305000?&gt; has commenced.
+<text id="141160">Бій з &lt;?npcNameId@305000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141161">%null%</text>
 <text id="141162">%null%</text>
@@ -354,7 +354,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141167">%null%</text>
 <text id="141168">%null%</text>
 <text id="141169">%null%</text>
-<text id="141170">Battle with &lt;?npcNameId@306000?&gt; has commenced.
+<text id="141170">Бій з &lt;?npcNameId@306000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141171">%null%</text>
 <text id="141172">%null%</text>
@@ -365,7 +365,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141177">%null%</text>
 <text id="141178">%null%</text>
 <text id="141179">%null%</text>
-<text id="141180">Battle with &lt;?npcNameId@313000?&gt; has commenced.
+<text id="141180">Бій з &lt;?npcNameId@313000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141181">%null%</text>
 <text id="141182">%null%</text>
@@ -376,7 +376,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141187">%null%</text>
 <text id="141188">%null%</text>
 <text id="141189">%null%</text>
-<text id="141190">Battle with &lt;?npcNameId@500000?&gt; has commenced.
+<text id="141190">Бій з &lt;?npcNameId@500000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141191">%null%</text>
 <text id="141192">%null%</text>
@@ -387,7 +387,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141197">%null%</text>
 <text id="141198">%null%</text>
 <text id="141199">%null%</text>
-<text id="141200">Battle with &lt;?npcNameId@501000?&gt; has commenced.
+<text id="141200">Бій з &lt;?npcNameId@501000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141201">%null%</text>
 <text id="141202">%null%</text>
@@ -398,7 +398,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141207">%null%</text>
 <text id="141208">%null%</text>
 <text id="141209">%null%</text>
-<text id="141210">Battle with &lt;?npcNameId@502000?&gt; has commenced.
+<text id="141210">Бій з &lt;?npcNameId@502000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141211">%null%</text>
 <text id="141212">%null%</text>
@@ -409,7 +409,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141217">%null%</text>
 <text id="141218">%null%</text>
 <text id="141219">%null%</text>
-<text id="141220">Battle with &lt;?npcNameId@503000?&gt; has commenced.
+<text id="141220">Бій з &lt;?npcNameId@503000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141221">%null%</text>
 <text id="141222">%null%</text>
@@ -420,7 +420,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141227">%null%</text>
 <text id="141228">%null%</text>
 <text id="141229">%null%</text>
-<text id="141230">Battle with &lt;?npcNameId@504000?&gt; has commenced.
+<text id="141230">Бій з &lt;?npcNameId@504000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141231">%null%</text>
 <text id="141232">%null%</text>
@@ -431,7 +431,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141237">%null%</text>
 <text id="141238">%null%</text>
 <text id="141239">%null%</text>
-<text id="141240">Battle with &lt;?npcNameId@505000?&gt; has commenced.
+<text id="141240">Бій з &lt;?npcNameId@505000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141241">%null%</text>
 <text id="141242">%null%</text>
@@ -442,7 +442,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141247">%null%</text>
 <text id="141248">%null%</text>
 <text id="141249">%null%</text>
-<text id="141250">Battle with &lt;?npcNameId@506000?&gt; has commenced.
+<text id="141250">Бій з &lt;?npcNameId@506000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141251">%null%</text>
 <text id="141252">%null%</text>
@@ -453,7 +453,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141257">%null%</text>
 <text id="141258">%null%</text>
 <text id="141259">%null%</text>
-<text id="141260">Battle with &lt;?npcNameId@507000?&gt; has commenced.
+<text id="141260">Бій з &lt;?npcNameId@507000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141261">%null%</text>
 <text id="141262">%null%</text>
@@ -464,7 +464,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141267">%null%</text>
 <text id="141268">%null%</text>
 <text id="141269">%null%</text>
-<text id="141270">Battle with &lt;?npcNameId@508000?&gt; has commenced.
+<text id="141270">Бій з &lt;?npcNameId@508000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141271">%null%</text>
 <text id="141272">%null%</text>
@@ -475,7 +475,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141277">%null%</text>
 <text id="141278">%null%</text>
 <text id="141279">%null%</text>
-<text id="141280">Battle with &lt;?npcNameId@509000?&gt; has commenced.
+<text id="141280">Бій з &lt;?npcNameId@509000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141281">%null%</text>
 <text id="141282">%null%</text>
@@ -486,7 +486,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141287">%null%</text>
 <text id="141288">%null%</text>
 <text id="141289">%null%</text>
-<text id="141290">Battle with &lt;?npcNameId@510000?&gt; has commenced.
+<text id="141290">Бій з &lt;?npcNameId@510000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141291">%null%</text>
 <text id="141292">%null%</text>
@@ -497,7 +497,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141297">%null%</text>
 <text id="141298">%null%</text>
 <text id="141299">%null%</text>
-<text id="141300">Battle with &lt;?npcNameId@511000?&gt; has commenced.
+<text id="141300">Бій з &lt;?npcNameId@511000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141301">%null%</text>
 <text id="141302">%null%</text>
@@ -508,7 +508,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141307">%null%</text>
 <text id="141308">%null%</text>
 <text id="141309">%null%</text>
-<text id="141310">Battle with &lt;?npcNameId@512000?&gt; has commenced.
+<text id="141310">Бій з &lt;?npcNameId@512000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141311">%null%</text>
 <text id="141312">%null%</text>
@@ -519,7 +519,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141317">%null%</text>
 <text id="141318">%null%</text>
 <text id="141319">%null%</text>
-<text id="141320">Battle with &lt;?npcNameId@513000?&gt; has commenced.
+<text id="141320">Бій з &lt;?npcNameId@513000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141321">%null%</text>
 <text id="141322">%null%</text>
@@ -530,7 +530,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141327">%null%</text>
 <text id="141328">%null%</text>
 <text id="141329">%null%</text>
-<text id="141330">Battle with &lt;?npcNameId@540000?&gt; has commenced.
+<text id="141330">Бій з &lt;?npcNameId@540000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141331">%null%</text>
 <text id="141332">%null%</text>
@@ -541,7 +541,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141337">%null%</text>
 <text id="141338">%null%</text>
 <text id="141339">%null%</text>
-<text id="141340">Battle with &lt;?npcNameId@551000?&gt; has commenced.
+<text id="141340">Бій з &lt;?npcNameId@551000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141341">%null%</text>
 <text id="141342">%null%</text>
@@ -552,7 +552,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141347">%null%</text>
 <text id="141348">%null%</text>
 <text id="141349">%null%</text>
-<text id="141350">Battle with &lt;?npcNameId@750000?&gt; has commenced.
+<text id="141350">Бій з &lt;?npcNameId@750000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141351">%null%</text>
 <text id="141352">%null%</text>
@@ -563,14 +563,14 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="141357">%null%</text>
 <text id="141358">%null%</text>
 <text id="141359">%null%</text>
-<text id="141360">Battle with &lt;?npcNameId@804000?&gt; has commenced.
+<text id="141360">Бій з &lt;?npcNameId@804000?&gt; розпочався.
 Повернення у ваш світ.</text>
-<text id="141361">Battle with &lt;?npcNameId@805000?&gt; has commenced.
+<text id="141361">Бій з &lt;?npcNameId@805000?&gt; розпочався.
 Повернення у ваш світ.</text>
-<text id="141380">Battle with &lt;?npcNameId@899000?&gt; has commenced.
+<text id="141380">Бій з &lt;?npcNameId@899000?&gt; розпочався.
 Повернення у ваш світ.</text>
-<text id="142010">&lt;?npcNameId@1010?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142010">&lt;?npcNameId@1010?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142011">%null%</text>
 <text id="142012">%null%</text>
 <text id="142013">%null%</text>
@@ -580,8 +580,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142017">%null%</text>
 <text id="142018">%null%</text>
 <text id="142019">%null%</text>
-<text id="142020">&lt;?npcNameId@106000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142020">&lt;?npcNameId@106000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142021">%null%</text>
 <text id="142022">%null%</text>
 <text id="142023">%null%</text>
@@ -591,8 +591,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142027">%null%</text>
 <text id="142028">%null%</text>
 <text id="142029">%null%</text>
-<text id="142030">&lt;?npcNameId@127000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142030">&lt;?npcNameId@127000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142031">%null%</text>
 <text id="142032">%null%</text>
 <text id="142033">%null%</text>
@@ -602,8 +602,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142037">%null%</text>
 <text id="142038">%null%</text>
 <text id="142039">%null%</text>
-<text id="142040">&lt;?npcNameId@209000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142040">&lt;?npcNameId@209000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142041">%null%</text>
 <text id="142042">%null%</text>
 <text id="142043">%null%</text>
@@ -613,8 +613,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142047">%null%</text>
 <text id="142048">%null%</text>
 <text id="142049">%null%</text>
-<text id="142050">&lt;?npcNameId@210000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142050">&lt;?npcNameId@210000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142051">%null%</text>
 <text id="142052">%null%</text>
 <text id="142053">%null%</text>
@@ -624,8 +624,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142057">%null%</text>
 <text id="142058">%null%</text>
 <text id="142059">%null%</text>
-<text id="142060">&lt;?npcNameId@212010?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142060">&lt;?npcNameId@212010?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142061">%null%</text>
 <text id="142062">%null%</text>
 <text id="142063">%null%</text>
@@ -635,8 +635,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142067">%null%</text>
 <text id="142068">%null%</text>
 <text id="142069">%null%</text>
-<text id="142070">&lt;?npcNameId@212020?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142070">&lt;?npcNameId@212020?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142071">%null%</text>
 <text id="142072">%null%</text>
 <text id="142073">%null%</text>
@@ -646,8 +646,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142077">%null%</text>
 <text id="142078">%null%</text>
 <text id="142079">%null%</text>
-<text id="142080">&lt;?npcNameId@212030?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142080">&lt;?npcNameId@212030?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142081">%null%</text>
 <text id="142082">%null%</text>
 <text id="142083">%null%</text>
@@ -657,8 +657,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142087">%null%</text>
 <text id="142088">%null%</text>
 <text id="142089">%null%</text>
-<text id="142090">&lt;?npcNameId@216000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142090">&lt;?npcNameId@216000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142091">%null%</text>
 <text id="142092">%null%</text>
 <text id="142093">%null%</text>
@@ -668,8 +668,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142097">%null%</text>
 <text id="142098">%null%</text>
 <text id="142099">%null%</text>
-<text id="142100">&lt;?npcNameId@232000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142100">&lt;?npcNameId@232000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142101">%null%</text>
 <text id="142102">%null%</text>
 <text id="142103">%null%</text>
@@ -679,8 +679,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142107">%null%</text>
 <text id="142108">%null%</text>
 <text id="142109">%null%</text>
-<text id="142110">&lt;?npcNameId@251000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142110">&lt;?npcNameId@251000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142111">%null%</text>
 <text id="142112">%null%</text>
 <text id="142113">%null%</text>
@@ -690,8 +690,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142117">%null%</text>
 <text id="142118">%null%</text>
 <text id="142119">%null%</text>
-<text id="142120">&lt;?npcNameId@257000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142120">&lt;?npcNameId@257000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142121">%null%</text>
 <text id="142122">%null%</text>
 <text id="142123">%null%</text>
@@ -701,8 +701,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142127">%null%</text>
 <text id="142128">%null%</text>
 <text id="142129">%null%</text>
-<text id="142130">&lt;?npcNameId@271000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142130">&lt;?npcNameId@271000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142131">%null%</text>
 <text id="142132">%null%</text>
 <text id="142133">%null%</text>
@@ -712,8 +712,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142137">%null%</text>
 <text id="142138">%null%</text>
 <text id="142139">%null%</text>
-<text id="142140">&lt;?npcNameId@272000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142140">&lt;?npcNameId@272000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142141">%null%</text>
 <text id="142142">%null%</text>
 <text id="142143">%null%</text>
@@ -723,8 +723,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142147">%null%</text>
 <text id="142148">%null%</text>
 <text id="142149">%null%</text>
-<text id="142150">&lt;?npcNameId@304000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142150">&lt;?npcNameId@304000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142151">%null%</text>
 <text id="142152">%null%</text>
 <text id="142153">%null%</text>
@@ -734,8 +734,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142157">%null%</text>
 <text id="142158">%null%</text>
 <text id="142159">%null%</text>
-<text id="142160">&lt;?npcNameId@305000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142160">&lt;?npcNameId@305000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142161">%null%</text>
 <text id="142162">%null%</text>
 <text id="142163">%null%</text>
@@ -745,8 +745,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142167">%null%</text>
 <text id="142168">%null%</text>
 <text id="142169">%null%</text>
-<text id="142170">&lt;?npcNameId@306000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142170">&lt;?npcNameId@306000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142171">%null%</text>
 <text id="142172">%null%</text>
 <text id="142173">%null%</text>
@@ -756,8 +756,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142177">%null%</text>
 <text id="142178">%null%</text>
 <text id="142179">%null%</text>
-<text id="142180">&lt;?npcNameId@313000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142180">&lt;?npcNameId@313000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142181">%null%</text>
 <text id="142182">%null%</text>
 <text id="142183">%null%</text>
@@ -767,8 +767,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142187">%null%</text>
 <text id="142188">%null%</text>
 <text id="142189">%null%</text>
-<text id="142190">&lt;?npcNameId@500000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142190">&lt;?npcNameId@500000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142191">%null%</text>
 <text id="142192">%null%</text>
 <text id="142193">%null%</text>
@@ -778,8 +778,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142197">%null%</text>
 <text id="142198">%null%</text>
 <text id="142199">%null%</text>
-<text id="142200">&lt;?npcNameId@501000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142200">&lt;?npcNameId@501000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142201">%null%</text>
 <text id="142202">%null%</text>
 <text id="142203">%null%</text>
@@ -789,8 +789,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142207">%null%</text>
 <text id="142208">%null%</text>
 <text id="142209">%null%</text>
-<text id="142210">&lt;?npcNameId@502000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142210">&lt;?npcNameId@502000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142211">%null%</text>
 <text id="142212">%null%</text>
 <text id="142213">%null%</text>
@@ -800,8 +800,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142217">%null%</text>
 <text id="142218">%null%</text>
 <text id="142219">%null%</text>
-<text id="142220">&lt;?npcNameId@503000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142220">&lt;?npcNameId@503000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142221">%null%</text>
 <text id="142222">%null%</text>
 <text id="142223">%null%</text>
@@ -811,8 +811,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142227">%null%</text>
 <text id="142228">%null%</text>
 <text id="142229">%null%</text>
-<text id="142230">&lt;?npcNameId@504000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142230">&lt;?npcNameId@504000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142231">%null%</text>
 <text id="142232">%null%</text>
 <text id="142233">%null%</text>
@@ -822,8 +822,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142237">%null%</text>
 <text id="142238">%null%</text>
 <text id="142239">%null%</text>
-<text id="142240">&lt;?npcNameId@505000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142240">&lt;?npcNameId@505000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142241">%null%</text>
 <text id="142242">%null%</text>
 <text id="142243">%null%</text>
@@ -833,8 +833,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142247">%null%</text>
 <text id="142248">%null%</text>
 <text id="142249">%null%</text>
-<text id="142250">&lt;?npcNameId@506000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142250">&lt;?npcNameId@506000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142251">%null%</text>
 <text id="142252">%null%</text>
 <text id="142253">%null%</text>
@@ -844,8 +844,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142257">%null%</text>
 <text id="142258">%null%</text>
 <text id="142259">%null%</text>
-<text id="142260">&lt;?npcNameId@507000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142260">&lt;?npcNameId@507000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142261">%null%</text>
 <text id="142262">%null%</text>
 <text id="142263">%null%</text>
@@ -855,8 +855,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142267">%null%</text>
 <text id="142268">%null%</text>
 <text id="142269">%null%</text>
-<text id="142270">&lt;?npcNameId@508000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142270">&lt;?npcNameId@508000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142271">%null%</text>
 <text id="142272">%null%</text>
 <text id="142273">%null%</text>
@@ -866,8 +866,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142277">%null%</text>
 <text id="142278">%null%</text>
 <text id="142279">%null%</text>
-<text id="142280">&lt;?npcNameId@509000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142280">&lt;?npcNameId@509000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142281">%null%</text>
 <text id="142282">%null%</text>
 <text id="142283">%null%</text>
@@ -877,8 +877,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142287">%null%</text>
 <text id="142288">%null%</text>
 <text id="142289">%null%</text>
-<text id="142290">&lt;?npcNameId@510000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142290">&lt;?npcNameId@510000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142291">%null%</text>
 <text id="142292">%null%</text>
 <text id="142293">%null%</text>
@@ -888,8 +888,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142297">%null%</text>
 <text id="142298">%null%</text>
 <text id="142299">%null%</text>
-<text id="142300">&lt;?npcNameId@511000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142300">&lt;?npcNameId@511000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142301">%null%</text>
 <text id="142302">%null%</text>
 <text id="142303">%null%</text>
@@ -899,8 +899,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142307">%null%</text>
 <text id="142308">%null%</text>
 <text id="142309">%null%</text>
-<text id="142310">&lt;?npcNameId@512000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142310">&lt;?npcNameId@512000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142311">%null%</text>
 <text id="142312">%null%</text>
 <text id="142313">%null%</text>
@@ -910,8 +910,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142317">%null%</text>
 <text id="142318">%null%</text>
 <text id="142319">%null%</text>
-<text id="142320">&lt;?npcNameId@513000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142320">&lt;?npcNameId@513000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142321">%null%</text>
 <text id="142322">%null%</text>
 <text id="142323">%null%</text>
@@ -921,8 +921,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142327">%null%</text>
 <text id="142328">%null%</text>
 <text id="142329">%null%</text>
-<text id="142330">&lt;?npcNameId@540000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142330">&lt;?npcNameId@540000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142331">%null%</text>
 <text id="142332">%null%</text>
 <text id="142333">%null%</text>
@@ -932,8 +932,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142337">%null%</text>
 <text id="142338">%null%</text>
 <text id="142339">%null%</text>
-<text id="142340">&lt;?npcNameId@551000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142340">&lt;?npcNameId@551000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142341">%null%</text>
 <text id="142342">%null%</text>
 <text id="142343">%null%</text>
@@ -943,8 +943,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142347">%null%</text>
 <text id="142348">%null%</text>
 <text id="142349">%null%</text>
-<text id="142350">&lt;?npcNameId@750000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142350">&lt;?npcNameId@750000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142351">%null%</text>
 <text id="142352">%null%</text>
 <text id="142353">%null%</text>
@@ -954,8 +954,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142357">%null%</text>
 <text id="142358">%null%</text>
 <text id="142359">%null%</text>
-<text id="142360">&lt;?npcNameId@804000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142360">&lt;?npcNameId@804000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142361">%null%</text>
 <text id="142362">%null%</text>
 <text id="142363">%null%</text>
@@ -965,8 +965,8 @@ ending the hunt. Now, say farewell.</text>
 <text id="142367">%null%</text>
 <text id="142368">%null%</text>
 <text id="142369">%null%</text>
-<text id="142370">&lt;?npcNameId@805000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142370">&lt;?npcNameId@805000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="142371">%null%</text>
 <text id="142372">%null%</text>
 <text id="142373">%null%</text>
@@ -976,13 +976,13 @@ ending the hunt. Now, say farewell.</text>
 <text id="142377">%null%</text>
 <text id="142378">%null%</text>
 <text id="142379">%null%</text>
-<text id="142380">&lt;?npcNameId@899000?&gt; was defeated,
-ending the hunt. Now, say farewell.</text>
+<text id="142380">&lt;?npcNameId@899000?&gt; був переможений,
+полювання завершено. Час прощатися.</text>
 <text id="200000">One of your notes was rated "fine."</text>
-<text id="10010100">Inspect</text>
-<text id="10010101">Search Body</text>
-<text id="10010102">Search Corpse</text>
-<text id="10010103">Pick Up Item</text>
+<text id="10010100">Оглянути</text>
+<text id="10010101">Обшукати тіло</text>
+<text id="10010102">Обшукати труп</text>
+<text id="10010103">Підняти предмет</text>
 <text id="10010104">*</text>
 <text id="10010105">%null%</text>
 <text id="10010106">%null%</text>
@@ -1000,11 +1000,11 @@ ending the hunt. Now, say farewell.</text>
 <text id="10010157">%null%</text>
 <text id="10010158">%null%</text>
 <text id="10010159">%null%</text>
-<text id="10010160">Closed by a device.</text>
-<text id="10010161">Does not open from this side.</text>
-<text id="10010162">Opened from this side.</text>
-<text id="10010163">Locked.</text>
-<text id="10010164">Unlocked.</text>
+<text id="10010160">Замкнено пристроєм.</text>
+<text id="10010161">Не відчиняється з цієї сторони.</text>
+<text id="10010162">Відчинено з цієї сторони.</text>
+<text id="10010163">Зачинено.</text>
+<text id="10010164">Відчинено.</text>
 <text id="10010165">This town is long abandoned.
 Hunters not wanted here.</text>
 <text id="10010166">You have already received blood.</text>
@@ -1012,7 +1012,7 @@ Hunters not wanted here.</text>
 <text id="10010168">%null%</text>
 <text id="10010169">%null%</text>
 <text id="10010170">Already unlocked.</text>
-<text id="10010171">Closed.</text>
+<text id="10010171">Замкнено.</text>
 <text id="10010172">Device is not currently operable.</text>
 <text id="10010173">Only a special emblem opens the main gate.</text>
 <text id="10010174">A special emblem opened the main gate.</text>
@@ -1026,13 +1026,13 @@ Hunters not wanted here.</text>
 To proceed, quit and restart game.</text>
 <text id="10010182">%null%</text>
 <text id="10010183">%null%</text>
-<text id="10010184">Fire Cannon</text>
+<text id="10010184">Вогонь з гармати</text>
 <text id="10010185">%null%</text>
 <text id="10010186">%null%</text>
 <text id="10010187">%null%</text>
 <text id="10010188">%null%</text>
 <text id="10010189">%null%</text>
-<text id="10010190">An abandoned doll.</text>
+<text id="10010190">Покинута лялька.</text>
 <text id="10010191">%null%</text>
 <text id="10010192">%null%</text>
 <text id="10010193">%null%</text>
@@ -1114,8 +1114,8 @@ To proceed, quit and restart game.</text>
 <text id="10010547">%null%</text>
 <text id="10010548">%null%</text>
 <text id="10010549">%null%</text>
-<text id="10010550">Inspect Mummy</text>
-<text id="10010551">Inspect Bath</text>
+<text id="10010550">Оглянути мумію</text>
+<text id="10010551">Оглянути купіль</text>
 <text id="10010552">Hold up Celestial Dial</text>
 <text id="10010553">%null%</text>
 <text id="10010554">%null%</text>
@@ -1141,10 +1141,10 @@ To proceed, quit and restart game.</text>
 <text id="10010574">Summon Madman Wallar</text>
 <text id="10010575">Закликати Отця Гаскойна</text>
 <text id="10010576">Закликати Альфреда</text>
-<text id="10010600">Inspect Surgery Altar</text>
+<text id="10010600">Оглянути хірургічний вівтар.</text>
 <text id="10010601">There is a hole in the skull.</text>
 <text id="10010602">Insert Eye Pendant</text>
-<text id="10010603">Inspect Corpse</text>
+<text id="10010603">Оглянути труп</text>
 <text id="10010604">%null%</text>
 <text id="10010605">%null%</text>
 <text id="10010606">%null%</text>
@@ -1271,26 +1271,26 @@ and reawaken?</text>
 <text id="10010862">%null%</text>
 <text id="10010863">%null%</text>
 <text id="10010864">%null%</text>
-<text id="10010865">Opened door with &lt;?gdsparam@4001?&gt;.</text>
-<text id="10010866">Opened door with &lt;?gdsparam@4002?&gt;.</text>
-<text id="10010867">Opened door with &lt;?gdsparam@4003?&gt;.</text>
-<text id="10010868">Opened door with &lt;?gdsparam@4004?&gt;.</text>
-<text id="10010869">Opened door with &lt;?gdsparam@4005?&gt;.</text>
-<text id="10010870">Opened door with &lt;?gdsparam@4006?&gt;.</text>
-<text id="10010871">Opened door with &lt;?gdsparam@4007?&gt;.</text>
-<text id="10010872">Opened door with &lt;?gdsparam@4008?&gt;.</text>
-<text id="10010873">Opened door with &lt;?gdsparam@4009?&gt;.</text>
-<text id="10010874">Opened door with &lt;?gdsparam@4010?&gt;.</text>
-<text id="10010875">Opened door with &lt;?gdsparam@4011?&gt;.</text>
-<text id="10010876">Opened door with &lt;?gdsparam@4012?&gt;.</text>
-<text id="10010877">Opened door with &lt;?gdsparam@4013?&gt;.</text>
-<text id="10010878">Opened door with &lt;?gdsparam@4014?&gt;.</text>
-<text id="10010879">Opened door with &lt;?gdsparam@4015?&gt;.</text>
+<text id="10010865">Двері відкриті за допомогою &lt;?gdsparam@4001?&gt;.</text>
+<text id="10010866">Двері відкриті за допомогою &lt;?gdsparam@4002?&gt;.</text>
+<text id="10010867">Двері відкриті за допомогою &lt;?gdsparam@4003?&gt;.</text>
+<text id="10010868">Двері відкриті за допомогою &lt;?gdsparam@4004?&gt;.</text>
+<text id="10010869">Двері відкриті за допомогою &lt;?gdsparam@4005?&gt;.</text>
+<text id="10010870">Двері відкриті за допомогою &lt;?gdsparam@4006?&gt;.</text>
+<text id="10010871">Двері відкриті за допомогою &lt;?gdsparam@4007?&gt;.</text>
+<text id="10010872">Двері відкриті за допомогою &lt;?gdsparam@4008?&gt;.</text>
+<text id="10010873">Двері відкриті за допомогою &lt;?gdsparam@4009?&gt;.</text>
+<text id="10010874">Двері відкриті за допомогою &lt;?gdsparam@4010?&gt;.</text>
+<text id="10010875">Двері відкриті за допомогою &lt;?gdsparam@4011?&gt;.</text>
+<text id="10010876">Двері відкриті за допомогою &lt;?gdsparam@4012?&gt;.</text>
+<text id="10010877">Двері відкриті за допомогою &lt;?gdsparam@4013?&gt;.</text>
+<text id="10010878">Двері відкриті за допомогою &lt;?gdsparam@4014?&gt;.</text>
+<text id="10010879">Двері відкриті за допомогою &lt;?gdsparam@4015?&gt;.</text>
 <text id="10010880">%null%</text>
 <text id="10010881">%null%</text>
-<text id="10010882">Opened door with &lt;?gdsparam@4018?&gt;.</text>
-<text id="10010883">Opened door with &lt;?gdsparam@4019?&gt;.</text>
-<text id="10010884">Opened door with &lt;?gdsparam@4020?&gt;.</text>
+<text id="10010882">Двері відкриті за допомогою &lt;?gdsparam@4018?&gt;.</text>
+<text id="10010883">Двері відкриті за допомогою &lt;?gdsparam@4019?&gt;.</text>
+<text id="10010884">Двері відкриті за допомогою &lt;?gdsparam@4020?&gt;.</text>
 <text id="10011000">Use Blood Echoes to raise stats and level-up.</text>
 <text id="10011001">%null%</text>
 <text id="10011002">%null%</text>
@@ -1301,7 +1301,7 @@ and reawaken?</text>
 <text id="10011007">%null%</text>
 <text id="10011008">%null%</text>
 <text id="10011009">%null%</text>
-<text id="10011010">An abandoned doll.</text>
+<text id="10011010">Покинута лялька.</text>
 <text id="10011011">%null%</text>
 <text id="10011012">%null%</text>
 <text id="10011013">%null%</text>
@@ -1623,9 +1623,9 @@ You may now explore this Chalice Dungeon.</text>
 <text id="10011408">%null%</text>
 <text id="10011409">%null%</text>
 <text id="10011410">The Eye of a Blood-drunk Hunter beckons hunters to the Hunter's Nightmare. A deformed creature will whisk you away outside Oedon Chapel.</text>
-<text id="10012000">Handwritten scrawl:
+<text id="10012000">Рукописні каракулі:
 
-Seek Paleblood to transcend the hunt.</text>
+Знайди Блідокров, щоби звершити лови.</text>
 <text id="10012001">When the hunt began, the Healing Church left us,
 blocking the great bridge to Cathedral Ward, as
 Old Yharnam burned to the ground that moonlit night.</text>
@@ -1837,7 +1837,7 @@ Seek the nightmare newborn.</text>
 <text id="14000218">%null%</text>
 <text id="14000219">%null%</text>
 <text id="14000220">Give Red Jeweled Brooch</text>
-<text id="14000221">Do Not Give</text>
+<text id="14000221">Не віддавати</text>
 <text id="14000222">%null%</text>
 <text id="14000223">%null%</text>
 <text id="14000224">%null%</text>
@@ -1847,7 +1847,7 @@ Seek the nightmare newborn.</text>
 <text id="14000228">%null%</text>
 <text id="14000229">%null%</text>
 <text id="14000230">Give Red Messenger Ribbon</text>
-<text id="14000231">Do Not Give</text>
+<text id="14000231">Не віддавати</text>
 <text id="14000232">%null%</text>
 <text id="14000233">%null%</text>
 <text id="14000234">%null%</text>
@@ -1867,7 +1867,7 @@ Seek the nightmare newborn.</text>
 <text id="14000248">%null%</text>
 <text id="14000249">%null%</text>
 <text id="14000250">Submit Your Life</text>
-<text id="14000251">Refuse</text>
+<text id="14000251">Відмовитися</text>
 <text id="14000252">%null%</text>
 <text id="14000253">%null%</text>
 <text id="14000254">%null%</text>
@@ -1877,7 +1877,7 @@ Seek the nightmare newborn.</text>
 <text id="14000258">%null%</text>
 <text id="14000259">%null%</text>
 <text id="14000260">Swear Vileblood Oath</text>
-<text id="14000261">Refuse</text>
+<text id="14000261">Відмовитися</text>
 <text id="14000262">%null%</text>
 <text id="14000263">%null%</text>
 <text id="14000264">%null%</text>
@@ -1897,7 +1897,7 @@ Seek the nightmare newborn.</text>
 <text id="14000278">%null%</text>
 <text id="14000279">%null%</text>
 <text id="14000280">Receive Blood Treatment</text>
-<text id="14000281">Refuse</text>
+<text id="14000281">Відмовитися</text>
 <text id="14000282">%null%</text>
 <text id="14000283">%null%</text>
 <text id="14000284">%null%</text>
@@ -1907,7 +1907,7 @@ Seek the nightmare newborn.</text>
 <text id="14000288">%null%</text>
 <text id="14000289">%null%</text>
 <text id="14000290">Find Girl's Mother</text>
-<text id="14000291">Refuse</text>
+<text id="14000291">Відмовитися</text>
 <text id="14000292">%null%</text>
 <text id="14000293">%null%</text>
 <text id="14000294">%null%</text>
@@ -1927,7 +1927,7 @@ Seek the nightmare newborn.</text>
 <text id="14000308">%null%</text>
 <text id="14000309">%null%</text>
 <text id="14000310">Cooperate</text>
-<text id="14000311">Refuse</text>
+<text id="14000311">Відмовитися</text>
 <text id="14000312">%null%</text>
 <text id="14000313">%null%</text>
 <text id="14000314">%null%</text>
@@ -1949,7 +1949,7 @@ Seek the nightmare newborn.</text>
 <text id="14000330">Offer Flesh To Altar</text>
 <text id="14000331">Do Nothing</text>
 <text id="14000400">Join the League</text>
-<text id="14000401">Refuse</text>
+<text id="14000401">Відмовитися</text>
 <text id="14000402">%null%</text>
 <text id="14000403">%null%</text>
 <text id="14000404">%null%</text>
@@ -1959,7 +1959,7 @@ Seek the nightmare newborn.</text>
 <text id="14000408">%null%</text>
 <text id="14000409">%null%</text>
 <text id="14000410">Accept Blood</text>
-<text id="14000411">Refuse</text>
+<text id="14000411">Відмовитися</text>
 <text id="14000412">%null%</text>
 <text id="14000413">%null%</text>
 <text id="14000414">%null%</text>
@@ -1969,7 +1969,7 @@ Seek the nightmare newborn.</text>
 <text id="14000418">%null%</text>
 <text id="14000419">%null%</text>
 <text id="14000420">Give Brain Fluid</text>
-<text id="14000421">Refuse</text>
+<text id="14000421">Відмовитися</text>
 <text id="14000422">%null%</text>
 <text id="14000423">%null%</text>
 <text id="14000424">%null%</text>
@@ -2112,7 +2112,7 @@ Seek the nightmare newborn.</text>
 <text id="15000148">%null%</text>
 <text id="15000149">%null%</text>
 <text id="15000150">Buy with Insight</text>
-<text id="15000180">Cancel</text>
+<text id="15000180">Скасувати</text>
 <text id="15000181">%null%</text>
 <text id="15000182">%null%</text>
 <text id="15000183">%null%</text>
@@ -2125,26 +2125,26 @@ Seek the nightmare newborn.</text>
 <text id="15000190">*</text>
 <text id="15000220">*</text>
 <text id="15000400">*</text>
-<text id="20000400">Sent cooperator &lt;?leaveName?&gt; back
-to their own world.</text>
+<text id="20000400">Поплічник &lt;?leaveName?&gt; був
+відправлений у свій світ.</text>
 <text id="20000401">Sent back to own world by
 beckoner &lt;?hostName?&gt;.</text>
-<text id="20000402">Cooperator &lt;?leaveName?&gt;
+<text id="20000402">Поплічник &lt;?leaveName?&gt;
 returned to their own world.</text>
 <text id="20000403">Повернення у ваш світ.</text>
-<text id="20000404">Cooperator &lt;?leaveName?&gt;
+<text id="20000404">Поплічник &lt;?leaveName?&gt;
 returned to their own world.</text>
-<text id="20000405">Cooperator &lt;?leaveName?&gt;
+<text id="20000405">Поплічник &lt;?leaveName?&gt;
 returned to their own world.</text>
 <text id="20000406">Bell silenced.
 Повернення у ваш світ.</text>
-<text id="20000407">Adversary &lt;?leaveName?&gt;
+<text id="20000407">Супротивник &lt;?leaveName?&gt;
 returned to their own world.</text>
-<text id="20000408">Adversary &lt;?leaveName?&gt;
+<text id="20000408">Супротивник &lt;?leaveName?&gt;
 returned to their own world.</text>
-<text id="20000409">Vileblood &lt;?leaveName?&gt;
+<text id="20000409">Нечистокровний &lt;?leaveName?&gt;
 returned to their own world.</text>
-<text id="20000410">Vileblood &lt;?leaveName?&gt;
+<text id="20000410">Нечистокровний &lt;?leaveName?&gt;
 returned to their own world.</text>
 <text id="20000411">Executioner &lt;?leaveName?&gt;
 returned to their own world.</text>
@@ -2156,54 +2156,54 @@ returned to their own world.</text>
 returned to their own world.</text>
 <text id="20000415">Sent Confederate &lt;?leaveName?&gt; back
 to their own world.</text>
-<text id="20000416">Confederate &lt;?leaveName?&gt;
+<text id="20000416">Союзник &lt;?leaveName?&gt;
 sent back to own world.</text>
-<text id="20000417">Confederate &lt;?leaveName?&gt; returned
+<text id="20000417">Союзник &lt;?leaveName?&gt; returned
 to their own world.</text>
-<text id="20000418">Confederate &lt;?leaveName?&gt; returned
+<text id="20000418">Союзник &lt;?leaveName?&gt; returned
 to their own world.</text>
 <text id="20000419">Sent Confederate &lt;?leaveName?&gt; back
 to their own world.</text>
-<text id="20000420">Confederate &lt;?leaveName?&gt;
+<text id="20000420">Союзник &lt;?leaveName?&gt;
 sent back to own world.</text>
-<text id="20000421">Confederate &lt;?leaveName?&gt; returned
+<text id="20000421">Союзник &lt;?leaveName?&gt; returned
 to their own world.</text>
-<text id="20000422">Confederate &lt;?leaveName?&gt; returned
+<text id="20000422">Союзник &lt;?leaveName?&gt; returned
 to their own world.</text>
 <text id="20000450">Sent Old Hunter &lt;?leaveName?&gt; back
 to their own world.</text>
 <text id="20000451">%null%</text>
-<text id="20000452">Old Hunter &lt;?leaveName?&gt;
+<text id="20000452">Старий Мисливець &lt;?leaveName?&gt;
 sent back to own world.</text>
 <text id="20000453">%null%</text>
-<text id="20000454">Old Hunter &lt;?leaveName?&gt; returned
+<text id="20000454">Старий Мисливець &lt;?leaveName?&gt; returned
 to their own world.</text>
 <text id="20000455">%null%</text>
 <text id="20000456">%null%</text>
-<text id="20000457">Old Hunter &lt;?leaveName?&gt; returned
+<text id="20000457">Старий Мисливець &lt;?leaveName?&gt; returned
 to their own world.</text>
 <text id="20000458">%null%</text>
-<text id="20000459">Old Hunter &lt;?leaveName?&gt; returned
+<text id="20000459">Старий Мисливець &lt;?leaveName?&gt; returned
 to their own world.</text>
 <text id="20000460">%null%</text>
-<text id="20000461">Old Hunter &lt;?leaveName?&gt; returned
+<text id="20000461">Старий Мисливець &lt;?leaveName?&gt; returned
 to their own world.</text>
 <text id="20000462">%null%</text>
-<text id="20000463">Old Hunter &lt;?leaveName?&gt; returned
+<text id="20000463">Старий Мисливець &lt;?leaveName?&gt; returned
 to their own world.</text>
 <text id="20000464">%null%</text>
 <text id="20000465">Sent Confederate &lt;?leaveName?&gt; back
 to their own world.</text>
-<text id="20000466">Confederate &lt;?leaveName?&gt;
+<text id="20000466">Союзник &lt;?leaveName?&gt;
 sent back to own world.</text>
-<text id="20000467">Confederate &lt;?leaveName?&gt; returned
+<text id="20000467">Союзник &lt;?leaveName?&gt; returned
 to their own world.</text>
 <text id="20000468">%null%</text>
 <text id="20000469">Sent Confederate &lt;?leaveName?&gt; back
 to their own world.</text>
-<text id="20000470">Confederate &lt;?leaveName?&gt;
+<text id="20000470">Союзник &lt;?leaveName?&gt;
 sent back to own world.</text>
-<text id="20000471">Confederate &lt;?leaveName?&gt; returned
+<text id="20000471">Союзник &lt;?leaveName?&gt; returned
 to their own world.</text>
 <text id="20001000">Session lost.</text>
 <text id="20001001">Exiting session due to
