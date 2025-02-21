@@ -2,12 +2,16 @@ Armory:
   Cleaver Saw:
     en: Cleaver Saw
     uk: Клинкова пила
+  Saw Cleaver:
+    en: Saw Cleaver
+    uk: Сокира-пила
+
   Blunderbuss:
     en: Blunderbuss
-    uk: Мушкетон
+    uk: Рушниця
   Hunter’s Axe:
     en: Hunter’s Axe
-    uk: Мисливська сокира
+    uk: Мисливська Cокира
   Pistol:
     en: Pistol
     uk: Пістолет
@@ -23,7 +27,39 @@ Armory:
       - Викривлені двоклинки
   Blade of Mercy:
     en: Blade of Mercy
-    uk: Меч милосердя
+    uk: Меч Милосердя
+  Chikage:
+    en: Chikage
+    uk: Чікаґе
+  Burial Blade:
+    en: Burial Blade
+    jp: 葬送の刃
+    note:
+      - The name of the weapon in Japanese is '葬送の刃' which translates to 'Funeral Attendance Blade'.
+      - I decided to go for a more poetic translation, as the original one is a bit too literal.
+    uk: Клинок Похоронної Тіні
+  Hunter Blunderbuss:
+    en: Hunter Blunderbuss
+    jp: 獣狩りの散弾銃
+    note: The name of the weapon in Japanese is '獣狩りの散弾銃' which translates to 'Beast Hunting Shotgun'.
+    uk: Рушниця Звіробоя
+  Ludwig's Rifle:
+    en: Ludwig's Rifle
+    uk: Рушниця Людвіга
+  Rakuyo:
+    en: Rakuyo
+    jp: 落葉
+    uk: Ракуйо
+    note: "The name of the weapon in Japanese is '落葉' which translates to 'Falling Leaves'."
+
+Modifiers:
+  Uncanny:
+    en: Uncanny
+    uk: Незвичайний
+  Lost:
+    en: Lost
+    uk: Втрачений
+
 
 Names:
   Oedon:
@@ -156,7 +192,9 @@ Runes:
     uk: Зв'язок
   Heir:
     en: Heir
-    uk: Спадкоємець
+    jp: 継承
+    uk: Спадщина
+
   Beast:
     en: Beast
     uk: Почвара
@@ -290,7 +328,7 @@ Other:
     uk: потойбічний
   visceral attacks:
     en: visceral attacks
-    uk: смертельні атаки
+    uk: ураження внутрішніх органів
   Sinister:
     en: Sinister
     uk: Зловісний

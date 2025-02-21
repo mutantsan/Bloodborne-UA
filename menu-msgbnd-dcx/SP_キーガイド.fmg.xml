@@ -7,7 +7,7 @@
 <entries>
 <text id="1000">Л. кнопка панелі</text>
 <text id="1001">П. кнопка панелі</text>
-<text id="100000">OK</text>
+<text id="100000">ОК</text>
 <text id="100001">Підтвердити</text>
 <text id="100002">Використати предмет</text>
 <text id="100003">Ред.</text>
@@ -87,6 +87,6 @@
 <text id="400006">*</text>
 <text id="400007">Керування</text>
 <text id="407000">%null%</text>
-<text id="407001">OK</text>
+<text id="407001">ОК</text>
 </entries>
 </fmg>
