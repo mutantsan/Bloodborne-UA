@@ -45,28 +45,28 @@
 
 Нижче наведений список файлів, які ще не перекладені з прогресом перекладу:
 
-There are 4661 untranslated lines in `血文字.fmg.xml`
-There are 681 untranslated lines in `SP_メニューテキスト.fmg.xml`
-There are 2501 untranslated lines in `魔石効果.fmg.xml`
-There are 3546 untranslated lines in `魔石うんちく.fmg.xml`
-There are 20 untranslated lines in `魔石説明.fmg.xml`
-There are 408 untranslated lines in `イベントテキスト.fmg.xml`
-There are 120 untranslated lines in `キーガイド.fmg.xml`
-There are 2500 untranslated lines in `会話.fmg.xml`
-There are 83 untranslated lines in `SP_一行ヘルプ.fmg.xml`
-There are 161 untranslated lines in `ダイアログ.fmg.xml`
-There are 164 untranslated lines in `SP_ダイアログ.fmg.xml`
-There are 712 untranslated lines in `メニュー共通テキスト.fmg.xml`
-There are 73 untranslated lines in `インゲームメニュー.fmg.xml`
-There are 41 untranslated lines in `システムメッセージ_win64.fmg.xml`
-There are 3114 untranslated lines in `魔石名.fmg.xml`
-There are 134 untranslated lines in `アイテム説明.fmg.xml`
-There are 704 untranslated lines in `武器名.fmg.xml`
-There are 37 untranslated lines in `地名.fmg.xml`
-There are 257 untranslated lines in `アイテム名.fmg.xml`
-There are 46 untranslated lines in `NPC名.fmg.xml`
-There are 231 untranslated lines in `アイテムうんちく.fmg.xml`
-There are 1025 untranslated lines in `武器うんちく.fmg.xml`
-There are 114 untranslated lines in `防具うんちく.fmg.xml`
+    There are 4661 untranslated lines in `血文字.fmg.xml`
+    There are 681 untranslated lines in `SP_メニューテキスト.fmg.xml`
+    There are 2501 untranslated lines in `魔石効果.fmg.xml`
+    There are 3546 untranslated lines in `魔石うんちく.fmg.xml`
+    There are 20 untranslated lines in `魔石説明.fmg.xml`
+    There are 408 untranslated lines in `イベントテキスト.fmg.xml`
+    There are 120 untranslated lines in `キーガイド.fmg.xml`
+    There are 2500 untranslated lines in `会話.fmg.xml`
+    There are 83 untranslated lines in `SP_一行ヘルプ.fmg.xml`
+    There are 161 untranslated lines in `ダイアログ.fmg.xml`
+    There are 164 untranslated lines in `SP_ダイアログ.fmg.xml`
+    There are 712 untranslated lines in `メニュー共通テキスト.fmg.xml`
+    There are 73 untranslated lines in `インゲームメニュー.fmg.xml`
+    There are 41 untranslated lines in `システムメッセージ_win64.fmg.xml`
+    There are 3114 untranslated lines in `魔石名.fmg.xml`
+    There are 134 untranslated lines in `アイテム説明.fmg.xml`
+    There are 704 untranslated lines in `武器名.fmg.xml`
+    There are 37 untranslated lines in `地名.fmg.xml`
+    There are 257 untranslated lines in `アイテム名.fmg.xml`
+    There are 46 untranslated lines in `NPC名.fmg.xml`
+    There are 231 untranslated lines in `アイテムうんちく.fmg.xml`
+    There are 1025 untranslated lines in `武器うんちく.fmg.xml`
+    There are 114 untranslated lines in `防具うんちく.fmg.xml`
 
 There are 21333 untranslated lines in total so far, which is 52.35%
