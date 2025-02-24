@@ -22,9 +22,7 @@ Armory:
     note: "The name of the weapon in Japanese is '教会の石槌' which translates to 'Church's Stone Hammer'."
   Warped Twinblades:
     en: Warped Twinblades
-    uk:
-      - Викривлені клинки
-      - Викривлені двоклинки
+    uk: Викривлені парні клинки
   Blade of Mercy:
     en: Blade of Mercy
     uk: Меч Милосердя
@@ -51,6 +49,9 @@ Armory:
     jp: 落葉
     uk: Ракуйо
     note: "The name of the weapon in Japanese is '落葉' which translates to 'Falling Leaves'."
+  trick weapon:
+    en: trick weapon
+    uk: винахідлива зброя
 
 Modifiers:
   Uncanny:
@@ -146,6 +147,17 @@ Names:
   Ludwig:
     en: Ludwig
     uk: Людвіг
+  Man-beast:
+    en: Man-beast
+    jp: 獣人
+    uk: Звіролюд
+    note: "The name of the enemy in Japanese is '獣人' which translates to 'Beastman'."
+  Djura:
+    en: Djura
+    uk: Джура
+  Amygdala:
+    en: Amygdala
+    uk: Амігдала
 
 Runes:
   Radiance:
@@ -299,6 +311,7 @@ Items:
   Holy Shawl:
     en: Holy Shawl
     uk: Священна Риза
+
 Other:
   summon:
     en: summon
@@ -358,3 +371,10 @@ Attack types:
   thrust:
     en: thrust
     uk: колючі
+
+Phrases:
+  May the good blood guide your way:
+    en: May the good blood guide your way
+    uk: Нехай благословення крові буде з тобою
+    jp: 血の加護がありますように
+    note: "The phrase in Japanese is '血の加護がありますように' which translates to 'May the protection of blood be with you'."
