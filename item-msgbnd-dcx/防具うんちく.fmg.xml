@@ -26,15 +26,14 @@
 <text id="3800">НЕ ПОТРІБНО</text>
 <text id="3900">НЕ ПОТРІБНО</text>
 <text id="5000">НЕ ПОТРІБНО</text>
-<text id="10000">Attire of the retired hunter Djura.
-This worn wolf cap was his trademark.
+<text id="10000">Вбрання старого мисливця Джури.
+Цей потертий вовчий капелюх був його візитівкою.
 
-Djura is known through his contact with the Powder Kegs,
-the heretics of the workshop. He is said to have been
-both uncommonly kind and dreadfully foolish.
+Відомий своїми зв’язками з єретиками майстерні, "Порохівниками",
+він був напрочуд добрим і, можливо, наївним чоловіком.
 
-Djura felt defeated by the state of Old Yharnam,
-and renounced his hunter's vows.</text>
+Саме тому, у відчаї від жахливих подій у Старому Ярнамі,
+він зрікся полювання і залишив шлях мисливця.</text>
 <text id="11000">One of the staple articles of hunter attire, fashioned at the workshop.
 
 A product of the scourge of the beast that once plagued Old Yharnam and culminated in the town's fiery cleansing.
@@ -607,33 +606,30 @@ Not typical clothing for Yharnam, perhaps it is of foreign origin. It is said, a
 
 Without memory, who will ever know?</text>
 <text id="240000">НЕ ПОТРІБНО</text>
-<text id="241000">Attire of the retired hunter Djura.
-Painted with ash in a ceremony to ward off blood.
+<text id="241000">Вбрання старого мисливця Джури.
+Вкрите попелом — частина ритуалу, що мав захистити від крові.
 
-Djura is known through his contact with the Powder Kegs,
-the heretics of the workshop. He is said to have been
-both uncommonly kind and dreadfully foolish.
+Відомий своїми зв’язками з єретиками майстерні, "Порохівниками",
+він був напрочуд добрим і, можливо, наївним чоловіком.
 
-Djura felt defeated by the state of Old Yharnam,
-and renounced his hunter's vows.</text>
-<text id="242000">Attire of the retired hunter Djura.
-Painted with ash in a ceremony to ward off blood.
+Саме тому, у відчаї від жахливих подій у Старому Ярнамі,
+він зрікся полювання і залишив шлях мисливця.</text>
+<text id="242000">Вбрання старого мисливця Джури.
+Вкрите попелом — частина ритуалу, що мав захистити від крові.
 
-Djura is known through his contact with the Powder Kegs,
-the heretics of the workshop. He is said to have been
-both uncommonly kind and dreadfully foolish.
+Відомий своїми зв’язками з єретиками майстерні, "Порохівниками",
+він був напрочуд добрим і, можливо, наївним чоловіком.
 
-Djura felt defeated by the state of Old Yharnam,
-and renounced his hunter's vows.</text>
-<text id="243000">Attire of the retired hunter Djura.
-Painted with ash in a ceremony to ward off blood.
+Саме тому, у відчаї від жахливих подій у Старому Ярнамі,
+він зрікся полювання і залишив шлях мисливця.</text>
+<text id="243000">Вбрання старого мисливця Джури.
+Вкрите попелом — частина ритуалу, що мав захистити від крові.
 
-Djura is known through his contact with the Powder Kegs,
-the heretics of the workshop. He is said to have been
-both uncommonly kind and dreadfully foolish.
+Відомий своїми зв’язками з єретиками майстерні, "Порохівниками",
+він був напрочуд добрим і, можливо, наївним чоловіком.
 
-Djura felt defeated by the state of Old Yharnam,
-and renounced his hunter's vows.</text>
+Саме тому, у відчаї від жахливих подій у Старому Ярнамі,
+він зрікся полювання і залишив шлях мисливця.</text>
 <text id="250000">One of the precious secrets of Cainhurst.
 The old king's crown is said to reveal illusions,
 and expose a mirage that hides a secret.
@@ -669,11 +665,18 @@ hunters from becoming something else.</text>
 A fine piece of hunter attire that provides stable defense to anyone facing Yharnam's beastly threat.
 
 Allows one to stalk beasts unannounced, by cover of night.</text>
-<text id="290000">Attire of special Church doctors.
+<text id="290000">Вбрання особливих церковних цілителів.
 
-These doctors are superiors to the black preventative hunters, and specialists in experimentally backed blood ministration and the scourge of the beast.
+Вони стоять вище за чорних мисливців-профілактиків,
+адже їхні знання у сфері лікування крові та звіриної скверни підкріплені експериментами.
 
-They believe that medicine is not a means of treatment but rather a method for research, and that some knowledge can only be obtained by exposing oneself to sickness.</text>
+These doctors are superiors to the black preventative
+hunters, and specialists in experimentally backed blood
+ministration and the scourge of the beast.
+
+They believe that medicine is not a means of treatment
+but rather a method for research, and that some knowledge
+can only be obtained by exposing oneself to sickness.</text>
 <text id="291000">Attire of special Church doctors.
 
 These doctors are superiors to the black preventative
