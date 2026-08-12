@@ -137,15 +137,15 @@ Sony Entertainment Network.</text>
 <text id="102047">%null%</text>
 <text id="102048">%null%</text>
 <text id="102049">%null%</text>
-<text id="102050">This action will exceed maximum Insight.
-Insight exceeding maximum will be lost.
-Still okay to use?</text>
-<text id="102051">This action will exceed maximum blood echoes.
-Blood echoes exceeding maximum will be lost.
-Still okay to use?</text>
-<text id="103000">Cannot equip as item's attribute requirements not met.</text>
-<text id="104000">Cannot equip as item's attribute requirements not met.</text>
-<text id="110000">Exit game and return to title menu?</text>
+<text id="102050">Ця дія перевищить максимум Прозріння.
+Прозріння понад максимум буде втрачено.
+Все одно використати?</text>
+<text id="102051">Ця дія перевищить максимум Кривавих спогадів.
+Кроваві спогади понад максимум буде втрачено.
+Все одно використати?</text>
+<text id="103000">Неможливо екіпірувати, оскільки не виконано вимоги до характеристик предмета.</text>
+<text id="104000">Неможливо екіпірувати, оскільки не виконано вимоги до характеристик предмета.</text>
+<text id="110000">Вийти з гри та повернутися до титульного меню?</text>
 <text id="110001">%null%</text>
 <text id="110002">%null%</text>
 <text id="110003">%null%</text>
@@ -155,22 +155,22 @@ Still okay to use?</text>
 <text id="110007">%null%</text>
 <text id="110008">%null%</text>
 <text id="110009">%null%</text>
-<text id="110010">Network cannot be used in offline mode.
+<text id="110010">Мережу неможливо використовувати в автономному режимі.
 
-To use network features,
-select Log In from title menu.</text>
-<text id="110011">Network cannot be used in offline mode.
+Щоб використовувати мережеві функції,
+оберіть Увійти в титульному меню.</text>
+<text id="110011">Мережу неможливо використовувати в автономному режимі.
 
-Please return to title menu and log in
-to make use of network features.</text>
-<text id="114000">User-generated media restrictions
-have been set by parental control.
-Names for other players will be
-limited to online IDs.</text>
-<text id="211000">Spend &lt;?demandSoul?&gt; Blood Echoes
-and level up?</text>
-<text id="211001">OK to cancel edited changes?</text>
-<text id="211002">No attribute selected.</text>
+Будь ласка, поверніться до титульного меню та увійдіть,
+щоб використовувати мережеві функції.</text>
+<text id="114000">Батьківський контроль встановив обмеження
+на користувацький контент.
+Імена інших гравців буде
+обмежено онлайн-ідентифікаторами.</text>
+<text id="211000">Витратити &lt;?demandSoul?&gt; Кривавих спогадів
+та підвищити рівень?</text>
+<text id="211001">Скасувати внесені зміни?</text>
+<text id="211002">Характеристику не обрано.</text>
 <text id="211003">%null%</text>
 <text id="211004">%null%</text>
 <text id="211005">%null%</text>
@@ -178,17 +178,17 @@ and level up?</text>
 <text id="211007">%null%</text>
 <text id="211008">%null%</text>
 <text id="211009">%null%</text>
-<text id="211010">Level at maximum.
-Cannot raise level any further.</text>
-<text id="212000">Effect overlaps with memorized Caryll Rune.
-Overlapping effects will not stack.
-OK?</text>
-<text id="221000">Use &lt;?demandSoul?&gt; Blood Echoes and
-&lt;?demandItemName?&gt; × &lt;?demandItemNum?&gt;
-to fortify weapon?</text>
-<text id="221001">Not enough Blood Echoes or Blood Stones.</text>
-<text id="221002">This weapon is fully upgraded and cannot be
-fortified any further.</text>
+<text id="211010">Рівень досяг максимуму.
+Подальше підвищення рівня неможливе.</text>
+<text id="212000">Ефект перетинається із запам'ятованою Руною Каріла.
+Ефекти, що перетинаються, не підсумовуються.
+Продовжити?</text>
+<text id="221000">Використати &lt;?demandSoul?&gt; Кривавих спогадів та
+&lt;?demandItemName?&gt; × &lt;?demandItemNum?&gt;,
+щоб посилити зброю?</text>
+<text id="221001">Недостатньо Кривавих спогадів або Кров'яних каменів.</text>
+<text id="221002">Цю зброю повністю вдосконалено, її неможливо
+посилити далі.</text>
 <text id="221003">%null%</text>
 <text id="221004">%null%</text>
 <text id="221005">%null%</text>
@@ -196,41 +196,41 @@ fortified any further.</text>
 <text id="221007">%null%</text>
 <text id="221008">%null%</text>
 <text id="221009">%null%</text>
-<text id="221010">More Blood Echoes required to fortify.</text>
-<text id="221011">More Blood Stones required to fortify.</text>
-<text id="221012">More Blood Stones and Blood Echoes required to fortify.</text>
-<text id="222000">Cannot remove this blood gem.</text>
-<text id="222001">Removing blood gem.
-Removed blood gem will be lost.</text>
-<text id="222002">Fusing new blood gem over the old.
-Old blood gem will be lost.</text>
-<text id="222003">This blood gem cannot be removed after it is fused.
-Are you sure you want to fuse?</text>
-<text id="222004">Effect overlaps with fused blood gem.
-Overlapping effects will not stack.
-OK?</text>
-<text id="222005">Blood gems fused to weapons can only be removed
-by fusing other blood gems</text>
-<text id="222006">Inventory is full.
-Cannot unequip.</text>
-<text id="223000">Repair &lt;?itemName?&gt;
-for &lt;?demandSoul?&gt; Blood Echoes.</text>
-<text id="223001">Repair all of those weapons lost durability
-for &lt;?demandSoul?&gt; Blood Echoes.</text>
-<text id="231000">Select quantity to buy.</text>
-<text id="231001">Buy &lt;?itemName?&gt;
-for &lt;?demandSoul?&gt; Blood Echoes?</text>
-<text id="231002">Buy &lt;?itemName?&gt;
-for &lt;?demandHeroic?&gt; Insight?</text>
-<text id="231003">Receive &lt;?itemName?&gt;?</text>
+<text id="221010">Для посилення потрібно більше Кривавих спогадів.</text>
+<text id="221011">Для посилення потрібно більше Кров'яних каменів.</text>
+<text id="221012">Для посилення потрібно більше Кров'яних каменів і Кривавих спогадів.</text>
+<text id="222000">Неможливо вилучити цей Кривавий самоцвіт.</text>
+<text id="222001">Вилучення Кривавого самоцвіту.
+Вилучений самоцвіт буде втрачено.</text>
+<text id="222002">Вставлення нового Кривавого самоцвіту замість старого.
+Старий самоцвіт буде втрачено.</text>
+<text id="222003">Цей Кривавий самоцвіт неможливо буде вилучити після вставлення.
+Ви впевнені, що хочете вставити його?</text>
+<text id="222004">Ефект перетинається із вставленим Кривавим самоцвітом.
+Ефекти, що перетинаються, не підсумовуються.
+Продовжити?</text>
+<text id="222005">Криваві самоцвіти, вставлені у зброю, можна вилучити
+лише вставивши інші самоцвіти</text>
+<text id="222006">Інвентар заповнено.
+Неможливо зняти.</text>
+<text id="223000">Відремонтувати &lt;?itemName?&gt;
+за &lt;?demandSoul?&gt; Кривавих спогадів.</text>
+<text id="223001">Відремонтувати всю зброю, що втратила міцність,
+за &lt;?demandSoul?&gt; Кривавих спогадів.</text>
+<text id="231000">Оберіть кількість для купівлі.</text>
+<text id="231001">Купити &lt;?itemName?&gt;
+за &lt;?demandSoul?&gt; Кривавих спогадів?</text>
+<text id="231002">Купити &lt;?itemName?&gt;
+за &lt;?demandHeroic?&gt; Прозріння?</text>
+<text id="231003">Отримати &lt;?itemName?&gt;?</text>
 <text id="231004">%null%</text>
 <text id="231005">%null%</text>
 <text id="231006">%null%</text>
 <text id="231007">%null%</text>
 <text id="231008">%null%</text>
 <text id="231009">%null%</text>
-<text id="231010">Inventory is full.
-Cannot buy.</text>
+<text id="231010">Інвентар заповнено.
+Неможливо купити.</text>
 <text id="231011">%null%</text>
 <text id="231012">%null%</text>
 <text id="231013">%null%</text>
@@ -240,12 +240,12 @@ Cannot buy.</text>
 <text id="231017">%null%</text>
 <text id="231018">%null%</text>
 <text id="231019">%null%</text>
-<text id="231020">Items exceeding maximum were
-placed in storage.</text>
-<text id="232000">Select quantity to sell.</text>
-<text id="232001">Sell &lt;?itemName?&gt;
-for &lt;?sellSouls?&gt; Blood Echoes?</text>
-<text id="232002">Cannot sell this item.</text>
+<text id="231020">Предмети понад максимум
+було вкладено у скриню.</text>
+<text id="232000">Оберіть кількість для продажу.</text>
+<text id="232001">Продати &lt;?itemName?&gt;
+за &lt;?sellSouls?&gt; Кривавих спогадів?</text>
+<text id="232002">Неможливо продати цей предмет.</text>
 <text id="232003">%null%</text>
 <text id="232004">%null%</text>
 <text id="232005">%null%</text>
@@ -253,60 +253,60 @@ for &lt;?sellSouls?&gt; Blood Echoes?</text>
 <text id="232007">%null%</text>
 <text id="232008">%null%</text>
 <text id="232009">%null%</text>
-<text id="232010">Cannot sell currently equipped items.</text>
-<text id="232011">Fused blood gems will be lost when the item is sold
-Okay?</text>
-<text id="232012">Fused blood gems will also be sold
-Okay?</text>
-<text id="251000">Select quantity of &lt;?itemName?&gt; to store.</text>
-<text id="251001">Store
+<text id="232010">Неможливо продати екіпіровані предмети.</text>
+<text id="232011">Вставлені Криваві самоцвіти буде втрачено після продажу предмета.
+Продовжити?</text>
+<text id="232012">Вставлені Криваві самоцвіти також буде продано.
+Продовжити?</text>
+<text id="251000">Оберіть кількість &lt;?itemName?&gt; для зберігання.</text>
+<text id="251001">Зберегти
 &lt;?itemName?&gt;?</text>
-<text id="251002">Selected item will be placed in storage.</text>
-<text id="251003">Store all
+<text id="251002">Обраний предмет буде вкладено у скриню.</text>
+<text id="251003">Зберегти всі
 &lt;?itemName?&gt;?</text>
-<text id="251004">Max quantity of
+<text id="251004">Максимальну кількість
 &lt;?itemName?&gt;
-was stored.
-Excess items will remain in possession.</text>
-<text id="251005">Unable to store
-&lt;?itemName?&gt;
-as storage will exceed max.</text>
-<text id="251006">Cannot store currently equipped items.</text>
-<text id="251007">As this is a currently set Quick Item,
-all but one have been stored.</text>
-<text id="251008">Selected item
-will be placed in storage.</text>
+збережено.
+Надлишок предметів залишиться при вас.</text>
+<text id="251005">Неможливо зберегти
+&lt;?itemName?&gt;,
+оскільки це перевищить місткість скрині.</text>
+<text id="251006">Неможливо зберегти екіпіровані предмети.</text>
+<text id="251007">Оскільки це поточний Швидкий Предмет,
+збережено всі, крім одного.</text>
+<text id="251008">Обраний предмет
+буде вкладено у скриню.</text>
 <text id="251009">%null%</text>
-<text id="251010">Select quantity of &lt;?itemName?&gt; to retrieve.</text>
-<text id="251011">Retrieve
+<text id="251010">Оберіть кількість &lt;?itemName?&gt; для вилучення.</text>
+<text id="251011">Вилучити
 &lt;?itemName?&gt;?</text>
-<text id="251012">Return selected item to inventory</text>
-<text id="251013">Retrieve all
+<text id="251012">Повернути обраний предмет до інвентарю</text>
+<text id="251013">Вилучити всі
 &lt;?itemName?&gt;?</text>
-<text id="251014">Retrieved maximum
+<text id="251014">Вилучено максимум
 &lt;?itemName?&gt;.
-Excess items will remain stored.</text>
-<text id="251015">Unable to retrieve
-&lt;?itemName?&gt;
-as inventory will exceed max.</text>
-<text id="262000">Remove chalice?
-(This will expunge dungeon and erase progress)</text>
-<text id="262001">Chalice Dungeon Search cannot be used in offline mode.
-Please return to title menu and log in to make use of
-network features.</text>
-<text id="262002">Chalice Glyph cannot be used in offline mode.
-Please return to title menu and log in to make use of
-network features.</text>
-<text id="262003">Share Chalice Dungeon cannot be used in offline mode.
-Please return to title menu and log in to make use of
-network features.</text>
+Надлишок предметів залишиться у скрині.</text>
+<text id="251015">Неможливо вилучити
+&lt;?itemName?&gt;,
+оскільки це перевищить місткість інвентарю.</text>
+<text id="262000">Видалити чашу?
+(Це знищить підземелля та зітре прогрес)</text>
+<text id="262001">Пошук Підземелля Чаші неможливий в автономному режимі.
+Будь ласка, поверніться до титульного меню та увійдіть,
+щоб використовувати мережеві функції.</text>
+<text id="262002">Гліф Чаші неможливо використати в автономному режимі.
+Будь ласка, поверніться до титульного меню та увійдіть,
+щоб використовувати мережеві функції.</text>
+<text id="262003">Поділитися Підземеллям Чаші неможливо в автономному режимі.
+Будь ласка, поверніться до титульного меню та увійдіть,
+щоб використовувати мережеві функції.</text>
 <text id="262004">%null%</text>
-<text id="262005">Cannot change the privacy setting of a
-Chalice Dungeon once shared.</text>
-<text id="263000">Confirm settings and start ritual?</text>
-<text id="263001">Conduct a ritual to create a Chalice Dungeon?
-Materials will be consumed.</text>
-<text id="263002">Not enough materials to conduct a ritual.</text>
+<text id="262005">Неможливо змінити налаштування приватності
+Підземелля Чаші після того, як ним поділилися.</text>
+<text id="263000">Підтвердити налаштування та розпочати ритуал?</text>
+<text id="263001">Провести ритуал, щоб створити Підземелля Чаші?
+Матеріали буде витрачено.</text>
+<text id="263002">Недостатньо матеріалів для проведення ритуалу.</text>
 <text id="263003">%null%</text>
 <text id="263004">%null%</text>
 <text id="263005">%null%</text>
@@ -314,57 +314,57 @@ Materials will be consumed.</text>
 <text id="263007">%null%</text>
 <text id="263008">%null%</text>
 <text id="263009">%null%</text>
-<text id="263010">Root Chalice Rituals require a network
-connection to obtain server data.</text>
-<text id="265000">Make public?
-*Setting is permanent.</text>
-<text id="265001">Make private?
-*Setting is permanent.</text>
-<text id="265100">Privacy settings complete.</text>
-<text id="266000">Join the selected Chalice Dungeon?</text>
-<text id="266001">You have joined the dungeon,
-and a chalice was placed on the altar.
-You may now explore this Chalice Dungeon.</text>
-<text id="266002">Selected search criteria are not yet unlocked.</text>
-<text id="266003">You conducted a Chalice Ritual.
-You may now search for dungeons
-with the same chalice.</text>
-<text id="266004">You acquired a Root Chalice.
-You may now search for dungeons
-with the same Root Chalice.</text>
-<text id="266005">You conducted a chalice ritual after adding a rite.
-You may now search for dungeons with the same chalice
-and additional rite.</text>
-<text id="267000">A dungeon corresponding to the entered Chalice Glyph
-has been found. Entering corresponding Chalice Dungeon.</text>
-<text id="267001">Search using Chalice Glyph: &lt;?string?&gt;</text>
-<text id="269000">Quick-search and join an accessible Chalice Dungeon? </text>
-<text id="269001">Quick-search a Beckoning Bell chime and begin co-op?</text>
-<text id="269002">Quick-search a Sinister Bell chime and become an adversary?</text>
-<text id="269003">Dungeon quick-search cannot be used in offline mode.
-Please return to title menu and log in
-to make use of network features.</text>
+<text id="263010">Ритуали Всеосяжної Чаші потребують мережевого
+з'єднання для отримання даних із сервера.</text>
+<text id="265000">Зробити публічним?
+*Налаштування незворотне.</text>
+<text id="265001">Зробити приватним?
+*Налаштування незворотне.</text>
+<text id="265100">Налаштування приватності завершено.</text>
+<text id="266000">Приєднатися до обраного Підземелля Чаші?</text>
+<text id="266001">Ви приєдналися до підземелля,
+і чашу розміщено на вівтарі.
+Тепер ви можете досліджувати це Підземелля Чаші.</text>
+<text id="266002">Обрані критерії пошуку ще не розблоковано.</text>
+<text id="266003">Ви провели Ритуал Чаші.
+Тепер ви можете шукати підземелля
+з такою самою чашею.</text>
+<text id="266004">Ви отримали Всеосяжну Чашу.
+Тепер ви можете шукати підземелля
+з такою самою Всеосяжною Чашею.</text>
+<text id="266005">Ви провели Ритуал Чаші після додавання ритуалу.
+Тепер ви можете шукати підземелля з такою самою чашею
+та додатковим ритуалом.</text>
+<text id="267000">Знайдено підземелля, що відповідає введеному Гліфу Чаші.
+Вхід до відповідного Підземелля Чаші.</text>
+<text id="267001">Пошук за Гліфом Чаші: &lt;?string?&gt;</text>
+<text id="269000">Виконати швидкий пошук та приєднатися до доступного Підземелля Чаші? </text>
+<text id="269001">Виконати швидкий пошук передзвону Кличного Дзвону та розпочати спільну гру?</text>
+<text id="269002">Виконати швидкий пошук передзвону Зловісного Дзвону та стати супротивником?</text>
+<text id="269003">Швидкий пошук підземель неможливий в автономному режимі.
+Будь ласка, поверніться до титульного меню та увійдіть,
+щоб використовувати мережеві функції.</text>
 <text id="269004">%null%</text>
-<text id="269005">Co-op quick-search cannot be used in offline mode.
-Please return to title menu and log in
-to make use of network features.</text>
-<text id="269006">Adversarial Quick-search cannot be used in offline mode.
-Please return to title menu and log in
-to make use of network features.</text>
-<text id="269007">Joining accessible quick-search Chalice Dungeon.
-Chalice was placed on the altar.</text>
-<text id="271000">Select quantity of materials to extract haze from.</text>
-<text id="271001">Extracted haze exceeds maximum.
-Unable to extract further haze.</text>
-<text id="271002">Extracted haze exceeding maximum
-will be put in storage.</text>
-<text id="302000">Return this Hunter to their world?</text>
-<text id="302001">There is no one to part ways with.</text>
-<text id="302110">Stop searching for co-op helpers?</text>
-<text id="302111">Stop searching for hunters from other worlds to help?</text>
-<text id="302112">Stop searching for hunters from other worlds to threaten?</text>
-<text id="302113">The bell does not yet ring.
-This feature is not currently available.</text>
+<text id="269005">Швидкий пошук для спільної гри неможливий в автономному режимі.
+Будь ласка, поверніться до титульного меню та увійдіть,
+щоб використовувати мережеві функції.</text>
+<text id="269006">Ворожий швидкий пошук неможливий в автономному режимі.
+Будь ласка, поверніться до титульного меню та увійдіть,
+щоб використовувати мережеві функції.</text>
+<text id="269007">Приєднання до доступного Підземелля Чаші за швидким пошуком.
+Чашу розміщено на вівтарі.</text>
+<text id="271000">Оберіть кількість матеріалів для добування Туману.</text>
+<text id="271001">Здобутий Туман перевищує максимум.
+Подальше добування Туману неможливе.</text>
+<text id="271002">Здобутий Туман понад максимум
+буде вкладено у скриню.</text>
+<text id="302000">Повернути цього Мисливця до його світу?</text>
+<text id="302001">Немає нікого, з ким можна розійтися.</text>
+<text id="302110">Припинити пошук помічників для спільної гри?</text>
+<text id="302111">Припинити пошук мисливців з інших світів, яким можна допомогти?</text>
+<text id="302112">Припинити пошук мисливців з інших світів, яким можна погрожувати?</text>
+<text id="302113">Дзвін ще не дзвенить.
+Ця функція наразі недоступна.</text>
 <text id="302114">%null%</text>
 <text id="302115">%null%</text>
 <text id="302116">%null%</text>
@@ -374,11 +374,11 @@ This feature is not currently available.</text>
 <text id="302120">%null%</text>
 <text id="302121">%null%</text>
 <text id="302122">%null%</text>
-<text id="302123">No resonance at this time.
-This feature is not currently available.</text>
-<text id="302124">Quit adversarial play and return to own world?</text>
-<text id="302200">Searching for the chime of a Beckoning Bell...</text>
-<text id="302201">Searching for the chime of a Sinister Bell...</text>
+<text id="302123">Наразі немає резонансу.
+Ця функція наразі недоступна.</text>
+<text id="302124">Припинити ворожу гру та повернутися у свій світ?</text>
+<text id="302200">Пошук передзвону Кличного Дзвону...</text>
+<text id="302201">Пошук передзвону Зловісного Дзвону...</text>
 <text id="302202">%null%</text>
 <text id="302203">%null%</text>
 <text id="302204">%null%</text>
@@ -387,8 +387,8 @@ This feature is not currently available.</text>
 <text id="302207">%null%</text>
 <text id="302208">%null%</text>
 <text id="302209">%null%</text>
-<text id="302210">Searching for the chime of a
-Beckoning Bell with matching password.</text>
+<text id="302210">Пошук передзвону
+Кличного Дзвону з відповідним паролем.</text>
 <text id="305000">Перегляд Реєстру Сквернокровних не доступний в офлайн режимі.</text>
 <text id="305001">Збій при отриманні інформації реєстру.</text>
 <text id="305002">Завершити перегляд Реєстру Сквернокровних</text>
@@ -412,17 +412,17 @@ Beckoning Bell with matching password.</text>
 <text id="322000">Видалити цю нотатку зі списку?</text>
 <text id="400001">Не вдалося завантажити дані збереження.</text>
 <text id="400002">Дані збереження пошкоджені.</text>
-<text id="400003">At the end of the previous session,
-Exit Game (system menu) may not have been selected.
+<text id="400003">Схоже, наприкінці попереднього сеансу
+опцію Вийти з гри (системне меню) не було обрано.
 
-Failure to end session with Exit Game may result
-in loss of progress.</text>
+Якщо не завершити сеанс через Вийти з гри, це може призвести
+до втрати прогресу.</text>
 <text id="401001">Повернення до головного меню.</text>
-<text id="401002">Starting game in offline mode.
+<text id="401002">Запуск гри в автономному режимі.
 
-To use network features, check to see
-if your connection is set up properly,
-and select Log In from title menu.</text>
+Щоб використовувати мережеві функції, перевірте,
+чи правильно налаштовано з'єднання,
+та оберіть Увійти в титульному меню.</text>
 <text id="401003">%null%</text>
 <text id="401004">%null%</text>
 <text id="401005">%null%</text>
@@ -430,69 +430,69 @@ and select Log In from title menu.</text>
 <text id="401007">%null%</text>
 <text id="401008">%null%</text>
 <text id="401009">%null%</text>
-<text id="401010">Play in online mode?</text>
-<text id="401011">Lost connection to the network.
-Switching to offline mode.
-To use network features, check to see
-if your connection is set up properly,
-and select Log In from title menu.</text>
-<text id="401012">You have been signed out of "PlayStation Network".
-Switching to offline mode.
+<text id="401010">Грати в онлайн-режимі?</text>
+<text id="401011">Втрачено з'єднання з мережею.
+Перемикання на автономний режим.
+Щоб використовувати мережеві функції, перевірте,
+чи правильно налаштовано з'єднання,
+та оберіть Увійти в титульному меню.</text>
+<text id="401012">Вас було вилучено з "PlayStation Network".
+Перемикання на автономний режим.
 
-To use network features, check to see
-if your connection is set up properly,
-and select Log In from title menu.</text>
-<text id="401013">Lost communication with "PlayStation Network".
-Switching to offline mode.
+Щоб використовувати мережеві функції, перевірте,
+чи правильно налаштовано з'єднання,
+та оберіть Увійти в титульному меню.</text>
+<text id="401013">Втрачено зв'язок з "PlayStation Network".
+Перемикання на автономний режим.
 
-To use network features, check to see
-if your connection is set up properly,
-and select Log In from title menu.</text>
-<text id="401102">Failed to create save data.
-Press OK to try again.</text>
-<text id="401103">Failed to load save data.
-Press OK to try again.</text>
-<text id="401104">The save data is corrupted.
-Delete and create new data?</text>
-<text id="401105">Failed to delete save data.
-Press OK to try again.</text>
-<text id="401106">Failed to update save data.
-Press OK to try again.</text>
-<text id="401107">The save data is corrupted.
-Recreate save data?</text>
-<text id="401108">This save data is for a newer version of the game. To use this save data, quit the application, apply the latest update file, and restart.</text>
-<text id="401109">Unable to locate Bloodborne: The Old Hunters DLC. This save data cannot be used until the DLC is downloaded again.</text>
-<text id="401170">You lack the license for this DLC.
-Configured DLC elements will be disabled.</text>
-<text id="401171">DLC data is corrupted.
-Delete the data on the system
-and download again.</text>
-<text id="401172">Failed to load DLC.
-Select OK to try again.</text>
-<text id="401201">Unable to connect to the network.
-Please check your network settings.</text>
-<text id="401202">Network status check failed.</text>
-<text id="401203">You are currently not signed into "PlayStation Network".
-Please sign in to use the online features.</text>
-<text id="401204">Sign in status check failed.</text>
-<text id="401205">Unable to use network features due to age restrictions.</text>
-<text id="401206">A new version of the system software is available. To use
-network features, please update the system software.</text>
-<text id="401207">An update to the game is available. To use network
-features, please install the update and restart the game.</text>
-<text id="401208">Network features check failed.</text>
-<text id="401209">Failed to acquire parental control information.</text>
-<text id="401210">Failed to acquire Bloodborne server information.
-Select "OK" to try again.</text>
-<text id="401211">Failed to resolve Bloodborne
-server status.</text>
+Щоб використовувати мережеві функції, перевірте,
+чи правильно налаштовано з'єднання,
+та оберіть Увійти в титульному меню.</text>
+<text id="401102">Не вдалося створити дані збереження.
+Натисніть ОК, щоб спробувати ще раз.</text>
+<text id="401103">Не вдалося завантажити дані збереження.
+Натисніть ОК, щоб спробувати ще раз.</text>
+<text id="401104">Дані збереження пошкоджено.
+Видалити та створити нові?</text>
+<text id="401105">Не вдалося видалити дані збереження.
+Натисніть ОК, щоб спробувати ще раз.</text>
+<text id="401106">Не вдалося оновити дані збереження.
+Натисніть ОК, щоб спробувати ще раз.</text>
+<text id="401107">Дані збереження пошкоджено.
+Створити дані збереження заново?</text>
+<text id="401108">Ці дані збереження призначені для новішої версії гри. Щоб використати їх, закрийте застосунок, встановіть останнє оновлення та перезапустіть гру.</text>
+<text id="401109">Не вдалося знайти доповнення Bloodborne: Старі Мисливці. Ці дані збереження неможливо використати, доки доповнення не буде завантажено знову.</text>
+<text id="401170">У вас немає ліцензії на це доповнення.
+Налаштовані елементи доповнення буде вимкнено.</text>
+<text id="401171">Дані доповнення пошкоджено.
+Видаліть дані в системі
+та завантажте їх знову.</text>
+<text id="401172">Не вдалося завантажити доповнення.
+Оберіть ОК, щоб спробувати ще раз.</text>
+<text id="401201">Не вдалося підключитися до мережі.
+Будь ласка, перевірте налаштування мережі.</text>
+<text id="401202">Не вдалося перевірити стан мережі.</text>
+<text id="401203">Наразі ви не увійшли в "PlayStation Network".
+Будь ласка, увійдіть, щоб використовувати онлайн-функції.</text>
+<text id="401204">Не вдалося перевірити статус входу.</text>
+<text id="401205">Неможливо використовувати мережеві функції через вікові обмеження.</text>
+<text id="401206">Доступна нова версія системного програмного забезпечення. Щоб використовувати
+мережеві функції, будь ласка, оновіть системне програмне забезпечення.</text>
+<text id="401207">Доступне оновлення гри. Щоб використовувати мережеві
+функції, будь ласка, встановіть оновлення та перезапустіть гру.</text>
+<text id="401208">Не вдалося перевірити мережеві функції.</text>
+<text id="401209">Не вдалося отримати інформацію про батьківський контроль.</text>
+<text id="401210">Не вдалося отримати інформацію про сервер Bloodborne.
+Оберіть "ОК", щоб спробувати ще раз.</text>
+<text id="401211">Не вдалося визначити статус
+сервера Bloodborne.</text>
 <text id="401212">&lt;?ssInfoMsg?&gt;</text>
-<text id="401213">You are currently offline.</text>
-<text id="401214">Online status check failed.</text>
-<text id="401402">Staring game without contacting server.
+<text id="401213">Наразі ви офлайн.</text>
+<text id="401214">Не вдалося перевірити статус мережі.</text>
+<text id="401402">Запуск гри без з'єднання із сервером.
 
-Select Log In from title menu in order to
-play with online features.</text>
+Оберіть Увійти в титульному меню, щоб
+грати з онлайн-функціями.</text>
 <text id="401403">%null%</text>
 <text id="401404">%null%</text>
 <text id="401405">%null%</text>
@@ -501,16 +501,16 @@ play with online features.</text>
 <text id="401408">%null%</text>
 <text id="401409">%null%</text>
 <text id="401410">%null%</text>
-<text id="401411">Terms of service have changed.
+<text id="401411">Умови надання послуг було змінено.
 
-Please reacquaint yourself with the
-terms of the agreement.</text>
-<text id="401501">A network error occurred.
-Select "OK" to try again.</text>
-<text id="401502">Bloodborne server usage for this
-user has been terminated.</text>
-<text id="401503">Failed to log in to Bloodborne server.
-Select "OK" to attempt to log in again.</text>
+Будь ласка, ознайомтеся заново з
+умовами угоди.</text>
+<text id="401501">Сталася мережева помилка.
+Оберіть "ОК", щоб спробувати ще раз.</text>
+<text id="401502">Використання сервера Bloodborne для цього
+користувача припинено.</text>
+<text id="401503">Не вдалося увійти на сервер Bloodborne.
+Оберіть "ОК", щоб спробувати увійти ще раз.</text>
 <text id="401504">%null%</text>
 <text id="401505">%null%</text>
 <text id="401506">%null%</text>
@@ -518,48 +518,48 @@ Select "OK" to attempt to log in again.</text>
 <text id="401508">%null%</text>
 <text id="401509">%null%</text>
 <text id="401510">%null%</text>
-<text id="401511">This version of the game cannot
-contact the Bloodborne server.
-Please download the latest update
-in order to use network features.</text>
-<text id="401601">Failed to acquire information.
-Select "OK" to try again.</text>
+<text id="401511">Ця версія гри не може
+з'єднатися із сервером Bloodborne.
+Будь ласка, завантажте останнє оновлення,
+щоб використовувати мережеві функції.</text>
+<text id="401601">Не вдалося отримати інформацію.
+Оберіть "ОК", щоб спробувати ще раз.</text>
 <text id="401602">%null%</text>
-<text id="401603">Could not verify PlayStation®Plus on your account.</text>
-<text id="401604">Online play has been suspended as PlayStation®Plus
-could not be authenticated on your account.</text>
-<text id="401605">Failed to verify your PlayStation®Plus membership.
-Press OK to try PlayStation®Plus verification again.
-Press CANCEL to continue without verification.
-Please note you cannot play online without verification.</text>
-<text id="401606">Failed to verify your PlayStation®Plus membership.
-Press OK to try PlayStation®Plus verification again.
-Press CANCEL to continue without verification.
-Please note you cannot play online without verification.</text>
-<text id="401607">Not yet able to verify PlayStation®Plus on your account.
-Staring game in offline mode.</text>
-<text id="401701">Cannot create any more profiles.
-Delete an existing profile and create a new one?
+<text id="401603">Не вдалося перевірити PlayStation®Plus на вашому обліковому записі.</text>
+<text id="401604">Гру онлайн призупинено, оскільки PlayStation®Plus
+не вдалося підтвердити на вашому обліковому записі.</text>
+<text id="401605">Не вдалося перевірити вашу підписку PlayStation®Plus.
+Натисніть ОК, щоб повторити перевірку PlayStation®Plus.
+Натисніть СКАСУВАТИ, щоб продовжити без перевірки.
+Звертаємо увагу, що без перевірки ви не зможете грати онлайн.</text>
+<text id="401606">Не вдалося перевірити вашу підписку PlayStation®Plus.
+Натисніть ОК, щоб повторити перевірку PlayStation®Plus.
+Натисніть СКАСУВАТИ, щоб продовжити без перевірки.
+Звертаємо увагу, що без перевірки ви не зможете грати онлайн.</text>
+<text id="401607">Поки що неможливо перевірити PlayStation®Plus на вашому обліковому записі.
+Запуск гри в автономному режимі.</text>
+<text id="401701">Неможливо створити більше профілів.
+Видалити наявний профіль та створити новий?
 
-Note: You may create up to 10 profiles.</text>
-<text id="401731">Failed to reset online character data to default.
-Select RETRY to try again.
+Примітка: можна створити до 10 профілів.</text>
+<text id="401731">Не вдалося скинути онлайн-дані персонажа до стандартних.
+Оберіть ПОВТОРИТИ, щоб спробувати ще раз.
 
-To continue without network features, select CONTINUE.</text>
-<text id="401732">Could not save character data.
-Select RETRY to try again.
+Щоб продовжити без мережевих функцій, оберіть ПРОДОВЖИТИ.</text>
+<text id="401732">Не вдалося зберегти дані персонажа.
+Оберіть ПОВТОРИТИ, щоб спробувати ще раз.
 
-To return to title menu, select BACK TO TITLE.</text>
-<text id="401733">Failed to record note search information.
-Select RETRY to try again.
+Щоб повернутися до титульного меню, оберіть НАЗАД ДО ТИТУЛЬНОГО ЕКРАНУ.</text>
+<text id="401733">Не вдалося записати інформацію пошуку нотаток.
+Оберіть ПОВТОРИТИ, щоб спробувати ще раз.
 
-To continue without network features, select CONTINUE.</text>
+Щоб продовжити без мережевих функцій, оберіть ПРОДОВЖИТИ.</text>
 <text id="401734">%null%</text>
-<text id="401735">Failed to record messengers information.
-Select RETRY to try again.
+<text id="401735">Не вдалося записати інформацію Посланців.
+Оберіть ПОВТОРИТИ, щоб спробувати ще раз.
 
-To continue without network features, select CONTINUE.</text>
-<text id="401801">Waiting for trophy info update to finish.</text>
+Щоб продовжити без мережевих функцій, оберіть ПРОДОВЖИТИ.</text>
+<text id="401801">Очікування завершення оновлення інформації про трофеї.</text>
 <text id="401802">%null%</text>
 <text id="401803">%null%</text>
 <text id="401804">%null%</text>
@@ -569,28 +569,28 @@ To continue without network features, select CONTINUE.</text>
 <text id="401808">%null%</text>
 <text id="401809">%null%</text>
 <text id="401810">%null%</text>
-<text id="401811">Starting game in offline mode as game
-has not been fully installed.</text>
-<text id="401901">Failed to retrieve data from Bloodborne server
-as you have been refused permission.</text>
-<text id="401902">You cannot access the Bloodborne server.</text>
-<text id="401903">Your connection to the Bloodborne server
-has been interrupted.</text>
-<text id="401904">Failed to communicate with the Bloodborne server.
-Select OK to try again.</text>
+<text id="401811">Запуск гри в автономному режимі, оскільки гру
+не встановлено повністю.</text>
+<text id="401901">Не вдалося отримати дані із сервера Bloodborne,
+оскільки вам було відмовлено у доступі.</text>
+<text id="401902">Ви не можете отримати доступ до сервера Bloodborne.</text>
+<text id="401903">Ваше з'єднання із сервером Bloodborne
+було перервано.</text>
+<text id="401904">Не вдалося зв'язатися із сервером Bloodborne.
+Оберіть ОК, щоб спробувати ще раз.</text>
 <text id="401905">%null%</text>
 <text id="401906">%null%</text>
 <text id="401907">%null%</text>
 <text id="401908">%null%</text>
 <text id="401909">%null%</text>
 <text id="401910">%null%</text>
-<text id="401911">Failed to retrieve data from Bloodborne server
-as you have been refused permission.</text>
-<text id="401912">You cannot access the Bloodborne server.</text>
-<text id="401913">Your connection to the Bloodborne server
-has been interrupted.</text>
-<text id="401914">Failed to communicate with the Bloodborne server.
-Select OK to try again.</text>
+<text id="401911">Не вдалося отримати дані із сервера Bloodborne,
+оскільки вам було відмовлено у доступі.</text>
+<text id="401912">Ви не можете отримати доступ до сервера Bloodborne.</text>
+<text id="401913">Ваше з'єднання із сервером Bloodborne
+було перервано.</text>
+<text id="401914">Не вдалося зв'язатися із сервером Bloodborne.
+Оберіть ОК, щоб спробувати ще раз.</text>
 <text id="401991">Process failed.
 Повернення до головного меню.</text>
 <text id="401992">%null%</text>
@@ -602,19 +602,19 @@ Select OK to try again.</text>
 <text id="401998">%null%</text>
 <text id="401999">%null%</text>
 <text id="402000">%null%</text>
-<text id="402001">Withdraw from contract
-and return to title menu?</text>
-<text id="402002">Finalize contract?</text>
-<text id="402003">A name is required.
+<text id="402001">Відмовитися від договору
+та повернутися до титульного меню?</text>
+<text id="402002">Завершити договір?</text>
+<text id="402003">Потрібне ім'я.
 
-Enter a name to finalize the contract.</text>
-<text id="402004">Failed to save contract.</text>
+Введіть ім'я, щоб завершити договір.</text>
+<text id="402004">Не вдалося зберегти договір.</text>
 <text id="402005">%null%</text>
 <text id="402006">%null%</text>
 <text id="402007">%null%</text>
 <text id="402008">%null%</text>
 <text id="402009">%null%</text>
-<text id="402010">Return all changes to character to default?</text>
+<text id="402010">Повернути всі зміни персонажа до стандартних?</text>
 <text id="402011">%null%</text>
 <text id="402012">%null%</text>
 <text id="402013">%null%</text>
@@ -624,10 +624,10 @@ Enter a name to finalize the contract.</text>
 <text id="402017">%null%</text>
 <text id="402018">%null%</text>
 <text id="402019">%null%</text>
-<text id="402020">Selected spelling contained inappropriate language
-and could not be used as a character name.
+<text id="402020">Обране написання містило недоречну лексику
+і не могло бути використане як ім'я персонажа.
 
-Enter another name.</text>
+Введіть інше ім'я.</text>
 <text id="402021">%null%</text>
 <text id="402022">%null%</text>
 <text id="402023">%null%</text>
@@ -637,15 +637,15 @@ Enter another name.</text>
 <text id="402027">%null%</text>
 <text id="402028">%null%</text>
 <text id="402029">%null%</text>
-<text id="402030">Changing gender will reset certain changes.
+<text id="402030">Зміна статі скине деякі внесені зміни.
 
-Is this OK?</text>
-<text id="402100">Finalize editing?</text>
-<text id="404001">Stop initial set up and return to title menu?</text>
-<text id="404002">Failed to save settings.
-Select RETRY to try again.
+Продовжити?</text>
+<text id="402100">Завершити редагування?</text>
+<text id="404001">Припинити початкове налаштування та повернутися до титульного меню?</text>
+<text id="404002">Не вдалося зберегти налаштування.
+Оберіть ПОВТОРИТИ, щоб спробувати ще раз.
 
-To continue without saving, select CONTINUE.</text>
+Щоб продовжити без збереження, оберіть ПРОДОВЖИТИ.</text>
 <text id="404003">%null%</text>
 <text id="404004">%null%</text>
 <text id="404005">%null%</text>

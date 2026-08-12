@@ -1,36 +1,43 @@
 import re
 from pathlib import Path
-
-import xml.etree.ElementTree as ET
-
+from xml.etree import ElementTree
 
 WITCHY_BND_METADATA = "_witchy-bnd4.xml"
 SKIP_LINES = ("%null%", "*", " ")
 SKIP_FILES = [
-    "死因.fmg.xml",
-    "アクセサリうんちく.fmg.xml",
-    "魔法名.fmg.xml",
-    "アクセサリ説明.fmg.xml",
-    "アクセサリ名.fmg.xml",
-    "防具名.fmg.xml",
-    "防具説明.fmg.xml",
-    "武器説明.fmg.xml",
-    "メニューその他.fmg.xml",
-    "テキスト表示用タグ一覧.fmg.xml",
-    "一行ヘルプ.fmg.xml",
-    "SP_システムメッセージ_win64.fmg.xml",
-    "魔法うんちく.fmg.xml",
-    "魔法説明.fmg.xml",
-    "魔石接頭語.fmg.xml",
+    "SP_ダイアログ.fmg.xml",
+    "キーガイド.fmg.xml",
+    "インゲームメニュー.fmg.xml",
+    "インゲームメニュー.fmg.xml",
+    "SP_メニューテキスト.fmg.xml",
+    "ダイアログ.fmg.xml",
     "機種別タグ_win64.fmg.xml",
-    "SP_キーガイド.fmg.xml",
-    "ムービー字幕.fmg.xml",
+    "メニュー共通テキスト.fmg.xml",
+    "メニュー共通テキスト.fmg.xml",
     WITCHY_BND_METADATA,
 ]
 
 
 def main():
+    if not check_well_formed():
+        raise SystemExit(1)
+
     find_untranslated_lines()
+
+
+def check_well_formed() -> bool:
+    here = Path(__file__).parent
+
+    ok = True
+    for _type in ("menu-msgbnd-dcx", "item-msgbnd-dcx"):
+        for file in _get_msg_files(here / _type):
+            try:
+                ElementTree.parse(file)
+            except ElementTree.ParseError as exc:
+                print(f"MALFORMED XML: `{file.name}`: {exc}")
+                ok = False
+
+    return ok
 
 
 def find_untranslated_lines():
@@ -43,7 +50,10 @@ def find_untranslated_lines():
         for file in _get_msg_files(here / _type):
             untrans_lines, trans_lines = _collect_untranslated_(file)
 
-            print(f"There are {len(untrans_lines)} untranslated lines in `{file.name}`")
+            if untrans_lines:
+                print(
+                    f"There are {len(untrans_lines)} untranslated lines in `{file.name}`"
+                )
 
             untranslated_lines.extend(untrans_lines)
             translated_lines.extend(trans_lines)
@@ -73,7 +83,7 @@ def _collect_untranslated_(path: Path) -> tuple[list[str], list[str]]:
     untranslated_lines = []
     translated_lines = []
 
-    entries = ET.parse(path).getroot().find("entries")
+    entries = ElementTree.parse(path).getroot().find("entries")
 
     if entries is None:
         return untranslated_lines, translated_lines

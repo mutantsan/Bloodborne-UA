@@ -5,8 +5,8 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="0">消すべからず</text>
-<text id="1">なんらかの原因で死亡</text>
+<text id="0">Не видаляти</text>
+<text id="1">Загинув від невідомої причини.</text>
 <text id="2">%null%</text>
 <text id="3">%null%</text>
 <text id="4">%null%</text>
@@ -15,10 +15,10 @@
 <text id="7">%null%</text>
 <text id="8">%null%</text>
 <text id="9">%null%</text>
-<text id="10">落下死</text>
-<text id="100">&lt;?murdererName?&gt;に殺害される</text>
-<text id="200">毒で死亡</text>
-<text id="1000">&lt;?murdererName?&gt;の攻撃Aで死亡</text>
-<text id="106000">脳喰らいに脳を吸われて死亡</text>
+<text id="10">Загинув від падіння.</text>
+<text id="100">Загинув від рук &lt;?murdererName?&gt;.</text>
+<text id="200">Загинув від отрути.</text>
+<text id="1000">Загинув від Атаки А &lt;?murdererName?&gt;.</text>
+<text id="106000">Загинув, коли Мозкосмок висмоктав йому мозок.</text>
 </entries>
 </fmg>

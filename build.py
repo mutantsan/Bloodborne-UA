@@ -1,11 +1,12 @@
-import subprocess
 import shutil
+import subprocess
 from pathlib import Path
-
 
 WITCHY_BND_EXE = "/mnt/d/apps/WitchyBND/WitchyBND.exe"
 WITCHY_BND_METADATA = "_witchy-bnd4.xml"
-BLOODBORNE_PATH = "/mnt/d/apps/shadps4 diegolix29/games/CUSA03173/dvdroot_ps4/msg/rusru/"
+BLOODBORNE_PATH = (
+    "/mnt/d/apps/shadps4 diegolix29/games/CUSA03173/dvdroot_ps4/msg/rusru/"
+)
 
 
 def main():

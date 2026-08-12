@@ -9,19 +9,19 @@
 <text id="2">&lt;?sysmsg@2?&gt;</text>
 <text id="3">&lt;?sysmsg@3?&gt;</text>
 <text id="4">&lt;?sysmsg@4?&gt;</text>
-<text id="5">Accept</text>
-<text id="6">Do Not Accept</text>
+<text id="5">Прийняти</text>
+<text id="6">Не Приймати</text>
 <text id="7">%null%</text>
 <text id="8">%null%</text>
 <text id="9">%null%</text>
 <text id="10">%null%</text>
-<text id="11000">Drop item.
-Specify quantity.</text>
+<text id="11000">Викинути предмет.
+Вкажіть кількість.</text>
 <text id="11001">%null%</text>
-<text id="11002">Reset item order?</text>
-<text id="11003">Drop item</text>
-<text id="12010">Cannot equip duplicate rings</text>
-<text id="12021">Loss of attunement slots will cause &lt;?removeMagic?&gt; to be removed</text>
+<text id="11002">Скинути порядок предметів?</text>
+<text id="11003">Викинути предмет</text>
+<text id="12010">Неможливо екіпірувати дублікати кілець</text>
+<text id="12021">Втрата слотів зосередження призведе до зняття &lt;?removeMagic?&gt;</text>
 <text id="12022">%null%</text>
 <text id="12023">%null%</text>
 <text id="12024">%null%</text>
@@ -30,9 +30,9 @@ Specify quantity.</text>
 <text id="12027">%null%</text>
 <text id="12028">%null%</text>
 <text id="12029">%null%</text>
-<text id="12030">Insufficient strength to wield this weapon with one hand.
-Hold with both hands to use effectively.</text>
-<text id="12031">Unable to wield this weapon effectively with present stats</text>
+<text id="12030">Недостатньо сили, щоб тримати цю зброю однією рукою.
+Тримайте двома руками для ефективного використання.</text>
+<text id="12031">Неможливо ефективно володіти цією зброєю з поточними характеристиками</text>
 <text id="12032">%null%</text>
 <text id="12033">%null%</text>
 <text id="12034">%null%</text>
@@ -41,22 +41,22 @@ Hold with both hands to use effectively.</text>
 <text id="12037">%null%</text>
 <text id="12038">%null%</text>
 <text id="12039">%null%</text>
-<text id="12040">This ring breaks when removed.
-OK to equip this ring?</text>
-<text id="12041">This ring breaks when removed.
-OK to unequip this ring?</text>
-<text id="16000">Restore all settings to default values</text>
-<text id="16001">Cancel changes and exit</text>
-<text id="16100">Delete the message.</text>
-<text id="16500">Are you sure you want to quit the game?</text>
-<text id="16600">Reset gesture order</text>
-<text id="17800">Some players have not been evaluated</text>
+<text id="12040">Це кільце ламається при знятті.
+Екіпірувати це кільце?</text>
+<text id="12041">Це кільце ламається при знятті.
+Зняти це кільце?</text>
+<text id="16000">Відновити всі налаштування до стандартних значень</text>
+<text id="16001">Скасувати зміни та вийти</text>
+<text id="16100">Видалити повідомлення.</text>
+<text id="16500">Ви впевнені, що хочете вийти з гри?</text>
+<text id="16600">Скинути порядок жестів</text>
+<text id="17800">Деяких гравців ще не оцінено</text>
 <text id="17801">%null%</text>
 <text id="17802">%null%</text>
 <text id="17803">%null%</text>
-<text id="17804">You've obtained &lt;?getSoulNum?&gt; Souls</text>
-<text id="18000">Warp to selected bonfire</text>
-<text id="18001">No bonfires available for warping</text>
+<text id="17804">Ви отримали &lt;?getSoulNum?&gt; Душ</text>
+<text id="18000">Телепортуватися до обраного багаття</text>
+<text id="18001">Немає доступних багать для телепортації</text>
 <text id="18002">%null%</text>
 <text id="18003">%null%</text>
 <text id="18004">%null%</text>
@@ -66,8 +66,8 @@ OK to unequip this ring?</text>
 <text id="18008">%null%</text>
 <text id="18009">%null%</text>
 <text id="18010">%null%</text>
-<text id="18050">You are bound by the &lt;?pcOath?&gt; Covenant</text>
-<text id="18051">Abandon and join the &lt;?pcOath?&gt; Covenant?</text>
+<text id="18050">Ви пов'язані Клятвою &lt;?pcOath?&gt;</text>
+<text id="18051">Покинути Клятву &lt;?pcOath?&gt; та приєднатися до неї знову?</text>
 <text id="18052">%null%</text>
 <text id="18053">%null%</text>
 <text id="18054">%null%</text>
@@ -76,94 +76,94 @@ OK to unequip this ring?</text>
 <text id="18057">%null%</text>
 <text id="18058">%null%</text>
 <text id="18059">%null%</text>
-<text id="18060">Restore your humanity?</text>
-<text id="18061">Offer your humanity?</text>
-<text id="18100">Send this phantom home?</text>
-<text id="18101">No phantom to send home</text>
-<text id="18200">Cannot use indictment</text>
-<text id="18201">Cannot use indictment</text>
-<text id="18400">Rate this message?</text>
-<text id="20020">Confirm reinforcement</text>
-<text id="20021">This will cancel reinforcement.
-Is this OK?</text>
-<text id="20022">Reset reinforcement.
-Is this OK?</text>
-<text id="20120">Trade for humanity</text>
-<text id="20121">This will cancel trade.
-Is this OK?</text>
-<text id="20122">Parameters will be reset.
-Is this OK?</text>
-<text id="22001">Already attuned</text>
-<text id="22002">Insufficient attunement slots</text>
-<text id="22003">No magic to attune</text>
-<text id="22004">Insufficient stats to use this magic</text>
-<text id="22005">Wrong covenant for this magic</text>
-<text id="23006">Cannot deposit additional items</text>
-<text id="23007">Cannot hold additional items</text>
-<text id="30000">Purchase for &lt;?demandSoul?&gt; souls?</text>
-<text id="30001">Purchase for &lt;?demandSoul?&gt; souls?</text>
-<text id="30002">Insufficient souls</text>
-<text id="30003">Your stock of this
-item is at maximum</text>
+<text id="18060">Відновити вашу людяність?</text>
+<text id="18061">Пожертвувати вашу людяність?</text>
+<text id="18100">Відправити цього привида додому?</text>
+<text id="18101">Немає привида, щоб відправити додому</text>
+<text id="18200">Неможливо використати обвинувачення</text>
+<text id="18201">Неможливо використати обвинувачення</text>
+<text id="18400">Оцінити це повідомлення?</text>
+<text id="20020">Підтвердити посилення</text>
+<text id="20021">Це скасує посилення.
+Продовжити?</text>
+<text id="20022">Скинути посилення.
+Продовжити?</text>
+<text id="20120">Обміняти на людяність</text>
+<text id="20121">Це скасує обмін.
+Продовжити?</text>
+<text id="20122">Параметри буде скинуто.
+Продовжити?</text>
+<text id="22001">Вже зосереджено</text>
+<text id="22002">Недостатньо слотів зосередження</text>
+<text id="22003">Немає магії для зосередження</text>
+<text id="22004">Недостатньо характеристик для використання цієї магії</text>
+<text id="22005">Невідповідна Клятва для цієї магії</text>
+<text id="23006">Неможливо покласти додаткові предмети</text>
+<text id="23007">Неможливо тримати додаткові предмети</text>
+<text id="30000">Купити за &lt;?demandSoul?&gt; Душ?</text>
+<text id="30001">Купити за &lt;?demandSoul?&gt; Душ?</text>
+<text id="30002">Недостатньо Душ</text>
+<text id="30003">Запас цього предмета
+досяг максимуму</text>
 <text id="30004">%null%</text>
 <text id="30005">%null%</text>
-<text id="30006">No items to purchase</text>
-<text id="30007">Cannot hold additional items</text>
-<text id="30100">Specify quantity to feed.
-Souls gained: &lt;?sellSouls?&gt;</text>
-<text id="30101">Cannot feed this item</text>
-<text id="30102">No items to feed</text>
-<text id="30103">Feed this item?</text>
-<text id="31000">Repair for &lt;?demandSoul?&gt; souls?</text>
-<text id="31001">Insufficient souls</text>
-<text id="31002">No equipment requires repair</text>
-<text id="31003">Cannot repair crystal weapon</text>
-<text id="32000">Reinforce &lt;?itemNameBeforeForge?&gt;
-into &lt;?itemNameAfterForge?&gt;?</text>
-<text id="32001">Insufficient souls</text>
-<text id="32002">Insufficient materials</text>
-<text id="32003">No weapons for reinforcement</text>
+<text id="30006">Немає предметів для купівлі</text>
+<text id="30007">Неможливо тримати додаткові предмети</text>
+<text id="30100">Вкажіть кількість для згодовування.
+Отримано Душ: &lt;?sellSouls?&gt;</text>
+<text id="30101">Неможливо згодувати цей предмет</text>
+<text id="30102">Немає предметів для згодовування</text>
+<text id="30103">Згодувати цей предмет?</text>
+<text id="31000">Відремонтувати за &lt;?demandSoul?&gt; Душ?</text>
+<text id="31001">Недостатньо Душ</text>
+<text id="31002">Жодне спорядження не потребує ремонту</text>
+<text id="31003">Неможливо відремонтувати кришталеву зброю</text>
+<text id="32000">Посилити &lt;?itemNameBeforeForge?&gt;
+до &lt;?itemNameAfterForge?&gt;?</text>
+<text id="32001">Недостатньо Душ</text>
+<text id="32002">Недостатньо матеріалів</text>
+<text id="32003">Немає зброї для посилення</text>
 <text id="32004">%null%</text>
 <text id="32005">%null%</text>
-<text id="32006">Undo ascension?
-Materials used for ascension will be lost.</text>
-<text id="32007">Cannot reinforce this weapon.
-Reinforcement would result in exceeding inventory limit.</text>
+<text id="32006">Скасувати сходження?
+Матеріали, використані для сходження, буде втрачено.</text>
+<text id="32007">Неможливо посилити цю зброю.
+Посилення призведе до перевищення ліміту інвентарю.</text>
 <text id="32008">%null%</text>
-<text id="32009">Cannot restore crystal weapons</text>
-<text id="32010">No armor for reinforcing</text>
-<text id="32011">No weapons for ascension</text>
-<text id="32012">Reinforce &lt;?itemNameBeforeForge?&gt;
-into &lt;?itemNameAfterForge?&gt;?</text>
-<text id="32013">Ascend &lt;?itemNameBeforeForge?&gt;
-to &lt;?itemNameAfterForge?&gt;?</text>
-<text id="32014">Cannot reinforce this armor.
-Reinforcement would result in exceeding inventory limit.</text>
-<text id="32015">Cannot ascend this armor.
-Ascension would result in exceeding inventory limit.</text>
+<text id="32009">Неможливо відновити кришталеву зброю</text>
+<text id="32010">Немає броні для посилення</text>
+<text id="32011">Немає зброї для сходження</text>
+<text id="32012">Посилити &lt;?itemNameBeforeForge?&gt;
+до &lt;?itemNameAfterForge?&gt;?</text>
+<text id="32013">Здійснити сходження &lt;?itemNameBeforeForge?&gt;
+до &lt;?itemNameAfterForge?&gt;?</text>
+<text id="32014">Неможливо посилити цю броню.
+Посилення призведе до перевищення ліміту інвентарю.</text>
+<text id="32015">Неможливо здійснити сходження цієї броні.
+Сходження призведе до перевищення ліміту інвентарю.</text>
 <text id="32016">%null%</text>
 <text id="32017">%null%</text>
 <text id="32018">%null%</text>
 <text id="32019">%null%</text>
 <text id="32020">&lt;?itemNameBeforeForge?&gt;
-reinforced into &lt;?itemNameAfterForge?&gt;.</text>
-<text id="32021">Restored &lt;?itemNameBeforeForge?&gt;
-to &lt;?itemNameAfterForge?&gt;.</text>
+посилено до &lt;?itemNameAfterForge?&gt;.</text>
+<text id="32021">&lt;?itemNameBeforeForge?&gt;
+відновлено до &lt;?itemNameAfterForge?&gt;.</text>
 <text id="32022">&lt;?itemNameBeforeForge?&gt;
-ascended to &lt;?itemNameAfterForge?&gt;.</text>
+здійснено сходження до &lt;?itemNameAfterForge?&gt;.</text>
 <text id="32023">&lt;?itemNameBeforeForge?&gt;
-reinforced into &lt;?itemNameAfterForge?&gt;.</text>
+посилено до &lt;?itemNameAfterForge?&gt;.</text>
 <text id="41000">&lt;?sysmsg@41000?&gt;</text>
-<text id="42000">Cancel character creation and return to title screen?</text>
-<text id="42001">Character name required</text>
-<text id="42002">Enter character name</text>
-<text id="42003">OK to start game with this character?</text>
-<text id="42500">Cancel character creation and return to
-title screen?</text>
-<text id="43001">Changing gender will cause
-edited face data to be lost.
-Change gender?</text>
-<text id="44000">Leave this message?</text>
+<text id="42000">Скасувати створення персонажа та повернутися на титульний екран?</text>
+<text id="42001">Потрібне ім'я персонажа</text>
+<text id="42002">Введіть ім'я персонажа</text>
+<text id="42003">Розпочати гру цим персонажем?</text>
+<text id="42500">Скасувати створення персонажа та повернутися на
+титульний екран?</text>
+<text id="43001">Зміна статі призведе до втрати
+відредагованих даних обличчя.
+Змінити стать?</text>
+<text id="44000">Залишити це повідомлення?</text>
 <text id="44001">%null%</text>
 <text id="44002">%null%</text>
 <text id="44003">%null%</text>
@@ -173,8 +173,8 @@ Change gender?</text>
 <text id="44007">%null%</text>
 <text id="44008">%null%</text>
 <text id="44009">%null%</text>
-<text id="44010">Leave a message?</text>
-<text id="44500">Erase this message?</text>
+<text id="44010">Залишити повідомлення?</text>
+<text id="44500">Видалити це повідомлення?</text>
 <text id="45000">&lt;?sysmsg@45000?&gt;</text>
 <text id="45001">&lt;?sysmsg@45001?&gt;</text>
 <text id="45100">&lt;?sysmsg@45100?&gt;</text>

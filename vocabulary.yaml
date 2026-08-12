@@ -81,6 +81,22 @@ Names:
   Isz:
     en: Isz
     uk: Ізз
+  Ihyll:
+    en: Ihyll
+    uk: Іхілл
+    note: "Used as part of 'Pthumeru Ihyll', the deepest root chalice dungeon area. Transliteration, no prior in-game precedent found."
+  Isz Gravestone:
+    en: Isz Gravestone
+    uk: Надгробок Ізз
+    note: "Established translation, see SP_メニューテキスト.fmg.xml id 266203."
+  Ailing Loran:
+    en: Ailing Loran
+    uk: Хворий Лоран
+    note: "'Ailing' as in disease-ridden, matches the plague theme of Loran."
+  Pthumerian Defilement:
+    en: Pthumerian Defilement
+    uk: Птумерійське Осквернення
+    note: "'Defilement' translated as a neuter noun (Осквернення); adjectives modifying it (Fetid/Rotted/Sinister/Cursed) take neuter agreement."
   Great Ones:
     en: Great Ones
     jp: 大きい
@@ -158,6 +174,30 @@ Names:
   Amygdala:
     en: Amygdala
     uk: Амігдала
+  Old Lords:
+    en: Old Lords
+    uk: Стародавні Володарі
+    note: "No prior in-game precedent; used in 'Keeper of the Old Lords' and 'Watchdog of the Old Lords' (NPC名.fmg.xml)."
+  Hemwick:
+    en: Hemwick
+    uk: Хемвік
+    note: "Established via genitive 'Хемвіка' in 'Могильний Провулок Хемвіка' (地名.fmg.xml id 2200)."
+  Yamamura:
+    en: Yamamura
+    uk: Ямамура
+    note: "Established via genitive 'Ямамури' in 防具名.fmg.xml id 400000 (Yamamura's Hunter Cap)."
+  Great One:
+    en: Great One
+    uk: Великий
+    note: "Singular of [[Great Ones]] (uk: Великі). Used as 'Звір Великого' for 'Great One Beast'."
+  Kos:
+    en: Kos
+    uk: Кос
+    note: "Genitive 'Коса' used in 'Orphan of Kos' -> 'Сирота Коса'."
+  Beast (boss title):
+    en: Beast
+    uk: Звір
+    note: "Used as the head noun in boss/enemy titles (Cleric Beast, Blood-starved Beast, Loran Darkbeast, Great One Beast, etc.), matching the precedent 'Одержимий Звіром' (NPC名.fmg.xml id 750000). Distinct from the general-purpose [[beast]] entry (звір/почвара, context-dependent) used in flavor text."
 
 Runes:
   Radiance:
@@ -206,7 +246,22 @@ Runes:
     en: Heir
     jp: 継承
     uk: Спадщина
-
+  Embrace:
+    en: Embrace
+    uk: Обійми
+    note: "Caryll Rune name (allows beast-form transformation). No prior in-game precedent."
+  Milkweed:
+    en: Milkweed
+    uk: Молочай
+    note: "Caryll Rune name, literal plant translation (milkweed/spurge). Tied to the Lumenflower Gardens; see [[lumenwood]]."
+  lumenwood:
+    en: lumenwood
+    uk: світлодерево
+    note: "Calque, coined for the Lumenflower Gardens DLC lore (no prior in-game precedent). Used in the [[Milkweed]] rune description."
+  phantasm:
+    en: phantasm
+    uk: примара
+    note: "DLC lore term (Lumenflower Gardens spirits). No prior in-game precedent."
   Beast:
     en: Beast
     uk: Почвара
@@ -219,6 +274,26 @@ Runes:
   Blood gem:
     en: Blood gem
     uk: Кривавий самоцвіт
+  Blood Stone:
+    en: Blood Stone
+    uk: Кров'яний камінь
+    note: "Weapon-fortification material (Blood Stone Shard/Chunk/etc.), distinct from [[Blood gem]]. No prior in-game precedent."
+  storage (item box):
+    en: storage
+    uk: скриня
+    note: "The item storage container, established via キーガイド.fmg.xml id 45000/45001 ('Забрати все зі скрині'/'Покласти все у скриню'). Use 'зберігання' for the verb/process, 'скриня' for the container noun."
+  Messengers:
+    en: Messengers
+    uk: Посланці
+    note: "The small cloaked NPCs in the Hunter's Dream. No prior in-game precedent; appeared in a network-error string (SP_ダイアログ.fmg.xml id 401735)."
+  title menu:
+    en: title menu
+    uk: титульне меню
+    note: "Distinct from 'Title Screen' (Титульний екран, システムメッセージ_win64.fmg.xml). No prior precedent; used heavily throughout SP_ダイアログ.fmg.xml's network-error dialogs."
+  offline mode / online mode:
+    en: offline mode / online mode
+    uk: автономний режим / онлайн-режим
+    note: "'Offline Mode' established via システムメッセージ_win64.fmg.xml ('Автономний режим'); 'online mode' coined as its parallel."
 
 Covenants and players:
   Tomb Prospector:
@@ -242,6 +317,22 @@ Covenants and players:
     jp: 連盟員
     uk: Союзник
     note: "The name of the covenant in Japanese is '連盟員' which translates to 'Federation Member'."
+  Beckoning Bell:
+    en: Beckoning Bell
+    uk: Кличний Дзвін
+    note: "No prior in-game precedent; used for co-op summon item. See [[Sinister]] for the paired 'Sinister Bell' -> Зловісний Дзвін."
+  Chalice Ritual:
+    en: Chalice Ritual
+    uk: Ритуал Чаші
+    note: "No prior in-game precedent; follows the [[Chalice Dungeon]] / Chalice Glyph naming pattern (X Чаші)."
+  Haze:
+    en: Haze
+    uk: Туман
+    note: "Chalice ritual resource, extracted from ritual materials. No prior in-game precedent."
+  note (written note):
+    en: note
+    uk: нотатка
+    note: "Bloodborne's player-message system, distinct from bloodstains (血文字.fmg.xml file). No prior in-game precedent."
   Cooperator:
     en: Cooperator
     jp: 協力者
@@ -287,6 +378,54 @@ Stats:
   resistance:
     en: resistance
     uk: опір ефектам
+  ATK:
+    en: ATK
+    uk: Атака
+    note: "Stat-grid column header. Full word used, not abbreviated (no natural Ukrainian initialism). 'X ATK' -> 'Х атака' (e.g. Physical ATK -> Фізична атака); a bare damage-type sub-column under an already-labeled ATK/DEF header elides the noun, matching precedent id 10540 ('Фізичний' alone) — e.g. Blood -> Кривавий, Arcane -> Таємний."
+  DEF:
+    en: DEF
+    uk: Захист
+    note: "Stat-grid column header, parallel to [[ATK]]. 'X DEF' -> 'Х захист' (e.g. Physical DEF -> Фізичний захист)."
+  RES (stat grid):
+    en: RES
+    uk: Опір
+    note: "Stat-grid abbreviation for resistance, distinct from the general-purpose [[resistance]] entry (опір ефектам) used in prose. 'Slow Poison RES' -> 'Опір повільній отруті', established via 魔石説明.fmg.xml."
+  VS. Thrust / VS. Blunt:
+    en: VS. Thrust / VS. Blunt
+    uk: Проти колючих / Проти тупих
+    note: "Defense sub-columns; уses the plural attack-type adjectives from the [[Attack types]] section (колючі/тупі) rather than singular forms."
+  gem shape (Circle/Triangle/Radial/Droplet/Waning):
+    en: Circle / Triangle / Radial / Droplet / Waning
+    uk: Круглий / Трикутний / Радіальний / Краплеподібний / Спадний
+    note: "Blood gem shape filter labels, masculine adjective forms (implied noun: тип/форма). Radial/Droplet/Triangle already established in 魔石説明.fmg.xml note; Circle and Waning coined here."
+  rally:
+    en: rally
+    uk: Реванш
+    note: "The HP-regain-by-counterattacking mechanic. No prior in-game precedent; capitalized as a named mechanic ('rally potential' -> потенціал Реваншу)."
+  beasthood:
+    en: beasthood
+    uk: звірство
+    note: "No prior in-game precedent."
+  frenzy:
+    en: frenzy
+    uk: божевілля
+    note: "Status effect. No prior in-game precedent."
+  League:
+    en: League
+    uk: Ліга
+    note: "Short for League of Hunters (Yamamura/Djura's covenant). Established via 'Вальтр, Магістр Ліги' (NPC名.fmg.xml id 6500)."
+  radial (gem shape):
+    en: radial
+    uk: радіальний
+    note: "Blood gem shape adjective, no prior precedent. Will recur heavily in 魔石名/魔石効果/魔石うんちく."
+  droplet (gem shape):
+    en: droplet
+    uk: краплеподібний
+    note: "Blood gem shape adjective, no prior precedent."
+  triangle (gem shape):
+    en: triangle
+    uk: трикутний
+    note: "Blood gem shape adjective (SP_メニューテキスト.fmg.xml id 14202), not yet used in a translated entry."
 
 Items:
   blood vial:
@@ -345,6 +484,27 @@ Other:
   Sinister:
     en: Sinister
     uk: Зловісний
+    note: "Chalice dungeon adjective, masc. form given; agrees in gender with the noun it modifies (fem. Зловісна, neut. Зловісне) — see Fetid/Rotted/Cursed/Shadow for the same pattern."
+  Fetid:
+    en: Fetid
+    uk: Смердючий
+    note: "Chalice dungeon adjective, masc. form given; agrees in gender (fem. Смердюча, neut. Смердюче). Established via item-msgbnd-dcx/地名.fmg.xml."
+  Rotted:
+    en: Rotted
+    uk: Гнилий
+    note: "Chalice dungeon adjective, masc. form given; agrees in gender (fem. Гнила, neut. Гниле). Established via item-msgbnd-dcx/地名.fmg.xml."
+  Cursed:
+    en: Cursed
+    uk: Проклятий
+    note: "Chalice dungeon adjective, masc. form given; agrees in gender (fem. Проклята, neut. Прокляте). Established via 'Людвіг Проклятий' (Ludwig the Accursed)."
+  Shadow:
+    en: Shadow
+    uk: Тіньовий
+    note: "Used as a chalice dungeon adjective (masc. form given; fem. Тіньова), distinct from the noun 'Тінь' used for 'Shadow of Yharnam'. No prior precedent found for the adjective use."
+  Depth:
+    en: Depth
+    uk: Глибина
+    note: "E.g. 'Depth 4' -> 'Глибина 4'. Established via item-msgbnd-dcx/地名.fmg.xml id 90900 and SP_メニューテキスト.fmg.xml id 40060."
   Surgery Altar:
     en: Surgery Altar
     uk: Хірургічний Вівтар.
@@ -371,6 +531,233 @@ Attack types:
   thrust:
     en: thrust
     uk: колючі
+
+UI button-help words:
+  Select:
+    en: Select
+    uk: Обрати
+    note: "Generic 'select' button label, used across <?selectUD?>/<?selectLR?>/<?selectAll?> tags in キーガイド.fmg.xml/SP_キーガイド.fmg.xml."
+  Enter/Confirm:
+    en: Enter / Confirm
+    uk: Підтвердити
+    note: "Both English variants of the <?conclusion?> confirm-button label map to the same Ukrainian word. Established via SP_メニューテキスト.fmg.xml id 211010 ('Підтвердити') and id 40331 ('Підтвердити та продовжити.')."
+  Close:
+    en: Close
+    uk: Закрити
+  Cancel:
+    en: Cancel
+    uk: Скасувати
+    note: "Established via イベントテキスト.fmg.xml id 15000180."
+  Back:
+    en: Back
+    uk: Назад
+  Toggle Display:
+    en: Toggle Display
+    uk: Перемкнути відображення
+    note: "Distinct from 'Change Display' (uk: Змінити відображення) — both appear in the same file (キーガイド.fmg.xml) as separate button actions."
+  Change Display:
+    en: Change Display
+    uk: Змінити відображення
+  Toggle Status:
+    en: Toggle Status
+    uk: Перемкнути статус
+  Rotate Face:
+    en: Rotate Face
+    uk: Обертати обличчя
+    note: "Character-creator camera control, distinct from plain 'Rotate' (uk: Обертати)."
+
+Inherited Dark Souls 1 boilerplate (ダイアログ.fmg.xml/SP_ダイアログ.fmg.xml/メニュー共通テキスト.fmg.xml):
+  Dexterity / Intelligence / Faith / Luck:
+    en: Dexterity / Intelligence / Faith / Luck
+    uk: Спритність / Інтелект / Віра / Удача
+    note: "DS-exclusive stats with no Bloodborne equivalent. Vitality/Endurance/Strength reuse the established Bloodborne stat translations (Життєздатність/Стійкість/Сила) since the English words are identical."
+  Attunement (DS stat):
+    en: Attunement
+    uk: Зосередження
+    note: "DS1/3 stat name, shares its root with [[Attunement]] (slots) coined for Bloodborne's Caryll Rune system."
+  Poise:
+    en: Poise
+    uk: Витримка
+    note: "Deliberately distinct from Endurance (Стійкість) to avoid collision — both are DS stats that needed separate Ukrainian words."
+  Strike (DS attack type):
+    en: Strike
+    uk: Ударний
+    note: "DS3's third physical damage type alongside Slash/Thrust (рублячий/колючий); Bloodborne uses Blunt (тупий) instead of Strike for the equivalent slot, so this is a distinct coinage for DS-boilerplate contexts only."
+  sorcery / pyromancy / miracle:
+    en: sorcery / pyromancy / miracle
+    uk: чари / піромантія / чудо
+  Way of White / Princess's Guard / Warrior of Sunlight / Darkwraith / Path of the Dragon / Gravelord Servant / Forest Hunter / Darkmoon Blade / Chaos Servant:
+    en: The nine Dark Souls 1 covenants
+    uk: Шлях Білого / Варта Принцеси / Воїн Сонячного Світла / Темний Привид / Шлях Дракона / Слуга Володаря Могил / Лісовий Мисливець / Клинок Темного Місяця / Слуга Хаосу
+    note: "DS1 covenant names, no prior precedent. Rank suffixes (+1/+2/+3) kept as literal appended text, e.g. 'Шлях Білого+1'."
+  Souls (DS1 currency):
+    en: Souls
+    uk: Душі
+    note: "Dark Souls 1's currency, distinct from Bloodborne's own [[Blood Echoes]] (Кроваві спогади). This whole dialog file is inherited FromSoftware engine boilerplate that still literally says 'Souls'/'Humanity'/'Bonfire' in the English source, so translated literally rather than swapped for Bloodborne terms — matches the precedent set in システムメッセージ_win64.fmg.xml (kept 'Dark Souls'/'PlayStation®3' as-is)."
+  Humanity:
+    en: Humanity
+    uk: Людяність
+  Bonfire:
+    en: Bonfire
+    uk: Багаття
+  Covenant (DS1 dialog):
+    en: Covenant
+    uk: Клятва
+    note: "Reused Bloodborne's own oath/covenant term (see [[Chalice Dungeon]]-adjacent Covenants and players section) since the concept maps directly onto Bloodborne's actual covenant system, unlike Souls/Humanity/Bonfire which have no Bloodborne equivalent at all."
+  Indictment:
+    en: Indictment
+    uk: обвинувачення
+  Ascension:
+    en: Ascension
+    uk: сходження
+    note: "DS1 weapon-upgrade branch mechanic (Ascend), distinct from plain [[Reinforcement (DS1 dialog)]]."
+  Reinforcement (DS1 dialog):
+    en: Reinforcement / Reinforce
+    uk: посилення / посилити
+  Attunement:
+    en: Attunement (slots)
+    uk: слоти зосередження
+  Crystal weapon:
+    en: Crystal weapon
+    uk: кришталева зброя
+  message (DS1 bloodstain-style):
+    en: message
+    uk: повідомлення
+    note: "DS1's rateable bloodstain-message feature. Distinct from Bloodborne's own [[note (written note)]] (нотатка) system — this file's 'message'/'Rate this message' wording corresponds conceptually to 血文字.fmg.xml (Bloodstain Message file), not to written notes."
+
+Menu/equipment slots:
+  Inventory:
+    en: Inventory
+    uk: Інвентар
+    note: "Established via SP_メニューテキスト.fmg.xml id 101000."
+  Equipment:
+    en: Equipment
+    uk: Спорядження
+    note: "Established via SP_メニューテキスト.fmg.xml id 103000."
+  Armor:
+    en: Armor
+    uk: Броня
+    note: "Menu category header grouping Head/Chest/Hands/Legs slots. Distinct from 'Вбрання' (Attire), which the game uses for the general equipped-outfit slot."
+  Controls:
+    en: Controls
+    uk: Керування
+    note: "Established via SP_メニューテキスト.fmg.xml id 110000 / SP_キーガイド.fmg.xml id 400007."
+  Display:
+    en: Display
+    uk: Екран
+    note: "Established via SP_メニューテキスト.fmg.xml id 111010 ('Екран')."
+  Bolt:
+    en: Bolt
+    uk: Болт
+    note: "Ammo-type menu slot inherited from the shared FromSoftware engine (Bloodborne has no crossbows in practice); likely unused. No prior in-game precedent."
+  Right Hand / Left Hand:
+    en: Right Hand / Left Hand
+    uk: Права Рука / Ліва Рука
+    note: "Established via SP_メニューテキスト.fmg.xml id 105100-105103 ('Зброя для Правої/Лівої Руки')."
+
+Gestures:
+  Praise the Sun:
+    en: Praise the Sun
+    uk: Хвала Сонцю!
+    note: "Standard Souls-fandom Ukrainian rendering of the iconic Dark Souls gesture, carried over into Bloodborne's inherited gesture list."
+  Bow:
+    en: Bow
+    uk: Уклін
+  Prostration:
+    en: Prostration
+    uk: Земний уклін
+  Proper bow:
+    en: Proper bow
+    uk: Ввічливий уклін
+    note: "Distinct from plain [[Bow]] (Уклін)."
+
+Death/victory banners:
+  PREY SLAUGHTERED:
+    en: PREY SLAUGHTERED
+    uk: ЗДОБИЧ ЗНИЩЕНО
+  YOU DIED:
+    en: YOU DIED
+    uk: ВИ ЗАГИНУЛИ
+  ADVERSARY EXPUNGED:
+    en: ADVERSARY EXPUNGED
+    uk: СУПРОТИВНИКА ЗНИЩЕНО
+  NIGHTMARE SLAIN:
+    en: NIGHTMARE SLAIN
+    uk: КОШМАР ЗНИЩЕНО
+  BLOOD ECHOES RETRIEVED:
+    en: BLOOD ECHOES RETRIEVED
+    uk: КРОВАВІ СПОГАДИ ПОВЕРНУТО
+
+Notes/messages (Bloodborne's own note system):
+  note ratings (Fine/Foul):
+    en: Fine / Foul (note rating)
+    uk: Гарна / Погана
+    note: "Player rating for [[note (written note)]]s, distinct from covenant-related terms."
+  Appraisals:
+    en: Appraisals
+    uk: Оцінки
+  Templates / Words / Conjunctions:
+    en: Templates / Words / Conjunctions
+    uk: Шаблони / Слова / Сполучники
+    note: "Note-writing UI categories, matching established singular forms (шаблон/слово/сполучник) from SP_一行ヘルプ.fmg.xml."
+
+Covenant-specific currencies:
+  Dregs:
+    en: Dregs
+    uk: Покидьки
+    note: "Vileblood covenant rank-up currency ('Dregs Offered'). No prior in-game precedent."
+  Vermin:
+    en: Vermin
+    uk: Шкідники
+    note: "League/Hunter of Hunters covenant rank-up currency ('Crushed Vermin'). No prior in-game precedent."
+
+Gestures (additional, see also [[Praise the Sun]]/[[Bow]]/[[Prostration]]/[[Proper bow]]):
+  Hunter's Rally / Hunter's Salutation:
+    en: Hunter's Rally / Hunter's Salutation
+    uk: Поклик Мисливця / Вітання Мисливця
+    note: "'Hunter's Rally' here is the gesture name, unrelated to the [[rally]] HP-regain mechanic — translated distinctly to avoid confusion."
+
+Face editor (SP_メニューテキスト.fmg.xml id 425xxx-433xxx):
+  face-slider grammatical convention:
+    en: (meta entry, not a translatable term)
+    uk: (meta entry, not a translatable term)
+    note: "~270 short adjective-pair slider labels (Wide/Narrow, Convex/Concave, High/Low, etc.), one pair per face-editing parameter. Convention used: each pair's Ukrainian adjective gender agrees with the Ukrainian noun for that specific header (e.g. Ширина/Висота/Глибина/Товщина/Довжина are feminine -> Широка/Вузька, Низька/Висока, etc.; Розмір/Виступ/Нахил/Інтервал/Контур/Тон are masculine -> Малий/Великий, Опуклий/Увігнутий, etc.; Розташування is neuter -> adverbial Вгору/Вниз; the four plural body-part sections Очі/Ніздрі/Щоки/Губи take plural forms e.g. Носогубні складки: Світлі/Темні). No prior in-game precedent existed for this entire block; established fresh for internal consistency across all ~135 sliders."
+
+PvP/co-op titles (イベントテキスト.fmg.xml):
+  Beckoner:
+    en: Beckoner
+    uk: Кликач
+    note: "The host of a co-op/PvP session, coined agent noun from 'кликати' (to call/beckon). No prior in-game precedent."
+  Executioner (singular member):
+    en: Executioner
+    uk: Каратель
+    note: "Singular member of [[The Executioners]] covenant (uk: Каральний Загін), used when a specific invading/summoned NPC is labeled by covenant. Distinct declension of the same root."
+  Vileblood (singular member):
+    en: Vileblood
+    uk: Нечистокровний
+    note: "Singular member of [[The Vileblood]] covenant (uk: Нечистокровні)."
+  blood-addled hunter / Blood-drunk Hunter:
+    en: blood-addled hunter / Blood-drunk Hunter
+    uk: мисливець, сп'янілий кров'ю / Сп'янілий кров'ю мисливець
+    note: "Treated as the same concept despite inconsistent English phrasing (id 101500 'blood-addled' vs id 10011410 'Blood-drunk'), translated with one consistent Ukrainian root."
+  bell-ringing woman:
+    en: bell-ringing woman
+    uk: Дзвонарка
+    note: "Coined noun for this recurring NPC (appears when the Sinister Bell is rung). No prior in-game precedent."
+
+Locations (イベントテキスト.fmg.xml warp/lamp list — cross-check against 地名.fmg.xml before adding new ones):
+  Astral Clocktower:
+    en: Astral Clocktower
+    uk: Астральна Годинникова Вежа
+    note: "Established via SP_ダイアログ.fmg.xml ('Леді Марія з Астральної Годинникової Вежі')."
+  Lumenflower Gardens:
+    en: Lumenflower Gardens
+    uk: Сади Світлоквітів
+    note: "Coined 'Світлоквіт' (lumen+flower) to match the established [[lumenwood]] (світлодерево) calque pattern."
+  Chamber of the Seal / Layer One-Four:
+    en: Chamber of the Seal / Layer One-Four
+    uk: Зала Печатки / Шар Перший-Четвертий
+    note: "Orphan of Kos DLC arena and its 'Heart' sub-layers (e.g. 'Layer One: Heart' -> 'Шар Перший: Серце'). No prior precedent."
 
 Phrases:
   May the good blood guide your way:

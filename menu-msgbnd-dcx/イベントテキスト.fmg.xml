@@ -5,23 +5,23 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="14000">Expend Insight and seek the assistance
-of a hunter from another world?</text>
-<text id="14001">Assist hunter from another world?</text>
-<text id="14002">Become the adversary
-of a hunter in another world?</text>
-<text id="14003">Silence the Beckoning Bell</text>
-<text id="14004">Silence the Small Resonant Bell</text>
-<text id="14005">Silence the Sinister Resonant Bell</text>
-<text id="14006">Rescind your request for assistance?</text>
-<text id="14007">Rescind your offer of assistance?</text>
-<text id="14008">Rescind your threat of hostility?</text>
-<text id="14009">Return to your own world</text>
-<text id="14010">Send player back to their own world</text>
-<text id="14011">Withdraw and return to own world?</text>
-<text id="14012">Withdraw and return to own world?</text>
-<text id="100001">Searching for the chime of a Small Resonant Bell...</text>
-<text id="100002">The bell-ringing woman rings a sinister bell.</text>
+<text id="14000">Витратити Прозріння та шукати допомоги
+мисливця з іншого світу?</text>
+<text id="14001">Допомогти мисливцю з іншого світу?</text>
+<text id="14002">Стати супротивником
+мисливця в іншому світі?</text>
+<text id="14003">Заглушити Кличний Дзвін</text>
+<text id="14004">Заглушити Малий Резонансний Дзвін</text>
+<text id="14005">Заглушити Зловісний Резонансний Дзвін</text>
+<text id="14006">Скасувати запит на допомогу?</text>
+<text id="14007">Скасувати пропозицію допомоги?</text>
+<text id="14008">Скасувати погрозу ворожості?</text>
+<text id="14009">Повернутися у свій світ</text>
+<text id="14010">Відправити гравця назад у його світ</text>
+<text id="14011">Відступити та повернутися у свій світ?</text>
+<text id="14012">Відступити та повернутися у свій світ?</text>
+<text id="100001">Пошук передзвону Малого Резонансного Дзвону...</text>
+<text id="100002">Дзвонарка дзвонить у зловісний дзвін.</text>
 <text id="100003">%null%</text>
 <text id="100004">%null%</text>
 <text id="100005">%null%</text>
@@ -30,8 +30,8 @@ of a hunter in another world?</text>
 <text id="100008">%null%</text>
 <text id="100009">%null%</text>
 <text id="100010">%null%</text>
-<text id="100011">Searching for the chime of a
-Small Resonant Bell with matching password.</text>
+<text id="100011">Пошук передзвону
+Малого Резонансного Дзвону з відповідним паролем.</text>
 <text id="100051">Дзвін Старого Мисливця резонує...</text>
 <text id="100052">Дзвін Старого Мисливця резонує...</text>
 <text id="100053">Дзвін Старого Мисливця резонує...</text>
@@ -39,7 +39,7 @@ Small Resonant Bell with matching password.</text>
 <text id="100055">Дзвін Старого Мисливця резонує...</text>
 <text id="100056">Дзвін Старого Мисливця резонує...</text>
 <text id="100057">Дзвін Старого Мисливця резонує...</text>
-<text id="100100">Searching for the chime of a Beckoning Bell...</text>
+<text id="100100">Пошук передзвону Кличного Дзвону...</text>
 <text id="100101">%null%</text>
 <text id="100102">%null%</text>
 <text id="100103">%null%</text>
@@ -49,16 +49,16 @@ Small Resonant Bell with matching password.</text>
 <text id="100107">%null%</text>
 <text id="100108">%null%</text>
 <text id="100109">%null%</text>
-<text id="100110">Searching for the chime of a
-Beckoning Bell with matching password.</text>
-<text id="100200">Searching for the chime of a Sinister Bell...</text>
-<text id="100300">Could not discover the chime of a Small Resonant Bell.
-No insight was consumed.</text>
-<text id="101001">Discovered the chime of a Small Resonant Bell.</text>
-<text id="101002">Sinister Bell resonates with another...</text>
-<text id="101003">Discovered the chime of a Small Resonant Bell.</text>
-<text id="101004">Discovered the chime of a Small Resonant Bell.</text>
-<text id="101005">Discovered the chime of a Small Resonant Bell.</text>
+<text id="100110">Пошук передзвону
+Кличного Дзвону з відповідним паролем.</text>
+<text id="100200">Пошук передзвону Зловісного Дзвону...</text>
+<text id="100300">Не вдалося виявити передзвін Малого Резонансного Дзвону.
+Прозріння не було витрачено.</text>
+<text id="101001">Виявлено передзвін Малого Резонансного Дзвону.</text>
+<text id="101002">Зловісний Дзвін резонує з іншим...</text>
+<text id="101003">Виявлено передзвін Малого Резонансного Дзвону.</text>
+<text id="101004">Виявлено передзвін Малого Резонансного Дзвону.</text>
+<text id="101005">Виявлено передзвін Малого Резонансного Дзвону.</text>
 <text id="101051">Дзвін Старого Мисливця резонує з іншим.</text>
 <text id="101052">Дзвін Старого Мисливця резонує з іншим.</text>
 <text id="101053">Дзвін Старого Мисливця резонує з іншим.</text>
@@ -66,19 +66,19 @@ No insight was consumed.</text>
 <text id="101055">Дзвін Старого Мисливця резонує з іншим.</text>
 <text id="101056">Дзвін Старого Мисливця резонує з іншим.</text>
 <text id="101057">Дзвін Старого Мисливця резонує з іншим.</text>
-<text id="101100">Discovered the chime of a Beckoning Bell.</text>
-<text id="101200">Discovered the chime of a Sinister Bell.</text>
-<text id="101300">Discovered the chime of a Beckoning Bell,
-but the beckoner is an Executioner, and thus an adversary.</text>
-<text id="101400">Discovered the chime of a Beckoning Bell,
-but the beckoner is a Vileblood, and thus an adversary.</text>
-<text id="101500">Discovered the chime of a Beckoning Bell,
-but the beckoner is a blood-addled hunter, and thus an adversary.</text>
-<text id="102001">The bell's resonance has beckoned &lt;?joinName?&gt;.</text>
+<text id="101100">Виявлено передзвін Кличного Дзвону.</text>
+<text id="101200">Виявлено передзвін Зловісного Дзвону.</text>
+<text id="101300">Виявлено передзвін Кличного Дзвону,
+але той, хто кличе, — Каратель, а отже супротивник.</text>
+<text id="101400">Виявлено передзвін Кличного Дзвону,
+але той, хто кличе, — Нечистокровний, а отже супротивник.</text>
+<text id="101500">Виявлено передзвін Кличного Дзвону,
+але той, хто кличе, — мисливець, сп'янілий кров'ю, а отже супротивник.</text>
+<text id="102001">Резонанс дзвону покликав &lt;?joinName?&gt;.</text>
 <text id="102002">Супротивник &lt;?joinName?&gt; has arrived.</text>
-<text id="102003">&lt;?joinName?&gt; has arrived by the bell's resonance</text>
-<text id="102004">&lt;?joinName?&gt; has arrived by the bell's resonance</text>
-<text id="102005">&lt;?joinName?&gt; has arrived by the bell's resonance</text>
+<text id="102003">&lt;?joinName?&gt; прибув завдяки резонансу дзвону</text>
+<text id="102004">&lt;?joinName?&gt; прибув завдяки резонансу дзвону</text>
+<text id="102005">&lt;?joinName?&gt; прибув завдяки резонансу дзвону</text>
 <text id="102006">Союзник &lt;?joinName?&gt; has arrived
 by the bell's resonance.</text>
 <text id="102007">Союзник &lt;?joinName?&gt; has arrived
@@ -97,18 +97,18 @@ by the bell's resonance.</text>
 by the bell's resonance.</text>
 <text id="102057">Союзник &lt;?joinName?&gt; has arrived
 by the bell's resonance.</text>
-<text id="102100">Entered the world of &lt;?hostName?&gt;,
-who beckoned you here.</text>
-<text id="102200">Entered the world of &lt;?hostName?&gt;.</text>
-<text id="102300">You are now in the world of the beckoner,
-Executioner &lt;?hostName?&gt;</text>
-<text id="102400">You are now in the world of the beckoner,
-Vileblood &lt;?hostName?&gt;</text>
-<text id="102500">You are now in the world of the beckoner,
-the blood-addled hunter &lt;?hostName?&gt;.</text>
-<text id="102600">You are now in the world of the beckoner,
+<text id="102100">Ви увійшли у світ &lt;?hostName?&gt;,
+хто покликав вас сюди.</text>
+<text id="102200">Ви увійшли у світ &lt;?hostName?&gt;.</text>
+<text id="102300">Тепер ви у світі Кликача,
+Карателя &lt;?hostName?&gt;</text>
+<text id="102400">Тепер ви у світі Кликача,
+Нечистокровного &lt;?hostName?&gt;</text>
+<text id="102500">Тепер ви у світі Кликача,
+мисливця, сп'янілого кров'ю, &lt;?hostName?&gt;.</text>
+<text id="102600">Тепер ви у світі Кликача,
 &lt;?hostName?&gt;.</text>
-<text id="102700">You are now in the world of the beckoner,
+<text id="102700">Тепер ви у світі Кликача,
 &lt;?hostName?&gt;.</text>
 <text id="103001">Поплічник &lt;?deadName?&gt; загинув.</text>
 <text id="103002">Супротивник &lt;?deadName?&gt; загинув.</text>
@@ -132,9 +132,9 @@ the blood-addled hunter &lt;?hostName?&gt;.</text>
 <text id="103300">Ви померли. Повернення у ваш світ.</text>
 <text id="103400">Ви померли. Повернення у ваш світ.</text>
 <text id="103500">Ви померли. Повернення у ваш світ.</text>
-<text id="105100">Beckoner has challenged
+<text id="105100">Кликач кинув виклик
 &lt;?npcNameId@500000?&gt;.</text>
-<text id="105199">The beckoner has begun the final battle.</text>
+<text id="105199">Кликач розпочав фінальну битву.</text>
 <text id="105200">Бій з &lt;?npcNameId@1000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="105299">The beckoner has begun the final battle.
@@ -150,34 +150,34 @@ the blood-addled hunter &lt;?hostName?&gt;.</text>
 Повернення у ваш світ.</text>
 <text id="106100">&lt;?npcNameId@1000?&gt; був переможений,
 полювання завершено. Час прощатися.</text>
-<text id="106199">The final battle has ended.
-It is time to bid farewell.</text>
-<text id="106200">Beckoner &lt;?hostName?&gt; has fallen.
-It is time to bid farewell.</text>
-<text id="106300">Executioner &lt;?hostName?&gt; has fallen.
-It is time to bid farewell.</text>
+<text id="106199">Фінальну битву завершено.
+Час прощатися.</text>
+<text id="106200">Кликач &lt;?hostName?&gt; загинув.
+Час прощатися.</text>
+<text id="106300">Каратель &lt;?hostName?&gt; загинув.
+Час прощатися.</text>
 <text id="106400">Нечистокровний &lt;?hostName?&gt; has fallen.
 It is time to bid farewell.</text>
-<text id="106500">Blood-addled hunter &lt;?hostName?&gt; has fallen.
-It is time to bid farewell.</text>
-<text id="107000">Beckoner</text>
+<text id="106500">Мисливець, сп'янілий кров'ю, &lt;?hostName?&gt;, загинув.
+Час прощатися.</text>
+<text id="107000">Кликач</text>
 <text id="107100">Поплічник</text>
-<text id="107150">Old Hunter</text>
+<text id="107150">Старий Мисливець</text>
 <text id="107200">Супротивник</text>
-<text id="107250">Old Hunter</text>
-<text id="107300">Vileblood</text>
-<text id="107350">Old Hunter</text>
-<text id="107400">Executioner</text>
-<text id="107450">Old Hunter</text>
-<text id="107500">Hunter of Hunters</text>
-<text id="107550">Old Hunter</text>
+<text id="107250">Старий Мисливець</text>
+<text id="107300">Нечистокровний</text>
+<text id="107350">Старий Мисливець</text>
+<text id="107400">Каратель</text>
+<text id="107450">Старий Мисливець</text>
+<text id="107500">Винищувач Мисливців</text>
+<text id="107550">Старий Мисливець</text>
 <text id="107600">Союзник</text>
 <text id="107650">Союзник</text>
 <text id="107700">Союзник</text>
 <text id="107750">Союзник</text>
-<text id="109000">Drawn by the bell's timbre,
-a bell-ringing woman has appeared somewhere.</text>
-<text id="109001">The bell-ringing woman has left, and the sound of the sinister bell has ceased.</text>
+<text id="109000">Приваблена тембром дзвону,
+десь з'явилася Дзвонарка.</text>
+<text id="109001">Дзвонарка пішла, і звук зловісного дзвону стих.</text>
 <text id="141010">Бій з &lt;?npcNameId@1000?&gt; розпочався.
 Повернення у ваш світ.</text>
 <text id="141011">%null%</text>
@@ -978,7 +978,7 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="142379">%null%</text>
 <text id="142380">&lt;?npcNameId@899000?&gt; був переможений,
 полювання завершено. Час прощатися.</text>
-<text id="200000">One of your notes was rated "fine."</text>
+<text id="200000">Одна з ваших нотаток отримала оцінку "гарна".</text>
 <text id="10010100">Оглянути</text>
 <text id="10010101">Обшукати тіло</text>
 <text id="10010102">Обшукати труп</text>
@@ -986,13 +986,13 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="10010104">*</text>
 <text id="10010105">%null%</text>
 <text id="10010106">%null%</text>
-<text id="10010107">Search Chest</text>
-<text id="10010108">Search Coffin</text>
+<text id="10010107">Обшукати скриню</text>
+<text id="10010108">Обшукати труну</text>
 <text id="10010109">%null%</text>
 <text id="10010110">ОК</text>
-<text id="10010150">It writhes eerily.</text>
-<text id="10010151">Time flows in reverse for this scrap of flesh.</text>
-<text id="10010152">Nothing happened.</text>
+<text id="10010150">Воно моторошно звивається.</text>
+<text id="10010151">Час тече у зворотному напрямку для цього шматка плоті.</text>
+<text id="10010152">Нічого не сталося.</text>
 <text id="10010153">%null%</text>
 <text id="10010154">%null%</text>
 <text id="10010155">%null%</text>
@@ -1005,25 +1005,25 @@ a bell-ringing woman has appeared somewhere.</text>
 <text id="10010162">Відчинено з цієї сторони.</text>
 <text id="10010163">Зачинено.</text>
 <text id="10010164">Відчинено.</text>
-<text id="10010165">This town is long abandoned.
-Hunters not wanted here.</text>
-<text id="10010166">You have already received blood.</text>
-<text id="10010167">Locked by a device.</text>
+<text id="10010165">Це місто давно покинуте.
+Мисливці тут небажані.</text>
+<text id="10010166">Ви вже отримали кров.</text>
+<text id="10010167">Замкнено пристроєм.</text>
 <text id="10010168">%null%</text>
 <text id="10010169">%null%</text>
-<text id="10010170">Already unlocked.</text>
+<text id="10010170">Вже розблоковано.</text>
 <text id="10010171">Замкнено.</text>
-<text id="10010172">Device is not currently operable.</text>
-<text id="10010173">Only a special emblem opens the main gate.</text>
-<text id="10010174">A special emblem opened the main gate.</text>
+<text id="10010172">Пристрій наразі не працює.</text>
+<text id="10010173">Лише особлива емблема відкриває головну браму.</text>
+<text id="10010174">Особлива емблема відкрила головну браму.</text>
 <text id="10010175">%null%</text>
 <text id="10010176">%null%</text>
 <text id="10010177">%null%</text>
 <text id="10010178">%null%</text>
 <text id="10010179">%null%</text>
-<text id="10010180">Cannot proceed until game is fully installed.</text>
-<text id="10010181">Installation complete.
-To proceed, quit and restart game.</text>
+<text id="10010180">Неможливо продовжити, доки гру не встановлено повністю.</text>
+<text id="10010181">Встановлення завершено.
+Щоб продовжити, вийдіть та перезапустіть гру.</text>
 <text id="10010182">%null%</text>
 <text id="10010183">%null%</text>
 <text id="10010184">Вогонь з гармати</text>
@@ -1042,7 +1042,7 @@ To proceed, quit and restart game.</text>
 <text id="10010197">%null%</text>
 <text id="10010198">%null%</text>
 <text id="10010199">%null%</text>
-<text id="10010200">Talk</text>
+<text id="10010200">Говорити</text>
 <text id="10010201">%null%</text>
 <text id="10010202">%null%</text>
 <text id="10010203">%null%</text>
@@ -1052,7 +1052,7 @@ To proceed, quit and restart game.</text>
 <text id="10010207">%null%</text>
 <text id="10010208">%null%</text>
 <text id="10010209">%null%</text>
-<text id="10010210">Kneel</text>
+<text id="10010210">Стати на коліна</text>
 <text id="10010211">%null%</text>
 <text id="10010212">%null%</text>
 <text id="10010213">%null%</text>
@@ -1062,7 +1062,7 @@ To proceed, quit and restart game.</text>
 <text id="10010217">%null%</text>
 <text id="10010218">%null%</text>
 <text id="10010219">%null%</text>
-<text id="10010220">Knock</text>
+<text id="10010220">Постукати</text>
 <text id="10010221">%null%</text>
 <text id="10010222">%null%</text>
 <text id="10010223">%null%</text>
@@ -1072,9 +1072,9 @@ To proceed, quit and restart game.</text>
 <text id="10010227">%null%</text>
 <text id="10010228">%null%</text>
 <text id="10010229">%null%</text>
-<text id="10010230">Talk</text>
-<text id="10010300">Ascend Ladder</text>
-<text id="10010301">Descend Ladder</text>
+<text id="10010230">Говорити</text>
+<text id="10010300">Піднятися по драбині</text>
+<text id="10010301">Спуститися по драбині</text>
 <text id="10010302">%null%</text>
 <text id="10010303">%null%</text>
 <text id="10010304">%null%</text>
@@ -1083,7 +1083,7 @@ To proceed, quit and restart game.</text>
 <text id="10010307">%null%</text>
 <text id="10010308">%null%</text>
 <text id="10010309">%null%</text>
-<text id="10010310">Open Main Gate</text>
+<text id="10010310">Відкрити головну браму</text>
 <text id="10010311">%null%</text>
 <text id="10010312">%null%</text>
 <text id="10010313">%null%</text>
@@ -1093,18 +1093,18 @@ To proceed, quit and restart game.</text>
 <text id="10010317">%null%</text>
 <text id="10010318">%null%</text>
 <text id="10010319">%null%</text>
-<text id="10010320">Read letter</text>
-<text id="10010400">Open Door</text>
-<text id="10010401">Shut Door</text>
-<text id="10010402">Open Gate</text>
-<text id="10010403">Traverse Nightmare Fog</text>
-<text id="10010404">Open Door to Outside</text>
-<text id="10010405">Open Door to Outside</text>
-<text id="10010420">Open Chest</text>
-<text id="10010421">Open Coffin</text>
-<text id="10010501">Operate Device</text>
-<text id="10010502">Kick Down Ladder</text>
-<text id="10010540">Ride Carriage</text>
+<text id="10010320">Прочитати лист</text>
+<text id="10010400">Відкрити двері</text>
+<text id="10010401">Зачинити двері</text>
+<text id="10010402">Відкрити браму</text>
+<text id="10010403">Пройти крізь Туман Кошмару</text>
+<text id="10010404">Відкрити двері назовні</text>
+<text id="10010405">Відкрити двері назовні</text>
+<text id="10010420">Відкрити скриню</text>
+<text id="10010421">Відкрити труну</text>
+<text id="10010501">Використати пристрій</text>
+<text id="10010502">Скинути драбину</text>
+<text id="10010540">Сісти в карету</text>
 <text id="10010541">%null%</text>
 <text id="10010542">%null%</text>
 <text id="10010543">%null%</text>
@@ -1116,7 +1116,7 @@ To proceed, quit and restart game.</text>
 <text id="10010549">%null%</text>
 <text id="10010550">Оглянути мумію</text>
 <text id="10010551">Оглянути купіль</text>
-<text id="10010552">Hold up Celestial Dial</text>
+<text id="10010552">Підняти Небесний Диск</text>
 <text id="10010553">%null%</text>
 <text id="10010554">%null%</text>
 <text id="10010555">%null%</text>
@@ -1126,24 +1126,24 @@ To proceed, quit and restart game.</text>
 <text id="10010559">%null%</text>
 <text id="10010560">Подзвонити в дзвін Старого Мисливця</text>
 <text id="10010561">Закликати Генріка</text>
-<text id="10010562">Summon Master Valtr</text>
-<text id="10010563">Summon Valtr, Beast Eater</text>
+<text id="10010562">Покликати Магістра Вальтра</text>
+<text id="10010563">Покликати Вальтра, Пожирача Звірів</text>
 <text id="10010564">Закликати Ямамуру</text>
-<text id="10010565">Summon Younger Madaras Twin</text>
-<text id="10010566">Summon Damian of Mensis</text>
-<text id="10010567">Summon Henriett</text>
-<text id="10010568">Summon Defector Antal</text>
-<text id="10010569">Summon Prospector Olek</text>
-<text id="10010570">Summon Prospector Gremia</text>
-<text id="10010571">Summon Beastclaw Jozef</text>
-<text id="10010572">Summon Queen Killer</text>
+<text id="10010565">Покликати Молодшого Близнюка Мадара</text>
+<text id="10010566">Покликати Даміана Менсіса</text>
+<text id="10010567">Покликати Генрієтту</text>
+<text id="10010568">Покликати Дезертира Антала</text>
+<text id="10010569">Покликати Розкрадача Гробниць Олека</text>
+<text id="10010570">Покликати Розкрадача Гробниць Гремію</text>
+<text id="10010571">Покликати Звірокогтя Йозефа</text>
+<text id="10010572">Покликати Убивцю Королеви</text>
 <text id="10010573">Закликати Вітуса</text>
-<text id="10010574">Summon Madman Wallar</text>
+<text id="10010574">Покликати Божевільного Валлара</text>
 <text id="10010575">Закликати Отця Гаскойна</text>
 <text id="10010576">Закликати Альфреда</text>
 <text id="10010600">Оглянути хірургічний вівтар.</text>
-<text id="10010601">There is a hole in the skull.</text>
-<text id="10010602">Insert Eye Pendant</text>
+<text id="10010601">У черепі є отвір.</text>
+<text id="10010602">Вставити Кулон з Оком</text>
 <text id="10010603">Оглянути труп</text>
 <text id="10010604">%null%</text>
 <text id="10010605">%null%</text>
@@ -1151,40 +1151,40 @@ To proceed, quit and restart game.</text>
 <text id="10010607">%null%</text>
 <text id="10010608">%null%</text>
 <text id="10010609">%null%</text>
-<text id="10010610">Read Signboard</text>
-<text id="10010611">Laboratory Floor 1</text>
-<text id="10010612">Laboratory Floor 2</text>
-<text id="10010613">Laboratory Floor 3</text>
-<text id="10010614">Laboratory Floor 4</text>
-<text id="10010615">Laboratory Floor 5</text>
-<text id="10010616">Patient Room Floor 2</text>
-<text id="10010617">Patient Room Floor 3</text>
-<text id="10010618">Patient Room Floor 4</text>
-<text id="10010619">Patient Room Floor 5</text>
-<text id="10010620">1st Floor Balcony</text>
-<text id="10010621">2nd Floor Balcony</text>
-<text id="10010710">Do you wish to reawaken?</text>
-<text id="10010711">Cast away all Blood Echoes
-and reawaken?</text>
+<text id="10010610">Прочитати вивіску</text>
+<text id="10010611">Лабораторія, поверх 1</text>
+<text id="10010612">Лабораторія, поверх 2</text>
+<text id="10010613">Лабораторія, поверх 3</text>
+<text id="10010614">Лабораторія, поверх 4</text>
+<text id="10010615">Лабораторія, поверх 5</text>
+<text id="10010616">Палата пацієнтів, поверх 2</text>
+<text id="10010617">Палата пацієнтів, поверх 3</text>
+<text id="10010618">Палата пацієнтів, поверх 4</text>
+<text id="10010619">Палата пацієнтів, поверх 5</text>
+<text id="10010620">Балкон 1-го поверху</text>
+<text id="10010621">Балкон 2-го поверху</text>
+<text id="10010710">Бажаєте пробудитися знову?</text>
+<text id="10010711">Відкинути всі Криваві спогади
+та пробудитися знову?</text>
 <text id="10010712">%null%</text>
-<text id="10010713">Return to the Hunter's Dream?</text>
-<text id="10010714">No place to awaken.</text>
+<text id="10010713">Повернутися до Сну Мисливця?</text>
+<text id="10010714">Немає місця для пробудження.</text>
 <text id="10010715">*</text>
-<text id="10010716">Cannot ride carriage at this time.</text>
-<text id="10010717">You have no messenger accessories.</text>
-<text id="10010718">You have no Holy Chalices.</text>
-<text id="10010719">No response.</text>
-<text id="10010720">Not functioning at this time.</text>
-<text id="10010721">Not functioning at this time.</text>
-<text id="10010722">Not functioning at this time.</text>
-<text id="10010723">Not functioning at this time.</text>
-<text id="10010724">Function unavailable.</text>
-<text id="10010725">Function unavailable.</text>
+<text id="10010716">Наразі неможливо сісти в карету.</text>
+<text id="10010717">У вас немає аксесуарів для Посланців.</text>
+<text id="10010718">У вас немає Священних Чаш.</text>
+<text id="10010719">Немає відповіді.</text>
+<text id="10010720">Наразі не функціонує.</text>
+<text id="10010721">Наразі не функціонує.</text>
+<text id="10010722">Наразі не функціонує.</text>
+<text id="10010723">Наразі не функціонує.</text>
+<text id="10010724">Функція недоступна.</text>
+<text id="10010725">Функція недоступна.</text>
 <text id="10010726">%null%</text>
 <text id="10010727">%null%</text>
 <text id="10010728">%null%</text>
 <text id="10010729">%null%</text>
-<text id="10010730">No Blood Dregs to offer.</text>
+<text id="10010730">Немає Кривавих Покидьків для піднесення.</text>
 <text id="10010731">%null%</text>
 <text id="10010732">%null%</text>
 <text id="10010733">%null%</text>
@@ -1194,74 +1194,74 @@ and reawaken?</text>
 <text id="10010737">%null%</text>
 <text id="10010738">%null%</text>
 <text id="10010739">%null%</text>
-<text id="10010740">Only the beckoner can open this door.</text>
-<text id="10010741">Only the beckoner can operate this device.</text>
-<text id="10010770">Rapid poisoning</text>
-<text id="10010771">Slow poisoning</text>
+<text id="10010740">Лише Кликач може відкрити ці двері.</text>
+<text id="10010741">Лише Кликач може використати цей пристрій.</text>
+<text id="10010770">Швидка отрута</text>
+<text id="10010771">Повільна отрута</text>
 <text id="10010772">%null%</text>
-<text id="10010773">Weapon at risk</text>
+<text id="10010773">Зброя під загрозою</text>
 <text id="10010774">*</text>
 <text id="10010775">%null%</text>
-<text id="10010776">Frenzy</text>
-<text id="10010777">Weapon broken</text>
+<text id="10010776">Божевілля</text>
+<text id="10010777">Зброя зламана</text>
 <text id="10010778">%null%</text>
-<text id="10010779">Transformed</text>
-<text id="10010801">Use &lt;?gdsparam@1520?&gt;?</text>
-<text id="10010802">Use &lt;?gdsparam@1530?&gt;?</text>
-<text id="10010803">Use &lt;?gdsparam@1540?&gt;?</text>
-<text id="10010804">Use &lt;?gdsparam@1550?&gt;?</text>
-<text id="10010805">Use &lt;?gdsparam@1560?&gt;?</text>
-<text id="10010806">Use &lt;?gdsparam@1570?&gt;?</text>
-<text id="10010807">Use &lt;?gdsparam@1580?&gt;?</text>
-<text id="10010808">Use &lt;?gdsparam@1590?&gt;?</text>
-<text id="10010809">Use &lt;?gdsparam@1600?&gt;?</text>
-<text id="10010810">Use &lt;?gdsparam@1610?&gt;?</text>
-<text id="10010811">Use &lt;?gdsparam@1620?&gt;?</text>
-<text id="10010812">Use &lt;?gdsparam@1630?&gt;?</text>
-<text id="10010813">Use &lt;?gdsparam@1640?&gt;?</text>
-<text id="10010814">Use &lt;?gdsparam@1650?&gt;?</text>
-<text id="10010815">Use &lt;?gdsparam@1660?&gt;?</text>
-<text id="10010816">Use &lt;?gdsparam@1670?&gt;?</text>
-<text id="10010817">Use &lt;?gdsparam@1680?&gt;?</text>
-<text id="10010818">Use &lt;?gdsparam@1690?&gt;?</text>
+<text id="10010779">Трансформовано</text>
+<text id="10010801">Використати &lt;?gdsparam@1520?&gt;?</text>
+<text id="10010802">Використати &lt;?gdsparam@1530?&gt;?</text>
+<text id="10010803">Використати &lt;?gdsparam@1540?&gt;?</text>
+<text id="10010804">Використати &lt;?gdsparam@1550?&gt;?</text>
+<text id="10010805">Використати &lt;?gdsparam@1560?&gt;?</text>
+<text id="10010806">Використати &lt;?gdsparam@1570?&gt;?</text>
+<text id="10010807">Використати &lt;?gdsparam@1580?&gt;?</text>
+<text id="10010808">Використати &lt;?gdsparam@1590?&gt;?</text>
+<text id="10010809">Використати &lt;?gdsparam@1600?&gt;?</text>
+<text id="10010810">Використати &lt;?gdsparam@1610?&gt;?</text>
+<text id="10010811">Використати &lt;?gdsparam@1620?&gt;?</text>
+<text id="10010812">Використати &lt;?gdsparam@1630?&gt;?</text>
+<text id="10010813">Використати &lt;?gdsparam@1640?&gt;?</text>
+<text id="10010814">Використати &lt;?gdsparam@1650?&gt;?</text>
+<text id="10010815">Використати &lt;?gdsparam@1660?&gt;?</text>
+<text id="10010816">Використати &lt;?gdsparam@1670?&gt;?</text>
+<text id="10010817">Використати &lt;?gdsparam@1680?&gt;?</text>
+<text id="10010818">Використати &lt;?gdsparam@1690?&gt;?</text>
 <text id="10010819">%null%</text>
-<text id="10010820">Use &lt;?gdsparam@1700?&gt;?</text>
-<text id="10010821">Use &lt;?gdsparam@1710?&gt;?</text>
-<text id="10010822">Use &lt;?gdsparam@1720?&gt;?</text>
-<text id="10010823">Use &lt;?gdsparam@1730?&gt;?</text>
-<text id="10010824">Use &lt;?gdsparam@1740?&gt;?</text>
-<text id="10010825">Use &lt;?gdsparam@1750?&gt;?</text>
-<text id="10010826">Use &lt;?gdsparam@1760?&gt;?</text>
-<text id="10010827">Use &lt;?gdsparam@1770?&gt;?</text>
-<text id="10010828">Use &lt;?gdsparam@1780?&gt;?</text>
-<text id="10010829">Use &lt;?gdsparam@1790?&gt;?</text>
-<text id="10010830">Use &lt;?gdsparam@1800?&gt;?</text>
-<text id="10010831">Use &lt;?gdsparam@1810?&gt;?</text>
-<text id="10010832">Use &lt;?gdsparam@1820?&gt;?</text>
-<text id="10010833">Use &lt;?gdsparam@1830?&gt;?</text>
-<text id="10010834">Use &lt;?gdsparam@1840?&gt;?</text>
-<text id="10010835">Use &lt;?gdsparam@1850?&gt;?</text>
-<text id="10010836">Use &lt;?gdsparam@1860?&gt;?</text>
-<text id="10010837">Use &lt;?gdsparam@1870?&gt;?</text>
-<text id="10010838">Use &lt;?gdsparam@1880?&gt;?</text>
-<text id="10010839">Use &lt;?gdsparam@1890?&gt;?</text>
-<text id="10010840">Use &lt;?gdsparam@1900?&gt;?</text>
-<text id="10010841">Use &lt;?gdsparam@1910?&gt;?</text>
-<text id="10010842">Use &lt;?gdsparam@1920?&gt;?</text>
-<text id="10010843">Use &lt;?gdsparam@4306?&gt;?</text>
-<text id="10010844">Use &lt;?gdsparam@4320?&gt;?</text>
-<text id="10010845">Use &lt;?gdsparam@4321?&gt;?</text>
-<text id="10010846">Use &lt;?gdsparam@4322?&gt;?</text>
-<text id="10010847">Use &lt;?gdsparam@4323?&gt;?</text>
+<text id="10010820">Використати &lt;?gdsparam@1700?&gt;?</text>
+<text id="10010821">Використати &lt;?gdsparam@1710?&gt;?</text>
+<text id="10010822">Використати &lt;?gdsparam@1720?&gt;?</text>
+<text id="10010823">Використати &lt;?gdsparam@1730?&gt;?</text>
+<text id="10010824">Використати &lt;?gdsparam@1740?&gt;?</text>
+<text id="10010825">Використати &lt;?gdsparam@1750?&gt;?</text>
+<text id="10010826">Використати &lt;?gdsparam@1760?&gt;?</text>
+<text id="10010827">Використати &lt;?gdsparam@1770?&gt;?</text>
+<text id="10010828">Використати &lt;?gdsparam@1780?&gt;?</text>
+<text id="10010829">Використати &lt;?gdsparam@1790?&gt;?</text>
+<text id="10010830">Використати &lt;?gdsparam@1800?&gt;?</text>
+<text id="10010831">Використати &lt;?gdsparam@1810?&gt;?</text>
+<text id="10010832">Використати &lt;?gdsparam@1820?&gt;?</text>
+<text id="10010833">Використати &lt;?gdsparam@1830?&gt;?</text>
+<text id="10010834">Використати &lt;?gdsparam@1840?&gt;?</text>
+<text id="10010835">Використати &lt;?gdsparam@1850?&gt;?</text>
+<text id="10010836">Використати &lt;?gdsparam@1860?&gt;?</text>
+<text id="10010837">Використати &lt;?gdsparam@1870?&gt;?</text>
+<text id="10010838">Використати &lt;?gdsparam@1880?&gt;?</text>
+<text id="10010839">Використати &lt;?gdsparam@1890?&gt;?</text>
+<text id="10010840">Використати &lt;?gdsparam@1900?&gt;?</text>
+<text id="10010841">Використати &lt;?gdsparam@1910?&gt;?</text>
+<text id="10010842">Використати &lt;?gdsparam@1920?&gt;?</text>
+<text id="10010843">Використати &lt;?gdsparam@4306?&gt;?</text>
+<text id="10010844">Використати &lt;?gdsparam@4320?&gt;?</text>
+<text id="10010845">Використати &lt;?gdsparam@4321?&gt;?</text>
+<text id="10010846">Використати &lt;?gdsparam@4322?&gt;?</text>
+<text id="10010847">Використати &lt;?gdsparam@4323?&gt;?</text>
 <text id="10010848">%null%</text>
 <text id="10010849">%null%</text>
-<text id="10010850">Opened gate with &lt;?gdsparam@4000?&gt;.</text>
-<text id="10010851">Cast away Blood Echoes
-and reawaken?</text>
-<text id="10010852">Return to the Hunter's Dream?</text>
+<text id="10010850">Відкрито браму за допомогою &lt;?gdsparam@4000?&gt;.</text>
+<text id="10010851">Відкинути Криваві спогади
+та пробудитися знову?</text>
+<text id="10010852">Повернутися до Сну Мисливця?</text>
 <text id="10010853">Прочитати Реєстр Сквернокровних?</text>
 <text id="10010854">*</text>
-<text id="10010855">Check League Directory?</text>
+<text id="10010855">Перевірити Довідник Ліги?</text>
 <text id="10010856">%null%</text>
 <text id="10010857">%null%</text>
 <text id="10010858">%null%</text>
@@ -1291,7 +1291,7 @@ and reawaken?</text>
 <text id="10010882">Двері відкриті за допомогою &lt;?gdsparam@4018?&gt;.</text>
 <text id="10010883">Двері відкриті за допомогою &lt;?gdsparam@4019?&gt;.</text>
 <text id="10010884">Двері відкриті за допомогою &lt;?gdsparam@4020?&gt;.</text>
-<text id="10011000">Use Blood Echoes to raise stats and level-up.</text>
+<text id="10011000">Використовуйте Криваві спогади, щоб підвищувати характеристики та рівень.</text>
 <text id="10011001">%null%</text>
 <text id="10011002">%null%</text>
 <text id="10011003">%null%</text>
@@ -1311,8 +1311,8 @@ and reawaken?</text>
 <text id="10011017">%null%</text>
 <text id="10011018">%null%</text>
 <text id="10011019">%null%</text>
-<text id="10011020">Place items in storage,
-or retrieve stored items.</text>
+<text id="10011020">Кладіть предмети у скриню
+або забирайте збережені предмети.</text>
 <text id="10011021">%null%</text>
 <text id="10011022">%null%</text>
 <text id="10011023">%null%</text>
@@ -1322,7 +1322,7 @@ or retrieve stored items.</text>
 <text id="10011027">%null%</text>
 <text id="10011028">%null%</text>
 <text id="10011029">%null%</text>
-<text id="10011030">Fortify weapons using Blood Stones.</text>
+<text id="10011030">Посилюйте зброю за допомогою Кров'яних каменів.</text>
 <text id="10011031">%null%</text>
 <text id="10011032">%null%</text>
 <text id="10011033">%null%</text>
@@ -1332,7 +1332,7 @@ or retrieve stored items.</text>
 <text id="10011037">%null%</text>
 <text id="10011038">%null%</text>
 <text id="10011039">%null%</text>
-<text id="10011040">Repair items with reduced durability.</text>
+<text id="10011040">Ремонтуйте предмети зі зниженою міцністю.</text>
 <text id="10011041">%null%</text>
 <text id="10011042">%null%</text>
 <text id="10011043">%null%</text>
@@ -1342,7 +1342,7 @@ or retrieve stored items.</text>
 <text id="10011047">%null%</text>
 <text id="10011048">%null%</text>
 <text id="10011049">%null%</text>
-<text id="10011050">Arcane Haze</text>
+<text id="10011050">Таємний Туман</text>
 <text id="10011051">%null%</text>
 <text id="10011052">%null%</text>
 <text id="10011053">%null%</text>
@@ -1352,8 +1352,8 @@ or retrieve stored items.</text>
 <text id="10011057">%null%</text>
 <text id="10011058">%null%</text>
 <text id="10011059">%null%</text>
-<text id="10011060">Fortify weapons using blood gems.
-Blood gems imbue weapons with special characteristics.</text>
+<text id="10011060">Посилюйте зброю за допомогою Кривавих самоцвітів.
+Криваві самоцвіти надають зброї особливих властивостей.</text>
 <text id="10011061">%null%</text>
 <text id="10011062">%null%</text>
 <text id="10011063">%null%</text>
@@ -1363,7 +1363,7 @@ Blood gems imbue weapons with special characteristics.</text>
 <text id="10011067">%null%</text>
 <text id="10011068">%null%</text>
 <text id="10011069">%null%</text>
-<text id="10011070">The workshop tool required for this task is missing.</text>
+<text id="10011070">Відсутній інструмент майстерні, необхідний для цього завдання.</text>
 <text id="10011071">%null%</text>
 <text id="10011072">%null%</text>
 <text id="10011073">%null%</text>
@@ -1383,7 +1383,7 @@ Blood gems imbue weapons with special characteristics.</text>
 <text id="10011087">%null%</text>
 <text id="10011088">%null%</text>
 <text id="10011089">%null%</text>
-<text id="10011090">Wear clothing to change appearance.</text>
+<text id="10011090">Носіть одяг, щоб змінити зовнішній вигляд.</text>
 <text id="10011091">%null%</text>
 <text id="10011092">%null%</text>
 <text id="10011093">%null%</text>
@@ -1393,7 +1393,7 @@ Blood gems imbue weapons with special characteristics.</text>
 <text id="10011097">%null%</text>
 <text id="10011098">%null%</text>
 <text id="10011099">%null%</text>
-<text id="10011100">No place to awaken.</text>
+<text id="10011100">Немає місця для пробудження.</text>
 <text id="10011101">%null%</text>
 <text id="10011102">%null%</text>
 <text id="10011103">%null%</text>
@@ -1403,7 +1403,7 @@ Blood gems imbue weapons with special characteristics.</text>
 <text id="10011107">%null%</text>
 <text id="10011108">%null%</text>
 <text id="10011109">%null%</text>
-<text id="10011110">Awaken at a selected location in Yharnam.</text>
+<text id="10011110">Пробудіться в обраному місці Ярнама.</text>
 <text id="10011111">%null%</text>
 <text id="10011112">%null%</text>
 <text id="10011113">%null%</text>
@@ -1413,7 +1413,7 @@ Blood gems imbue weapons with special characteristics.</text>
 <text id="10011117">%null%</text>
 <text id="10011118">%null%</text>
 <text id="10011119">%null%</text>
-<text id="10011120">A Holy Chalice is required to conduct a ritual.</text>
+<text id="10011120">Для проведення ритуалу потрібна Священна Чаша.</text>
 <text id="10011121">%null%</text>
 <text id="10011122">%null%</text>
 <text id="10011123">%null%</text>
@@ -1423,9 +1423,9 @@ Blood gems imbue weapons with special characteristics.</text>
 <text id="10011127">%null%</text>
 <text id="10011128">%null%</text>
 <text id="10011129">%null%</text>
-<text id="10011130">Use the Ritual Altar to create a Chalice Dungeon with
-a chalice ritual, or to search for Chalice Dungeons
-created by hunters in other worlds.</text>
+<text id="10011130">Використовуйте Вівтар Ритуалу, щоб створити Підземелля Чаші
+за допомогою Ритуалу Чаші, або щоб шукати Підземелля Чаші,
+створені мисливцями в інших світах.</text>
 <text id="10011131">%null%</text>
 <text id="10011132">%null%</text>
 <text id="10011133">%null%</text>
@@ -1435,7 +1435,7 @@ created by hunters in other worlds.</text>
 <text id="10011137">%null%</text>
 <text id="10011138">%null%</text>
 <text id="10011139">%null%</text>
-<text id="10011140">A Short Ritual Root Chalice is required to conduct a ritual.</text>
+<text id="10011140">Для проведення ритуалу потрібна Коротка Ритуальна Всеосяжна Чаша.</text>
 <text id="10011141">%null%</text>
 <text id="10011142">%null%</text>
 <text id="10011143">%null%</text>
@@ -1445,10 +1445,10 @@ created by hunters in other worlds.</text>
 <text id="10011147">%null%</text>
 <text id="10011148">%null%</text>
 <text id="10011149">%null%</text>
-<text id="10011150">Use the Makeshift Altar to quick-search
-and join Chalice Dungeons,
-or to quick-search and join co-op
-or even threaten other players.</text>
+<text id="10011150">Використовуйте Саморобний вівтар для швидкого пошуку
+та приєднання до Підземель Чаші,
+або для швидкого пошуку спільної гри,
+чи навіть щоб погрожувати іншим гравцям.</text>
 <text id="10011151">%null%</text>
 <text id="10011152">%null%</text>
 <text id="10011153">%null%</text>
@@ -1458,8 +1458,8 @@ or even threaten other players.</text>
 <text id="10011157">%null%</text>
 <text id="10011158">%null%</text>
 <text id="10011159">%null%</text>
-<text id="10011160">Trade in Blood Echoes with messengers
-to buy and sell items.</text>
+<text id="10011160">Обмінюйте Криваві спогади у Посланців,
+щоб купувати та продавати предмети.</text>
 <text id="10011161">%null%</text>
 <text id="10011162">%null%</text>
 <text id="10011163">%null%</text>
@@ -1469,11 +1469,11 @@ to buy and sell items.</text>
 <text id="10011167">%null%</text>
 <text id="10011168">%null%</text>
 <text id="10011169">%null%</text>
-<text id="10011170">Arcane Haze can be scraped out of various ritual materials.
-Materials are permanently lost after the haze is extracted.
+<text id="10011170">Таємний Туман можна здобути з різних ритуальних матеріалів.
+Матеріали безповоротно втрачаються після добування туману.
 
-Arcane Haze is an essential material for certain
-chalice rituals.</text>
+Таємний Туман — необхідний матеріал для певних
+ритуалів чаші.</text>
 <text id="10011171">%null%</text>
 <text id="10011172">%null%</text>
 <text id="10011173">%null%</text>
@@ -1483,8 +1483,8 @@ chalice rituals.</text>
 <text id="10011177">%null%</text>
 <text id="10011178">%null%</text>
 <text id="10011179">%null%</text>
-<text id="10011180">This bath appears linked to the nightmare,
-but there are no messengers.</text>
+<text id="10011180">Ця купіль, здається, пов'язана з кошмаром,
+але Посланців немає.</text>
 <text id="10011181">%null%</text>
 <text id="10011182">%null%</text>
 <text id="10011183">%null%</text>
@@ -1494,7 +1494,7 @@ but there are no messengers.</text>
 <text id="10011187">%null%</text>
 <text id="10011188">%null%</text>
 <text id="10011189">%null%</text>
-<text id="10011190">Buy with Insight. Make trades with messengers using Insight.</text>
+<text id="10011190">Купуйте за Прозріння. Обмінюйтеся з Посланцями, використовуючи Прозріння.</text>
 <text id="10011191">%null%</text>
 <text id="10011192">%null%</text>
 <text id="10011193">%null%</text>
@@ -1504,8 +1504,8 @@ but there are no messengers.</text>
 <text id="10011197">%null%</text>
 <text id="10011198">%null%</text>
 <text id="10011199">%null%</text>
-<text id="10011200">This stump appears linked to the nightmare,
-but there are no messengers.</text>
+<text id="10011200">Цей пеньок, здається, пов'язаний з кошмаром,
+але Посланців немає.</text>
 <text id="10011201">%null%</text>
 <text id="10011202">%null%</text>
 <text id="10011203">%null%</text>
@@ -1515,8 +1515,8 @@ but there are no messengers.</text>
 <text id="10011207">%null%</text>
 <text id="10011208">%null%</text>
 <text id="10011209">%null%</text>
-<text id="10011210">Give accessories to messengers
-and they will obediently adorn them.</text>
+<text id="10011210">Даруйте аксесуари Посланцям,
+і вони слухняно їх одягнуть.</text>
 <text id="10011211">%null%</text>
 <text id="10011212">%null%</text>
 <text id="10011213">%null%</text>
@@ -1526,9 +1526,9 @@ and they will obediently adorn them.</text>
 <text id="10011217">%null%</text>
 <text id="10011218">%null%</text>
 <text id="10011219">%null%</text>
-<text id="10011220">The messengers offer you a trick weapon. Choose one.
-Trick weapons are wielded with the right hand,
-and employed in beast hunting.</text>
+<text id="10011220">Посланці пропонують вам винахідливу зброю. Оберіть одну.
+Винахідливу зброю тримають у правій руці
+та використовують для полювання на звірів.</text>
 <text id="10011221">%null%</text>
 <text id="10011222">%null%</text>
 <text id="10011223">%null%</text>
@@ -1538,9 +1538,9 @@ and employed in beast hunting.</text>
 <text id="10011227">%null%</text>
 <text id="10011228">%null%</text>
 <text id="10011229">%null%</text>
-<text id="10011230">The messengers offer you a firearm. Choose one.
-Firearms are wielded with the left hand,
-and employed in beast hunting.</text>
+<text id="10011230">Посланці пропонують вам вогнепальну зброю. Оберіть одну.
+Вогнепальну зброю тримають у лівій руці
+та використовують для полювання на звірів.</text>
 <text id="10011231">%null%</text>
 <text id="10011232">%null%</text>
 <text id="10011233">%null%</text>
@@ -1550,8 +1550,8 @@ and employed in beast hunting.</text>
 <text id="10011237">%null%</text>
 <text id="10011238">%null%</text>
 <text id="10011239">%null%</text>
-<text id="10011240">This lamp now transports you back to the Hunter's Dream.
-Upon death, you will awaken at this lamp.</text>
+<text id="10011240">Цей ліхтар тепер переносить вас назад до Сну Мисливця.
+Після смерті ви прокинетеся біля цього ліхтаря.</text>
 <text id="10011241">%null%</text>
 <text id="10011242">%null%</text>
 <text id="10011243">%null%</text>
@@ -1571,8 +1571,8 @@ Upon death, you will awaken at this lamp.</text>
 <text id="10011257">%null%</text>
 <text id="10011258">%null%</text>
 <text id="10011259">%null%</text>
-<text id="10011260">Somewhere, a door to the
-old labyrinth has opened.</text>
+<text id="10011260">Десь відкрилися двері
+до стародавнього лабіринту.</text>
 <text id="10011261">%null%</text>
 <text id="10011262">%null%</text>
 <text id="10011263">%null%</text>
@@ -1582,9 +1582,9 @@ old labyrinth has opened.</text>
 <text id="10011267">%null%</text>
 <text id="10011268">%null%</text>
 <text id="10011269">%null%</text>
-<text id="10011270">Consume Insight and ring the Beckoning Bell
-to enlist the cooperation of hunters from
-other worlds.</text>
+<text id="10011270">Витратьте Прозріння та подзвоніть у Кличний Дзвін,
+щоб заручитися допомогою мисливців
+з інших світів.</text>
 <text id="10011271">%null%</text>
 <text id="10011272">%null%</text>
 <text id="10011273">%null%</text>
@@ -1594,7 +1594,7 @@ other worlds.</text>
 <text id="10011277">%null%</text>
 <text id="10011278">%null%</text>
 <text id="10011279">%null%</text>
-<text id="10011280">Silencing Blank ends such forms of cooperation.</text>
+<text id="10011280">Порожня Заглушка припиняє таку співпрацю.</text>
 <text id="10011281">%null%</text>
 <text id="10011282">%null%</text>
 <text id="10011283">%null%</text>
@@ -1604,15 +1604,15 @@ other worlds.</text>
 <text id="10011287">%null%</text>
 <text id="10011288">%null%</text>
 <text id="10011289">%null%</text>
-<text id="10011290">A notebook received from the messengers.
-Leave messages with these loyal servants
-to share them with hunters in other worlds.</text>
-<text id="10011301">The ritual is finished, and a chalice rests upon the altar.
-You may now explore the dungeon.</text>
-<text id="10011302">You have joined the dungeon,
-and a chalice was placed on the altar.
-You may now explore this Chalice Dungeon.</text>
-<text id="10011400">Consume Insight and ring the Old Hunter Bell to enlist the cooperation of old hunters.</text>
+<text id="10011290">Записник, отриманий від Посланців.
+Залишайте нотатки цим відданим слугам,
+щоб поділитися ними з мисливцями в інших світах.</text>
+<text id="10011301">Ритуал завершено, і чаша спочиває на вівтарі.
+Тепер ви можете досліджувати підземелля.</text>
+<text id="10011302">Ви приєдналися до підземелля,
+і чашу розміщено на вівтарі.
+Тепер ви можете досліджувати це Підземелля Чаші.</text>
+<text id="10011400">Витратьте Прозріння та подзвоніть у Дзвін Старих Мисливців, щоб заручитися допомогою старих мисливців.</text>
 <text id="10011401">%null%</text>
 <text id="10011402">%null%</text>
 <text id="10011403">%null%</text>
@@ -1622,46 +1622,46 @@ You may now explore this Chalice Dungeon.</text>
 <text id="10011407">%null%</text>
 <text id="10011408">%null%</text>
 <text id="10011409">%null%</text>
-<text id="10011410">The Eye of a Blood-drunk Hunter beckons hunters to the Hunter's Nightmare. A deformed creature will whisk you away outside Oedon Chapel.</text>
+<text id="10011410">Око Сп'янілого Кров'ю Мисливця кличе мисливців до Кошмару Мисливця. Спотворена істота забере вас за межі Каплиці Одона.</text>
 <text id="10012000">Написано твоїм почерком:
 
 Знайди Блідокров, щоби звершити лови.</text>
-<text id="10012001">When the hunt began, the Healing Church left us,
-blocking the great bridge to Cathedral Ward, as
-Old Yharnam burned to the ground that moonlit night.</text>
-<text id="10012002">On sublime liaison:
-In the Cathedral Ward, past the Lower Church,
-in scorched Old Yharnam, therein lies a Holy Chalice,
-and as follows, the chance to liaise.</text>
-<text id="10012003">On sublime liaison:
-I don't know. What it means. Or what lies ahead.
-And yet a sense of wondrous possibility overcomes me!</text>
-<text id="10012004">The Byrgenwerth spider hides all manner of rituals,
-and keeps our lost master from us.
-A terrible shame. It makes my head shudder uncontrollably.</text>
-<text id="10012005">Heir to the ritual of blood, purveyor of ministration.
-Place your hand on the altar's sacred covering,
-and inscribe Master Laurence's adage upon your flesh.</text>
+<text id="10012001">Коли почалося полювання, Церква Зцілення покинула нас,
+перекривши великий міст до Соборного Кварталу, тієї
+місячної ночі, коли Старий Ярнам згорів дотла.</text>
+<text id="10012002">Про піднесений зв'язок:
+у Соборному Кварталі, за Нижньою Церквою,
+у спаленому Старому Ярнамі лежить Священна Чаша,
+а відтак — можливість поєднатися.</text>
+<text id="10012003">Про піднесений зв'язок:
+Я не знаю. Що це означає. Чи що чекає попереду.
+І все ж відчуття дивовижної можливості охоплює мене!</text>
+<text id="10012004">Бірґенвертський павук приховує всілякі ритуали
+і тримає нашого втраченого вчителя далеко від нас.
+Жахлива ганьба. Від цього моя голова здригається нестримно.</text>
+<text id="10012005">Спадкоємцю ритуалу крові, постачальнику причастя.
+Покладіть руку на священний покрив вівтаря
+та викарбуйте настанову Майстра Лоренса на своїй плоті.</text>
 <text id="10012006">Космос знаходиться у небі.
 - "Хор"</text>
-<text id="10012007">Master Willem was right.
-Evolution without courage will be the ruin of our race.</text>
-<text id="10012008">Hunt the Great Ones. Hunt the Great Ones.</text>
-<text id="10012009">The nameless moon presence
-beckoned by Laurence and his associates.
-Paleblood.</text>
-<text id="10012010">Three third cords.</text>
-<text id="10012011">When the red moon hangs low, the line between
-man and beast is blurred. And when the Great Ones
-descend, a womb will be blessed with child.</text>
-<text id="10012012">The spider hides all manner of rituals, certain to reveal
-nothing, for true enlightenment need not be shared.</text>
-<text id="10012013">Nightmarish rituals crave a newborn.
-Find one, and silence its harrowing cry.</text>
-<text id="10012014">Ritual secret broken.
-Seek the nightmare newborn.</text>
-<text id="10020040">What will you do?</text>
-<text id="10020041">How do you answer?</text>
+<text id="10012007">Майстер Віллем мав рацію.
+Еволюція без сміливості стане згубою нашої раси.</text>
+<text id="10012008">Полюйте на Великих. Полюйте на Великих.</text>
+<text id="10012009">Безіменна присутність місяця,
+покликана Лоренсом та його спільниками.
+Блідокров.</text>
+<text id="10012010">Три треті пуповини.</text>
+<text id="10012011">Коли червоний місяць висить низько, межа між
+людиною та звіром стирається. А коли Великі
+сходять, лоно буде благословенне дитям.</text>
+<text id="10012012">Павук приховує всілякі ритуали, певний, що не розкриє
+нічого, адже істинне просвітлення не потребує розголосу.</text>
+<text id="10012013">Кошмарні ритуали прагнуть новонародженого.
+Знайдіть його та вгамуйте його болісний крик.</text>
+<text id="10012014">Таємницю ритуалу розкрито.
+Шукайте новонародженого кошмару.</text>
+<text id="10020040">Що ви зробите?</text>
+<text id="10020041">Як ви відповісте?</text>
 <text id="10020053">*</text>
 <text id="10020100">*</text>
 <text id="10020101">%null%</text>
@@ -1673,7 +1673,7 @@ Seek the nightmare newborn.</text>
 <text id="10020107">%null%</text>
 <text id="10020108">%null%</text>
 <text id="10020109">%null%</text>
-<text id="10020110">Submit your life?</text>
+<text id="10020110">Віддати своє життя?</text>
 <text id="10020111">%null%</text>
 <text id="10020112">%null%</text>
 <text id="10020113">%null%</text>
@@ -1693,7 +1693,7 @@ Seek the nightmare newborn.</text>
 <text id="10020127">%null%</text>
 <text id="10020128">%null%</text>
 <text id="10020129">%null%</text>
-<text id="10020130">Receive blood treatment?</text>
+<text id="10020130">Отримати переливання крові?</text>
 <text id="10020131">%null%</text>
 <text id="10020132">%null%</text>
 <text id="10020133">%null%</text>
@@ -1713,7 +1713,7 @@ Seek the nightmare newborn.</text>
 <text id="10020147">%null%</text>
 <text id="10020148">%null%</text>
 <text id="10020149">%null%</text>
-<text id="10020150">What will you do?</text>
+<text id="10020150">Що ви зробите?</text>
 <text id="10020151">%null%</text>
 <text id="10020152">%null%</text>
 <text id="10020153">%null%</text>
@@ -1723,7 +1723,7 @@ Seek the nightmare newborn.</text>
 <text id="10020157">%null%</text>
 <text id="10020158">%null%</text>
 <text id="10020159">%null%</text>
-<text id="10020160">Give Red Jeweled Brooch</text>
+<text id="10020160">Дати Червону Коштовну Брошку</text>
 <text id="10020161">%null%</text>
 <text id="10020162">%null%</text>
 <text id="10020163">%null%</text>
@@ -1733,7 +1733,7 @@ Seek the nightmare newborn.</text>
 <text id="10020167">%null%</text>
 <text id="10020168">%null%</text>
 <text id="10020169">%null%</text>
-<text id="10020170">What will you do?</text>
+<text id="10020170">Що ви зробите?</text>
 <text id="10020171">%null%</text>
 <text id="10020172">%null%</text>
 <text id="10020173">%null%</text>
@@ -1743,7 +1743,7 @@ Seek the nightmare newborn.</text>
 <text id="10020177">%null%</text>
 <text id="10020178">%null%</text>
 <text id="10020179">%null%</text>
-<text id="10020180">Give Red Messenger Ribbon</text>
+<text id="10020180">Дати Червону Стрічку Посланця</text>
 <text id="10020181">%null%</text>
 <text id="10020182">%null%</text>
 <text id="10020183">%null%</text>
@@ -1763,9 +1763,9 @@ Seek the nightmare newborn.</text>
 <text id="10020197">%null%</text>
 <text id="10020198">%null%</text>
 <text id="10020199">%null%</text>
-<text id="10020200">Give Unopened Summons?</text>
-<text id="10021000">Select quantity to offer:</text>
-<text id="14000000">Give Small Hair Ornament</text>
+<text id="10020200">Дати Нерозкриту Повістку?</text>
+<text id="10021000">Оберіть кількість для піднесення:</text>
+<text id="14000000">Дати Малу Прикрасу для Волосся</text>
 <text id="14000001">%null%</text>
 <text id="14000002">%null%</text>
 <text id="14000003">%null%</text>
@@ -1775,7 +1775,7 @@ Seek the nightmare newborn.</text>
 <text id="14000007">%null%</text>
 <text id="14000008">%null%</text>
 <text id="14000009">%null%</text>
-<text id="14000010">Give Unopened Summons</text>
+<text id="14000010">Дати Нерозкриту Повістку</text>
 <text id="14000011">%null%</text>
 <text id="14000012">%null%</text>
 <text id="14000013">%null%</text>
@@ -1785,27 +1785,27 @@ Seek the nightmare newborn.</text>
 <text id="14000017">%null%</text>
 <text id="14000018">%null%</text>
 <text id="14000019">%null%</text>
-<text id="14000020">Swear Oath to the Vilebloods</text>
+<text id="14000020">Присягнути Клятву Нечистокровних</text>
 <text id="14000021">*</text>
-<text id="14000022">Offer Blood Dreg</text>
-<text id="14000023">Propose Marriage</text>
+<text id="14000022">Піднести Кривавий Покидьок</text>
+<text id="14000023">Освідчитися</text>
 <text id="14000024">%null%</text>
 <text id="14000025">%null%</text>
 <text id="14000026">%null%</text>
 <text id="14000027">%null%</text>
 <text id="14000028">%null%</text>
 <text id="14000029">%null%</text>
-<text id="14000030">Talk about the Healing Church</text>
-<text id="14000031">Talk about Byrgenwerth</text>
+<text id="14000030">Поговорити про Церкву Зцілення</text>
+<text id="14000031">Поговорити про Бірґенверт</text>
 <text id="14000032">*</text>
-<text id="14000033">About the Corrupted Vilebloods</text>
+<text id="14000033">Про Спотворених Нечистокровних</text>
 <text id="14000034">%null%</text>
 <text id="14000035">%null%</text>
 <text id="14000036">%null%</text>
 <text id="14000037">%null%</text>
 <text id="14000038">%null%</text>
 <text id="14000039">%null%</text>
-<text id="14000040">No</text>
+<text id="14000040">Ні</text>
 <text id="14000041">%null%</text>
 <text id="14000042">%null%</text>
 <text id="14000043">%null%</text>
@@ -1815,10 +1815,10 @@ Seek the nightmare newborn.</text>
 <text id="14000047">%null%</text>
 <text id="14000048">%null%</text>
 <text id="14000049">%null%</text>
-<text id="14000050">Learn Gesture</text>
-<text id="14000200">Tell of Oedon Chapel</text>
-<text id="14000201">Tell of Iosefka's Clinic</text>
-<text id="14000202">Withhold Information </text>
+<text id="14000050">Вивчити жест</text>
+<text id="14000200">Розповісти про Каплицю Одона</text>
+<text id="14000201">Розповісти про Клініку Йозефки</text>
+<text id="14000202">Втримати інформацію </text>
 <text id="14000203">%null%</text>
 <text id="14000204">%null%</text>
 <text id="14000205">%null%</text>
@@ -1826,8 +1826,8 @@ Seek the nightmare newborn.</text>
 <text id="14000207">%null%</text>
 <text id="14000208">%null%</text>
 <text id="14000209">%null%</text>
-<text id="14000210">Fear the old blood.</text>
-<text id="14000211">Keep Quiet</text>
+<text id="14000210">Боятися старої крові.</text>
+<text id="14000211">Мовчати</text>
 <text id="14000212">%null%</text>
 <text id="14000213">%null%</text>
 <text id="14000214">%null%</text>
@@ -1836,7 +1836,7 @@ Seek the nightmare newborn.</text>
 <text id="14000217">%null%</text>
 <text id="14000218">%null%</text>
 <text id="14000219">%null%</text>
-<text id="14000220">Give Red Jeweled Brooch</text>
+<text id="14000220">Дати Червону Коштовну Брошку</text>
 <text id="14000221">Не віддавати</text>
 <text id="14000222">%null%</text>
 <text id="14000223">%null%</text>
@@ -1846,7 +1846,7 @@ Seek the nightmare newborn.</text>
 <text id="14000227">%null%</text>
 <text id="14000228">%null%</text>
 <text id="14000229">%null%</text>
-<text id="14000230">Give Red Messenger Ribbon</text>
+<text id="14000230">Дати Червону Стрічку Посланця</text>
 <text id="14000231">Не віддавати</text>
 <text id="14000232">%null%</text>
 <text id="14000233">%null%</text>
@@ -1856,7 +1856,7 @@ Seek the nightmare newborn.</text>
 <text id="14000237">%null%</text>
 <text id="14000238">%null%</text>
 <text id="14000239">%null%</text>
-<text id="14000240">Already dead.</text>
+<text id="14000240">Вже мертвий.</text>
 <text id="14000241">%null%</text>
 <text id="14000242">%null%</text>
 <text id="14000243">%null%</text>
@@ -1866,7 +1866,7 @@ Seek the nightmare newborn.</text>
 <text id="14000247">%null%</text>
 <text id="14000248">%null%</text>
 <text id="14000249">%null%</text>
-<text id="14000250">Submit Your Life</text>
+<text id="14000250">Віддати Своє Життя</text>
 <text id="14000251">Відмовитися</text>
 <text id="14000252">%null%</text>
 <text id="14000253">%null%</text>
@@ -1876,7 +1876,7 @@ Seek the nightmare newborn.</text>
 <text id="14000257">%null%</text>
 <text id="14000258">%null%</text>
 <text id="14000259">%null%</text>
-<text id="14000260">Swear Vileblood Oath</text>
+<text id="14000260">Присягнути Клятву Нечистокровних</text>
 <text id="14000261">Відмовитися</text>
 <text id="14000262">%null%</text>
 <text id="14000263">%null%</text>
@@ -1886,8 +1886,8 @@ Seek the nightmare newborn.</text>
 <text id="14000267">%null%</text>
 <text id="14000268">%null%</text>
 <text id="14000269">%null%</text>
-<text id="14000270">I have my share of woes</text>
-<text id="14000271">No</text>
+<text id="14000270">У мене вистачає власних бід</text>
+<text id="14000271">Ні</text>
 <text id="14000272">%null%</text>
 <text id="14000273">%null%</text>
 <text id="14000274">%null%</text>
@@ -1896,7 +1896,7 @@ Seek the nightmare newborn.</text>
 <text id="14000277">%null%</text>
 <text id="14000278">%null%</text>
 <text id="14000279">%null%</text>
-<text id="14000280">Receive Blood Treatment</text>
+<text id="14000280">Отримати Переливання Крові</text>
 <text id="14000281">Відмовитися</text>
 <text id="14000282">%null%</text>
 <text id="14000283">%null%</text>
@@ -1906,7 +1906,7 @@ Seek the nightmare newborn.</text>
 <text id="14000287">%null%</text>
 <text id="14000288">%null%</text>
 <text id="14000289">%null%</text>
-<text id="14000290">Find Girl's Mother</text>
+<text id="14000290">Знайти Матір Дівчинки</text>
 <text id="14000291">Відмовитися</text>
 <text id="14000292">%null%</text>
 <text id="14000293">%null%</text>
@@ -1916,8 +1916,8 @@ Seek the nightmare newborn.</text>
 <text id="14000297">%null%</text>
 <text id="14000298">%null%</text>
 <text id="14000299">%null%</text>
-<text id="14000300">Of course I think ill of you!</text>
-<text id="14000301">Not at all</text>
+<text id="14000300">Звісно, я думаю про вас погано!</text>
+<text id="14000301">Зовсім ні</text>
 <text id="14000302">%null%</text>
 <text id="14000303">%null%</text>
 <text id="14000304">%null%</text>
@@ -1926,7 +1926,7 @@ Seek the nightmare newborn.</text>
 <text id="14000307">%null%</text>
 <text id="14000308">%null%</text>
 <text id="14000309">%null%</text>
-<text id="14000310">Cooperate</text>
+<text id="14000310">Співпрацювати</text>
 <text id="14000311">Відмовитися</text>
 <text id="14000312">%null%</text>
 <text id="14000313">%null%</text>
@@ -1936,8 +1936,8 @@ Seek the nightmare newborn.</text>
 <text id="14000317">%null%</text>
 <text id="14000318">%null%</text>
 <text id="14000319">%null%</text>
-<text id="14000320">Hunt the Beasts of Old Yharnam</text>
-<text id="14000321">Spare the Beasts of Old Yharnam</text>
+<text id="14000320">Полювати на Звірів Старого Ярнама</text>
+<text id="14000321">Пощадити Звірів Старого Ярнама</text>
 <text id="14000322">%null%</text>
 <text id="14000323">%null%</text>
 <text id="14000324">%null%</text>
@@ -1946,9 +1946,9 @@ Seek the nightmare newborn.</text>
 <text id="14000327">%null%</text>
 <text id="14000328">%null%</text>
 <text id="14000329">%null%</text>
-<text id="14000330">Offer Flesh To Altar</text>
-<text id="14000331">Do Nothing</text>
-<text id="14000400">Join the League</text>
+<text id="14000330">Піднести Плоть до Вівтаря</text>
+<text id="14000331">Нічого не робити</text>
+<text id="14000400">Приєднатися до Ліги</text>
 <text id="14000401">Відмовитися</text>
 <text id="14000402">%null%</text>
 <text id="14000403">%null%</text>
@@ -1958,7 +1958,7 @@ Seek the nightmare newborn.</text>
 <text id="14000407">%null%</text>
 <text id="14000408">%null%</text>
 <text id="14000409">%null%</text>
-<text id="14000410">Accept Blood</text>
+<text id="14000410">Прийняти Кров</text>
 <text id="14000411">Відмовитися</text>
 <text id="14000412">%null%</text>
 <text id="14000413">%null%</text>
@@ -1968,7 +1968,7 @@ Seek the nightmare newborn.</text>
 <text id="14000417">%null%</text>
 <text id="14000418">%null%</text>
 <text id="14000419">%null%</text>
-<text id="14000420">Give Brain Fluid</text>
+<text id="14000420">Дати Мозкову Рідину</text>
 <text id="14000421">Відмовитися</text>
 <text id="14000422">%null%</text>
 <text id="14000423">%null%</text>
@@ -1978,8 +1978,8 @@ Seek the nightmare newborn.</text>
 <text id="14000427">%null%</text>
 <text id="14000428">%null%</text>
 <text id="14000429">%null%</text>
-<text id="14000430">Nightmares are fascinating</text>
-<text id="14000431">I've no interest</text>
+<text id="14000430">Кошмари захопливі</text>
+<text id="14000431">Мене це не цікавить</text>
 <text id="14000432">%null%</text>
 <text id="14000433">%null%</text>
 <text id="14000434">%null%</text>
@@ -1998,8 +1998,8 @@ Seek the nightmare newborn.</text>
 <text id="14000447">%null%</text>
 <text id="14000448">%null%</text>
 <text id="14000449">%null%</text>
-<text id="14000450">Yes</text>
-<text id="14000451">No</text>
+<text id="14000450">Так</text>
+<text id="14000451">Ні</text>
 <text id="14000452">%null%</text>
 <text id="14000453">%null%</text>
 <text id="14000454">%null%</text>
@@ -2008,8 +2008,8 @@ Seek the nightmare newborn.</text>
 <text id="14000457">%null%</text>
 <text id="14000458">%null%</text>
 <text id="14000459">%null%</text>
-<text id="14000460">I hear the bell</text>
-<text id="14000461">I hear nothing</text>
+<text id="14000460">Я чую дзвін</text>
+<text id="14000461">Я нічого не чую</text>
 <text id="14000462">%null%</text>
 <text id="14000463">%null%</text>
 <text id="14000464">%null%</text>
@@ -2028,40 +2028,40 @@ Seek the nightmare newborn.</text>
 <text id="14000477">%null%</text>
 <text id="14000478">%null%</text>
 <text id="14000479">%null%</text>
-<text id="14000480">Dead.</text>
-<text id="14001000">Hold on, just wait a wee bit, my little dearie.</text>
-<text id="14001001">Wait just a wee bit longer, my little sweet-pea</text>
-<text id="14009910">Yharnam Messenger Hat</text>
-<text id="14009911">Worn Messenger Top Hat</text>
-<text id="14009912">Messenger Head Bandage</text>
-<text id="14009913">White Messenger Ribbon</text>
-<text id="14009914">Red Messenger Ribbon</text>
-<text id="14009915">Messenger Top Hat</text>
-<text id="14009916">Black Messenger Hat</text>
-<text id="14009917">Bloody Messenger Bandage</text>
-<text id="14009918">Messenger Urn Festival</text>
+<text id="14000480">Мертвий.</text>
+<text id="14001000">Зачекай, лишень трішки почекай, моя маленька люба.</text>
+<text id="14001001">Почекай ще трішечки, моя маленька крихітко</text>
+<text id="14009910">Капелюх Посланця Ярнама</text>
+<text id="14009911">Зношений Циліндр Посланця</text>
+<text id="14009912">Пов'язка на Голову Посланця</text>
+<text id="14009913">Біла Стрічка Посланця</text>
+<text id="14009914">Червона Стрічка Посланця</text>
+<text id="14009915">Циліндр Посланця</text>
+<text id="14009916">Чорний Капелюх Посланця</text>
+<text id="14009917">Закривавлена Пов'язка Посланця</text>
+<text id="14009918">Святкова Урна Посланця</text>
 <text id="14009919">*</text>
 <text id="14009920">*</text>
 <text id="14009921">*</text>
 <text id="14009922">*</text>
 <text id="14009923">*</text>
 <text id="14009924">*</text>
-<text id="14009925">Leave Unadorned</text>
-<text id="15000000">Talk</text>
+<text id="14009925">Залишити без прикрас</text>
+<text id="15000000">Говорити</text>
 <text id="15000001">%null%</text>
 <text id="15000002">%null%</text>
 <text id="15000003">%null%</text>
 <text id="15000004">%null%</text>
-<text id="15000005">Leave</text>
+<text id="15000005">Піти</text>
 <text id="15000006">*</text>
-<text id="15000007">Talk</text>
-<text id="15000008">Give Small Hair Ornament</text>
+<text id="15000007">Говорити</text>
+<text id="15000008">Дати Малу Прикрасу для Волосся</text>
 <text id="15000009">%null%</text>
-<text id="15000010">Purchase Items</text>
+<text id="15000010">Купити предмети</text>
 <text id="15000011">*</text>
 <text id="15000012">*</text>
 <text id="15000035">*</text>
-<text id="15000100">Channel Blood Echoes</text>
+<text id="15000100">Обміняти Криваві спогади</text>
 <text id="15000101">%null%</text>
 <text id="15000102">%null%</text>
 <text id="15000103">%null%</text>
@@ -2071,8 +2071,8 @@ Seek the nightmare newborn.</text>
 <text id="15000107">%null%</text>
 <text id="15000108">%null%</text>
 <text id="15000109">%null%</text>
-<text id="15000110">Fortify Weapon</text>
-<text id="15000111">Blood Gem Fortification</text>
+<text id="15000110">Посилити зброю</text>
+<text id="15000111">Посилення Кривавим самоцвітом</text>
 <text id="15000112">*</text>
 <text id="15000113">%null%</text>
 <text id="15000114">%null%</text>
@@ -2081,7 +2081,7 @@ Seek the nightmare newborn.</text>
 <text id="15000117">%null%</text>
 <text id="15000118">%null%</text>
 <text id="15000119">%null%</text>
-<text id="15000120">Repair Weapons</text>
+<text id="15000120">Відремонтувати зброю</text>
 <text id="15000121">%null%</text>
 <text id="15000122">%null%</text>
 <text id="15000123">%null%</text>
@@ -2101,8 +2101,8 @@ Seek the nightmare newborn.</text>
 <text id="15000137">%null%</text>
 <text id="15000138">%null%</text>
 <text id="15000139">%null%</text>
-<text id="15000140">Purchase Items</text>
-<text id="15000141">Sell Items</text>
+<text id="15000140">Купити предмети</text>
+<text id="15000141">Продати предмети</text>
 <text id="15000142">%null%</text>
 <text id="15000143">%null%</text>
 <text id="15000144">%null%</text>
@@ -2111,7 +2111,7 @@ Seek the nightmare newborn.</text>
 <text id="15000147">%null%</text>
 <text id="15000148">%null%</text>
 <text id="15000149">%null%</text>
-<text id="15000150">Buy with Insight</text>
+<text id="15000150">Купити за Прозріння</text>
 <text id="15000180">Скасувати</text>
 <text id="15000181">%null%</text>
 <text id="15000182">%null%</text>
@@ -2127,8 +2127,8 @@ Seek the nightmare newborn.</text>
 <text id="15000400">*</text>
 <text id="20000400">Поплічник &lt;?leaveName?&gt; був
 відправлений у свій світ.</text>
-<text id="20000401">Sent back to own world by
-beckoner &lt;?hostName?&gt;.</text>
+<text id="20000401">Відправлений назад у свій світ
+Кликачем &lt;?hostName?&gt;.</text>
 <text id="20000402">Поплічник &lt;?leaveName?&gt;
 returned to their own world.</text>
 <text id="20000403">Повернення у ваш світ.</text>
@@ -2146,32 +2146,32 @@ returned to their own world.</text>
 returned to their own world.</text>
 <text id="20000410">Нечистокровний &lt;?leaveName?&gt;
 returned to their own world.</text>
-<text id="20000411">Executioner &lt;?leaveName?&gt;
-returned to their own world.</text>
-<text id="20000412">Executioner &lt;?leaveName?&gt;
-returned to their own world.</text>
-<text id="20000413">Hunter of Hunters &lt;?leaveName?&gt;
-returned to their own world.</text>
-<text id="20000414">Hunter of Hunters &lt;?leaveName?&gt;
-returned to their own world.</text>
-<text id="20000415">Sent Confederate &lt;?leaveName?&gt; back
-to their own world.</text>
+<text id="20000411">Каратель &lt;?leaveName?&gt;
+повернувся у свій світ.</text>
+<text id="20000412">Каратель &lt;?leaveName?&gt;
+повернувся у свій світ.</text>
+<text id="20000413">Винищувач Мисливців &lt;?leaveName?&gt;
+повернувся у свій світ.</text>
+<text id="20000414">Винищувач Мисливців &lt;?leaveName?&gt;
+повернувся у свій світ.</text>
+<text id="20000415">Відправлено Союзника &lt;?leaveName?&gt;
+назад у свій світ.</text>
 <text id="20000416">Союзник &lt;?leaveName?&gt;
 sent back to own world.</text>
 <text id="20000417">Союзник &lt;?leaveName?&gt; returned
 to their own world.</text>
 <text id="20000418">Союзник &lt;?leaveName?&gt; returned
 to their own world.</text>
-<text id="20000419">Sent Confederate &lt;?leaveName?&gt; back
-to their own world.</text>
+<text id="20000419">Відправлено Союзника &lt;?leaveName?&gt;
+назад у свій світ.</text>
 <text id="20000420">Союзник &lt;?leaveName?&gt;
 sent back to own world.</text>
 <text id="20000421">Союзник &lt;?leaveName?&gt; returned
 to their own world.</text>
 <text id="20000422">Союзник &lt;?leaveName?&gt; returned
 to their own world.</text>
-<text id="20000450">Sent Old Hunter &lt;?leaveName?&gt; back
-to their own world.</text>
+<text id="20000450">Відправлено Старого Мисливця &lt;?leaveName?&gt;
+назад у свій світ.</text>
 <text id="20000451">%null%</text>
 <text id="20000452">Старий Мисливець &lt;?leaveName?&gt;
 sent back to own world.</text>
@@ -2192,47 +2192,47 @@ to their own world.</text>
 <text id="20000463">Старий Мисливець &lt;?leaveName?&gt; returned
 to their own world.</text>
 <text id="20000464">%null%</text>
-<text id="20000465">Sent Confederate &lt;?leaveName?&gt; back
-to their own world.</text>
+<text id="20000465">Відправлено Союзника &lt;?leaveName?&gt;
+назад у свій світ.</text>
 <text id="20000466">Союзник &lt;?leaveName?&gt;
 sent back to own world.</text>
 <text id="20000467">Союзник &lt;?leaveName?&gt; returned
 to their own world.</text>
 <text id="20000468">%null%</text>
-<text id="20000469">Sent Confederate &lt;?leaveName?&gt; back
-to their own world.</text>
+<text id="20000469">Відправлено Союзника &lt;?leaveName?&gt;
+назад у свій світ.</text>
 <text id="20000470">Союзник &lt;?leaveName?&gt;
 sent back to own world.</text>
 <text id="20000471">Союзник &lt;?leaveName?&gt; returned
 to their own world.</text>
-<text id="20001000">Session lost.</text>
-<text id="20001001">Exiting session due to
-unstable connection...</text>
+<text id="20001000">Сеанс втрачено.</text>
+<text id="20001001">Завершення сеансу через
+нестабільне з'єднання...</text>
 <text id="50000100">Переглянути примару</text>
-<text id="50000200">Acquire Blood Echoes</text>
+<text id="50000200">Отримати Криваві спогади</text>
 <text id="50000201">%null%</text>
 <text id="50000202">%null%</text>
 <text id="50000203">%null%</text>
 <text id="50000204">%null%</text>
-<text id="50000205">Acquire Someone's Blood Echoes</text>
+<text id="50000205">Отримати Чужі Криваві спогади</text>
 <text id="50000206">%null%</text>
 <text id="50000207">%null%</text>
 <text id="50000208">%null%</text>
 <text id="50000209">%null%</text>
-<text id="50000210">View Notes</text>
-<text id="50000400">View Own Notes</text>
-<text id="50000500">View Own Notes</text>
-<text id="70000000">Storage</text>
-<text id="70000001">Workshop</text>
-<text id="70000002">(Not needed)</text>
-<text id="70000003">Bath Messenger</text>
-<text id="70000004">Accept Gift from Messengers</text>
-<text id="70000005">Accept Gift from Messengers</text>
-<text id="70000006">Put on Disguise</text>
-<text id="70000007">Stump Messenger</text>
-<text id="70000008">Memory Altar</text>
-<text id="70000009">Accept Gift from Messengers</text>
-<text id="70002100">Hunter's Dream</text>
+<text id="50000210">Переглянути нотатки</text>
+<text id="50000400">Переглянути власні нотатки</text>
+<text id="50000500">Переглянути власні нотатки</text>
+<text id="70000000">Скриня</text>
+<text id="70000001">Майстерня</text>
+<text id="70000002">(Не потрібно)</text>
+<text id="70000003">Посланець Купелі</text>
+<text id="70000004">Прийняти Дар від Посланців</text>
+<text id="70000005">Прийняти Дар від Посланців</text>
+<text id="70000006">Одягнути маскування</text>
+<text id="70000007">Посланець Пенька</text>
+<text id="70000008">Вівтар Пам'яті</text>
+<text id="70000009">Прийняти Дар від Посланців</text>
+<text id="70002100">Сон Мисливця</text>
 <text id="70002101">%null%</text>
 <text id="70002102">%null%</text>
 <text id="70002103">%null%</text>
@@ -2242,14 +2242,14 @@ unstable connection...</text>
 <text id="70002107">%null%</text>
 <text id="70002108">%null%</text>
 <text id="70002109">%null%</text>
-<text id="70002110">Abandoned Old Workshop</text>
-<text id="70002200">Hemwick Charnel Lane</text>
-<text id="70002201">Witch's Abode</text>
-<text id="70002300">Old Yharnam</text>
-<text id="70002301">Church of the Good Chalice</text>
-<text id="70002302">Graveyard of the Darkbeast</text>
-<text id="70002400">Cathedral Ward</text>
-<text id="70002401">Grand Cathedral</text>
+<text id="70002110">Занедбана Стара Майстерня</text>
+<text id="70002200">Могильний Провулок Хемвіка</text>
+<text id="70002201">Житло Відьми</text>
+<text id="70002300">Старий Ярнам</text>
+<text id="70002301">Церква Доброї Чаші</text>
+<text id="70002302">Цвинтар Темнозвіра</text>
+<text id="70002400">Соборний Квартал</text>
+<text id="70002401">Великий Собор</text>
 <text id="70002402">%null%</text>
 <text id="70002403">%null%</text>
 <text id="70002404">%null%</text>
@@ -2258,72 +2258,72 @@ unstable connection...</text>
 <text id="70002407">%null%</text>
 <text id="70002408">%null%</text>
 <text id="70002409">%null%</text>
-<text id="70002410">1st Floor Sickroom</text>
-<text id="70002411">Central Yharnam</text>
-<text id="70002412">Great Bridge</text>
-<text id="70002413">Tomb of Oedon</text>
+<text id="70002410">Палата на 1-му поверсі</text>
+<text id="70002411">Центральний Ярнам</text>
+<text id="70002412">Великий Міст</text>
+<text id="70002413">Гробниця Одона</text>
 <text id="70002414">%null%</text>
 <text id="70002415">%null%</text>
 <text id="70002416">%null%</text>
 <text id="70002417">%null%</text>
 <text id="70002418">%null%</text>
 <text id="70002419">%null%</text>
-<text id="70002420">Upper Cathedral Ward</text>
-<text id="70002421">Altar of Despair</text>
-<text id="70002422">Lumenflower Gardens</text>
-<text id="70002500">Forsaken Castle Cainhurst</text>
-<text id="70002501">Vileblood Queen's Chamber</text>
-<text id="70002502">Logarius' Seat</text>
-<text id="70002600">Nightmare of Mensis</text>
-<text id="70002601">Wet Nurse's Lunarium</text>
-<text id="70002602">Mergo's Loft: Middle</text>
-<text id="70002603">Mergo's Loft: Base</text>
-<text id="70002700">Forbidden Woods</text>
-<text id="70002701">Forbidden Grave</text>
-<text id="70002800">Yahar'gul, Unseen Village</text>
-<text id="70002801">Advent Plaza</text>
-<text id="70002802">Hypogean Gaol</text>
-<text id="70002803">Yahar'gul Chapel</text>
-<text id="70002900">Chamber of the Seal</text>
-<text id="70002901"> Layer One</text>
-<text id="70002902">Layer One: Heart</text>
-<text id="70002903"> Layer Two</text>
-<text id="70002904">Layer Two: Heart</text>
-<text id="70002905"> Layer Three</text>
-<text id="70002906">Layer Three: Heart</text>
-<text id="70002907"> Layer Four</text>
-<text id="70002908">Layer Four: Heart</text>
-<text id="70003200">Byrgenwerth</text>
-<text id="70003201">Lecture Building</text>
-<text id="70003202">Moonside Lake</text>
-<text id="70003203">Lecture Building 2nd Floor</text>
+<text id="70002420">Верхній Соборний Квартал</text>
+<text id="70002421">Жертовник Розпачу</text>
+<text id="70002422">Сади Світлоквітів</text>
+<text id="70002500">Покинутий Замок Кейнхерст</text>
+<text id="70002501">Покої Королеви Нечистокровних</text>
+<text id="70002502">Трон Логаріуса</text>
+<text id="70002600">Кошмар Менсіса</text>
+<text id="70002601">Люнарій Годувальниці</text>
+<text id="70002602">Горище Мерго: Середина</text>
+<text id="70002603">Горище Мерго: Основа</text>
+<text id="70002700">Заборонений Ліс</text>
+<text id="70002701">Заборонена Могила</text>
+<text id="70002800">Яхарґул, Невидиме Селище</text>
+<text id="70002801">Площа Пришестя</text>
+<text id="70002802">Підземна В'язниця</text>
+<text id="70002803">Каплиця Яхарґула</text>
+<text id="70002900">Зала Печатки</text>
+<text id="70002901"> Шар Перший</text>
+<text id="70002902">Шар Перший: Серце</text>
+<text id="70002903"> Шар Другий</text>
+<text id="70002904">Шар Другий: Серце</text>
+<text id="70002905"> Шар Третій</text>
+<text id="70002906">Шар Третій: Серце</text>
+<text id="70002907"> Шар Четвертий</text>
+<text id="70002908">Шар Четвертий: Серце</text>
+<text id="70003200">Бірґенверт</text>
+<text id="70003201">Лекційний корпус</text>
+<text id="70003202">Місячне Озеро</text>
+<text id="70003203">Лекційний корпус, 2-й поверх</text>
 <text id="70003300">Пограниччя Кошмару</text>
-<text id="70003301">Amygdala's Chamber</text>
-<text id="70003400">Hunter's Nightmare</text>
-<text id="70003401">Nightmare Church</text>
-<text id="70003402">Underground Corpse Pile</text>
-<text id="70003403">Nightmare Grand Cathedral</text>
-<text id="70003500">Research Hall</text>
-<text id="70003501">Lumenwood Garden</text>
-<text id="70003502">Astral Clocktower</text>
-<text id="70003600">Fishing Hamlet</text>
-<text id="70003601">Lighthouse Hut</text>
-<text id="70003602">Coast</text>
-<text id="70010100">Yharnam Headstone</text>
-<text id="70010101">Frontier Headstone</text>
-<text id="70010102">Unseen Headstone</text>
-<text id="70010103">Nightmare Headstone</text>
-<text id="70010104">Hunter's Nightmare Headstone</text>
+<text id="70003301">Зала Амігдали</text>
+<text id="70003400">Кошмар Мисливця</text>
+<text id="70003401">Церква Кошмару</text>
+<text id="70003402">Підземна Купа Трупів</text>
+<text id="70003403">Великий Собор Кошмару</text>
+<text id="70003500">Дослідницька Зала</text>
+<text id="70003501">Сад Світлодерева</text>
+<text id="70003502">Астральна Годинникова Вежа</text>
+<text id="70003600">Рибальське селище</text>
+<text id="70003601">Хатина Маяка</text>
+<text id="70003602">Узбережжя</text>
+<text id="70010100">Надгробок Ярнама</text>
+<text id="70010101">Прикордонний Надгробок</text>
+<text id="70010102">Невидимий Надгробок</text>
+<text id="70010103">Надгробок Кошмару</text>
+<text id="70010104">Надгробок Кошмару Мисливця</text>
 <text id="70010105">%null%</text>
 <text id="70010106">%null%</text>
 <text id="70010107">%null%</text>
 <text id="70010108">%null%</text>
 <text id="70010109">%null%</text>
-<text id="70010110">Awakening Headstone</text>
-<text id="70010111">Awakening Headstone</text>
-<text id="70010112">Awakening Headstone</text>
-<text id="70010113">Awakening Headstone</text>
-<text id="70010210">Makeshift Altar</text>
+<text id="70010110">Надгробок Пробудження</text>
+<text id="70010111">Надгробок Пробудження</text>
+<text id="70010112">Надгробок Пробудження</text>
+<text id="70010113">Надгробок Пробудження</text>
+<text id="70010210">Саморобний вівтар</text>
 <text id="70010211">%null%</text>
 <text id="70010212">%null%</text>
 <text id="70010213">%null%</text>
@@ -2333,13 +2333,13 @@ unstable connection...</text>
 <text id="70010217">%null%</text>
 <text id="70010218">%null%</text>
 <text id="70010219">%null%</text>
-<text id="70010220">First Ritual Altar</text>
-<text id="70010221">Second Ritual Altar</text>
-<text id="70010222">Third Ritual Altar</text>
-<text id="70010223">Fourth Ritual Altar</text>
-<text id="70010224">Fifth Ritual Altar</text>
-<text id="70010225">Final Ritual Altar</text>
-<text id="70011000">Light Lamp</text>
-<text id="70011001">Return to the Hunter's Dream</text>
+<text id="70010220">Перший Вівтар Ритуалу</text>
+<text id="70010221">Другий Вівтар Ритуалу</text>
+<text id="70010222">Третій Вівтар Ритуалу</text>
+<text id="70010223">Четвертий Вівтар Ритуалу</text>
+<text id="70010224">П'ятий Вівтар Ритуалу</text>
+<text id="70010225">Фінальний Вівтар Ритуалу</text>
+<text id="70011000">Запалити Ліхтар</text>
+<text id="70011001">Повернутися до Сну Мисливця</text>
 </entries>
 </fmg>

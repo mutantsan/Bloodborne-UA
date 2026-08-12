@@ -1,3 +1,6 @@
 /ref
 /venv
 /pack
+
+.direnv
+.envrc

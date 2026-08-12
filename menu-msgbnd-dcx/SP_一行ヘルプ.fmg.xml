@@ -24,7 +24,7 @@
 <text id="110003">Зміна налаштувань мережі.</text>
 <text id="110004">Вийти з гри та повернутися до головного меню.</text>
 <text id="110005">Змінити налаштування мови.</text>
-<text id="111000">Change environment.</text>
+<text id="111000">Змінити оточення.</text>
 <text id="111101">Увімк./вимк. субтитри</text>
 <text id="111102">Показувати інфо. панель.</text>
 <text id="111103">Налаштувати гучність музики.</text>
@@ -57,19 +57,19 @@
 <text id="211007">%null%</text>
 <text id="211008">%null%</text>
 <text id="211009">%null%</text>
-<text id="211010">Spend Blood Echoes and level up.</text>
-<text id="212000">Select Caryll Rune to remember.</text>
-<text id="212001">Select place to remember.</text>
-<text id="221000">Select weapon to fortify.</text>
-<text id="222000">Select weapon to fuse blood gem.</text>
-<text id="222001">Select place to attach.</text>
-<text id="222002">Select blood gem to fuse.</text>
-<text id="223000">Select item to repair.</text>
-<text id="231100">Select item to buy.</text>
-<text id="231101">Select weapon to use.</text>
-<text id="232100">Select item to sell.</text>
-<text id="241000">Select location to awaken in.</text>
-<text id="251100">Select item to store.</text>
+<text id="211010">Витратити Кроваві спогади, щоб підвищити рівень.</text>
+<text id="212000">Обрати Руну Каріла для запам'ятовування.</text>
+<text id="212001">Обрати місце для запам'ятовування.</text>
+<text id="221000">Обрати зброю для посилення.</text>
+<text id="222000">Обрати зброю для вставлення Кривавого самоцвіту.</text>
+<text id="222001">Обрати місце для вставлення.</text>
+<text id="222002">Обрати Кривавий самоцвіт для вставлення.</text>
+<text id="223000">Обрати предмет для ремонту.</text>
+<text id="231100">Обрати предмет для купівлі.</text>
+<text id="231101">Обрати зброю для використання.</text>
+<text id="232100">Обрати предмет для продажу.</text>
+<text id="241000">Обрати місце пробудження.</text>
+<text id="251100">Обрати предмет для зберігання.</text>
 <text id="251101">%null%</text>
 <text id="251102">%null%</text>
 <text id="251103">%null%</text>
@@ -79,16 +79,16 @@
 <text id="251107">%null%</text>
 <text id="251108">%null%</text>
 <text id="251109">%null%</text>
-<text id="251110">Select item to take.</text>
-<text id="262000">Conduct a Chalice Ritual to create a Chalice Dungeon.</text>
-<text id="262001">Find an accessible Chalice Dungeon.</text>
+<text id="251110">Обрати предмет для вилучення.</text>
+<text id="262000">Провести Ритуал Чаші, щоб створити Підземелля Чаші.</text>
+<text id="262001">Знайти доступне Підземелля Чаші.</text>
 <text id="262002">Знайти Підземелля Чаші за допомогою Гліфі Чаші.</text>
 <text id="262003">%null%</text>
-<text id="262004">Share Chalice Dungeon after you have completed ritual.</text>
-<text id="262005">Remove chalice, expunge dungeon, and erase progress.</text>
+<text id="262004">Поділитися Підземеллям Чаші після завершення ритуалу.</text>
+<text id="262005">Видалити чашу, знищити підземелля та стерти прогрес.</text>
 <text id="262006">%null%</text>
 <text id="262007">*</text>
-<text id="262008">Expend ritual materials to extract their mysterious haze.</text>
+<text id="262008">Витратити ритуальні матеріали, щоб добути з них загадковий Туман.</text>
 <text id="262009">%null%</text>
 <text id="262010">%null%</text>
 <text id="262011">%null%</text>
@@ -96,42 +96,42 @@
 <text id="262013">%null%</text>
 <text id="262014">*</text>
 <text id="262015">*</text>
-<text id="262101">Select location to awaken in.</text>
-<text id="263000">Select chalice to use in ritual.</text>
-<text id="263001">Select additional rite.</text>
-<text id="263002">Conduct a Chalice Ritual to create a Chalice Dungeon.</text>
-<text id="265000">Share with all online players.</text>
-<text id="265001">Can only be accessed
-using Chalice Glyph.</text>
-<text id="266000">Set Chalice Dungeon search preferences.</text>
-<text id="266001">Search for Chalice Dungeon using set preferences.</text>
-<text id="266002">Results of the Chalice Dungeon search.</text>
-<text id="266100">Set Chalice Dungeon search preferences.</text>
-<text id="266200">Set Chalice Dungeon search preferences.</text>
-<text id="266300">Set Chalice Dungeon search preferences.</text>
-<text id="266400">Set Chalice Dungeon search preferences.</text>
-<text id="269001">Quick-search and join an accessible Chalice Dungeon.</text>
-<text id="269002">Quick-search a Beckoning Bell chime to begin co-op.</text>
-<text id="269003">Quick-search a Sinister Bell chime to become an adversary.</text>
-<text id="269101">Select location to awaken in.</text>
-<text id="271000">Select ritual materials to extract haze from.</text>
-<text id="302000">Select player to part with.</text>
-<text id="302110">Silence Bell and cease requesting co-op.</text>
-<text id="302111">Silence Bell and stop helping other Hunters.</text>
-<text id="302112">Silence Bell and cease threat.</text>
-<text id="302113">This function is not currently available.</text>
+<text id="262101">Обрати місце пробудження.</text>
+<text id="263000">Обрати чашу для ритуалу.</text>
+<text id="263001">Обрати додатковий ритуал.</text>
+<text id="263002">Провести Ритуал Чаші, щоб створити Підземелля Чаші.</text>
+<text id="265000">Поділитися з усіма гравцями онлайн.</text>
+<text id="265001">Доступ можливий лише
+за допомогою Гліфа Чаші.</text>
+<text id="266000">Налаштувати параметри пошуку Підземелля Чаші.</text>
+<text id="266001">Пошук Підземелля Чаші за заданими параметрами.</text>
+<text id="266002">Результати пошуку Підземелля Чаші.</text>
+<text id="266100">Налаштувати параметри пошуку Підземелля Чаші.</text>
+<text id="266200">Налаштувати параметри пошуку Підземелля Чаші.</text>
+<text id="266300">Налаштувати параметри пошуку Підземелля Чаші.</text>
+<text id="266400">Налаштувати параметри пошуку Підземелля Чаші.</text>
+<text id="269001">Швидкий пошук та приєднання до доступного Підземелля Чаші.</text>
+<text id="269002">Швидкий пошук передзвону Кличного Дзвону для спільної гри.</text>
+<text id="269003">Швидкий пошук передзвону Зловісного Дзвону, щоб стати супротивником.</text>
+<text id="269101">Обрати місце пробудження.</text>
+<text id="271000">Обрати ритуальні матеріали для добування Туману.</text>
+<text id="302000">Обрати гравця, з яким розійтися.</text>
+<text id="302110">Заглушити Кличний Дзвін і припинити пошук спільної гри.</text>
+<text id="302111">Заглушити Дзвін і припинити допомагати іншим Мисливцям.</text>
+<text id="302112">Заглушити Зловісний Дзвін і припинити погрожувати.</text>
+<text id="302113">Ця функція наразі недоступна.</text>
 <text id="302114">%null%</text>
 <text id="302115">%null%</text>
 <text id="302116">%null%</text>
 <text id="302117">%null%</text>
 <text id="302118">%null%</text>
 <text id="302119">%null%</text>
-<text id="302120">Disrupt bell resonance with this Hunter.</text>
-<text id="302121">Disrupt bell resonance and return to own world.</text>
-<text id="302122">Disrupt bell resonance and return to own world.</text>
-<text id="302123">This function is not currently available.</text>
-<text id="302124">Disrupt bell resonance and return to own world.</text>
-<text id="305000">Display Vileblood hierarchy.</text>
+<text id="302120">Розірвати резонанс дзвону з цим Мисливцем.</text>
+<text id="302121">Розірвати резонанс дзвону і повернутися у свій світ.</text>
+<text id="302122">Розірвати резонанс дзвону і повернутися у свій світ.</text>
+<text id="302123">Ця функція наразі недоступна.</text>
+<text id="302124">Розірвати резонанс дзвону і повернутися у свій світ.</text>
+<text id="305000">Показати ієрархію Нечистокровних.</text>
 <text id="305001">%null%</text>
 <text id="305002">%null%</text>
 <text id="305003">%null%</text>
@@ -141,8 +141,8 @@ using Chalice Glyph.</text>
 <text id="305007">%null%</text>
 <text id="305008">%null%</text>
 <text id="305009">%null%</text>
-<text id="305010">Display Confederate info.</text>
-<text id="305100">Display Vileblood hierarchy.</text>
+<text id="305010">Показати інформацію про Союзника.</text>
+<text id="305100">Показати ієрархію Нечистокровних.</text>
 <text id="305101">%null%</text>
 <text id="305102">%null%</text>
 <text id="305103">%null%</text>
@@ -152,44 +152,44 @@ using Chalice Glyph.</text>
 <text id="305107">%null%</text>
 <text id="305108">%null%</text>
 <text id="305109">%null%</text>
-<text id="305110">Display Confederate info.</text>
-<text id="310000">Write a note.</text>
-<text id="310001">List of recently written notes.</text>
-<text id="310002">List of recently read notes.</text>
-<text id="321000">Edit note contents.</text>
-<text id="321001">Change bound gesture.</text>
-<text id="321002">Finalize note.</text>
+<text id="305110">Показати інформацію про Союзника.</text>
+<text id="310000">Написати нотатку.</text>
+<text id="310001">Список нещодавно написаних нотаток.</text>
+<text id="310002">Список нещодавно прочитаних нотаток.</text>
+<text id="321000">Редагувати вміст нотатки.</text>
+<text id="321001">Змінити прив'язаний жест.</text>
+<text id="321002">Завершити нотатку.</text>
 <text id="321003">%null%</text>
-<text id="321004">Select gesture to bind.</text>
-<text id="321005">Select word category.</text>
-<text id="321006">Select template.</text>
-<text id="321007">Select word.</text>
-<text id="321008">Select conjunction.</text>
-<text id="322000">List of recently written notes.</text>
-<text id="324000">List of recently read notes.</text>
-<text id="402011">Add name to Contract Ledger.</text>
-<text id="402012">Select gender.</text>
-<text id="402013">Enter age.</text>
-<text id="402014">Enter origin.</text>
+<text id="321004">Обрати жест для прив'язки.</text>
+<text id="321005">Обрати категорію слів.</text>
+<text id="321006">Обрати шаблон.</text>
+<text id="321007">Обрати слово.</text>
+<text id="321008">Обрати сполучник.</text>
+<text id="322000">Список нещодавно написаних нотаток.</text>
+<text id="324000">Список нещодавно прочитаних нотаток.</text>
+<text id="402011">Додати ім'я до Книги Договорів.</text>
+<text id="402012">Обрати стать.</text>
+<text id="402013">Ввести вік.</text>
+<text id="402014">Ввести походження.</text>
 <text id="402015">%null%</text>
-<text id="402016">Fine-tune appearance.</text>
-<text id="402017">Finish process.</text>
-<text id="402018">Finish fine-tuning appearance.</text>
-<text id="402201">Male
-Gender has no bearing
-on ability.</text>
-<text id="402202">Female
-Gender has no bearing
-on ability.</text>
-<text id="402301">Young
-Age only affects appearance,
-and has no bearing on ability.</text>
-<text id="402302">Mature
-Age only affects appearance,
-and has no bearing on ability.</text>
-<text id="402303">Aged
-Age only affects appearance,
-and has no bearing on ability.</text>
+<text id="402016">Точно налаштувати зовнішність.</text>
+<text id="402017">Завершити процес.</text>
+<text id="402018">Завершити налаштування зовнішності.</text>
+<text id="402201">Чоловіча стать
+Стать не впливає
+на здібності.</text>
+<text id="402202">Жіноча стать
+Стать не впливає
+на здібності.</text>
+<text id="402301">Молодий
+Вік впливає лише на зовнішність,
+і не впливає на здібності.</text>
+<text id="402302">Зрілий
+Вік впливає лише на зовнішність,
+і не впливає на здібності.</text>
+<text id="402303">Літній
+Вік впливає лише на зовнішність,
+і не впливає на здібності.</text>
 <text id="402401">В тебе було звичайне минуле, щасливчик.
 Усі показники середні.</text>
 <text id="402402">Ти єдиний, хто вижив у знищеному селі.
@@ -208,11 +208,11 @@ and has no bearing on ability.</text>
 Це повинно було мати якийсь сенс...</text>
 <text id="402409">Ти не маєш нічого. Ти безталанний.
 Тобі не слід було народжуватись.</text>
-<text id="402410">(Not Needed)</text>
+<text id="402410">(Не потрібно)</text>
 <text id="406000">Оберіть профіль для завантаження.</text>
 <text id="406001">Оберіть профіль для видалення.</text>
 <text id="420012">Скинути до стандартних налаштувань зовнішності.</text>
-<text id="421100">Select build.</text>
+<text id="421100">Обрати статуру.</text>
 <text id="421101">%null%</text>
 <text id="421102">%null%</text>
 <text id="421103">%null%</text>
@@ -273,7 +273,7 @@ and has no bearing on ability.</text>
 <text id="428400">Колір бороди.</text>
 <text id="428700">Змінити колір зачіски/бров/бороди.</text>
 <text id="428701">Змінити колір зачіски/бров.</text>
-<text id="429100">Select appearance of tattoo/mark.</text>
+<text id="429100">Обрати вигляд тату/родимки.</text>
 <text id="429200">Обрати окуляри.</text>
 <text id="430000">Змінити тату/родимку/окуляри.</text>
 <text id="430100">Змінити колір тату/родимки.</text>
@@ -310,8 +310,8 @@ and has no bearing on ability.</text>
 <text id="431128">%null%</text>
 <text id="431129">%null%</text>
 <text id="431130">Обрати літній голос.</text>
-<text id="432100">Load saved favorite.</text>
-<text id="432200">Save present settings as favorite.</text>
-<text id="433000">Edit pupils.</text>
+<text id="432100">Завантажити улюблений вигляд.</text>
+<text id="432200">Зберегти поточний вигляд як улюблений.</text>
+<text id="433000">Редагувати зіниці.</text>
 </entries>
 </fmg>

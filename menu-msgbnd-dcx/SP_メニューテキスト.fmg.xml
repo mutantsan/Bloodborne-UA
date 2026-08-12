@@ -52,17 +52,17 @@
 <text id="10517">%null%</text>
 <text id="10518">%null%</text>
 <text id="10519">%null%</text>
-<text id="10520">R-hand WPN 1 ATK</text>
-<text id="10521">R-hand WPN 2 ATK</text>
-<text id="10522">L-hand WPN 1 ATK</text>
-<text id="10523">L-hand WPN 2 ATK</text>
-<text id="10524">Physical DEF</text>
-<text id="10525">VS. Thrust</text>
-<text id="10526">VS. Blunt</text>
-<text id="10527">Blood DEF</text>
-<text id="10528">Arcane DEF</text>
-<text id="10529">Fire DEF</text>
-<text id="10530">Bolt DEF</text>
+<text id="10520">Атака зброї в правій руці 1</text>
+<text id="10521">Атака зброї в правій руці 2</text>
+<text id="10522">Атака зброї в лівій руці 1</text>
+<text id="10523">Атака зброї в лівій руці 2</text>
+<text id="10524">Фізичний захист</text>
+<text id="10525">Проти колючих</text>
+<text id="10526">Проти тупих</text>
+<text id="10527">Кривавий захист</text>
+<text id="10528">Таємний захист</text>
+<text id="10529">Вогняний захист</text>
+<text id="10530">Блискавичний захист</text>
 <text id="10531">%null%</text>
 <text id="10532">%null%</text>
 <text id="10533">%null%</text>
@@ -73,45 +73,45 @@
 <text id="10538">%null%</text>
 <text id="10539">%null%</text>
 <text id="10540">Фізичний</text>
-<text id="10541">VS. Thrust</text>
-<text id="10542">VS. Blunt</text>
-<text id="10543">Blood</text>
-<text id="10544">Arcane</text>
-<text id="10545">Fire</text>
-<text id="10546">Bolt</text>
+<text id="10541">Проти колючих</text>
+<text id="10542">Проти тупих</text>
+<text id="10543">Кривавий</text>
+<text id="10544">Таємний</text>
+<text id="10545">Вогняний</text>
+<text id="10546">Блискавичний</text>
 <text id="10547">%null%</text>
 <text id="10548">%null%</text>
-<text id="10549">Damage Reduction</text>
-<text id="10550">Slow Poison RES</text>
-<text id="10551">Rapid Poison RES</text>
-<text id="10552">Frenzy RES</text>
+<text id="10549">Зменшення шкоди</text>
+<text id="10550">Опір повільній отруті</text>
+<text id="10551">Опір швидкій отруті</text>
+<text id="10552">Опір божевіллю</text>
 <text id="10553">%null%</text>
-<text id="10554">Beasthood</text>
+<text id="10554">Звірство</text>
 <text id="10555">%null%</text>
 <text id="10556">%null%</text>
 <text id="10557">%null%</text>
 <text id="10558">%null%</text>
-<text id="10559">Resistance</text>
+<text id="10559">Опір</text>
 <text id="10560">*</text>
-<text id="10600">Caryll Rune Effect</text>
+<text id="10600">Ефект Руни Каріла</text>
 <text id="11000">*</text>
 <text id="11001">%null%</text>
 <text id="11002">%null%</text>
-<text id="11003">Physical ATK</text>
-<text id="11004">Blood ATK</text>
-<text id="11005">Arcane ATK</text>
-<text id="11006">Fire ATK</text>
-<text id="11007">Bolt ATK</text>
-<text id="11008">Blunt</text>
-<text id="11009">Physical ATK</text>
-<text id="11010">Thrust</text>
+<text id="11003">Фізична атака</text>
+<text id="11004">Кривава атака</text>
+<text id="11005">Таємна атака</text>
+<text id="11006">Вогняна атака</text>
+<text id="11007">Блискавична атака</text>
+<text id="11008">Тупа</text>
+<text id="11009">Фізична атака</text>
+<text id="11010">Колюча</text>
 <text id="11011">%null%</text>
 <text id="11012">*</text>
 <text id="11013">*</text>
 <text id="11014">*</text>
 <text id="11015">*</text>
-<text id="11016">QS Bullet Use</text>
-<text id="11049">Attribute Bonus</text>
+<text id="11016">Використання ртутних куль</text>
+<text id="11049">Бонус характеристики</text>
 <text id="11050">-</text>
 <text id="11051">S</text>
 <text id="11052">A</text>
@@ -131,7 +131,7 @@
 <text id="11066">%null%</text>
 <text id="11067">%null%</text>
 <text id="11068">%null%</text>
-<text id="11069">Attribute Requirement</text>
+<text id="11069">Вимога до характеристики</text>
 <text id="11070">*</text>
 <text id="11071">*</text>
 <text id="11072">*</text>
@@ -143,7 +143,7 @@
 <text id="11078">%null%</text>
 <text id="11079">%null%</text>
 <text id="11080">*</text>
-<text id="11081">Durability</text>
+<text id="11081">Міцність</text>
 <text id="11082">*</text>
 <text id="11083">%null%</text>
 <text id="11084">%null%</text>
@@ -152,7 +152,7 @@
 <text id="11087">%null%</text>
 <text id="11088">%null%</text>
 <text id="11089">%null%</text>
-<text id="11090">Special Attack</text>
+<text id="11090">Особлива атака</text>
 <text id="11091">%null%</text>
 <text id="11092">%null%</text>
 <text id="11093">%null%</text>
@@ -162,56 +162,56 @@
 <text id="11097">%null%</text>
 <text id="11098">%null%</text>
 <text id="11099">%null%</text>
-<text id="11100">Blood Gem Effects</text>
-<text id="11201">R-hand WPN</text>
-<text id="11202">R-hand WPN</text>
-<text id="11203">R-hand WPN</text>
-<text id="11204">R-hand WPN</text>
-<text id="11205">R-hand WPN</text>
-<text id="11206">R-hand WPN</text>
-<text id="11207">R-hand WPN</text>
-<text id="11208">R-hand WPN</text>
-<text id="11209">R-hand WPN</text>
-<text id="11210">R-hand WPN</text>
-<text id="11211">R-hand WPN</text>
-<text id="11212">R-hand WPN</text>
-<text id="11213">R-hand WPN</text>
-<text id="11214">R-hand WPN</text>
-<text id="11215">R-hand WPN</text>
-<text id="11216">R-hand WPN</text>
-<text id="11217">L-hand WPN (Gun)</text>
-<text id="11218">L-hand WPN (Gun)</text>
-<text id="11219">L-hand WPN (Gun)</text>
-<text id="11220">L-hand WPN (Gun)</text>
-<text id="11221">L-hand WPN (Gun)</text>
-<text id="11222">L-hand WPN (Gun)</text>
-<text id="11223">L-hand WPN (Gun)</text>
-<text id="11224">L-hand WPN (Gun)</text>
-<text id="11225">L-hand WPN</text>
-<text id="11226">L-hand WPN</text>
-<text id="12010">Physical DEF</text>
-<text id="12011">VS. Thrust</text>
-<text id="12012">VS. Blunt</text>
-<text id="12013">Blood DEF</text>
-<text id="12014">Arcane</text>
-<text id="12015">Fire</text>
-<text id="12016">Bolt</text>
+<text id="11100">Ефекти Кривавих самоцвітів</text>
+<text id="11201">Права Рука</text>
+<text id="11202">Права Рука</text>
+<text id="11203">Права Рука</text>
+<text id="11204">Права Рука</text>
+<text id="11205">Права Рука</text>
+<text id="11206">Права Рука</text>
+<text id="11207">Права Рука</text>
+<text id="11208">Права Рука</text>
+<text id="11209">Права Рука</text>
+<text id="11210">Права Рука</text>
+<text id="11211">Права Рука</text>
+<text id="11212">Права Рука</text>
+<text id="11213">Права Рука</text>
+<text id="11214">Права Рука</text>
+<text id="11215">Права Рука</text>
+<text id="11216">Права Рука</text>
+<text id="11217">Ліва Рука (вогнепальна)</text>
+<text id="11218">Ліва Рука (вогнепальна)</text>
+<text id="11219">Ліва Рука (вогнепальна)</text>
+<text id="11220">Ліва Рука (вогнепальна)</text>
+<text id="11221">Ліва Рука (вогнепальна)</text>
+<text id="11222">Ліва Рука (вогнепальна)</text>
+<text id="11223">Ліва Рука (вогнепальна)</text>
+<text id="11224">Ліва Рука (вогнепальна)</text>
+<text id="11225">Ліва Рука</text>
+<text id="11226">Ліва Рука</text>
+<text id="12010">Фізичний захист</text>
+<text id="12011">Проти колючих</text>
+<text id="12012">Проти тупих</text>
+<text id="12013">Кривавий захист</text>
+<text id="12014">Таємний</text>
+<text id="12015">Вогняний</text>
+<text id="12016">Блискавичний</text>
 <text id="12017">%null%</text>
 <text id="12018">%null%</text>
-<text id="12019">Damage Reduction</text>
-<text id="12020">Slow Poison RES</text>
-<text id="12021">Rapid Poison RES</text>
-<text id="12022">Frenzy RES</text>
+<text id="12019">Зменшення шкоди</text>
+<text id="12020">Опір повільній отруті</text>
+<text id="12021">Опір швидкій отруті</text>
+<text id="12022">Опір божевіллю</text>
 <text id="12023">%null%</text>
-<text id="12024">Beasthood</text>
+<text id="12024">Звірство</text>
 <text id="12025">%null%</text>
 <text id="12026">%null%</text>
 <text id="12027">%null%</text>
 <text id="12028">%null%</text>
-<text id="12029">Resistance</text>
+<text id="12029">Опір</text>
 <text id="14001">*</text>
 <text id="14002">Рейтинг</text>
-<text id="14003">Shape</text>
+<text id="14003">Форма</text>
 <text id="14004">%null%</text>
 <text id="14005">%null%</text>
 <text id="14006">%null%</text>
@@ -219,7 +219,7 @@
 <text id="14008">%null%</text>
 <text id="14009">%null%</text>
 <text id="14010">%null%</text>
-<text id="14011">Blood Gem Effects</text>
+<text id="14011">Ефекти Кривавих самоцвітів</text>
 <text id="14101">*</text>
 <text id="14102">*</text>
 <text id="14103">*</text>
@@ -227,12 +227,12 @@
 <text id="14105">*</text>
 <text id="14106">*</text>
 <text id="14107">*</text>
-<text id="14201">Circle</text>
-<text id="14202">Triangle</text>
-<text id="14203">Radial</text>
-<text id="14204">Droplet</text>
-<text id="14205">Waning</text>
-<text id="15001">Type</text>
+<text id="14201">Круглий</text>
+<text id="14202">Трикутний</text>
+<text id="14203">Радіальний</text>
+<text id="14204">Краплеподібний</text>
+<text id="14205">Спадний</text>
+<text id="15001">Тип</text>
 <text id="15002">%null%</text>
 <text id="15003">%null%</text>
 <text id="15004">%null%</text>
@@ -241,11 +241,11 @@
 <text id="15007">%null%</text>
 <text id="15008">%null%</text>
 <text id="15009">%null%</text>
-<text id="15010">Caryll Rune Effect</text>
+<text id="15010">Ефект Руни Каріла</text>
 <text id="15101">-</text>
-<text id="15102">Oath</text>
-<text id="16001">Usage Type</text>
-<text id="16002">QS Bullet Use</text>
+<text id="15102">Клятва</text>
+<text id="16001">Тип використання</text>
+<text id="16002">Використання ртутних куль</text>
 <text id="16003">%null%</text>
 <text id="16004">%null%</text>
 <text id="16005">%null%</text>
@@ -254,7 +254,7 @@
 <text id="16008">%null%</text>
 <text id="16009">%null%</text>
 <text id="16010">%null%</text>
-<text id="16011">Attribute Bonus</text>
+<text id="16011">Бонус характеристики</text>
 <text id="16012">%null%</text>
 <text id="16013">%null%</text>
 <text id="16014">%null%</text>
@@ -264,11 +264,11 @@
 <text id="16018">%null%</text>
 <text id="16019">%null%</text>
 <text id="16020">%null%</text>
-<text id="16021">Attribute Requirement</text>
-<text id="16101">Finite</text>
-<text id="16102">Unlimited Use</text>
-<text id="17001">Depth</text>
-<text id="17002">Area</text>
+<text id="16021">Вимога до характеристики</text>
+<text id="16101">Обмежене</text>
+<text id="16102">Необмежене використання</text>
+<text id="17001">Глибина</text>
+<text id="17002">Область</text>
 <text id="17003">%null%</text>
 <text id="17004">%null%</text>
 <text id="17005">%null%</text>
@@ -277,7 +277,7 @@
 <text id="17008">%null%</text>
 <text id="17009">%null%</text>
 <text id="17010">%null%</text>
-<text id="17011">Additional Rite</text>
+<text id="17011">Додатковий ритуал</text>
 <text id="17100">Птумеру</text>
 <text id="17101">Усамітнена Гробниця</text>
 <text id="17102">Лоран</text>
@@ -285,37 +285,37 @@
 <text id="17104">*</text>
 <text id="17105">*</text>
 <text id="17106">*</text>
-<text id="17200">Selected Additional Rite</text>
-<text id="17201">Additional Rite</text>
-<text id="17202">Material Condition List</text>
-<text id="17203">Conductor</text>
-<text id="17204">Ritual Date</text>
+<text id="17200">Обраний додатковий ритуал</text>
+<text id="17201">Додатковий ритуал</text>
+<text id="17202">Список умов матеріалів</text>
+<text id="17203">Провідник</text>
+<text id="17204">Дата ритуалу</text>
 <text id="17205">Гліф Чаші</text>
-<text id="17206">Privacy</text>
-<text id="17207">Date Last Played</text>
-<text id="17208">This Chalice Dungeon has been deleted from the server.</text>
-<text id="17209">This altar has not been set to any dungeon.</text>
-<text id="17210">Mid-ritual</text>
-<text id="19001">No. Held</text>
-<text id="19002">Stored</text>
-<text id="30100">Character's name.</text>
-<text id="30101">Character's gender.</text>
-<text id="30102">Character's origin.</text>
+<text id="17206">Приватність</text>
+<text id="17207">Дата останньої гри</text>
+<text id="17208">Це Підземелля Чаші було видалено з сервера.</text>
+<text id="17209">Цей вівтар не прив'язано до жодного підземелля.</text>
+<text id="17210">Ритуал у процесі</text>
+<text id="19001">Кількість</text>
+<text id="19002">У скрині</text>
+<text id="30100">Ім'я персонажа.</text>
+<text id="30101">Стать персонажа.</text>
+<text id="30102">Походження персонажа.</text>
 <text id="30103">%null%</text>
 <text id="30104">%null%</text>
 <text id="30105">%null%</text>
 <text id="30106">%null%</text>
 <text id="30107">%null%</text>
-<text id="30108">Character's age bracket.</text>
-<text id="30200">The total value of a hunter's
-overall attributes.
-Use Blood Echoes to level up.</text>
-<text id="30201">The total number of held
-Blood Echoes.
-You can use them to trade
-with the messengers.</text>
-<text id="30202">The number of Blood Echoes
-needed to level up.</text>
+<text id="30108">Віковий діапазон персонажа.</text>
+<text id="30200">Сумарне значення всіх
+характеристик мисливця.
+Витрачайте Кроваві спогади, щоб підвищити рівень.</text>
+<text id="30201">Загальна кількість наявних
+Кривавих спогадів.
+Їх можна обміняти
+у Посланців.</text>
+<text id="30202">Кількість Кривавих спогадів,
+потрібна для підвищення рівня.</text>
 <text id="30203">%null%</text>
 <text id="30204">%null%</text>
 <text id="30205">%null%</text>
@@ -323,38 +323,38 @@ needed to level up.</text>
 <text id="30207">%null%</text>
 <text id="30208">%null%</text>
 <text id="30209">%null%</text>
-<text id="30210">Level of Insight, or depth
-of inhuman knowledge.
-Needed to ring special bell,
-but induces frenzy.</text>
+<text id="30210">Рівень Прозріння, або глибина
+потойбічного знання.
+Потрібен, щоб дзвонити в особливий дзвін,
+але провокує божевілля.</text>
 <text id="30300">*</text>
-<text id="30400">Attribute governing HP.</text>
-<text id="30401">Attribute governing
-stamina and resistances.</text>
-<text id="30402">Attribute governing heavy
-physical weapon ATK.
-Determines whether or not
-you can use certain equipment.</text>
-<text id="30403">Attribute governing more
-nuanced physical weapon ATK.
-Determines whether or not
-you can use certain equipment.</text>
-<text id="30404">Attribute governing power of
-weapons that use QS bullets.
-Determines whether or not
-you can use certain equipment.</text>
-<text id="30405">Attribute governing power of
-arcane ATK.
-Determines whether or not
-you can use certain equipment.</text>
-<text id="30500">The power, or will, to survive.
-If this falls to 0, your strength
-will fade away.</text>
+<text id="30400">Характеристика, що визначає ОЗ.</text>
+<text id="30401">Характеристика, що визначає
+витривалість та опір ефектам.</text>
+<text id="30402">Характеристика, що визначає атаку
+важкої фізичної зброї.
+Визначає, чи можна
+використовувати певне спорядження.</text>
+<text id="30403">Характеристика, що визначає атаку
+більш витонченої фізичної зброї.
+Визначає, чи можна
+використовувати певне спорядження.</text>
+<text id="30404">Характеристика, що визначає силу
+зброї, яка використовує ртутні кулі.
+Визначає, чи можна
+використовувати певне спорядження.</text>
+<text id="30405">Характеристика, що визначає силу
+таємної атаки.
+Визначає, чи можна
+використовувати певне спорядження.</text>
+<text id="30500">Сила, або воля до виживання.
+Якщо вона впаде до 0, ваша сила
+згасне.</text>
 <text id="30501">%null%</text>
-<text id="30502">Stamina is necessary to
-perform various actions.
-Depletes as actions are taken,
-but refills automatically.</text>
+<text id="30502">Витривалість потрібна для
+виконання різних дій.
+Витрачається під час дій,
+але відновлюється автоматично.</text>
 <text id="30503">%null%</text>
 <text id="30504">%null%</text>
 <text id="30505">%null%</text>
@@ -364,10 +364,10 @@ but refills automatically.</text>
 <text id="30509">%null%</text>
 <text id="30510">*</text>
 <text id="30511">*</text>
-<text id="30512">Governs chances of enemies
-dropping items when defeated.
-The higher this attribute,
-the more you will find.</text>
+<text id="30512">Визначає ймовірність випадання
+предметів з переможених ворогів.
+Чим вища ця характеристика,
+тим більше ви знайдете.</text>
 <text id="30513">%null%</text>
 <text id="30514">%null%</text>
 <text id="30515">%null%</text>
@@ -375,116 +375,116 @@ the more you will find.</text>
 <text id="30517">%null%</text>
 <text id="30518">%null%</text>
 <text id="30519">%null%</text>
-<text id="30520">The ATK value of the weapon
-equipped in right hand slot 1.</text>
-<text id="30521">The ATK value of the weapon
-equipped in right hand slot 2.</text>
-<text id="30522">The ATK value of the weapon
-equipped in left hand slot 1.</text>
-<text id="30523">The ATK value of the weapon
-equipped in left hand slot 2.</text>
-<text id="30524">Ability to defend against attacks
-made with bare flesh or against
-foes with corporeal existence.</text>
-<text id="30540">Reduction of physical damage.
-Combined value of effects of
-equipment and Caryll Runes.</text>
-<text id="30541">Reduction of damage from
-thrust attacks.
-Combined value of effects of
-equipment and Caryll Runes.</text>
-<text id="30542">Reduction of damage from
-blunt attacks.
-Combined value of effects of
-equipment and Caryll Runes.</text>
-<text id="30543">Reduction of damage from
-firearms and other blood attacks.
-Combined value of effects of
-equipment and Caryll Runes.</text>
-<text id="30544">Reduction of damage from
-arcane attacks.
-Combined value of effects of
-equipment and Caryll Runes.</text>
-<text id="30545">Reduction of damage from
-fire attacks.
-Combined value of effects of
-equipment and Caryll Runes.</text>
-<text id="30546">Reduction of damage from
-bolt attacks.
-Combined value of effects of
-equipment and Caryll Runes.</text>
+<text id="30520">Значення атаки зброї,
+екіпірованої в слоті 1 правої руки.</text>
+<text id="30521">Значення атаки зброї,
+екіпірованої в слоті 2 правої руки.</text>
+<text id="30522">Значення атаки зброї,
+екіпірованої в слоті 1 лівої руки.</text>
+<text id="30523">Значення атаки зброї,
+екіпірованої в слоті 2 лівої руки.</text>
+<text id="30524">Здатність захищатися від атак
+голими руками або від
+ворогів з тілесною сутністю.</text>
+<text id="30540">Зменшення фізичної шкоди.
+Сумарне значення ефектів
+спорядження та Рун Каріла.</text>
+<text id="30541">Зменшення шкоди від
+колючих атак.
+Сумарне значення ефектів
+спорядження та Рун Каріла.</text>
+<text id="30542">Зменшення шкоди від
+тупих атак.
+Сумарне значення ефектів
+спорядження та Рун Каріла.</text>
+<text id="30543">Зменшення шкоди від
+вогнепальної зброї та інших кривавих атак.
+Сумарне значення ефектів
+спорядження та Рун Каріла.</text>
+<text id="30544">Зменшення шкоди від
+таємних атак.
+Сумарне значення ефектів
+спорядження та Рун Каріла.</text>
+<text id="30545">Зменшення шкоди від
+вогняних атак.
+Сумарне значення ефектів
+спорядження та Рун Каріла.</text>
+<text id="30546">Зменшення шкоди від
+блискавичних атак.
+Сумарне значення ефектів
+спорядження та Рун Каріла.</text>
 <text id="30547">%null%</text>
 <text id="30548">%null%</text>
 <text id="30549">%null%</text>
-<text id="30550">Resistance to slow poisoning.
-The higher this attribute,
-the more resistant you are.</text>
-<text id="30551">Resistance to rapid poisoning.
-The higher this attribute,
-the more resistant you are.</text>
-<text id="30552">Resistance to the lure of frenzy.
-The higher this attribute,
-the more resistant you are.</text>
+<text id="30550">Опір повільній отруті.
+Чим вища ця характеристика,
+тим ви стійкіші.</text>
+<text id="30551">Опір швидкій отруті.
+Чим вища ця характеристика,
+тим ви стійкіші.</text>
+<text id="30552">Опір спокусі божевілля.
+Чим вища ця характеристика,
+тим ви стійкіші.</text>
 <text id="30553">%null%</text>
-<text id="30554">The higher this attribute, the
-closer you are to beasthood
-when temporary transformed.</text>
+<text id="30554">Чим вища ця характеристика,
+тим ближче ви до звірства
+під час тимчасового перетворення.</text>
 <text id="30555">%null%</text>
 <text id="30556">%null%</text>
 <text id="30557">%null%</text>
 <text id="30558">%null%</text>
-<text id="30559">Resistance to slow poisoning,
-rapid poisoning, frenzy,
-and level of beasthood.</text>
-<text id="30600">Various effects of
-memorized Caryll Runes.</text>
-<text id="31003">Physical type ATK.</text>
-<text id="31004">Blood type ATK,
-mainly dealt by firearms.</text>
-<text id="31005">Arcane type ATK.</text>
-<text id="31006">Fire type ATK.</text>
-<text id="31007">Bolt type ATK.</text>
-<text id="31008">Blunt type ATK.</text>
+<text id="30559">Опір повільній отруті,
+швидкій отруті, божевіллю
+та рівень звірства.</text>
+<text id="30600">Різноманітні ефекти
+запам'ятованих Рун Каріла.</text>
+<text id="31003">Атака фізичного типу.</text>
+<text id="31004">Атака кривавого типу,
+здебільшого завдається вогнепальною зброєю.</text>
+<text id="31005">Атака таємного типу.</text>
+<text id="31006">Атака вогняного типу.</text>
+<text id="31007">Атака блискавичного типу.</text>
+<text id="31008">Атака тупого типу.</text>
 <text id="31009">%null%</text>
-<text id="31010">Thrust type ATK.</text>
+<text id="31010">Атака колючого типу.</text>
 <text id="31011">%null%</text>
 <text id="31012">%null%</text>
 <text id="31013">%null%</text>
 <text id="31014">%null%</text>
 <text id="31015">%null%</text>
-<text id="31016">Number of Quicksilver Bullets
-consumed with use.</text>
+<text id="31016">Кількість Ртутних куль,
+витрачених при використанні.</text>
 <text id="31040">*</text>
-<text id="31041">Degree to which ATK is
-boosted by strength</text>
-<text id="31042">Degree to which ATK is
-boosted by skill</text>
-<text id="31043">Degree to which ATK is
-boosted by bloodtinge</text>
-<text id="31044">Degree to which ATK is
-boosted by arcane attribute</text>
+<text id="31041">Ступінь, у якому атака
+посилюється Силою</text>
+<text id="31042">Ступінь, у якому атака
+посилюється Майстерністю</text>
+<text id="31043">Ступінь, у якому атака
+посилюється Відтінком крові</text>
+<text id="31044">Ступінь, у якому атака
+посилюється Таємним знанням</text>
 <text id="31045">%null%</text>
 <text id="31046">%null%</text>
 <text id="31047">%null%</text>
 <text id="31048">%null%</text>
-<text id="31049">Degree to which your attributes
-will boost ATK.
-(Strength/Skill/Bloodtinge/Arcane)</text>
-<text id="31060">Minimum amount of strength
-required to use.</text>
-<text id="31061">Minimum amount of skill
-required to use.</text>
-<text id="31062">Minimum amount of bloodtinge
-required to use.</text>
-<text id="31063">Minimum amount of arcane
-attribute required to use.</text>
+<text id="31049">Ступінь, у якому ваші характеристики
+посилюють атаку.
+(Сила/Майстерність/Відтінок крові/Таємне знання)</text>
+<text id="31060">Мінімальна кількість Сили,
+необхідна для використання.</text>
+<text id="31061">Мінімальна кількість Майстерності,
+необхідна для використання.</text>
+<text id="31062">Мінімальна кількість Відтінку крові,
+необхідна для використання.</text>
+<text id="31063">Мінімальна кількість Таємного знання,
+необхідна для використання.</text>
 <text id="31064">%null%</text>
 <text id="31065">%null%</text>
 <text id="31066">%null%</text>
 <text id="31067">%null%</text>
 <text id="31068">%null%</text>
-<text id="31069">Minimum attribute
-required to equip.</text>
+<text id="31069">Мінімальна характеристика,
+необхідна для екіпірування.</text>
 <text id="31070">*</text>
 <text id="31071">*</text>
 <text id="31072">*</text>
@@ -496,9 +496,9 @@ required to equip.</text>
 <text id="31078">%null%</text>
 <text id="31079">%null%</text>
 <text id="31080">*</text>
-<text id="31081">Durability of weapon.
-Depleted with use.
-ATK reduced when heavily worn.</text>
+<text id="31081">Міцність зброї.
+Зменшується при використанні.
+Атака знижується при сильному зношенні.</text>
 <text id="31082">*</text>
 <text id="31083">%null%</text>
 <text id="31084">%null%</text>
@@ -507,25 +507,25 @@ ATK reduced when heavily worn.</text>
 <text id="31087">%null%</text>
 <text id="31088">%null%</text>
 <text id="31089">%null%</text>
-<text id="31090">Strength of slow/rapid poison
-added to ATK, and extent that
-ATK is raised vs kin and
-severely transformed beasts.</text>
-<text id="31091">Strength of slow poison
-added to attack.</text>
-<text id="31092">Strength of rapid poison
-added to attack</text>
-<text id="31093">Bonus to ATK against
-kin of the cosmos.</text>
-<text id="31094">Bonus to ATK against
-severely transformed beasts.</text>
+<text id="31090">Сила повільної/швидкої отрути,
+додана до атаки, та рівень, на який
+підвищується атака проти Споріднених
+та сильно трансформованих звірів.</text>
+<text id="31091">Сила повільної отрути,
+додана до атаки.</text>
+<text id="31092">Сила швидкої отрути,
+додана до атаки</text>
+<text id="31093">Бонус до атаки проти
+Споріднених Космосу.</text>
+<text id="31094">Бонус до атаки проти
+сильно трансформованих звірів.</text>
 <text id="31095">%null%</text>
 <text id="31096">%null%</text>
 <text id="31097">%null%</text>
 <text id="31098">%null%</text>
 <text id="31099">%null%</text>
-<text id="31100">Various effects of blood gems
-attached to weapon.</text>
+<text id="31100">Різноманітні ефекти Кривавих самоцвітів,
+вставлених у зброю.</text>
 <text id="32000">*</text>
 <text id="32001">%null%</text>
 <text id="32002">%null%</text>
@@ -536,36 +536,36 @@ attached to weapon.</text>
 <text id="32007">%null%</text>
 <text id="32008">%null%</text>
 <text id="32009">%null%</text>
-<text id="32010">Reduction of damage
-from physical attacks.</text>
-<text id="32011">Reduction of damage
-from thrust attacks.</text>
-<text id="32012">Reduction of damage
-from blunt attacks.</text>
-<text id="32013">Reduction of damage
-from firearms and the like.</text>
-<text id="32014">Reduction of damage
-from arcane attacks.</text>
-<text id="32015">Reduction of damage
-from fire attacks.</text>
-<text id="32016">Reduction of damage
-from bolt attacks.</text>
+<text id="32010">Зменшення шкоди
+від фізичних атак.</text>
+<text id="32011">Зменшення шкоди
+від колючих атак.</text>
+<text id="32012">Зменшення шкоди
+від тупих атак.</text>
+<text id="32013">Зменшення шкоди
+від вогнепальної зброї та подібного.</text>
+<text id="32014">Зменшення шкоди
+від таємних атак.</text>
+<text id="32015">Зменшення шкоди
+від вогняних атак.</text>
+<text id="32016">Зменшення шкоди
+від блискавичних атак.</text>
 <text id="32017">%null%</text>
 <text id="32018">%null%</text>
 <text id="32019">%null%</text>
-<text id="32020">Resistance to slow poisoning.
-The higher this attribute,
-the more resistant you are.</text>
-<text id="32021">Resistance to rapid poisoning.
-The higher this attribute,
-the more resistant you are.</text>
-<text id="32022">Resistance to the lure of frenzy.
-The higher this attribute,
-the more resistant you are.</text>
+<text id="32020">Опір повільній отруті.
+Чим вища ця характеристика,
+тим ви стійкіші.</text>
+<text id="32021">Опір швидкій отруті.
+Чим вища ця характеристика,
+тим ви стійкіші.</text>
+<text id="32022">Опір спокусі божевілля.
+Чим вища ця характеристика,
+тим ви стійкіші.</text>
 <text id="32023">*</text>
-<text id="32024">The higher this attribute, the
-closer you are to beasthood
-when temporary transformed.</text>
+<text id="32024">Чим вища ця характеристика,
+тим ближче ви до звірства
+під час тимчасового перетворення.</text>
 <text id="32025">%null%</text>
 <text id="32026">%null%</text>
 <text id="32027">%null%</text>
@@ -578,12 +578,12 @@ when temporary transformed.</text>
 <text id="33002">*</text>
 <text id="33030">*</text>
 <text id="33031">*</text>
-<text id="34002">Healing Church blood gem rarity.
-The rarer the gem,
-the more potent it is.</text>
-<text id="34003">Shape of blood gem.
-Must match weapon
-in order to fuse.</text>
+<text id="34002">Рідкісність Кривавого самоцвіту Церкви Зцілення.
+Чим рідкісніший самоцвіт,
+тим він потужніший.</text>
+<text id="34003">Форма Кривавого самоцвіту.
+Має відповідати зброї,
+щоб вставити його.</text>
 <text id="34004">%null%</text>
 <text id="34005">%null%</text>
 <text id="34006">%null%</text>
@@ -591,11 +591,11 @@ in order to fuse.</text>
 <text id="34008">%null%</text>
 <text id="34009">%null%</text>
 <text id="34010">%null%</text>
-<text id="34011">Various effects produced
-by blood gem.</text>
-<text id="35001">Caryll Rune classifications.
-Some runes can only be used
-when under certain Oaths.</text>
+<text id="34011">Різноманітні ефекти,
+створювані Кривавим самоцвітом.</text>
+<text id="35001">Класифікації Рун Каріла.
+Деякі руни можна використовувати
+лише під певними Клятвами.</text>
 <text id="35002">%null%</text>
 <text id="35003">%null%</text>
 <text id="35004">%null%</text>
@@ -604,12 +604,12 @@ when under certain Oaths.</text>
 <text id="35007">%null%</text>
 <text id="35008">%null%</text>
 <text id="35009">%null%</text>
-<text id="35010">Caryll Rune's various effects.</text>
-<text id="36001">Type of item.
-Tells you whether or not
-it will be consumed with use.</text>
-<text id="36002">Number of Quicksilver Bullets
-consumed with use.</text>
+<text id="35010">Різноманітні ефекти Руни Каріла.</text>
+<text id="36001">Тип предмета.
+Показує, чи буде він
+витрачений при використанні.</text>
+<text id="36002">Кількість Ртутних куль,
+витрачених при використанні.</text>
 <text id="36003">%null%</text>
 <text id="36004">%null%</text>
 <text id="36005">%null%</text>
@@ -618,40 +618,40 @@ consumed with use.</text>
 <text id="36008">%null%</text>
 <text id="36009">%null%</text>
 <text id="36010">%null%</text>
-<text id="36011">Degree to which your attributes
-will boost effects.
-(Strength/Skill/Bloodtinge/Arcane)</text>
-<text id="36012">Degree to which the effect
-is boosted by strength.</text>
-<text id="36013">Degree to which the effect
-is boosted by skill.</text>
-<text id="36014">Degree to which the effect
-is boosted by bloodtinge.</text>
-<text id="36015">Degree to which the effect
-is boosted by arcane attribute.</text>
+<text id="36011">Ступінь, у якому ваші характеристики
+посилюють ефекти.
+(Сила/Майстерність/Відтінок крові/Таємне знання)</text>
+<text id="36012">Ступінь, у якому ефект
+посилюється Силою.</text>
+<text id="36013">Ступінь, у якому ефект
+посилюється Майстерністю.</text>
+<text id="36014">Ступінь, у якому ефект
+посилюється Відтінком крові.</text>
+<text id="36015">Ступінь, у якому ефект
+посилюється Таємним знанням.</text>
 <text id="36016">%null%</text>
 <text id="36017">%null%</text>
 <text id="36018">%null%</text>
 <text id="36019">%null%</text>
 <text id="36020">%null%</text>
-<text id="36021">Minimum attribute points
-necessary to use
-(Strength/Skill/Bloodtinge/Arcane)</text>
-<text id="36022">Minimum amount of strength
-required to use.</text>
-<text id="36023">Minimum amount of skill
-required to use.</text>
-<text id="36024">Minimum amount of bloodtinge
-required to use.</text>
-<text id="36025">Minimum amount of arcane attribute
-required to use.</text>
-<text id="37001">Depth of the labyrinth
-unlocked by the chalice ritual.
-The higher the number,
-the deeper the dungeon.</text>
-<text id="37002">An area in the labyrinth
-unlocked by the chalice ritual.
-Features of each area will differ.</text>
+<text id="36021">Мінімальна кількість очок характеристик,
+необхідна для використання
+(Сила/Майстерність/Відтінок крові/Таємне знання)</text>
+<text id="36022">Мінімальна кількість Сили,
+необхідна для використання.</text>
+<text id="36023">Мінімальна кількість Майстерності,
+необхідна для використання.</text>
+<text id="36024">Мінімальна кількість Відтінку крові,
+необхідна для використання.</text>
+<text id="36025">Мінімальна кількість Таємного знання,
+необхідна для використання.</text>
+<text id="37001">Глибина лабіринту,
+відкритого Ритуалом Чаші.
+Чим вище число,
+тим глибше підземелля.</text>
+<text id="37002">Область лабіринту,
+відкрита Ритуалом Чаші.
+Особливості кожної області відрізняються.</text>
 <text id="37003">%null%</text>
 <text id="37004">%null%</text>
 <text id="37005">%null%</text>
@@ -684,27 +684,27 @@ Features of each area will differ.</text>
 <text id="40017">%null%</text>
 <text id="40018">%null%</text>
 <text id="40019">%null%</text>
-<text id="40020">Fortification</text>
-<text id="40021">Gems Equipped</text>
-<text id="40022">Physical ATK</text>
-<text id="40023">Arcane ATK</text>
-<text id="40024">Fire ATK</text>
-<text id="40025">Bolt ATK</text>
-<text id="40026">Durability</text>
+<text id="40020">Посилення</text>
+<text id="40021">Вставлені самоцвіти</text>
+<text id="40022">Фізична атака</text>
+<text id="40023">Таємна атака</text>
+<text id="40024">Вогняна атака</text>
+<text id="40025">Блискавична атака</text>
+<text id="40026">Міцність</text>
 <text id="40027">%null%</text>
 <text id="40028">%null%</text>
 <text id="40029">%null%</text>
-<text id="40030">Physical DEF</text>
-<text id="40031">Thrust</text>
-<text id="40032">Blunt</text>
-<text id="40033">Blood DEF</text>
-<text id="40034">Arcane DEF</text>
-<text id="40035">Fire DEF</text>
-<text id="40036">Bolt DEF</text>
-<text id="40037">Slow Poison RES</text>
-<text id="40038">Rapid Poison RES</text>
-<text id="40039">Frenzy RES</text>
-<text id="40040">Beasthood</text>
+<text id="40030">Фізичний захист</text>
+<text id="40031">Колючий</text>
+<text id="40032">Тупий</text>
+<text id="40033">Кривавий захист</text>
+<text id="40034">Таємний захист</text>
+<text id="40035">Вогняний захист</text>
+<text id="40036">Блискавичний захист</text>
+<text id="40037">Опір повільній отруті</text>
+<text id="40038">Опір швидкій отруті</text>
+<text id="40039">Опір божевіллю</text>
+<text id="40040">Звірство</text>
 <text id="40041">%null%</text>
 <text id="40042">%null%</text>
 <text id="40043">%null%</text>
@@ -829,9 +829,9 @@ Features of each area will differ.</text>
 <text id="40457">Особистий Предмет 4</text>
 <text id="40458">Особистий Предмет 5</text>
 <text id="40459">Особистий Предмет 6</text>
-<text id="40470">Blood Gem Imprint 1</text>
-<text id="40471">Blood Gem Imprint 2</text>
-<text id="40472">Blood Gem Imprint 3</text>
+<text id="40470">Відбиток Кривавого самоцвіту 1</text>
+<text id="40471">Відбиток Кривавого самоцвіту 2</text>
+<text id="40472">Відбиток Кривавого самоцвіту 3</text>
 <text id="40473">%null%</text>
 <text id="40474">%null%</text>
 <text id="40475">%null%</text>
@@ -842,8 +842,8 @@ Features of each area will differ.</text>
 <text id="40480">Слот карти пам'яті 1</text>
 <text id="40481">Слот карти пам'яті 2</text>
 <text id="40482">Слот карти пам'яті 3</text>
-<text id="40483">Oath Memory</text>
-<text id="50000">None</text>
+<text id="40483">Пам'ять Клятви</text>
+<text id="50000">Немає</text>
 <text id="50001">Кров</text>
 <text id="50002">%null%</text>
 <text id="50003">%null%</text>
@@ -897,7 +897,7 @@ Features of each area will differ.</text>
 <text id="101003">Вбрання</text>
 <text id="101004">Швидкі Предмети</text>
 <text id="101005">*</text>
-<text id="101006">Stats</text>
+<text id="101006">Характеристики</text>
 <text id="102010">Використати</text>
 <text id="102011">Викинути</text>
 <text id="102012">*</text>
@@ -919,7 +919,7 @@ Features of each area will differ.</text>
 <text id="105104">Вбрання</text>F
 <text id="105105">Швидкі Предмети</text>
 <text id="105106">Особисті Речі</text>
-<text id="105107">Caryll Runes</text>
+<text id="105107">Руни Каріла</text>
 <text id="110000">Керування</text>
 <text id="110001">Екран/Звук</text>
 <text id="110002">Яскравість</text>
@@ -1043,7 +1043,7 @@ Features of each area will differ.</text>
 <text id="115119">Корейська</text>
 <text id="115120">Спрощена Китайська</text>
 <text id="115199">Стандартні налаштування</text>
-<text id="211000">Level Up</text>
+<text id="211000">Підвищити рівень</text>
 <text id="211001">%null%</text>
 <text id="211002">%null%</text>
 <text id="211003">%null%</text>
@@ -1054,7 +1054,7 @@ Features of each area will differ.</text>
 <text id="211008">%null%</text>
 <text id="211009">%null%</text>
 <text id="211010">Підтвердити</text>
-<text id="212000">Caryll Runes</text>
+<text id="212000">Руни Каріла</text>
 <text id="221000">Підсилити Зброю</text>
 <text id="221001">%null%</text>
 <text id="221002">%null%</text>
@@ -1065,8 +1065,8 @@ Features of each area will differ.</text>
 <text id="221007">%null%</text>
 <text id="221008">%null%</text>
 <text id="221009">%null%</text>
-<text id="221010">Current</text>
-<text id="221011">After</text>
+<text id="221010">Поточне</text>
+<text id="221011">Після</text>
 <text id="221012">%null%</text>
 <text id="221013">%null%</text>
 <text id="221014">%null%</text>
@@ -1075,20 +1075,20 @@ Features of each area will differ.</text>
 <text id="221017">%null%</text>
 <text id="221018">%null%</text>
 <text id="221019">%null%</text>
-<text id="221020">Required</text>
-<text id="222000">Blood Gems</text>
-<text id="223000">Repair</text>
-<text id="231000">Required</text>
-<text id="231001">Blood Echoes</text>
+<text id="221020">Потрібно</text>
+<text id="222000">Криваві самоцвіти</text>
+<text id="223000">Ремонт</text>
+<text id="231000">Потрібно</text>
+<text id="231001">Криваві спогади</text>
 <text id="231002">Прозріння</text>
-<text id="231003">Required</text>
+<text id="231003">Потрібно</text>
 <text id="231004">%null%</text>
 <text id="231005">%null%</text>
 <text id="231006">%null%</text>
 <text id="231007">%null%</text>
 <text id="231008">%null%</text>
 <text id="231009">%null%</text>
-<text id="231010">Buy</text>
+<text id="231010">Купити</text>
 <text id="231011">Купити за Прозріння</text>
 <text id="231012">Обрати зброю</text>
 <text id="232000">Спогадів здобуто</text>
@@ -1101,72 +1101,72 @@ Features of each area will differ.</text>
 <text id="232007">%null%</text>
 <text id="232008">%null%</text>
 <text id="232009">%null%</text>
-<text id="232010">Sell</text>
-<text id="241000">Awaken Above Ground</text>
-<text id="251020">Storage</text>
-<text id="262000">Chalice Ritual</text>
-<text id="262001">Chalice Dungeon Search</text>
-<text id="262002">Search by Chalice Glyph</text>
+<text id="232010">Продати</text>
+<text id="241000">Пробудитися на поверхні</text>
+<text id="251020">Скриня</text>
+<text id="262000">Ритуал Чаші</text>
+<text id="262001">Пошук Підземелля Чаші</text>
+<text id="262002">Пошук за Гліфом Чаші</text>
 <text id="262003">%null%</text>
 <text id="262004">%null%</text>
-<text id="262005">Remove Chalice</text>
-<text id="262100">Ritual Altar</text>
-<text id="263002">Conduct Ritual</text>
-<text id="263003">Blood Echoes</text>
+<text id="262005">Видалити чашу</text>
+<text id="262100">Вівтар Ритуалу</text>
+<text id="263002">Провести ритуал</text>
+<text id="263003">Криваві спогади</text>
 <text id="263004">%null%</text>
-<text id="263005">Basic Materials</text>
-<text id="263006">Rite Materials</text>
-<text id="263100">Chalice Ritual</text>
-<text id="265000">Open</text>
-<text id="265001">Closed</text>
-<text id="266000">Chalice Dungeon Search</text>
-<text id="266001">Begin Search</text>
-<text id="266002">Search Results</text>
-<text id="266100">Depth</text>
-<text id="266101">Depth 1</text>
-<text id="266102">Depth 2</text>
-<text id="266103">Depth 3</text>
-<text id="266104">Depth 4</text>
-<text id="266105">Depth 5</text>
-<text id="266106">Depth 6</text>
-<text id="266107">Depth 7</text>
-<text id="266108">Depth 8</text>
-<text id="266109">Depth 9</text>
+<text id="263005">Базові матеріали</text>
+<text id="263006">Матеріали ритуалу</text>
+<text id="263100">Ритуал Чаші</text>
+<text id="265000">Відкрито</text>
+<text id="265001">Закрито</text>
+<text id="266000">Пошук Підземелля Чаші</text>
+<text id="266001">Розпочати пошук</text>
+<text id="266002">Результати пошуку</text>
+<text id="266100">Глибина</text>
+<text id="266101">Глибина 1</text>
+<text id="266102">Глибина 2</text>
+<text id="266103">Глибина 3</text>
+<text id="266104">Глибина 4</text>
+<text id="266105">Глибина 5</text>
+<text id="266106">Глибина 6</text>
+<text id="266107">Глибина 7</text>
+<text id="266108">Глибина 8</text>
+<text id="266109">Глибина 9</text>
 <text id="266110">-</text>
-<text id="266200">Area</text>
-<text id="266201">Pthumeru</text>
+<text id="266200">Область</text>
+<text id="266201">Птумеру</text>
 <text id="266202">Лоран</text>
 <text id="266203">Надгробок Ізз</text>
 <text id="266204">-</text>
 <text id="266205">Усамітнена Гробниця</text>
-<text id="266300">Additional Rite</text>
-<text id="266301">Fetid Offering</text>
-<text id="266302">Sinister Bell</text>
-<text id="266303">Curse</text>
-<text id="266304">Rotted Offering</text>
-<text id="266305">No Additional Rite</text>
+<text id="266300">Додатковий ритуал</text>
+<text id="266301">Смердюче Підношення</text>
+<text id="266302">Зловісний Дзвін</text>
+<text id="266303">Прокляття</text>
+<text id="266304">Гниле Підношення</text>
+<text id="266305">Без додаткового ритуалу</text>
 <text id="266306">-</text>
-<text id="266400">Chalice Type</text>
-<text id="266401">Standard Chalice</text>
-<text id="266402">Root Chalice</text>
+<text id="266400">Тип чаші</text>
+<text id="266401">Стандартна чаша</text>
+<text id="266402">Всеосяжна Чаша</text>
 <text id="266500">За датою останньої гри</text>
 <text id="266501">За популярністю</text>
 <text id="266502">За датою ритаулу</text>
 <text id="266503">За глибиною</text>
 <text id="266504">За областю</text>
 <text id="266505">За додатковим ритуалом</text>
-<text id="267000">Enter Chalice Glyph</text>
-<text id="269000">Awaken in the labyrinth</text>
-<text id="269001">Dungeon Quick-search</text>
-<text id="269002">Co-op Quick-search</text>
-<text id="269003">Adversarial Quick-search</text>
-<text id="269100">Makeshift Altar</text>
-<text id="269101">Awaken in the labyrinth</text>
+<text id="267000">Ввести Гліф Чаші</text>
+<text id="269000">Пробудитися в лабіринті</text>
+<text id="269001">Швидкий пошук підземель</text>
+<text id="269002">Швидкий пошук для спільної гри</text>
+<text id="269003">Ворожий швидкий пошук</text>
+<text id="269100">Саморобний вівтар</text>
+<text id="269101">Пробудитися в лабіринті</text>
 <text id="270000">*</text>
 <text id="270001">*</text>
-<text id="271000">Extract Haze</text>
+<text id="271000">Здобути Туман</text>
 <text id="271001">%null%</text>
-<text id="271002">Haze Extracted</text>
+<text id="271002">Туман здобуто</text>
 <text id="280000">*</text>
 <text id="280100">*</text>
 <text id="280101">*</text>
@@ -1178,7 +1178,7 @@ Features of each area will differ.</text>
 <text id="280107">%null%</text>
 <text id="280108">%null%</text>
 <text id="280109">%null%</text>
-<text id="280110">Fetid Offering</text>
+<text id="280110">Смердюче Підношення</text>
 <text id="280111">%null%</text>
 <text id="280112">%null%</text>
 <text id="280113">%null%</text>
@@ -1188,15 +1188,15 @@ Features of each area will differ.</text>
 <text id="280117">%null%</text>
 <text id="280118">%null%</text>
 <text id="280119">%null%</text>
-<text id="280120">Rotted Offering</text>
-<text id="280140">Sinister Bell</text>
+<text id="280120">Гниле Підношення</text>
+<text id="280140">Зловісний Дзвін</text>
 <text id="280141">%null%</text>
 <text id="280142">%null%</text>
 <text id="280143">%null%</text>
 <text id="280144">%null%</text>
-<text id="280145">Shared Fixed Dungeon</text>
-<text id="280170">Curse</text>
-<text id="280171">Defilement</text>
+<text id="280145">Спільне фіксоване підземелля</text>
+<text id="280170">Прокляття</text>
+<text id="280171">Осквернення</text>
 <text id="280200">*</text>
 <text id="280201">*</text>
 <text id="280202">*</text>
@@ -1208,7 +1208,7 @@ Features of each area will differ.</text>
 <text id="280208">%null%</text>
 <text id="280209">%null%</text>
 <text id="280210">*</text>
-<text id="280211">Fetid Offering</text>
+<text id="280211">Смердюче Підношення</text>
 <text id="280212">*</text>
 <text id="280213">%null%</text>
 <text id="280214">%null%</text>
@@ -1217,16 +1217,16 @@ Features of each area will differ.</text>
 <text id="280217">%null%</text>
 <text id="280218">%null%</text>
 <text id="280219">%null%</text>
-<text id="280220">Rotted Offering</text>
-<text id="280221">Rotted Offering</text>
-<text id="280222">Rotted Offering</text>
-<text id="280223">Rotted Offering</text>
-<text id="280224">Rotted Offering</text>
-<text id="280225">Rotted Offering</text>
-<text id="280226">Rotted Offering</text>
-<text id="280227">Rotted Offering</text>
-<text id="280228">Rotted Offering</text>
-<text id="280229">Rotted Offering</text>
+<text id="280220">Гниле Підношення</text>
+<text id="280221">Гниле Підношення</text>
+<text id="280222">Гниле Підношення</text>
+<text id="280223">Гниле Підношення</text>
+<text id="280224">Гниле Підношення</text>
+<text id="280225">Гниле Підношення</text>
+<text id="280226">Гниле Підношення</text>
+<text id="280227">Гниле Підношення</text>
+<text id="280228">Гниле Підношення</text>
+<text id="280229">Гниле Підношення</text>
 <text id="280230">*</text>
 <text id="280231">*</text>
 <text id="280232">%null%</text>
@@ -1237,12 +1237,12 @@ Features of each area will differ.</text>
 <text id="280237">%null%</text>
 <text id="280238">%null%</text>
 <text id="280239">%null%</text>
-<text id="280240">Sinister Bell</text>
+<text id="280240">Зловісний Дзвін</text>
 <text id="280241">*</text>
 <text id="280242">*</text>
 <text id="280243">*</text>
 <text id="280244">%null%</text>
-<text id="280245">Shared Fixed Dungeon</text>
+<text id="280245">Спільне фіксоване підземелля</text>
 <text id="280246">*</text>
 <text id="280247">*</text>
 <text id="280248">*</text>
@@ -1267,10 +1267,10 @@ Features of each area will differ.</text>
 <text id="280267">%null%</text>
 <text id="280268">%null%</text>
 <text id="280269">%null%</text>
-<text id="280270">Curse</text>
-<text id="280271">Defilement</text>
-<text id="280272">Terrible Defilement</text>
-<text id="280411">Fetid Offering</text>
+<text id="280270">Прокляття</text>
+<text id="280271">Осквернення</text>
+<text id="280272">Жахливе Осквернення</text>
+<text id="280411">Смердюче Підношення</text>
 <text id="280412">%null%</text>
 <text id="280413">%null%</text>
 <text id="280414">%null%</text>
@@ -1279,47 +1279,47 @@ Features of each area will differ.</text>
 <text id="280417">%null%</text>
 <text id="280418">%null%</text>
 <text id="280419">%null%</text>
-<text id="280420">Rotted Offering</text>
-<text id="280421">Rotted Offering</text>
-<text id="280422">Rotted Offering</text>
-<text id="280423">Rotted Offering</text>
-<text id="280424">Rotted Offering</text>
-<text id="280425">Rotted Offering</text>
-<text id="280426">Rotted Offering</text>
-<text id="280427">Rotted Offering</text>
-<text id="280428">Rotted Offering</text>
-<text id="280429">Rotted Offering</text>
+<text id="280420">Гниле Підношення</text>
+<text id="280421">Гниле Підношення</text>
+<text id="280422">Гниле Підношення</text>
+<text id="280423">Гниле Підношення</text>
+<text id="280424">Гниле Підношення</text>
+<text id="280425">Гниле Підношення</text>
+<text id="280426">Гниле Підношення</text>
+<text id="280427">Гниле Підношення</text>
+<text id="280428">Гниле Підношення</text>
+<text id="280429">Гниле Підношення</text>
 <text id="280430">%null%</text>
 <text id="280431">%null%</text>
 <text id="280432">%null%</text>
 <text id="280433">%null%</text>
 <text id="280434">%null%</text>
 <text id="280435">*</text>
-<text id="301000">Point Forward</text>
-<text id="301001">Hunter's Salutation</text>
-<text id="301002">Conviction</text>
-<text id="301003">Joy</text>
-<text id="301004">Shake off Cape</text>
-<text id="301005">Church Bow (male)</text>
-<text id="301006">Curtsy</text>
-<text id="301007">Church Bow (female)</text>
-<text id="301008">Wave</text>
-<text id="301009">Pray</text>
-<text id="301010">Wait</text>
-<text id="301011">Shh!</text>
-<text id="301012">Hunter's Rally</text>
-<text id="301013">Triumph</text>
-<text id="301014">Approval</text>
-<text id="301015">Roar</text>
-<text id="301016">Beg for Life</text>
-<text id="301017">Brush off Dust</text>
-<text id="301018">Respect</text>
-<text id="301019">Deep Respect</text>
-<text id="301020">Make Contact</text>
-<text id="301021">Sit Down</text>
-<text id="301022">League Oath</text>
+<text id="301000">Вказати вперед</text>
+<text id="301001">Вітання Мисливця</text>
+<text id="301002">Переконання</text>
+<text id="301003">Радість</text>
+<text id="301004">Струсити плащ</text>
+<text id="301005">Церковний уклін (чоловічий)</text>
+<text id="301006">Реверанс</text>
+<text id="301007">Церковний уклін (жіночий)</text>
+<text id="301008">Помахати</text>
+<text id="301009">Молитися</text>
+<text id="301010">Зачекати</text>
+<text id="301011">Тссс!</text>
+<text id="301012">Поклик Мисливця</text>
+<text id="301013">Тріумф</text>
+<text id="301014">Схвалення</text>
+<text id="301015">Рик</text>
+<text id="301016">Благати про життя</text>
+<text id="301017">Струсити пил</text>
+<text id="301018">Повага</text>
+<text id="301019">Глибока повага</text>
+<text id="301020">Встановити контакт</text>
+<text id="301021">Сісти</text>
+<text id="301022">Клятва Ліги</text>
 <text id="301023">%null%</text>
-<text id="301200">Gestures</text>
+<text id="301200">Жести</text>
 <text id="302000">Розсіюючий Постріл</text>
 <text id="302100">Розсіюючий Постріл</text>
 <text id="302101">%null%</text>
@@ -1331,21 +1331,21 @@ Features of each area will differ.</text>
 <text id="302107">%null%</text>
 <text id="302108">%null%</text>
 <text id="302109">%null%</text>
-<text id="302110">Silence Beckoning Bell</text>
-<text id="302111">Silence Small Resonant Bell</text>
-<text id="302112">Silence Sinister Resonant Bell</text>
-<text id="302113">Silence the Bell</text>
+<text id="302110">Заглушити Кличний Дзвін</text>
+<text id="302111">Заглушити Малий Резонансний Дзвін</text>
+<text id="302112">Заглушити Зловісний Резонансний Дзвін</text>
+<text id="302113">Заглушити Дзвін</text>
 <text id="302114">%null%</text>
 <text id="302115">%null%</text>
 <text id="302116">%null%</text>
 <text id="302117">%null%</text>
 <text id="302118">%null%</text>
 <text id="302119">%null%</text>
-<text id="302120">Disrupt Resonance</text>
-<text id="302121">Return to Your Own World</text>
-<text id="302122">Return to Your Own World</text>
-<text id="302123">Disrupt Resonance</text>
-<text id="302124">Disrupt Resonance and Return Home</text>
+<text id="302120">Розірвати резонанс</text>
+<text id="302121">Повернутися у свій світ</text>
+<text id="302122">Повернутися у свій світ</text>
+<text id="302123">Розірвати резонанс</text>
+<text id="302124">Розірвати резонанс і повернутися додому</text>
 <text id="304000">Особисті Речі</text>
 <text id="304001">*</text>
 <text id="304002">*</text>
@@ -1363,9 +1363,9 @@ Features of each area will differ.</text>
 <text id="305007">%null%</text>
 <text id="305008">%null%</text>
 <text id="305009">%null%</text>
-<text id="305010">Hierarchy</text>
-<text id="305011">Name</text>
-<text id="305012">Dregs Offered</text>
+<text id="305010">Ієрархія</text>
+<text id="305011">Ім'я</text>
+<text id="305012">Піднесено Покидьків</text>
 <text id="305013">%null%</text>
 <text id="305014">%null%</text>
 <text id="305015">%null%</text>
@@ -1373,7 +1373,7 @@ Features of each area will differ.</text>
 <text id="305017">%null%</text>
 <text id="305018">%null%</text>
 <text id="305019">%null%</text>
-<text id="305020">League Directory</text>
+<text id="305020">Довідник Ліги</text>
 <text id="305021">%null%</text>
 <text id="305022">%null%</text>
 <text id="305023">%null%</text>
@@ -1383,12 +1383,12 @@ Features of each area will differ.</text>
 <text id="305027">%null%</text>
 <text id="305028">%null%</text>
 <text id="305029">%null%</text>
-<text id="305030">Number</text>
-<text id="305031">Name</text>
-<text id="305032">Crushed Vermin</text>
-<text id="310000">Write Note</text>
-<text id="310001">Notes Made</text>
-<text id="310002">Notes Read</text>
+<text id="305030">Номер</text>
+<text id="305031">Ім'я</text>
+<text id="305032">Розчавлені Шкідники</text>
+<text id="310000">Написати нотатку</text>
+<text id="310001">Написані нотатки</text>
+<text id="310002">Прочитані нотатки</text>
 <text id="310003">%null%</text>
 <text id="310004">%null%</text>
 <text id="310005">%null%</text>
@@ -1396,23 +1396,23 @@ Features of each area will differ.</text>
 <text id="310007">%null%</text>
 <text id="310008">%null%</text>
 <text id="310009">%null%</text>
-<text id="310010">Notebook</text>
-<text id="311000">Fine notes</text>
-<text id="311001">Foul notes</text>
-<text id="311002">Protect</text>
-<text id="321000">Templates</text>
-<text id="321001">Words</text>
-<text id="321002">Conjunctions</text>
-<text id="321003">Templates (2nd Line)</text>
-<text id="321004">Words (2nd Line)</text>
-<text id="321005">Gestures</text>
-<text id="321006">Finish</text>
+<text id="310010">Записник</text>
+<text id="311000">Гарні нотатки</text>
+<text id="311001">Погані нотатки</text>
+<text id="311002">Захистити</text>
+<text id="321000">Шаблони</text>
+<text id="321001">Слова</text>
+<text id="321002">Сполучники</text>
+<text id="321003">Шаблони (2-й рядок)</text>
+<text id="321004">Слова (2-й рядок)</text>
+<text id="321005">Жести</text>
+<text id="321006">Завершити</text>
 <text id="321007">%null%</text>
 <text id="321008">%null%</text>
 <text id="321009">%null%</text>
-<text id="321010">Write Note</text>
-<text id="322000">Fine</text>
-<text id="322001">Foul</text>
+<text id="321010">Написати нотатку</text>
+<text id="322000">Гарна</text>
+<text id="322001">Погана</text>
 <text id="322002">%null%</text>
 <text id="322003">%null%</text>
 <text id="322004">%null%</text>
@@ -1421,8 +1421,8 @@ Features of each area will differ.</text>
 <text id="322007">%null%</text>
 <text id="322008">%null%</text>
 <text id="322009">%null%</text>
-<text id="322010">Notes Made</text>
-<text id="323000">Appraisals</text>
+<text id="322010">Написані нотатки</text>
+<text id="323000">Оцінки</text>
 <text id="323001">%null%</text>
 <text id="323002">%null%</text>
 <text id="323003">%null%</text>
@@ -1433,10 +1433,10 @@ Features of each area will differ.</text>
 <text id="323008">%null%</text>
 <text id="323009">%null%</text>
 <text id="323010">*</text>
-<text id="324000">Notes Read</text>
+<text id="324000">Прочитані нотатки</text>
 <text id="325000">*</text>
 <text id="325001">*</text>
-<text id="401000">PRESS THE X BUTTON</text>
+<text id="401000">НАТИСНІТЬ КНОПКУ X</text>
 <text id="401001">*</text>
 <text id="401002">*</text>
 <text id="401003">%null%</text>
@@ -1448,18 +1448,18 @@ Features of each area will differ.</text>
 <text id="401009">%null%</text>
 <text id="401010">Грати Офлайн</text>
 <text id="401011">Грати Онлайн</text>
-<text id="401110">Checking save data...</text>
-<text id="401111">Creating save data...</text>
-<text id="401112">Updating save data...</text>
-<text id="401113">Checking for DLC...</text>
+<text id="401110">Перевірка даних збереження...</text>
+<text id="401111">Створення даних збереження...</text>
+<text id="401112">Оновлення даних збереження...</text>
+<text id="401113">Перевірка доповнень...</text>
 <text id="401114">%null%</text>
 <text id="401115">%null%</text>
 <text id="401116">%null%</text>
 <text id="401117">%null%</text>
 <text id="401118">%null%</text>
 <text id="401119">%null%</text>
-<text id="401120">Checking network status...</text>
-<text id="401150">Connecting to Bloodborne server...</text>
+<text id="401120">Перевірка стану мережі...</text>
+<text id="401150">З'єднання із сервером Bloodborne...</text>
 <text id="401151">%null%</text>
 <text id="401152">%null%</text>
 <text id="401153">%null%</text>
@@ -1469,7 +1469,7 @@ Features of each area will differ.</text>
 <text id="401157">%null%</text>
 <text id="401158">%null%</text>
 <text id="401159">%null%</text>
-<text id="401160">Acquiring data from Bloodborne server...</text>
+<text id="401160">Отримання даних із сервера Bloodborne...</text>
 <text id="401161">%null%</text>
 <text id="401162">%null%</text>
 <text id="401163">%null%</text>
@@ -1479,7 +1479,7 @@ Features of each area will differ.</text>
 <text id="401167">%null%</text>
 <text id="401168">%null%</text>
 <text id="401169">%null%</text>
-<text id="401170">Registering data with Bloodborne server...</text>
+<text id="401170">Реєстрація даних на сервері Bloodborne...</text>
 <text id="401301">Продовжити</text>
 <text id="401302">Завантажити гру</text>
 <text id="401303">Нова гра</text>
@@ -1499,11 +1499,11 @@ Features of each area will differ.</text>
 <text id="401317">%null%</text>
 <text id="401318">%null%</text>
 <text id="401319">%null%</text>
-<text id="401320">App ver.</text>
-<text id="401321">Server ver.</text>
+<text id="401320">Версія застосунку</text>
+<text id="401321">Версія сервера</text>
 <text id="401400">Інформація</text>
 <text id="401401">Немає нової інформації.</text>
-<text id="401500">User Agreement</text>
+<text id="401500">Угода користувача</text>
 <text id="401501">%null%</text>
 <text id="401502">%null%</text>
 <text id="401503">%null%</text>
@@ -1534,9 +1534,9 @@ Features of each area will differ.</text>
 <text id="402108">%null%</text>
 <text id="402109">%null%</text>
 <text id="402110">%null%</text>
-<text id="402111">Entry Incomplete</text>
-<text id="402201">Male</text>
-<text id="402202">Female</text>
+<text id="402111">Введення не завершено</text>
+<text id="402201">Чоловіча</text>
+<text id="402202">Жіноча</text>
 <text id="402203">%null%</text>
 <text id="402204">%null%</text>
 <text id="402205">%null%</text>
@@ -1569,7 +1569,7 @@ Features of each area will differ.</text>
 <text id="402407">Шляхетний нащадок</text>
 <text id="402408">Жорстока доля</text>
 <text id="402409">Нікчема</text>
-<text id="402410">(Not needed)</text>
+<text id="402410">(Не потрібно)</text>
 <text id="402421">*</text>
 <text id="402422">*</text>
 <text id="402423">*</text>
@@ -1780,9 +1780,9 @@ Features of each area will differ.</text>
 <text id="425107">%null%</text>
 <text id="425108">%null%</text>
 <text id="425109">%null%</text>
-<text id="425110">Nose Size</text>
-<text id="425111">Wide</text>
-<text id="425112">Narrow</text>
+<text id="425110">Розмір носа</text>
+<text id="425111">Широкий</text>
+<text id="425112">Вузький</text>
 <text id="425113">%null%</text>
 <text id="425114">%null%</text>
 <text id="425115">%null%</text>
@@ -1800,9 +1800,9 @@ Features of each area will differ.</text>
 <text id="425127">%null%</text>
 <text id="425128">%null%</text>
 <text id="425129">%null%</text>
-<text id="425130">Face Aspect Ratio</text>
-<text id="425131">Horizontal</text>
-<text id="425132">Vertical</text>
+<text id="425130">Співвідношення сторін обличчя</text>
+<text id="425131">Горизонтальне</text>
+<text id="425132">Вертикальне</text>
 <text id="425133">%null%</text>
 <text id="425134">%null%</text>
 <text id="425135">%null%</text>
@@ -1810,9 +1810,9 @@ Features of each area will differ.</text>
 <text id="425137">%null%</text>
 <text id="425138">%null%</text>
 <text id="425139">%null%</text>
-<text id="425140">Face Protrusion</text>
-<text id="425141">Concave</text>
-<text id="425142">Convex</text>
+<text id="425140">Профіль обличчя</text>
+<text id="425141">Увігнутий</text>
+<text id="425142">Опуклий</text>
 <text id="425143">%null%</text>
 <text id="425144">%null%</text>
 <text id="425145">%null%</text>
@@ -1820,9 +1820,9 @@ Features of each area will differ.</text>
 <text id="425147">%null%</text>
 <text id="425148">%null%</text>
 <text id="425149">%null%</text>
-<text id="425150">Vert. Facial Spacing</text>
-<text id="425151">Wide</text>
-<text id="425152">Narrow</text>
+<text id="425150">Вертикальний інтервал рис обличчя</text>
+<text id="425151">Широкий</text>
+<text id="425152">Вузький</text>
 <text id="425153">%null%</text>
 <text id="425154">%null%</text>
 <text id="425155">%null%</text>
@@ -1830,9 +1830,9 @@ Features of each area will differ.</text>
 <text id="425157">%null%</text>
 <text id="425158">%null%</text>
 <text id="425159">%null%</text>
-<text id="425160">Facial Feature Slant</text>
-<text id="425161">Up</text>
-<text id="425162">Down</text>
+<text id="425160">Нахил рис обличчя</text>
+<text id="425161">Вгору</text>
+<text id="425162">Вниз</text>
 <text id="425163">%null%</text>
 <text id="425164">%null%</text>
 <text id="425165">%null%</text>
@@ -1840,10 +1840,10 @@ Features of each area will differ.</text>
 <text id="425167">%null%</text>
 <text id="425168">%null%</text>
 <text id="425169">%null%</text>
-<text id="425170">Horiz. Facial Spacing</text>
-<text id="425171">Wide</text>
-<text id="425172">Narrow</text>
-<text id="425200">Forehead/Glabella</text>
+<text id="425170">Горизонтальний інтервал рис обличчя</text>
+<text id="425171">Широкий</text>
+<text id="425172">Вузький</text>
+<text id="425200">Чоло/Перенісся</text>
 <text id="425201">%null%</text>
 <text id="425202">%null%</text>
 <text id="425203">%null%</text>
@@ -1853,9 +1853,9 @@ Features of each area will differ.</text>
 <text id="425207">%null%</text>
 <text id="425208">%null%</text>
 <text id="425209">%null%</text>
-<text id="425210">Forehead Width</text>
-<text id="425211">Narrow</text>
-<text id="425212">Wide</text>
+<text id="425210">Ширина чола</text>
+<text id="425211">Вузька</text>
+<text id="425212">Широка</text>
 <text id="425213">%null%</text>
 <text id="425214">%null%</text>
 <text id="425215">%null%</text>
@@ -1863,9 +1863,9 @@ Features of each area will differ.</text>
 <text id="425217">%null%</text>
 <text id="425218">%null%</text>
 <text id="425219">%null%</text>
-<text id="425220">Forehead Depth</text>
-<text id="425221">Slight</text>
-<text id="425222">Deep</text>
+<text id="425220">Глибина чола</text>
+<text id="425221">Незначна</text>
+<text id="425222">Глибока</text>
 <text id="425223">%null%</text>
 <text id="425224">%null%</text>
 <text id="425225">%null%</text>
@@ -1873,9 +1873,9 @@ Features of each area will differ.</text>
 <text id="425227">%null%</text>
 <text id="425228">%null%</text>
 <text id="425229">%null%</text>
-<text id="425230">Forehead Protrusion</text>
-<text id="425231">Convex</text>
-<text id="425232">Concave</text>
+<text id="425230">Виступ чола</text>
+<text id="425231">Опуклий</text>
+<text id="425232">Увігнутий</text>
 <text id="425233">%null%</text>
 <text id="425234">%null%</text>
 <text id="425235">%null%</text>
@@ -1883,9 +1883,9 @@ Features of each area will differ.</text>
 <text id="425237">%null%</text>
 <text id="425238">%null%</text>
 <text id="425239">%null%</text>
-<text id="425240">Nose Bridge Height</text>
-<text id="425241">Low</text>
-<text id="425242">High</text>
+<text id="425240">Висота перенісся</text>
+<text id="425241">Низька</text>
+<text id="425242">Висока</text>
 <text id="425243">%null%</text>
 <text id="425244">%null%</text>
 <text id="425245">%null%</text>
@@ -1893,9 +1893,9 @@ Features of each area will differ.</text>
 <text id="425247">%null%</text>
 <text id="425248">%null%</text>
 <text id="425249">%null%</text>
-<text id="425250">Bridge Protrusion 1</text>
-<text id="425251">Concave</text>
-<text id="425252">Convex</text>
+<text id="425250">Виступ перенісся 1</text>
+<text id="425251">Увігнутий</text>
+<text id="425252">Опуклий</text>
 <text id="425253">%null%</text>
 <text id="425254">%null%</text>
 <text id="425255">%null%</text>
@@ -1903,9 +1903,9 @@ Features of each area will differ.</text>
 <text id="425257">%null%</text>
 <text id="425258">%null%</text>
 <text id="425259">%null%</text>
-<text id="425260">Bridge Protrusion 2</text>
-<text id="425261">Concave</text>
-<text id="425262">Convex</text>
+<text id="425260">Виступ перенісся 2</text>
+<text id="425261">Увігнутий</text>
+<text id="425262">Опуклий</text>
 <text id="425263">%null%</text>
 <text id="425264">%null%</text>
 <text id="425265">%null%</text>
@@ -1913,10 +1913,10 @@ Features of each area will differ.</text>
 <text id="425267">%null%</text>
 <text id="425268">%null%</text>
 <text id="425269">%null%</text>
-<text id="425270">Nose Bridge Width</text>
-<text id="425271">Narrow</text>
-<text id="425272">Wide</text>
-<text id="425300">Brow Ridge</text>
+<text id="425270">Ширина перенісся</text>
+<text id="425271">Вузька</text>
+<text id="425272">Широка</text>
+<text id="425300">Надбрівна дуга</text>
 <text id="425301">%null%</text>
 <text id="425302">%null%</text>
 <text id="425303">%null%</text>
@@ -1926,9 +1926,9 @@ Features of each area will differ.</text>
 <text id="425307">%null%</text>
 <text id="425308">%null%</text>
 <text id="425309">%null%</text>
-<text id="425310">Brow Ridge Height</text>
-<text id="425311">High</text>
-<text id="425312">Low</text>
+<text id="425310">Висота надбрівної дуги</text>
+<text id="425311">Висока</text>
+<text id="425312">Низька</text>
 <text id="425313">%null%</text>
 <text id="425314">%null%</text>
 <text id="425315">%null%</text>
@@ -1936,9 +1936,9 @@ Features of each area will differ.</text>
 <text id="425317">%null%</text>
 <text id="425318">%null%</text>
 <text id="425319">%null%</text>
-<text id="425320">Inner Brow Ridge</text>
-<text id="425321">Low</text>
-<text id="425322">High</text>
+<text id="425320">Внутрішня надбрівна дуга</text>
+<text id="425321">Низька</text>
+<text id="425322">Висока</text>
 <text id="425323">%null%</text>
 <text id="425324">%null%</text>
 <text id="425325">%null%</text>
@@ -1946,10 +1946,10 @@ Features of each area will differ.</text>
 <text id="425327">%null%</text>
 <text id="425328">%null%</text>
 <text id="425329">%null%</text>
-<text id="425330">Outer Brow Ridge</text>
-<text id="425331">High</text>
-<text id="425332">Low</text>
-<text id="425400">Eyes</text>
+<text id="425330">Зовнішня надбрівна дуга</text>
+<text id="425331">Висока</text>
+<text id="425332">Низька</text>
+<text id="425400">Очі</text>
 <text id="425401">%null%</text>
 <text id="425402">%null%</text>
 <text id="425403">%null%</text>
@@ -1959,9 +1959,9 @@ Features of each area will differ.</text>
 <text id="425407">%null%</text>
 <text id="425408">%null%</text>
 <text id="425409">%null%</text>
-<text id="425410">Eye Position</text>
-<text id="425411">Down</text>
-<text id="425412">Up</text>
+<text id="425410">Розташування очей</text>
+<text id="425411">Вниз</text>
+<text id="425412">Вгору</text>
 <text id="425413">%null%</text>
 <text id="425414">%null%</text>
 <text id="425415">%null%</text>
@@ -1969,9 +1969,9 @@ Features of each area will differ.</text>
 <text id="425417">%null%</text>
 <text id="425418">%null%</text>
 <text id="425419">%null%</text>
-<text id="425420">Eye Size</text>
-<text id="425421">Small</text>
-<text id="425422">Large</text>
+<text id="425420">Розмір очей</text>
+<text id="425421">Малий</text>
+<text id="425422">Великий</text>
 <text id="425423">%null%</text>
 <text id="425424">%null%</text>
 <text id="425425">%null%</text>
@@ -1979,9 +1979,9 @@ Features of each area will differ.</text>
 <text id="425427">%null%</text>
 <text id="425428">%null%</text>
 <text id="425429">%null%</text>
-<text id="425430">Eye Slant</text>
-<text id="425431">In</text>
-<text id="425432">Out</text>
+<text id="425430">Нахил очей</text>
+<text id="425431">Всередину</text>
+<text id="425432">Назовні</text>
 <text id="425433">%null%</text>
 <text id="425434">%null%</text>
 <text id="425435">%null%</text>
@@ -1989,10 +1989,10 @@ Features of each area will differ.</text>
 <text id="425437">%null%</text>
 <text id="425438">%null%</text>
 <text id="425439">%null%</text>
-<text id="425440">Eye Spacing</text>
-<text id="425441">Wide</text>
-<text id="425442">Narrow</text>
-<text id="425500">Nose Ridge</text>
+<text id="425440">Відстань між очима</text>
+<text id="425441">Велика</text>
+<text id="425442">Мала</text>
+<text id="425500">Спинка носа</text>
 <text id="425501">%null%</text>
 <text id="425502">%null%</text>
 <text id="425503">%null%</text>
@@ -2002,9 +2002,9 @@ Features of each area will differ.</text>
 <text id="425507">%null%</text>
 <text id="425508">%null%</text>
 <text id="425509">%null%</text>
-<text id="425510">Nose Ridge Depth</text>
-<text id="425511">Short</text>
-<text id="425512">Long</text>
+<text id="425510">Глибина спинки носа</text>
+<text id="425511">Коротка</text>
+<text id="425512">Довга</text>
 <text id="425513">%null%</text>
 <text id="425514">%null%</text>
 <text id="425515">%null%</text>
@@ -2012,9 +2012,9 @@ Features of each area will differ.</text>
 <text id="425517">%null%</text>
 <text id="425518">%null%</text>
 <text id="425519">%null%</text>
-<text id="425520">Nose Ridge Length</text>
-<text id="425521">Short</text>
-<text id="425522">Long</text>
+<text id="425520">Довжина спинки носа</text>
+<text id="425521">Коротка</text>
+<text id="425522">Довга</text>
 <text id="425523">%null%</text>
 <text id="425524">%null%</text>
 <text id="425525">%null%</text>
@@ -2022,9 +2022,9 @@ Features of each area will differ.</text>
 <text id="425527">%null%</text>
 <text id="425528">%null%</text>
 <text id="425529">%null%</text>
-<text id="425530">Nose Position</text>
-<text id="425531">Down</text>
-<text id="425532">Up</text>
+<text id="425530">Розташування носа</text>
+<text id="425531">Вниз</text>
+<text id="425532">Вгору</text>
 <text id="425533">%null%</text>
 <text id="425534">%null%</text>
 <text id="425535">%null%</text>
@@ -2032,9 +2032,9 @@ Features of each area will differ.</text>
 <text id="425537">%null%</text>
 <text id="425538">%null%</text>
 <text id="425539">%null%</text>
-<text id="425540">Nose Tip Height</text>
-<text id="425541">Low</text>
-<text id="425542">High</text>
+<text id="425540">Висота кінчика носа</text>
+<text id="425541">Низька</text>
+<text id="425542">Висока</text>
 <text id="425543">%null%</text>
 <text id="425544">%null%</text>
 <text id="425545">%null%</text>
@@ -2042,9 +2042,9 @@ Features of each area will differ.</text>
 <text id="425547">%null%</text>
 <text id="425548">%null%</text>
 <text id="425549">%null%</text>
-<text id="425550">Nose Protrusion</text>
-<text id="425551">Concave</text>
-<text id="425552">Convex</text>
+<text id="425550">Виступ носа</text>
+<text id="425551">Увігнутий</text>
+<text id="425552">Опуклий</text>
 <text id="425553">%null%</text>
 <text id="425554">%null%</text>
 <text id="425555">%null%</text>
@@ -2052,9 +2052,9 @@ Features of each area will differ.</text>
 <text id="425557">%null%</text>
 <text id="425558">%null%</text>
 <text id="425559">%null%</text>
-<text id="425560">Nose Height</text>
-<text id="425561">Low</text>
-<text id="425562">High</text>
+<text id="425560">Висота носа</text>
+<text id="425561">Низька</text>
+<text id="425562">Висока</text>
 <text id="425563">%null%</text>
 <text id="425564">%null%</text>
 <text id="425565">%null%</text>
@@ -2062,10 +2062,10 @@ Features of each area will differ.</text>
 <text id="425567">%null%</text>
 <text id="425568">%null%</text>
 <text id="425569">%null%</text>
-<text id="425570">Nose Slant</text>
-<text id="425571">Down</text>
-<text id="425572">Up</text>
-<text id="425600">Nostrils</text>
+<text id="425570">Нахил носа</text>
+<text id="425571">Вниз</text>
+<text id="425572">Вгору</text>
+<text id="425600">Ніздрі</text>
 <text id="425601">%null%</text>
 <text id="425602">%null%</text>
 <text id="425603">%null%</text>
@@ -2075,9 +2075,9 @@ Features of each area will differ.</text>
 <text id="425607">%null%</text>
 <text id="425608">%null%</text>
 <text id="425609">%null%</text>
-<text id="425610">Nostril Slant</text>
-<text id="425611">Down</text>
-<text id="425612">Up</text>
+<text id="425610">Нахил ніздрів</text>
+<text id="425611">Вниз</text>
+<text id="425612">Вгору</text>
 <text id="425613">%null%</text>
 <text id="425614">%null%</text>
 <text id="425615">%null%</text>
@@ -2085,9 +2085,9 @@ Features of each area will differ.</text>
 <text id="425617">%null%</text>
 <text id="425618">%null%</text>
 <text id="425619">%null%</text>
-<text id="425620">Nostril Size</text>
-<text id="425621">Small</text>
-<text id="425622">Large</text>
+<text id="425620">Розмір ніздрів</text>
+<text id="425621">Малий</text>
+<text id="425622">Великий</text>
 <text id="425623">%null%</text>
 <text id="425624">%null%</text>
 <text id="425625">%null%</text>
@@ -2095,9 +2095,9 @@ Features of each area will differ.</text>
 <text id="425627">%null%</text>
 <text id="425628">%null%</text>
 <text id="425629">%null%</text>
-<text id="425630">Nostril Width</text>
-<text id="425631">Wide</text>
-<text id="425632">Narrow</text>
+<text id="425630">Ширина ніздрів</text>
+<text id="425631">Широка</text>
+<text id="425632">Вузька</text>
 <text id="425633">%null%</text>
 <text id="425634">%null%</text>
 <text id="425635">%null%</text>
@@ -2105,10 +2105,10 @@ Features of each area will differ.</text>
 <text id="425637">%null%</text>
 <text id="425638">%null%</text>
 <text id="425639">%null%</text>
-<text id="425640">Nasal Size</text>
-<text id="425641">Small</text>
-<text id="425642">Large</text>
-<text id="425700">Cheeks</text>
+<text id="425640">Розмір носа</text>
+<text id="425641">Малий</text>
+<text id="425642">Великий</text>
+<text id="425700">Щоки</text>
 <text id="425701">%null%</text>
 <text id="425702">%null%</text>
 <text id="425703">%null%</text>
@@ -2118,9 +2118,9 @@ Features of each area will differ.</text>
 <text id="425707">%null%</text>
 <text id="425708">%null%</text>
 <text id="425709">%null%</text>
-<text id="425710">Cheekbone Height</text>
-<text id="425711">Low</text>
-<text id="425712">High</text>
+<text id="425710">Висота вилиць</text>
+<text id="425711">Низька</text>
+<text id="425712">Висока</text>
 <text id="425713">%null%</text>
 <text id="425714">%null%</text>
 <text id="425715">%null%</text>
@@ -2128,9 +2128,9 @@ Features of each area will differ.</text>
 <text id="425717">%null%</text>
 <text id="425718">%null%</text>
 <text id="425719">%null%</text>
-<text id="425720">Cheekbone Depth</text>
-<text id="425721">Low</text>
-<text id="425722">High</text>
+<text id="425720">Глибина вилиць</text>
+<text id="425721">Низька</text>
+<text id="425722">Висока</text>
 <text id="425723">%null%</text>
 <text id="425724">%null%</text>
 <text id="425725">%null%</text>
@@ -2138,9 +2138,9 @@ Features of each area will differ.</text>
 <text id="425727">%null%</text>
 <text id="425728">%null%</text>
 <text id="425729">%null%</text>
-<text id="425730">Cheekbone Width</text>
-<text id="425731">Low</text>
-<text id="425732">High</text>
+<text id="425730">Ширина вилиць</text>
+<text id="425731">Низька</text>
+<text id="425732">Висока</text>
 <text id="425733">%null%</text>
 <text id="425734">%null%</text>
 <text id="425735">%null%</text>
@@ -2148,9 +2148,9 @@ Features of each area will differ.</text>
 <text id="425737">%null%</text>
 <text id="425738">%null%</text>
 <text id="425739">%null%</text>
-<text id="425740">Cheekbone Protrusion</text>
-<text id="425741">Concave</text>
-<text id="425742">Convex</text>
+<text id="425740">Виступ вилиць</text>
+<text id="425741">Увігнутий</text>
+<text id="425742">Опуклий</text>
 <text id="425743">%null%</text>
 <text id="425744">%null%</text>
 <text id="425745">%null%</text>
@@ -2158,9 +2158,9 @@ Features of each area will differ.</text>
 <text id="425747">%null%</text>
 <text id="425748">%null%</text>
 <text id="425749">%null%</text>
-<text id="425750">Cheek Thickness</text>
-<text id="425751">Thick</text>
-<text id="425752">Thin</text>
+<text id="425750">Товщина щік</text>
+<text id="425751">Товста</text>
+<text id="425752">Тонка</text>
 <text id="425753">%null%</text>
 <text id="425754">%null%</text>
 <text id="425755">%null%</text>
@@ -2168,10 +2168,10 @@ Features of each area will differ.</text>
 <text id="425757">%null%</text>
 <text id="425758">%null%</text>
 <text id="425759">%null%</text>
-<text id="425760">Laugh Lines</text>
-<text id="425761">Light</text>
-<text id="425762">Dark</text>
-<text id="425800">Lips</text>
+<text id="425760">Носогубні складки</text>
+<text id="425761">Світлі</text>
+<text id="425762">Темні</text>
+<text id="425800">Губи</text>
 <text id="425801">%null%</text>
 <text id="425802">%null%</text>
 <text id="425803">%null%</text>
@@ -2181,9 +2181,9 @@ Features of each area will differ.</text>
 <text id="425807">%null%</text>
 <text id="425808">%null%</text>
 <text id="425809">%null%</text>
-<text id="425810">Lip Shape</text>
-<text id="425811">Open</text>
-<text id="425812">Purse</text>
+<text id="425810">Форма губ</text>
+<text id="425811">Розтулені</text>
+<text id="425812">Стиснуті</text>
 <text id="425813">%null%</text>
 <text id="425814">%null%</text>
 <text id="425815">%null%</text>
@@ -2191,9 +2191,9 @@ Features of each area will differ.</text>
 <text id="425817">%null%</text>
 <text id="425818">%null%</text>
 <text id="425819">%null%</text>
-<text id="425820">Mouth Expression</text>
-<text id="425821">Happy</text>
-<text id="425822">Sad</text>
+<text id="425820">Вираз рота</text>
+<text id="425821">Щасливий</text>
+<text id="425822">Сумний</text>
 <text id="425823">%null%</text>
 <text id="425824">%null%</text>
 <text id="425825">%null%</text>
@@ -2201,9 +2201,9 @@ Features of each area will differ.</text>
 <text id="425827">%null%</text>
 <text id="425828">%null%</text>
 <text id="425829">%null%</text>
-<text id="425830">Lip Fullness</text>
-<text id="425831">Small</text>
-<text id="425832">Large</text>
+<text id="425830">Повнота губ</text>
+<text id="425831">Мала</text>
+<text id="425832">Велика</text>
 <text id="425833">%null%</text>
 <text id="425834">%null%</text>
 <text id="425835">%null%</text>
@@ -2211,9 +2211,9 @@ Features of each area will differ.</text>
 <text id="425837">%null%</text>
 <text id="425838">%null%</text>
 <text id="425839">%null%</text>
-<text id="425840">Lip Size</text>
-<text id="425841">Large</text>
-<text id="425842">Small</text>
+<text id="425840">Розмір губ</text>
+<text id="425841">Великий</text>
+<text id="425842">Малий</text>
 <text id="425843">%null%</text>
 <text id="425844">%null%</text>
 <text id="425845">%null%</text>
@@ -2221,9 +2221,9 @@ Features of each area will differ.</text>
 <text id="425847">%null%</text>
 <text id="425848">%null%</text>
 <text id="425849">%null%</text>
-<text id="425850">Lip Protrusion</text>
-<text id="425851">Convex</text>
-<text id="425852">Concave</text>
+<text id="425850">Виступ губ</text>
+<text id="425851">Опуклий</text>
+<text id="425852">Увігнутий</text>
 <text id="425853">%null%</text>
 <text id="425854">%null%</text>
 <text id="425855">%null%</text>
@@ -2231,10 +2231,10 @@ Features of each area will differ.</text>
 <text id="425857">%null%</text>
 <text id="425858">%null%</text>
 <text id="425859">%null%</text>
-<text id="425860">Lip Thickness</text>
-<text id="425861">Thin</text>
-<text id="425862">Thick</text>
-<text id="425900">Mouth</text>
+<text id="425860">Товщина губ</text>
+<text id="425861">Тонка</text>
+<text id="425862">Товста</text>
+<text id="425900">Рот</text>
 <text id="425901">%null%</text>
 <text id="425902">%null%</text>
 <text id="425903">%null%</text>
@@ -2244,9 +2244,9 @@ Features of each area will differ.</text>
 <text id="425907">%null%</text>
 <text id="425908">%null%</text>
 <text id="425909">%null%</text>
-<text id="425910">Mouth Protrusion</text>
-<text id="425911">Convex</text>
-<text id="425912">Concave</text>
+<text id="425910">Виступ рота</text>
+<text id="425911">Опуклий</text>
+<text id="425912">Увігнутий</text>
 <text id="425913">%null%</text>
 <text id="425914">%null%</text>
 <text id="425915">%null%</text>
@@ -2254,9 +2254,9 @@ Features of each area will differ.</text>
 <text id="425917">%null%</text>
 <text id="425918">%null%</text>
 <text id="425919">%null%</text>
-<text id="425920">Mouth Slant</text>
-<text id="425921">Up</text>
-<text id="425922">Down</text>
+<text id="425920">Нахил рота</text>
+<text id="425921">Вгору</text>
+<text id="425922">Вниз</text>
 <text id="425923">%null%</text>
 <text id="425924">%null%</text>
 <text id="425925">%null%</text>
@@ -2264,9 +2264,9 @@ Features of each area will differ.</text>
 <text id="425927">%null%</text>
 <text id="425928">%null%</text>
 <text id="425929">%null%</text>
-<text id="425930">Occlusion</text>
-<text id="425931">Down</text>
-<text id="425932">Up</text>
+<text id="425930">Прикус</text>
+<text id="425931">Вниз</text>
+<text id="425932">Вгору</text>
 <text id="425933">%null%</text>
 <text id="425934">%null%</text>
 <text id="425935">%null%</text>
@@ -2274,9 +2274,9 @@ Features of each area will differ.</text>
 <text id="425937">%null%</text>
 <text id="425938">%null%</text>
 <text id="425939">%null%</text>
-<text id="425940">Mouth Position</text>
-<text id="425941">Up</text>
-<text id="425942">Down</text>
+<text id="425940">Розташування рота</text>
+<text id="425941">Вгору</text>
+<text id="425942">Вниз</text>
 <text id="425943">%null%</text>
 <text id="425944">%null%</text>
 <text id="425945">%null%</text>
@@ -2284,9 +2284,9 @@ Features of each area will differ.</text>
 <text id="425947">%null%</text>
 <text id="425948">%null%</text>
 <text id="425949">%null%</text>
-<text id="425950">Mouth Width</text>
-<text id="425951">Wide</text>
-<text id="425952">Narrow</text>
+<text id="425950">Ширина рота</text>
+<text id="425951">Широка</text>
+<text id="425952">Вузька</text>
 <text id="425953">%null%</text>
 <text id="425954">%null%</text>
 <text id="425955">%null%</text>
@@ -2294,10 +2294,10 @@ Features of each area will differ.</text>
 <text id="425957">%null%</text>
 <text id="425958">%null%</text>
 <text id="425959">%null%</text>
-<text id="425960">Mouth-Chin Distance</text>
-<text id="425961">Short</text>
-<text id="425962">Long</text>
-<text id="426000">Chin</text>
+<text id="425960">Відстань від рота до підборіддя</text>
+<text id="425961">Коротка</text>
+<text id="425962">Довга</text>
+<text id="426000">Підборіддя</text>
 <text id="426001">%null%</text>
 <text id="426002">%null%</text>
 <text id="426003">%null%</text>
@@ -2307,9 +2307,9 @@ Features of each area will differ.</text>
 <text id="426007">%null%</text>
 <text id="426008">%null%</text>
 <text id="426009">%null%</text>
-<text id="426010">Chin Tip Position</text>
-<text id="426011">Front</text>
-<text id="426012">Back</text>
+<text id="426010">Розташування кінчика підборіддя</text>
+<text id="426011">Вперед</text>
+<text id="426012">Назад</text>
 <text id="426013">%null%</text>
 <text id="426014">%null%</text>
 <text id="426015">%null%</text>
@@ -2317,9 +2317,9 @@ Features of each area will differ.</text>
 <text id="426017">%null%</text>
 <text id="426018">%null%</text>
 <text id="426019">%null%</text>
-<text id="426020">Chin Length</text>
-<text id="426021">Long</text>
-<text id="426022">Short</text>
+<text id="426020">Довжина підборіддя</text>
+<text id="426021">Довга</text>
+<text id="426022">Коротка</text>
 <text id="426023">%null%</text>
 <text id="426024">%null%</text>
 <text id="426025">%null%</text>
@@ -2327,9 +2327,9 @@ Features of each area will differ.</text>
 <text id="426027">%null%</text>
 <text id="426028">%null%</text>
 <text id="426029">%null%</text>
-<text id="426030">Chin Protrusion</text>
-<text id="426031">Small</text>
-<text id="426032">Large</text>
+<text id="426030">Виступ підборіддя</text>
+<text id="426031">Малий</text>
+<text id="426032">Великий</text>
 <text id="426033">%null%</text>
 <text id="426034">%null%</text>
 <text id="426035">%null%</text>
@@ -2337,9 +2337,9 @@ Features of each area will differ.</text>
 <text id="426037">%null%</text>
 <text id="426038">%null%</text>
 <text id="426039">%null%</text>
-<text id="426040">Chin Depth</text>
-<text id="426041">Slight</text>
-<text id="426042">Deep</text>
+<text id="426040">Глибина підборіддя</text>
+<text id="426041">Незначна</text>
+<text id="426042">Глибока</text>
 <text id="426043">%null%</text>
 <text id="426044">%null%</text>
 <text id="426045">%null%</text>
@@ -2347,9 +2347,9 @@ Features of each area will differ.</text>
 <text id="426047">%null%</text>
 <text id="426048">%null%</text>
 <text id="426049">%null%</text>
-<text id="426050">Chin Size</text>
-<text id="426051">Small</text>
-<text id="426052">Large</text>
+<text id="426050">Розмір підборіддя</text>
+<text id="426051">Малий</text>
+<text id="426052">Великий</text>
 <text id="426053">%null%</text>
 <text id="426054">%null%</text>
 <text id="426055">%null%</text>
@@ -2357,9 +2357,9 @@ Features of each area will differ.</text>
 <text id="426057">%null%</text>
 <text id="426058">%null%</text>
 <text id="426059">%null%</text>
-<text id="426060">Chin Height</text>
-<text id="426061">Low</text>
-<text id="426062">High</text>
+<text id="426060">Висота підборіддя</text>
+<text id="426061">Низька</text>
+<text id="426062">Висока</text>
 <text id="426063">%null%</text>
 <text id="426064">%null%</text>
 <text id="426065">%null%</text>
@@ -2367,10 +2367,10 @@ Features of each area will differ.</text>
 <text id="426067">%null%</text>
 <text id="426068">%null%</text>
 <text id="426069">%null%</text>
-<text id="426070">Chin Width</text>
-<text id="426071">Wide</text>
-<text id="426072">Narrow</text>
-<text id="426100">Jaw</text>
+<text id="426070">Ширина підборіддя</text>
+<text id="426071">Широка</text>
+<text id="426072">Вузька</text>
+<text id="426100">Щелепа</text>
 <text id="426101">%null%</text>
 <text id="426102">%null%</text>
 <text id="426103">%null%</text>
@@ -2380,9 +2380,9 @@ Features of each area will differ.</text>
 <text id="426107">%null%</text>
 <text id="426108">%null%</text>
 <text id="426109">%null%</text>
-<text id="426110">Jaw Protrusion</text>
-<text id="426111">Small</text>
-<text id="426112">Large</text>
+<text id="426110">Виступ щелепи</text>
+<text id="426111">Малий</text>
+<text id="426112">Великий</text>
 <text id="426113">%null%</text>
 <text id="426114">%null%</text>
 <text id="426115">%null%</text>
@@ -2390,9 +2390,9 @@ Features of each area will differ.</text>
 <text id="426117">%null%</text>
 <text id="426118">%null%</text>
 <text id="426119">%null%</text>
-<text id="426120">Jaw Width</text>
-<text id="426121">Wide</text>
-<text id="426122">Narrow</text>
+<text id="426120">Ширина щелепи</text>
+<text id="426121">Широка</text>
+<text id="426122">Вузька</text>
 <text id="426123">%null%</text>
 <text id="426124">%null%</text>
 <text id="426125">%null%</text>
@@ -2400,9 +2400,9 @@ Features of each area will differ.</text>
 <text id="426127">%null%</text>
 <text id="426128">%null%</text>
 <text id="426129">%null%</text>
-<text id="426130">Lower Jaw</text>
-<text id="426131">High</text>
-<text id="426132">Low</text>
+<text id="426130">Нижня щелепа</text>
+<text id="426131">Висока</text>
+<text id="426132">Низька</text>
 <text id="426133">%null%</text>
 <text id="426134">%null%</text>
 <text id="426135">%null%</text>
@@ -2410,10 +2410,10 @@ Features of each area will differ.</text>
 <text id="426137">%null%</text>
 <text id="426138">%null%</text>
 <text id="426139">%null%</text>
-<text id="426140">Jaw Contour</text>
-<text id="426141">Thin</text>
-<text id="426142">Thick</text>
-<text id="426200">Skin Color</text>
+<text id="426140">Контур щелепи</text>
+<text id="426141">Тонкий</text>
+<text id="426142">Товстий</text>
+<text id="426200">Колір шкіри</text>
 <text id="426201">%null%</text>
 <text id="426202">%null%</text>
 <text id="426203">%null%</text>
@@ -2423,9 +2423,9 @@ Features of each area will differ.</text>
 <text id="426207">%null%</text>
 <text id="426208">%null%</text>
 <text id="426209">%null%</text>
-<text id="426210">Skin Tone</text>
-<text id="426211">Dark</text>
-<text id="426212">Light</text>
+<text id="426210">Тон шкіри</text>
+<text id="426211">Темний</text>
+<text id="426212">Світлий</text>
 <text id="426213">%null%</text>
 <text id="426214">%null%</text>
 <text id="426215">%null%</text>
@@ -2433,9 +2433,9 @@ Features of each area will differ.</text>
 <text id="426217">%null%</text>
 <text id="426218">%null%</text>
 <text id="426219">%null%</text>
-<text id="426220">Nose Bridge Color</text>
-<text id="426221">Pale</text>
-<text id="426222">Red</text>
+<text id="426220">Колір перенісся</text>
+<text id="426221">Блідий</text>
+<text id="426222">Червоний</text>
 <text id="426223">%null%</text>
 <text id="426224">%null%</text>
 <text id="426225">%null%</text>
@@ -2443,9 +2443,9 @@ Features of each area will differ.</text>
 <text id="426227">%null%</text>
 <text id="426228">%null%</text>
 <text id="426229">%null%</text>
-<text id="426230">Cheek Color</text>
-<text id="426231">White</text>
-<text id="426232">Red</text>
+<text id="426230">Колір щік</text>
+<text id="426231">Білий</text>
+<text id="426232">Червоний</text>
 <text id="426233">%null%</text>
 <text id="426234">%null%</text>
 <text id="426235">%null%</text>
@@ -2453,9 +2453,9 @@ Features of each area will differ.</text>
 <text id="426237">%null%</text>
 <text id="426238">%null%</text>
 <text id="426239">%null%</text>
-<text id="426240">Skin Color Layer 1</text>
-<text id="426241">Orange</text>
-<text id="426242">Blue</text>
+<text id="426240">Колір шкіри, шар 1</text>
+<text id="426241">Помаранчевий</text>
+<text id="426242">Синій</text>
 <text id="426243">%null%</text>
 <text id="426244">%null%</text>
 <text id="426245">%null%</text>
@@ -2463,9 +2463,9 @@ Features of each area will differ.</text>
 <text id="426247">%null%</text>
 <text id="426248">%null%</text>
 <text id="426249">%null%</text>
-<text id="426250">Skin Color Layer 2</text>
-<text id="426251">Purple</text>
-<text id="426252">Yellow</text>
+<text id="426250">Колір шкіри, шар 2</text>
+<text id="426251">Фіолетовий</text>
+<text id="426252">Жовтий</text>
 <text id="426253">%null%</text>
 <text id="426254">%null%</text>
 <text id="426255">%null%</text>
@@ -2473,9 +2473,9 @@ Features of each area will differ.</text>
 <text id="426257">%null%</text>
 <text id="426258">%null%</text>
 <text id="426259">%null%</text>
-<text id="426260">Skin Color Layer 3</text>
-<text id="426261">Red</text>
-<text id="426262">Green</text>
+<text id="426260">Колір шкіри, шар 3</text>
+<text id="426261">Червоний</text>
+<text id="426262">Зелений</text>
 <text id="426263">%null%</text>
 <text id="426264">%null%</text>
 <text id="426265">%null%</text>
@@ -2486,7 +2486,7 @@ Features of each area will differ.</text>
 <text id="426270">*</text>
 <text id="426271">*</text>
 <text id="426272">*</text>
-<text id="426300">Eye Area</text>
+<text id="426300">Область очей</text>
 <text id="426301">%null%</text>
 <text id="426302">%null%</text>
 <text id="426303">%null%</text>
@@ -2496,9 +2496,9 @@ Features of each area will differ.</text>
 <text id="426307">%null%</text>
 <text id="426308">%null%</text>
 <text id="426309">%null%</text>
-<text id="426310">Tone Around Eyes</text>
-<text id="426311">Dark</text>
-<text id="426312">Light</text>
+<text id="426310">Тон навколо очей</text>
+<text id="426311">Темний</text>
+<text id="426312">Світлий</text>
 <text id="426313">%null%</text>
 <text id="426314">%null%</text>
 <text id="426315">%null%</text>
@@ -2506,9 +2506,9 @@ Features of each area will differ.</text>
 <text id="426317">%null%</text>
 <text id="426318">%null%</text>
 <text id="426319">%null%</text>
-<text id="426320">Eye Socket Brightness</text>
-<text id="426321">Dark</text>
-<text id="426322">Light</text>
+<text id="426320">Яскравість очної западини</text>
+<text id="426321">Темна</text>
+<text id="426322">Світла</text>
 <text id="426323">%null%</text>
 <text id="426324">%null%</text>
 <text id="426325">%null%</text>
@@ -2516,9 +2516,9 @@ Features of each area will differ.</text>
 <text id="426327">%null%</text>
 <text id="426328">%null%</text>
 <text id="426329">%null%</text>
-<text id="426330">Eyelid Brightness</text>
-<text id="426331">Light</text>
-<text id="426332">Dark</text>
+<text id="426330">Яскравість повік</text>
+<text id="426331">Світла</text>
+<text id="426332">Темна</text>
 <text id="426333">%null%</text>
 <text id="426334">%null%</text>
 <text id="426335">%null%</text>
@@ -2526,9 +2526,9 @@ Features of each area will differ.</text>
 <text id="426337">%null%</text>
 <text id="426338">%null%</text>
 <text id="426339">%null%</text>
-<text id="426340">Eyelid Color</text>
-<text id="426341">Pale</text>
-<text id="426342">Red</text>
+<text id="426340">Колір повік</text>
+<text id="426341">Блідий</text>
+<text id="426342">Червоний</text>
 <text id="426343">%null%</text>
 <text id="426344">%null%</text>
 <text id="426345">%null%</text>
@@ -2536,9 +2536,9 @@ Features of each area will differ.</text>
 <text id="426347">%null%</text>
 <text id="426348">%null%</text>
 <text id="426349">%null%</text>
-<text id="426350">Eyeliner</text>
-<text id="426351">Light</text>
-<text id="426352">Dark</text>
+<text id="426350">Підводка для очей</text>
+<text id="426351">Світла</text>
+<text id="426352">Темна</text>
 <text id="426353">%null%</text>
 <text id="426354">%null%</text>
 <text id="426355">%null%</text>
@@ -2546,10 +2546,10 @@ Features of each area will differ.</text>
 <text id="426357">%null%</text>
 <text id="426358">%null%</text>
 <text id="426359">%null%</text>
-<text id="426360">Eye Shadow</text>
-<text id="426361">Light</text>
-<text id="426362">Dark</text>
-<text id="426400">Lipstick</text>
+<text id="426360">Тіні для повік</text>
+<text id="426361">Світлі</text>
+<text id="426362">Темні</text>
+<text id="426400">Помада</text>
 <text id="426401">%null%</text>
 <text id="426402">%null%</text>
 <text id="426403">%null%</text>
@@ -2559,9 +2559,9 @@ Features of each area will differ.</text>
 <text id="426407">%null%</text>
 <text id="426408">%null%</text>
 <text id="426409">%null%</text>
-<text id="426410">Lipstick 1</text>
-<text id="426411">Dark Red</text>
-<text id="426412">Powder Blue</text>
+<text id="426410">Помада 1</text>
+<text id="426411">Темно-червона</text>
+<text id="426412">Пудрово-блакитна</text>
 <text id="426413">%null%</text>
 <text id="426414">%null%</text>
 <text id="426415">%null%</text>
@@ -2569,30 +2569,30 @@ Features of each area will differ.</text>
 <text id="426417">%null%</text>
 <text id="426418">%null%</text>
 <text id="426419">%null%</text>
-<text id="426420">Lipstick 2</text>
-<text id="426421">Dark Blue</text>
-<text id="426422">Bright Red</text>
+<text id="426420">Помада 2</text>
+<text id="426421">Темно-синя</text>
+<text id="426422">Яскраво-червона</text>
 <text id="427000">*</text>
-<text id="427100">Right Pupil Size</text>
-<text id="427200">Right Pupil Color</text>
-<text id="427300">Left Pupil Size</text>
-<text id="427400">Left Pupil Color</text>
-<text id="428000">Hair/Facial Hair</text>
-<text id="428001">Hair/brow/eyelash</text>
-<text id="428100">Hair</text>
-<text id="428200">Hair Color</text>
-<text id="428300">Beard</text>
-<text id="428400">Beard Color</text>
+<text id="427100">Розмір правої зіниці</text>
+<text id="427200">Колір правої зіниці</text>
+<text id="427300">Розмір лівої зіниці</text>
+<text id="427400">Колір лівої зіниці</text>
+<text id="428000">Волосся/Волосся на обличчі</text>
+<text id="428001">Волосся/брови/вії</text>
+<text id="428100">Волосся</text>
+<text id="428200">Колір волосся</text>
+<text id="428300">Борода</text>
+<text id="428400">Колір бороди</text>
 <text id="428500">*</text>
 <text id="428600">*</text>
-<text id="428700">Hair/Brow/Beard Color</text>
-<text id="428701">Hair/brow color</text>
+<text id="428700">Колір волосся/брів/бороди</text>
+<text id="428701">Колір волосся/брів</text>
 <text id="428800">*</text>
-<text id="429100">Tattoo/Mark</text>
-<text id="429200">Glasses</text>
-<text id="430000">Tattoo/Mark/Glasses</text>
-<text id="430100">Tattoo/Mark Color</text>
-<text id="430200">Tweak Tattoo/Mark</text>
+<text id="429100">Тату/Родимка</text>
+<text id="429200">Окуляри</text>
+<text id="430000">Тату/Родимка/Окуляри</text>
+<text id="430100">Колір тату/родимки</text>
+<text id="430200">Налаштування тату/родимки</text>
 <text id="430201">%null%</text>
 <text id="430202">%null%</text>
 <text id="430203">%null%</text>
@@ -2602,9 +2602,9 @@ Features of each area will differ.</text>
 <text id="430207">%null%</text>
 <text id="430208">%null%</text>
 <text id="430209">%null%</text>
-<text id="430210">Position (Vertical)</text>
-<text id="430211">Up</text>
-<text id="430212">Down</text>
+<text id="430210">Положення (вертикальне)</text>
+<text id="430211">Вгору</text>
+<text id="430212">Вниз</text>
 <text id="430213">%null%</text>
 <text id="430214">%null%</text>
 <text id="430215">%null%</text>
@@ -2612,9 +2612,9 @@ Features of each area will differ.</text>
 <text id="430217">%null%</text>
 <text id="430218">%null%</text>
 <text id="430219">%null%</text>
-<text id="430220">Position (Horizontal)</text>
-<text id="430221">Left</text>
-<text id="430222">Right</text>
+<text id="430220">Положення (горизонтальне)</text>
+<text id="430221">Ліворуч</text>
+<text id="430222">Праворуч</text>
 <text id="430223">%null%</text>
 <text id="430224">%null%</text>
 <text id="430225">%null%</text>
@@ -2622,9 +2622,9 @@ Features of each area will differ.</text>
 <text id="430227">%null%</text>
 <text id="430228">%null%</text>
 <text id="430229">%null%</text>
-<text id="430230">Angle</text>
-<text id="430231">Rotate Left</text>
-<text id="430232">Rotate Right</text>
+<text id="430230">Кут</text>
+<text id="430231">Повернути ліворуч</text>
+<text id="430232">Повернути праворуч</text>
 <text id="430233">%null%</text>
 <text id="430234">%null%</text>
 <text id="430235">%null%</text>
@@ -2632,11 +2632,11 @@ Features of each area will differ.</text>
 <text id="430237">%null%</text>
 <text id="430238">%null%</text>
 <text id="430239">%null%</text>
-<text id="430240">Expansion</text>
-<text id="430241">Small</text>
-<text id="430242">Large</text>
-<text id="430300">Color of Glasses</text>
-<text id="431100">Voice</text>
+<text id="430240">Розмір</text>
+<text id="430241">Малий</text>
+<text id="430242">Великий</text>
+<text id="430300">Колір окулярів</text>
+<text id="431100">Голос</text>
 <text id="431101">%null%</text>
 <text id="431102">%null%</text>
 <text id="431103">%null%</text>
@@ -2646,7 +2646,7 @@ Features of each area will differ.</text>
 <text id="431107">%null%</text>
 <text id="431108">%null%</text>
 <text id="431109">%null%</text>
-<text id="431110">Young Voice</text>
+<text id="431110">Молодий голос</text>
 <text id="431111">%null%</text>
 <text id="431112">%null%</text>
 <text id="431113">%null%</text>
@@ -2656,7 +2656,7 @@ Features of each area will differ.</text>
 <text id="431117">%null%</text>
 <text id="431118">%null%</text>
 <text id="431119">%null%</text>
-<text id="431120">Mature Voice</text>
+<text id="431120">Зрілий голос</text>
 <text id="431121">%null%</text>
 <text id="431122">%null%</text>
 <text id="431123">%null%</text>
@@ -2666,7 +2666,7 @@ Features of each area will differ.</text>
 <text id="431127">%null%</text>
 <text id="431128">%null%</text>
 <text id="431129">%null%</text>
-<text id="431130">Aged Voice</text>
+<text id="431130">Літній голос</text>
 <text id="431131">%null%</text>
 <text id="431132">%null%</text>
 <text id="431133">%null%</text>
@@ -2697,16 +2697,16 @@ Features of each area will differ.</text>
 <text id="431158">%null%</text>
 <text id="431159">%null%</text>
 <text id="431160">*</text>
-<text id="432100">Load Favorite</text>
-<text id="432200">Save to Favorites</text>
-<text id="433000">Pupils</text>
-<text id="522000">PREY SLAUGHTERED</text>
-<text id="522001">YOU DIED</text>
-<text id="522002">UNLOCKED</text>
-<text id="522003">PREY SLAUGHTERED</text>
-<text id="522004">ADVERSARY EXPUNGED</text>
-<text id="522005">BLOOD ECHOES RETRIEVED</text>
+<text id="432100">Завантажити улюблене</text>
+<text id="432200">Зберегти в улюблені</text>
+<text id="433000">Зіниці</text>
+<text id="522000">ЗДОБИЧ ЗНИЩЕНО</text>
+<text id="522001">ВИ ЗАГИНУЛИ</text>
+<text id="522002">РОЗБЛОКОВАНО</text>
+<text id="522003">ЗДОБИЧ ЗНИЩЕНО</text>
+<text id="522004">СУПРОТИВНИКА ЗНИЩЕНО</text>
+<text id="522005">КРОВАВІ СПОГАДИ ПОВЕРНУТО</text>
 <text id="522006">%null%</text>
-<text id="522007">NIGHTMARE SLAIN</text>
+<text id="522007">КОШМАР ЗНИЩЕНО</text>
 </entries>
 </fmg>
