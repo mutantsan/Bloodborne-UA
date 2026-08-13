@@ -726,7 +726,8 @@ Face editor (SP_メニューテキスト.fmg.xml id 425xxx-433xxx):
 PvP/co-op titles (イベントテキスト.fmg.xml):
   Beckoner:
     en: Beckoner
-    uk: Кликач
+    uk: Ловчий
+    note: "JP 狩りの主 (host/master of the hunt). 'Ловчий' is a historical Slavic court title for the master of the hunt, matching JP directly instead of EN's 'Beckoner' liberty. Declines as an adjective (Ловчого/Ловчому/Ловчим)."
     note: "The host of a co-op/PvP session, coined agent noun from 'кликати' (to call/beckon). No prior in-game precedent."
   Executioner (singular member):
     en: Executioner
@@ -757,7 +758,7 @@ Locations (イベントテキスト.fmg.xml warp/lamp list — cross-check again
   Chamber of the Seal / Layer One-Four:
     en: Chamber of the Seal / Layer One-Four
     uk: Зала Печатки / Шар Перший-Четвертий
-    note: "Orphan of Kos DLC arena and its 'Heart' sub-layers (e.g. 'Layer One: Heart' -> 'Шар Перший: Серце'). No prior precedent."
+    note: "Orphan of Kos DLC arena and its sub-layers. JP 奥部 (depths/inner section) rendered literally as 'Шар Перший: Глибини', not EN's 'Heart' liberty."
   Hunter's Dream:
     en: Hunter's Dream
     uk: Сон Мисливця

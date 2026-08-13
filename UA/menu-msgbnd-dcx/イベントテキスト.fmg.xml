@@ -75,45 +75,45 @@
 <text id="101500">Виявлено передзвін Кличного Дзвону,
 але той, хто кличе, — мисливець, сп'янілий кров'ю, а отже супротивник.</text>
 <text id="102001">Резонанс дзвону покликав &lt;?joinName?&gt;.</text>
-<text id="102002">Супротивник &lt;?joinName?&gt; has arrived.</text>
+<text id="102002">Супротивник &lt;?joinName?&gt; прибув.</text>
 <text id="102003">&lt;?joinName?&gt; прибув завдяки резонансу дзвону</text>
 <text id="102004">&lt;?joinName?&gt; прибув завдяки резонансу дзвону</text>
 <text id="102005">&lt;?joinName?&gt; прибув завдяки резонансу дзвону</text>
-<text id="102006">Союзник &lt;?joinName?&gt; has arrived
-by the bell's resonance.</text>
-<text id="102007">Союзник &lt;?joinName?&gt; has arrived
-by the bell's resonance.</text>
-<text id="102051">Старий Мисливець &lt;?joinName?&gt; has arrived
-by the bell's resonance.</text>
-<text id="102052">Старий Мисливець &lt;?joinName?&gt; has arrived
-by the bell's resonance.</text>
-<text id="102053">Старий Мисливець &lt;?joinName?&gt; has arrived
-by the bell's resonance.</text>
-<text id="102054">Старий Мисливець &lt;?joinName?&gt; has arrived
-by the bell's resonance.</text>
-<text id="102055">Старий Мисливець &lt;?joinName?&gt; has arrived
-by the bell's resonance.</text>
-<text id="102056">Союзник &lt;?joinName?&gt; has arrived
-by the bell's resonance.</text>
-<text id="102057">Союзник &lt;?joinName?&gt; has arrived
-by the bell's resonance.</text>
+<text id="102006">Союзник &lt;?joinName?&gt; прибув
+завдяки резонансу дзвону.</text>
+<text id="102007">Союзник &lt;?joinName?&gt; прибув
+завдяки резонансу дзвону.</text>
+<text id="102051">Старий Мисливець &lt;?joinName?&gt; прибув
+завдяки резонансу дзвону.</text>
+<text id="102052">Старий Мисливець &lt;?joinName?&gt; прибув
+завдяки резонансу дзвону.</text>
+<text id="102053">Старий Мисливець &lt;?joinName?&gt; прибув
+завдяки резонансу дзвону.</text>
+<text id="102054">Старий Мисливець &lt;?joinName?&gt; прибув
+завдяки резонансу дзвону.</text>
+<text id="102055">Старий Мисливець &lt;?joinName?&gt; прибув
+завдяки резонансу дзвону.</text>
+<text id="102056">Союзник &lt;?joinName?&gt; прибув
+завдяки резонансу дзвону.</text>
+<text id="102057">Союзник &lt;?joinName?&gt; прибув
+завдяки резонансу дзвону.</text>
 <text id="102100">Ви увійшли у світ &lt;?hostName?&gt;,
 хто покликав вас сюди.</text>
 <text id="102200">Ви увійшли у світ &lt;?hostName?&gt;.</text>
-<text id="102300">Тепер ви у світі Кликача,
+<text id="102300">Тепер ви у світі Ловчого,
 Карателя &lt;?hostName?&gt;</text>
-<text id="102400">Тепер ви у світі Кликача,
+<text id="102400">Тепер ви у світі Ловчого,
 Нечистокровного &lt;?hostName?&gt;</text>
-<text id="102500">Тепер ви у світі Кликача,
+<text id="102500">Тепер ви у світі Ловчого,
 мисливця, сп'янілого кров'ю, &lt;?hostName?&gt;.</text>
-<text id="102600">Тепер ви у світі Кликача,
+<text id="102600">Тепер ви у світі Ловчого,
 &lt;?hostName?&gt;.</text>
-<text id="102700">Тепер ви у світі Кликача,
+<text id="102700">Тепер ви у світі Ловчого,
 &lt;?hostName?&gt;.</text>
 <text id="103001">Поплічник &lt;?deadName?&gt; загинув.</text>
 <text id="103002">Супротивник &lt;?deadName?&gt; загинув.</text>
 <text id="103003">Нечистокровний &lt;?deadName?&gt; загинув.</text>
-<text id="103004">Executioner &lt;?deadName?&gt; загинув.</text>
+<text id="103004">Каратель &lt;?deadName?&gt; загинув.</text>
 <text id="103005">Винищувач Мисливців, &lt;?deadName?&gt;, загинув.</text>
 <text id="103006">Союзник &lt;?deadName?&gt; загинув.</text>
 <text id="103007">Союзник &lt;?deadName?&gt; загинув.</text>
@@ -132,35 +132,35 @@ by the bell's resonance.</text>
 <text id="103300">Ви померли. Повернення у ваш світ.</text>
 <text id="103400">Ви померли. Повернення у ваш світ.</text>
 <text id="103500">Ви померли. Повернення у ваш світ.</text>
-<text id="105100">Кликач кинув виклик
+<text id="105100">Ловчий кинув виклик
 &lt;?npcNameId@500000?&gt;.</text>
-<text id="105199">Кликач розпочав фінальну битву.</text>
+<text id="105199">Ловчий розпочав фінальну битву.</text>
 <text id="105200">Бій з &lt;?npcNameId@1000?&gt; розпочався.
 Повернення у ваш світ.</text>
-<text id="105299">The beckoner has begun the final battle.
+<text id="105299">Ловчий розпочав фінальну битву.
 Повернення у ваш світ.</text>
 <text id="105300">Бій з &lt;?npcNameId@1000?&gt; розпочався. Повернення у ваш світ.</text>
-<text id="105399">The Executioner has begun the final battle.
+<text id="105399">Каратель розпочав фінальну битву.
 Повернення у ваш світ.</text>
 <text id="105400">Бій з &lt;?npcNameId@1000?&gt; розпочався. Повернення у ваш світ.</text>
-<text id="105499">The Vileblood has begun the final battle.
+<text id="105499">Нечистокровний розпочав фінальну битву.
 Повернення у ваш світ.</text>
 <text id="105500">Бій з &lt;?npcNameId@1000?&gt; розпочався. Повернення у ваш світ.</text>
-<text id="105599">The blood-addled hunter has begun the final battle.
+<text id="105599">Мисливець, сп'янілий кров'ю, розпочав фінальну битву.
 Повернення у ваш світ.</text>
 <text id="106100">&lt;?npcNameId@1000?&gt; був переможений,
 полювання завершено. Час прощатися.</text>
 <text id="106199">Фінальну битву завершено.
 Час прощатися.</text>
-<text id="106200">Кликач &lt;?hostName?&gt; загинув.
+<text id="106200">Ловчий &lt;?hostName?&gt; загинув.
 Час прощатися.</text>
 <text id="106300">Каратель &lt;?hostName?&gt; загинув.
 Час прощатися.</text>
-<text id="106400">Нечистокровний &lt;?hostName?&gt; has fallen.
-It is time to bid farewell.</text>
+<text id="106400">Нечистокровний &lt;?hostName?&gt; загинув.
+Час прощатися.</text>
 <text id="106500">Мисливець, сп'янілий кров'ю, &lt;?hostName?&gt;, загинув.
 Час прощатися.</text>
-<text id="107000">Кликач</text>
+<text id="107000">Ловчий</text>
 <text id="107100">Поплічник</text>
 <text id="107150">Старий Мисливець</text>
 <text id="107200">Супротивник</text>
@@ -1003,7 +1003,7 @@ It is time to bid farewell.</text>
 <text id="10010160">Замкнено пристроєм.</text>
 <text id="10010161">Не відчиняється з цієї сторони.</text>
 <text id="10010162">Відчинено з цієї сторони.</text>
-<text id="10010163">Зачинено.</text>
+<text id="10010163">Замкнено.</text>
 <text id="10010164">Відчинено.</text>
 <text id="10010165">Це місто давно покинуте.
 Мисливці тут небажані.</text>
@@ -1012,7 +1012,7 @@ It is time to bid farewell.</text>
 <text id="10010168">%null%</text>
 <text id="10010169">%null%</text>
 <text id="10010170">Вже розблоковано.</text>
-<text id="10010171">Замкнено.</text>
+<text id="10010171">Зачинено.</text>
 <text id="10010172">Пристрій наразі не працює.</text>
 <text id="10010173">Лише особлива емблема відкриває головну браму.</text>
 <text id="10010174">Особлива емблема відкрила головну браму.</text>
@@ -1194,8 +1194,8 @@ It is time to bid farewell.</text>
 <text id="10010737">%null%</text>
 <text id="10010738">%null%</text>
 <text id="10010739">%null%</text>
-<text id="10010740">Лише Кликач може відкрити ці двері.</text>
-<text id="10010741">Лише Кликач може використати цей пристрій.</text>
+<text id="10010740">Лише Ловчий може відкрити ці двері.</text>
+<text id="10010741">Лише Ловчий може використати цей пристрій.</text>
 <text id="10010770">Швидка отрута</text>
 <text id="10010771">Повільна отрута</text>
 <text id="10010772">%null%</text>
@@ -1723,7 +1723,7 @@ It is time to bid farewell.</text>
 <text id="10020157">%null%</text>
 <text id="10020158">%null%</text>
 <text id="10020159">%null%</text>
-<text id="10020160">Дати Червону Коштовну Брошку</text>
+<text id="10020160">Дати Червону Коштовну Брошку?</text>
 <text id="10020161">%null%</text>
 <text id="10020162">%null%</text>
 <text id="10020163">%null%</text>
@@ -1743,7 +1743,7 @@ It is time to bid farewell.</text>
 <text id="10020177">%null%</text>
 <text id="10020178">%null%</text>
 <text id="10020179">%null%</text>
-<text id="10020180">Дати Червону Стрічку Посланця</text>
+<text id="10020180">Віддати Червону Стрічку Посланця?</text>
 <text id="10020181">%null%</text>
 <text id="10020182">%null%</text>
 <text id="10020183">%null%</text>
@@ -2128,24 +2128,24 @@ It is time to bid farewell.</text>
 <text id="20000400">Поплічник &lt;?leaveName?&gt; був
 відправлений у свій світ.</text>
 <text id="20000401">Відправлений назад у свій світ
-Кликачем &lt;?hostName?&gt;.</text>
+Ловчим &lt;?hostName?&gt;.</text>
 <text id="20000402">Поплічник &lt;?leaveName?&gt;
-returned to their own world.</text>
+був відправлений назад у свій світ.</text>
 <text id="20000403">Повернення у ваш світ.</text>
 <text id="20000404">Поплічник &lt;?leaveName?&gt;
-returned to their own world.</text>
+повернувся у свій світ.</text>
 <text id="20000405">Поплічник &lt;?leaveName?&gt;
-returned to their own world.</text>
-<text id="20000406">Bell silenced.
+повернувся у свій світ.</text>
+<text id="20000406">Резонанс дзвону перервано.
 Повернення у ваш світ.</text>
 <text id="20000407">Супротивник &lt;?leaveName?&gt;
-returned to their own world.</text>
+повернувся у свій світ.</text>
 <text id="20000408">Супротивник &lt;?leaveName?&gt;
-returned to their own world.</text>
+повернувся у свій світ.</text>
 <text id="20000409">Нечистокровний &lt;?leaveName?&gt;
-returned to their own world.</text>
+повернувся у свій світ.</text>
 <text id="20000410">Нечистокровний &lt;?leaveName?&gt;
-returned to their own world.</text>
+повернувся у свій світ.</text>
 <text id="20000411">Каратель &lt;?leaveName?&gt;
 повернувся у свій світ.</text>
 <text id="20000412">Каратель &lt;?leaveName?&gt;
@@ -2157,54 +2157,54 @@ returned to their own world.</text>
 <text id="20000415">Відправлено Союзника &lt;?leaveName?&gt;
 назад у свій світ.</text>
 <text id="20000416">Союзник &lt;?leaveName?&gt;
-sent back to own world.</text>
-<text id="20000417">Союзник &lt;?leaveName?&gt; returned
-to their own world.</text>
-<text id="20000418">Союзник &lt;?leaveName?&gt; returned
-to their own world.</text>
+був відправлений назад у свій світ.</text>
+<text id="20000417">Союзник &lt;?leaveName?&gt;
+повернувся у свій світ.</text>
+<text id="20000418">Союзник &lt;?leaveName?&gt;
+повернувся у свій світ.</text>
 <text id="20000419">Відправлено Союзника &lt;?leaveName?&gt;
 назад у свій світ.</text>
 <text id="20000420">Союзник &lt;?leaveName?&gt;
-sent back to own world.</text>
-<text id="20000421">Союзник &lt;?leaveName?&gt; returned
-to their own world.</text>
-<text id="20000422">Союзник &lt;?leaveName?&gt; returned
-to their own world.</text>
+був відправлений назад у свій світ.</text>
+<text id="20000421">Союзник &lt;?leaveName?&gt;
+повернувся у свій світ.</text>
+<text id="20000422">Союзник &lt;?leaveName?&gt;
+повернувся у свій світ.</text>
 <text id="20000450">Відправлено Старого Мисливця &lt;?leaveName?&gt;
 назад у свій світ.</text>
 <text id="20000451">%null%</text>
 <text id="20000452">Старий Мисливець &lt;?leaveName?&gt;
-sent back to own world.</text>
+був відправлений назад у свій світ.</text>
 <text id="20000453">%null%</text>
-<text id="20000454">Старий Мисливець &lt;?leaveName?&gt; returned
-to their own world.</text>
+<text id="20000454">Старий Мисливець &lt;?leaveName?&gt;
+повернувся у свій світ.</text>
 <text id="20000455">%null%</text>
 <text id="20000456">%null%</text>
-<text id="20000457">Старий Мисливець &lt;?leaveName?&gt; returned
-to their own world.</text>
+<text id="20000457">Старий Мисливець &lt;?leaveName?&gt;
+повернувся у свій світ.</text>
 <text id="20000458">%null%</text>
-<text id="20000459">Старий Мисливець &lt;?leaveName?&gt; returned
-to their own world.</text>
+<text id="20000459">Старий Мисливець &lt;?leaveName?&gt;
+повернувся у свій світ.</text>
 <text id="20000460">%null%</text>
-<text id="20000461">Старий Мисливець &lt;?leaveName?&gt; returned
-to their own world.</text>
+<text id="20000461">Старий Мисливець &lt;?leaveName?&gt;
+повернувся у свій світ.</text>
 <text id="20000462">%null%</text>
-<text id="20000463">Старий Мисливець &lt;?leaveName?&gt; returned
-to their own world.</text>
+<text id="20000463">Старий Мисливець &lt;?leaveName?&gt;
+повернувся у свій світ.</text>
 <text id="20000464">%null%</text>
 <text id="20000465">Відправлено Союзника &lt;?leaveName?&gt;
 назад у свій світ.</text>
 <text id="20000466">Союзник &lt;?leaveName?&gt;
-sent back to own world.</text>
-<text id="20000467">Союзник &lt;?leaveName?&gt; returned
-to their own world.</text>
+був відправлений назад у свій світ.</text>
+<text id="20000467">Союзник &lt;?leaveName?&gt;
+повернувся у свій світ.</text>
 <text id="20000468">%null%</text>
 <text id="20000469">Відправлено Союзника &lt;?leaveName?&gt;
 назад у свій світ.</text>
 <text id="20000470">Союзник &lt;?leaveName?&gt;
-sent back to own world.</text>
-<text id="20000471">Союзник &lt;?leaveName?&gt; returned
-to their own world.</text>
+був відправлений назад у свій світ.</text>
+<text id="20000471">Союзник &lt;?leaveName?&gt;
+повернувся у свій світ.</text>
 <text id="20001000">Сеанс втрачено.</text>
 <text id="20001001">Завершення сеансу через
 нестабільне з'єднання...</text>
@@ -2285,14 +2285,14 @@ to their own world.</text>
 <text id="70002802">Підземна В'язниця</text>
 <text id="70002803">Каплиця Яхарґула</text>
 <text id="70002900">Зала Печатки</text>
-<text id="70002901"> Шар Перший</text>
-<text id="70002902">Шар Перший: Серце</text>
-<text id="70002903"> Шар Другий</text>
-<text id="70002904">Шар Другий: Серце</text>
-<text id="70002905"> Шар Третій</text>
-<text id="70002906">Шар Третій: Серце</text>
-<text id="70002907"> Шар Четвертий</text>
-<text id="70002908">Шар Четвертий: Серце</text>
+<text id="70002901">Шар Перший</text>
+<text id="70002902">Шар Перший: Глибини</text>
+<text id="70002903">Шар Другий</text>
+<text id="70002904">Шар Другий: Глибини</text>
+<text id="70002905">Шар Третій</text>
+<text id="70002906">Шар Третій: Глибини</text>
+<text id="70002907">Шар Четвертий</text>
+<text id="70002908">Шар Четвертий: Глибини</text>
 <text id="70003200">Бірґенверт</text>
 <text id="70003201">Лекційний корпус</text>
 <text id="70003202">Місячне Озеро</text>

@@ -58,7 +58,7 @@ def find_untranslated_lines():
     translated_lines = []
 
     for _type in ("menu-msgbnd-dcx", "item-msgbnd-dcx"):
-        for file in _get_msg_files(here / _type):
+        for file in _get_msg_files(here / "UA" / _type):
             untrans_lines, trans_lines = _collect_untranslated_(file)
 
             if untrans_lines:
