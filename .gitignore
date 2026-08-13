@@ -1,6 +1,7 @@
 /ref
 /venv
 /pack
+/__pycache__
 
 .direnv
 .envrc

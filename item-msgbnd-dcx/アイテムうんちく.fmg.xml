@@ -5,19 +5,19 @@
 <version>DarkSouls3</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="100">Dangling, upside-down rune etched in one's mind.
-Symbol of a hunter.
+<text id="100">Звисаюча, перевернута руна, викарбувана у свідомості.
+Символ мисливця.
 
-By focusing one's thoughts on this rune, a hunter
-loses all Blood Echoes, but awakens afresh,
-as if it were all just a bad dream.</text>
-<text id="111">Hunters are linked by the resonance of bells
-with special encoded timbres. This inaudible
-burst disrupts such resonance.
+Зосередившись думками на цій руні, мисливець
+втрачає всі Криваві спогади, але пробуджується заново,
+наче все було лиш поганим сном.</text>
+<text id="111">Мисливці пов'язані резонансом дзвонів
+з особливими закодованими тембрами. Цей нечутний
+сплеск руйнує такий резонанс.
 
-Fire to end cooperation, and prevent further
-cooperation. Firing this does not disrupt the
-resonance of a Sinister Bell.</text>
+Вистріліть, щоб припинити співпрацю та запобігти
+подальшій співпраці. Постріл не руйнує резонанс
+Зловісного Дзвону.</text>
 <text id="112">%null%</text>
 <text id="113">%null%</text>
 <text id="114">%null%</text>
@@ -26,11 +26,11 @@ resonance of a Sinister Bell.</text>
 <text id="117">%null%</text>
 <text id="118">%null%</text>
 <text id="119">%null%</text>
-<text id="120">Messengers are inhabitants of the dream who revere the brave hunters. Use them to send messages to other worlds.
+<text id="120">Посланці — мешканці сну, що шанують відважних мисливців. Використовуйте їх, щоб надсилати повідомлення в інші світи.
 
-Leave notes with messengers, read the notes left to messengers in other worlds, and rate notes to reach out to hunters across planes of existence.
+Залишайте нотатки Посланцям, читайте нотатки, залишені Посланцям в інших світах, та оцінюйте нотатки, щоб зв'язатися з мисливцями крізь площини буття.
 
-Note: Online use only. Cannot use this item offline.</text>
+Примітка: лише для мережевої гри. Цей предмет не можна використати офлайн.</text>
 <text id="121">%null%</text>
 <text id="122">%null%</text>
 <text id="123">%null%</text>
@@ -40,119 +40,118 @@ Note: Online use only. Cannot use this item offline.</text>
 <text id="127">%null%</text>
 <text id="128">%null%</text>
 <text id="129">%null%</text>
-<text id="130">Red-leather record of the Vilebloods loyal to the covenant of Annalise, Queen of the Vilebloods, at Cainhurst Castle.
+<text id="130">Реєстр у червоній шкіряній палітурці, що фіксує Нечистокровних, вірних клятві Анналізи, Королеви Нечистокровних, у Замку Кейнхерст.
 
-A record of the Vilebloods, blood-lusting hunters who seek blood dregs of their prey, kept throughout the ages.
+Запис Нечистокровних, спраглих крові мисливців, що шукають кривавих покидьків своєї здобичі, який ведеться крізь віки.
 
-Note: Online use only. Cannot use this item offline.</text>
-<text id="131">The League staff is the sign of a confederate.
-A directory within the hilt lists the names of fellow confederates.
+Примітка: лише для мережевої гри. Цей предмет не можна використати офлайн.</text>
+<text id="131">Посох Ліги — знак Союзника.
+Довідник у руків'ї містить імена побратимів-Союзників.
 
-Members of the League brandish this staff to indicate themselves to fellow members of the League.
+Члени Ліги демонструють цей посох, щоб показати себе іншим членам Ліги.
 
-There shall be no sympathy for those engaged in the bloody mission of the League. No matter that an oath must be taken to uphold the illusion.</text>
-<text id="200">Great old bell discovered in the underground labyrinth.
+Не буде жалю до тих, хто береться за криваву місію Ліги. Байдуже, що заради підтримання ілюзії доводиться складати клятву.</text>
+<text id="200">Великий старовинний дзвін, знайдений у підземному лабіринті.
 
-Its ring resonates across worlds, and the first hunter used it as a special signal to call hunters from other worlds to cross the gap and cooperate.
+Його дзвін резонує крізь світи, і перший мисливець використовував його як особливий сигнал, щоб покликати мисливців з інших світів перетнути прірву та об'єднатися.
 
-A human must use Insight to ring this uncanny bell, but the benefits of cross-world cooperation are many.</text>
+Людина мусить витратити Прозріння, щоб подзвонити у цей моторошний дзвін, але переваги міжсвітової співпраці численні.</text>
 <text id="201">%null%</text>
 <text id="202">%null%</text>
 <text id="203">%null%</text>
 <text id="204">%null%</text>
-<text id="205">Small bell discovered in the old underground labyrinth.
+<text id="205">Малий дзвін, знайдений у старовинному підземному лабіринті.
 
-Its ring resonates across worlds, and the first hunter
-used it as a special signal to call hunters from other
-worlds to cross the gap and cooperate.
+Його дзвін резонує крізь світи, і перший мисливець
+використовував його як особливий сигнал, щоб покликати мисливців з інших
+світів перетнути прірву та об'єднатися.
 
-This bell resonates with its counterpart, the Beckoning
-Bell. Ring to help hunters in other worlds.
+Цей дзвін резонує зі своїм відповідником, Кличним
+Дзвоном. Подзвоніть, щоб допомогти мисливцям в інших світах.
 
-Note: Online use only. Cannot use this item offline.</text>
-<text id="225">A blood-stained bell discovered in the old underground labyrinth.
+Примітка: лише для мережевої гри. Цей предмет не можна використати офлайн.</text>
+<text id="225">Закривавлений дзвін, знайдений у старовинному підземному лабіринті.
 
-One of the resonating bells that cross the gaps of worlds, but this one knells for misfortune and malice.
+Один з резонансних дзвонів, що перетинають прірви світів, але цей віщує нещастя та злобу.
 
-The Sinister Bell is an object of dark thoughts. Ring it to become the enemy of a hunter in another world.
+Зловісний Дзвін — предмет темних думок. Подзвоніть у нього, щоб стати ворогом мисливця в іншому світі.
 
-Note: Online use only. Cannot use this item offline.</text>
-<text id="700">A small music box received from a young Yharnam girl.
-Plays a song shared by her mother and father.
+Примітка: лише для мережевої гри. Цей предмет не можна використати офлайн.</text>
+<text id="700">Маленька музична скринька, отримана від юної ярнамської дівчинки.
+Грає пісню, яку ділили її матір та батько.
 
-Inside the lid is a small scrap of paper, perhaps an
-old message. Two names can be made out, however faintly.
+Всередині кришки — маленький клаптик паперу, можливо,
+старе послання. Можна розібрати два імені, хоч і ледь помітно.
 
-Viola and Gascoigne.</text>
-<text id="701">Blood taken from Arianna, Cathedral Ward woman of
-pleasure. The sweet blood of Arianna restores HP,
-and temporarily speeds stamina recovery.
+Віола та Гаскойн.</text>
+<text id="701">Кров, взята в Аріанни, жінки втіхи із Соборного Кварталу. Солодка кров Аріанни відновлює ОЗ
+та тимчасово прискорює відновлення витривалості.
 
-A member of the old Healing Church would know
-that her blood is similar indeed, to precisely what
-was once forbidden.</text>
-<text id="702">Blood taken from Adella, nun of the Healing Church.
-Restores an amount of HP, then continues to gradually
-restore HP for a short time.
+Член старої Церкви Зцілення знав би,
+що ця кров вельми схожа саме на те,
+що колись було заборонено.</text>
+<text id="702">Кров, взята в Адели, черниці Церкви Зцілення.
+Відновлює певну кількість ОЗ, а потім поступово
+продовжує відновлювати ОЗ протягом короткого часу.
 
-The Healing Church nuns are chosen for their merit
-as vessels for blood, and groomed as Blood Saints.
-The mere chance of being treated with their blood
-lends legitimacy to the Healing Church and communion.</text>
-<text id="703">Blood vial acquired from Iosefka's clinic.
+Черниць Церкви Зцілення обирають за їхню гідність
+бути посудинами для крові, і готують як Кривавих Святих.
+Сама можливість лікування їхньою кров'ю
+надає легітимності Церкві Зцілення та причастю.</text>
+<text id="703">Ампула крові, отримана з клініки Йозефки.
 
-This refined blood, highly invigorating,
-restores a larger amount of HP.
+Ця очищена кров, надзвичайно бадьорлива,
+відновлює більшу кількість ОЗ.
 
-The product of a slow and careful refinement process,
-this rare blood vial appears to be a clinic original.</text>
-<text id="704">The Vilebloods of Cainhurst, blood-lusting hunters,
-see these frightful things in coldblood.
+Продукт повільного та ретельного процесу очищення,
+ця рідкісна ампула крові, здається, — оригінальний рецепт клініки.</text>
+<text id="704">Нечистокровні Кейнхерсту, мисливці, спраглі крові,
+бачать ці жахливі речі холоднокровно.
 
-They often appear in the blood of echo fiends, that is to say, the blood of hunters. Queen Annalise partakes in these blood dregs offerings, so that she may one day bear the Child of Blood, the next Vileblood heir.</text>
-<text id="705">Blood received from Annalise, Vileblood Queen of Cainhurst.
+Вони часто з'являються в крові одержимих спогадами, тобто в крові мисливців. Королева Анналіза приймає ці підношення кривавих покидьків, щоб одного дня народити Дитя Крові, наступного спадкоємця Нечистокровних.</text>
+<text id="705">Кров, отримана від Анналізи, Королеви Нечистокровних Кейнхерсту.
 
-Vileblood hunters who offer sufficient blood dregs are allowed the special honor of imbibing this blood.
+Мисливцям-Нечистокровним, які піднесли достатньо кривавих покидьків, дозволена особлива честь скуштувати цю кров.
 
-The sensually sweet gelatinous blood restores HP and temporarily speeds stamina recovery.</text>
-<text id="706">Blood taken from Adeline, patient of the research hall. Restores HP, then continues to rejuvenate HP for some time.
+Чуттєво солодка драглиста кров відновлює ОЗ та тимчасово прискорює відновлення витривалості.</text>
+<text id="706">Кров, взята в Аделін, пацієнтки Дослідницької Зали. Відновлює ОЗ, а потім продовжує омолоджувати ОЗ протягом певного часу.
 
-Adeline was originally one of the Blood Saints who received treatment by the Church to cultivate worthy blood. Adeline's was one of the few cases that turned out favorably.</text>
-<text id="900">Special bullets used with hunter firearms.
+Аделін спочатку була однією з Кривавих Святих, які проходили лікування Церквою для вирощування гідної крові. Випадок Аделін був одним із небагатьох, що завершився сприятливо.</text>
+<text id="900">Особливі кулі, що використовуються з вогнепальною зброєю мисливців.
 
-Ordinary bullets have no effect on beasts,
-and so Quicksilver Bullets, fused with the wielder's
-own blood, must be employed.
+Звичайні кулі не діють на звірів,
+тому необхідно використовувати Ртутні кулі, злиті
+з власною кров'ю власника.
 
-The strength of Quicksilver Bullets depends greatly
-upon the wielder's bloodtinge.</text>
-<text id="901">Special equivalents to Quicksilver Bullets.
+Сила Ртутних куль значною мірою залежить
+від Відтінку крові власника.</text>
+<text id="901">Особливий еквівалент Ртутних куль.
 
-When a hunter runs out of Quicksilver Bullets,
-it is possible to create bullets purely from blood.
+Коли у мисливця закінчуються Ртутні кулі,
+можна створювати кулі виключно з крові.
 
-Beware of overuse, as their creation greatly drains HP.</text>
+Бережіться надмірного використання, оскільки їхнє створення значно виснажує ОЗ.</text>
 <text id="999">*</text>
-<text id="1000">Special blood used in ministration. Restores HP.
+<text id="1000">Особлива кров, що використовується у причасті. Відновлює ОЗ.
 
-Once a patient has had their blood ministered, a unique but common treatment in Yharnam, successive infusions recall the first, and are all the more invigorating for it.
+Щойно пацієнту вперше проведуть кровопричастя, унікальне, але поширене лікування в Ярнамі, наступні вливання нагадують перше і стають від того ще більш бадьорливими.
 
-No surprise that most Yharnamites are heavy users of blood.</text>
-<text id="1100">Small medicinal tablets that counteract poison.
+Не дивно, що більшість ярнамців — завзяті споживачі крові.</text>
+<text id="1100">Маленькі лікувальні таблетки, що протидіють отруті.
 
-Used to treat ashen blood, the baffling sickness
-that ravaged Old Yharnam long ago.
+Використовувалися для лікування попелястої крові, загадкової хвороби,
+що колись спустошила Старий Ярнам.
 
-These tablets only provide short-term relief.
-The ashen blood ailment eventually triggered
-the spread of the beastly scourge.</text>
-<text id="1101">Liquid medicine concocted at Byrgenwerth.
-Calms the nerves.
+Ці таблетки дають лише тимчасове полегшення.
+Недуга попелястої крові зрештою спричинила
+поширення звірячої напасті.</text>
+<text id="1101">Рідкі ліки, приготовані в Бірґенверті.
+Заспокоюють нерви.
 
-Those who delve into the arcane fall all-too-easily
-to madness, and thick human blood serves to calm
-the frayed nerves of these inquisitive minds. Naturally,
-this often leads to a reliance on blood ministration.</text>
+Ті, хто заглиблюються в таємне, надто легко піддаються
+божевіллю, і густа людська кров слугує для заспокоєння
+знервованих думок цих допитливих умів. Природно,
+це часто призводить до залежності від кровопричастя.</text>
 <text id="1102">%null%</text>
 <text id="1103">%null%</text>
 <text id="1104">%null%</text>
@@ -161,14 +160,14 @@ this often leads to a reliance on blood ministration.</text>
 <text id="1107">%null%</text>
 <text id="1108">%null%</text>
 <text id="1109">%null%</text>
-<text id="1110">Large medicinal pellets, supposedly formed of coagulated
-beast blood. Banned by the Healing Church due to
-their unclear origin. Grants a spurt of beasthood.
+<text id="1110">Великі лікувальні пігулки, ймовірно утворені зі згорнутої
+крові звіра. Заборонені Церквою Зцілення через
+невизначене походження. Дарують сплеск звірства.
 
-Ripping apart the flesh of one's enemies and being
-rained upon by their splattering blood invigorates
-one's sense of beasthood, feeding strength and
-euphoric feeling alike.</text>
+Розривання плоті ворогів та обливання
+бризками їхньої крові підсилює
+відчуття звірства, живлячи силу та
+екстатичне відчуття водночас.</text>
 <text id="1111">%null%</text>
 <text id="1112">%null%</text>
 <text id="1113">%null%</text>
@@ -178,13 +177,13 @@ euphoric feeling alike.</text>
 <text id="1117">%null%</text>
 <text id="1118">%null%</text>
 <text id="1119">%null%</text>
-<text id="1120">Dubious liquid medicine used in strange experiments
-conducted by high ministers of the Healing Church.
-A type of anesthetic that numbs the brain.
+<text id="1120">Сумнівні рідкі ліки, що використовувалися у дивних дослідах,
+проведених вищими служителями Церкви Зцілення.
+Різновид анестетика, що притуплює мозок.
 
-Hunters, able to retain consciousness by force
-of will, make use of a secondary effect of the medicine,
-which dilutes their presence while standing still.</text>
+Мисливці, здатні зберігати свідомість силою
+волі, використовують побічний ефект ліків,
+що розмиває їхню присутність, поки вони стоять нерухомо.</text>
 <text id="1121">%null%</text>
 <text id="1122">%null%</text>
 <text id="1123">%null%</text>
@@ -195,16 +194,16 @@ which dilutes their presence while standing still.</text>
 <text id="1128">%null%</text>
 <text id="1129">%null%</text>
 <text id="1130">%null%</text>
-<text id="1200">Explodes in raging flames when thrown against an object.
-One of the oldest hunter tools available in the workshop.
+<text id="1200">Вибухає лютим полум'ям при ударі об предмет.
+Один з найдавніших мисливських інструментів, доступних у Майстерні.
 
-Since the tragedy that struck Old Yharnam, fire has become a staple in beast hunts, and is thought to cleanse impurity.
+Після трагедії, що вразила Старий Ярнам, вогонь став невід'ємною частиною полювання на звірів і вважається засобом очищення від нечистоти.
 
-Certain types of beasts have an abnormal fear of flame.</text>
-<text id="1201">A special hunter tool crafted by the old Oto Workshop.
-These molotovs wedge into the ground when thrown, and explode on a timed delay.
+Певні види звірів мають ненормальний страх перед полум'ям.</text>
+<text id="1201">Особливий мисливський інструмент, виготовлений старою Майстернею Ото.
+Ці коктейлі Молотова застрягають у землі при кидку та вибухають із затримкою.
 
-A shame that such a complex gadget must be sacrificed with each use of this inefficient hunter tool. Nevertheless, delayed molotovs are cherished by the minority of hunters who prefer the tricksier kill. This creation is one of the earliest-known roots of the Powder Kegs.</text>
+Шкода, що таким складним пристроєм доводиться жертвувати за кожного використання цього неефективного інструмента. Проте уповільнені коктейлі Молотова цінує меншість мисливців, які надають перевагу хитрішому вбивству. Цей витвір — одне з найперших відомих коренів Порохівників.</text>
 <text id="1202">%null%</text>
 <text id="1203">%null%</text>
 <text id="1204">%null%</text>
@@ -213,12 +212,12 @@ A shame that such a complex gadget must be sacrificed with each use of this inef
 <text id="1207">%null%</text>
 <text id="1208">%null%</text>
 <text id="1209">%null%</text>
-<text id="1210">A knife slathered in poison.
+<text id="1210">Ніж, рясно змащений отрутою.
 
-This curved knife is as thin and sharp as a surgeon's blade.
-Often used for self-defense by special doctors in the Healing Church.
+Цей вигнутий ніж такий же тонкий і гострий, як лезо хірурга.
+Часто використовується для самозахисту особливими лікарями Церкви Зцілення.
 
-They say that hunters traditionally avoid the use of poison, likely because the poison is too slow to act in the heat of the hunt.</text>
+Кажуть, мисливці традиційно уникають використання отрути, ймовірно тому, що вона діє надто повільно у розпалі полювання.</text>
 <text id="1211">%null%</text>
 <text id="1212">%null%</text>
 <text id="1213">%null%</text>
@@ -228,12 +227,12 @@ They say that hunters traditionally avoid the use of poison, likely because the 
 <text id="1217">%null%</text>
 <text id="1218">%null%</text>
 <text id="1219">%null%</text>
-<text id="1220">When this urn hits its mark, the target is drenched
-in oil, and made extremely flammable.
+<text id="1220">Коли ця урна влучає в ціль, ціль просочується
+олією і стає надзвичайно легкозаймистою.
 
-Fire is commonplace on the hunt, and oil urns accentuate
-its effect. Sometimes, when hunters burn beasts,
-they appear intoxicated by the euphoria of purification.</text>
+Вогонь — звичайна річ на полюванні, і олійні урни підсилюють
+його ефект. Іноді, коли мисливці спалюють звірів,
+вони здаються сп'янілими екстазом очищення.</text>
 <text id="1221">%null%</text>
 <text id="1222">%null%</text>
 <text id="1223">%null%</text>
@@ -243,11 +242,11 @@ they appear intoxicated by the euphoria of purification.</text>
 <text id="1227">%null%</text>
 <text id="1228">%null%</text>
 <text id="1229">%null%</text>
-<text id="1230">Small pebbles found throughout Yharnam.
+<text id="1230">Маленькі камінці, що трапляються по всьому Ярнаму.
 
-Can be thrown at foes.
+Можна кидати у ворогів.
 
-Quite thrilling.</text>
+Доволі захопливо.</text>
 <text id="1231">%null%</text>
 <text id="1232">%null%</text>
 <text id="1233">%null%</text>
@@ -257,12 +256,12 @@ Quite thrilling.</text>
 <text id="1237">%null%</text>
 <text id="1238">%null%</text>
 <text id="1239">%null%</text>
-<text id="1240">Throwing knife with a finely serrated blade.
-One of the old hunter Henryk's favorite weapons.
+<text id="1240">Метальний ніж з дрібно зазубреним лезом.
+Одна з улюблених зброй старого мисливця Генріка.
 
-Does not cause a great deal of damage to beasts,
-but with deft use, can distract attackers and
-keep them at bay.</text>
+Не завдає великої шкоди звірам,
+але при вправному використанні може відволікти нападників
+та тримати їх на відстані.</text>
 <text id="1241">%null%</text>
 <text id="1242">%null%</text>
 <text id="1243">%null%</text>
@@ -272,17 +271,17 @@ keep them at bay.</text>
 <text id="1247">%null%</text>
 <text id="1248">%null%</text>
 <text id="1249">%null%</text>
-<text id="1250">Exploding Molotov cocktail that is thrown behind.
+<text id="1250">Вибуховий коктейль Молотова, що кидається назад.
 
-Allows for more maneuvering compared to an ordinary Molotov cocktail, and can catch foes off guard.
+Дозволяє більше маневрувати порівняно зі звичайним коктейлем Молотова та може захопити ворогів зненацька.
 
-Since the tragedy that struck Old Yharnam, fire has become a staple in beast hunts, and is thought to cleanse impurity.
+Після трагедії, що вразила Старий Ярнам, вогонь став невід'ємною частиною полювання на звірів і вважається засобом очищення від нечистоти.
 
-Certain types of beasts have an abnormal fear of flame.</text>
-<text id="1251">A special hunter tool crafted by the old Oto Workshop.
-These molotovs wedge into the ground when thrown behind one's back, and explode on a timed delay.
+Певні види звірів мають ненормальний страх перед полум'ям.</text>
+<text id="1251">Особливий мисливський інструмент, виготовлений старою Майстернею Ото.
+Ці коктейлі Молотова застрягають у землі, коли їх кидають за спину, та вибухають із затримкою.
 
-A shame that such a complex gadget must be sacrificed with each use of this inefficient hunter tool. Nevertheless, delayed molotovs are cherished by the minority of hunters who prefer the tricksier kill. This creation is one of the earliest-known roots of the Powder Kegs.</text>
+Шкода, що таким складним пристроєм доводиться жертвувати за кожного використання цього неефективного інструмента. Проте уповільнені коктейлі Молотова цінує меншість мисливців, які надають перевагу хитрішому вбивству. Цей витвір — одне з найперших відомих коренів Порохівників.</text>
 <text id="1252">%null%</text>
 <text id="1253">%null%</text>
 <text id="1254">%null%</text>
@@ -291,12 +290,12 @@ A shame that such a complex gadget must be sacrificed with each use of this inef
 <text id="1257">%null%</text>
 <text id="1258">%null%</text>
 <text id="1259">%null%</text>
-<text id="1260">Mature blood cocktail that releases a pungent odor when
-thrown that attracts blood-thirsty beasts.
+<text id="1260">Зрілий кривавий коктейль, що при кидку виділяє
+різкий запах, який приваблює жадібних до крові звірів.
 
-A precious tool in sadly short supply.
-In Yharnam, they produce more blood than alcohol,
-as the former is the more intoxicating.</text>
+Цінний інструмент, на жаль, у дефіциті.
+В Ярнамі виробляють більше крові, ніж алкоголю,
+адже перша п'янить сильніше.</text>
 <text id="1261">%null%</text>
 <text id="1262">%null%</text>
 <text id="1263">%null%</text>
@@ -306,19 +305,19 @@ as the former is the more intoxicating.</text>
 <text id="1267">%null%</text>
 <text id="1268">%null%</text>
 <text id="1269">%null%</text>
-<text id="1270">Throw to create a mist cloud that numbs a hunter's
-life essence and prevents restoration of HP.
+<text id="1270">Киньте, щоб створити хмару туману, яка притуплює
+життєву сутність мисливця та запобігає відновленню ОЗ.
 
-Said to be used by the blood hunters of Cainhurst,
-its recipe is a secret closely guarded by the line of
-nobles inhabiting the castle.</text>
-<text id="1300">Coarse paper that applies fire to weapons when rubbed.
+Кажуть, її використовують криваві мисливці Кейнхерсту,
+а рецепт — таємниця, яку ретельно оберігає рід
+шляхтичів, що мешкають у замку.</text>
+<text id="1300">Грубий папір, що надає зброї властивість вогню при натиранні.
 
-A hunter tool found in the Healing Church workshop.
+Мисливський інструмент, знайдений у майстерні Церкви Зцілення.
 
-Since the tragedy that struck Old Yharnam, fire has become a staple in beast hunts, and is thought to cleanse impurity.
+Після трагедії, що вразила Старий Ярнам, вогонь став невід'ємною частиною полювання на звірів і вважається засобом очищення від нечистоти.
 
-Certain types of beasts have an abnormal fear of flame.</text>
+Певні види звірів мають ненормальний страх перед полум'ям.</text>
 <text id="1301">%null%</text>
 <text id="1302">%null%</text>
 <text id="1303">%null%</text>
@@ -328,9 +327,9 @@ Certain types of beasts have an abnormal fear of flame.</text>
 <text id="1307">%null%</text>
 <text id="1308">%null%</text>
 <text id="1309">%null%</text>
-<text id="1310">Empty invertebrate shell that is said to be a familiar of a Great One. The Healing Church has discovered a great variety of invertebrates, or phantasms, as they are called.
+<text id="1310">Порожня оболонка безхребетного, яка, кажуть, є фамільяром Великого. Церква Зцілення відкрила безліч різновидів безхребетних, або примар, як їх називають.
 
-Shells with slime still harbor arcane power, and can be rubbed on weapons to imbue them with their strength.</text>
+Оболонки зі слизом досі приховують таємну силу і можуть натиратися на зброю, щоб наділити її своєю потугою.</text>
 <text id="1311">%null%</text>
 <text id="1312">%null%</text>
 <text id="1313">%null%</text>
@@ -340,15 +339,15 @@ Shells with slime still harbor arcane power, and can be rubbed on weapons to imb
 <text id="1317">%null%</text>
 <text id="1318">%null%</text>
 <text id="1319">%null%</text>
-<text id="1320">Coarse paper that applies bolt to weapons when rubbed.
+<text id="1320">Грубий папір, що надає зброї властивість блискавки при натиранні.
 
-Invented by Archibald, the infamous eccentric of the
-Healing Church workshop. Artificially recreates the
-blue sparks that are said to surround darkbeasts.
+Винайдений Арчибальдом, славнозвісним диваком
+з майстерні Церкви Зцілення. Штучно відтворює
+блакитні іскри, якими, кажуть, оповиті темнозвірі.
 
-Unlike the other strange weapons created by Archibald,
-this one was favored by many hunters, in particular
-those who had even once laid eyes on a darkbeast.</text>
+На відміну від інших дивних витворів Арчибальда,
+цей полюбився багатьом мисливцям, особливо тим,
+хто хоч раз бачив темнозвіра на власні очі.</text>
 <text id="1321">%null%</text>
 <text id="1322">%null%</text>
 <text id="1323">%null%</text>
@@ -358,16 +357,16 @@ those who had even once laid eyes on a darkbeast.</text>
 <text id="1327">%null%</text>
 <text id="1328">%null%</text>
 <text id="1329">%null%</text>
-<text id="1330">Additional medium that strengthens Quicksilver Bullets.
+<text id="1330">Додатковий реагент, що підсилює Ртутні кулі.
 
-According to the workshop, this is a special bone marrow ash collected from Hemwick Charnel Lane.
+За даними майстерні, це особливий попіл кісткового мозку, зібраний у Могильному Провулку Хемвіка.
 
-Invaluable to hunters with weak bloodtinge who require the use of stronger firearms.</text>
-<text id="1400">Dangling, upside-down rune etched in the mind of a hunter.
+Безцінний для мисливців зі слабким Відтінком крові, яким потрібна потужніша вогнепальна зброя.</text>
+<text id="1400">Звисаюча, перевернута руна, викарбувана у свідомості мисливця.
 
-The image upon this parchment allows one to envision the rune with clarity.
+Зображення на цьому пергаменті дозволяє чітко уявити руну.
 
-Allows a hunter to awaken again without losing Blood Echoes, a trick that seems nearly too good to be true.</text>
+Дозволяє мисливцю пробудитися знову, не втрачаючи Кривавих спогадів, — трюк, що здається майже занадто гарним, щоб бути правдою.</text>
 <text id="1401">%null%</text>
 <text id="1402">%null%</text>
 <text id="1403">%null%</text>
@@ -377,34 +376,34 @@ Allows a hunter to awaken again without losing Blood Echoes, a trick that seems 
 <text id="1407">%null%</text>
 <text id="1408">%null%</text>
 <text id="1409">%null%</text>
-<text id="1410">Various coins that are particularly luminous.
+<text id="1410">Різноманітні монети, що особливо світяться.
 
-There are very few uses for spare change during the hunt,
-but these will serve as guides through the darkness.
+Дрібним грошам майже нема застосування під час полювання,
+але ці послугують дороговказом крізь темряву.
 
-Or, one could save them until morning, if it ever comes.</text>
-<text id="1411">Monocular used to view things up close.
+Або ж їх можна зберегти до ранку, якщо воно колись настане.</text>
+<text id="1411">Монокуляр для розглядання предметів зблизька.
 
-Not a hunter's tool, but a simple antique,
-to be used as one sees fit.</text>
-<text id="1412">Small portable lantern.
+Не мисливський інструмент, а звичайна антикварна річ,
+яку можна використовувати на власний розсуд.</text>
+<text id="1412">Маленький переносний ліхтар.
 
-This hunting accessory provides light while leaving both hands free to hold weapons.
+Цей мисливський аксесуар дає світло, залишаючи обидві руки вільними для зброї.
 
-The torch, however, provides a stronger source of light.</text>
-<text id="1500">Skull of a madman touched by the wisdom of the Great Ones.
+Факел, однак, дає потужніше джерело світла.</text>
+<text id="1500">Череп божевільного, торкнутого мудрістю Великих.
 
-Use to gain Insight.
+Використайте, щоб отримати Прозріння.
 
-Making contact with eldritch wisdom is a blessing, for even if it drives one mad, it allows one to serve a grander purpose, for posterity.</text>
-<text id="1501">Fragments of the lost wisdom of the Great Ones,
-beings that might be described as gods.
+Контакт з потойбічною мудрістю — благословення, адже навіть якщо він доводить до божевілля, він дозволяє слугувати величнішій меті, заради нащадків.</text>
+<text id="1501">Уламки втраченої мудрості Великих,
+істот, яких можна описати як богів.
 
-Use to gain Insight.
+Використайте, щоб отримати Прозріння.
 
-At Byrgenwerth, Master Willem had an epiphany:
-"We are thinking on the basest of planes.
-What we need, are more eyes."</text>
+У Бірґенверті Майстра Віллема осяяло прозріння:
+"Ми мислимо на найнижчій з площин.
+Нам потрібно більше очей".</text>
 <text id="1502">%null%</text>
 <text id="1503">%null%</text>
 <text id="1504">%null%</text>
@@ -413,108 +412,108 @@ What we need, are more eyes."</text>
 <text id="1507">%null%</text>
 <text id="1508">%null%</text>
 <text id="1509">%null%</text>
-<text id="1510">Droplet of coldblood containing Blood Echoes.
+<text id="1510">Крапля Холоднокрові, що містить Криваві спогади.
 
-Use to gain Blood Echoes.
+Використайте, щоб отримати Криваві спогади.
 
-Hunters sustained by the dream gain strength from
-Blood Echoes. They imbibe the blood with thoughts
-of reverence, indeed gratitude, for their victims.</text>
-<text id="1511">Droplet of coldblood containing Blood Echoes.
+Мисливці, підтримувані сном, черпають силу з
+Кривавих спогадів. Вони споживають кров з думками
+пошани, навіть вдячності, до своїх жертв.</text>
+<text id="1511">Крапля Холоднокрові, що містить Криваві спогади.
 
-Use to gain Blood Echoes.
+Використайте, щоб отримати Криваві спогади.
 
-Hunters sustained by the dream gain strength from
-Blood Echoes. They imbibe the blood with thoughts
-of reverence, indeed gratitude, for their victims.</text>
-<text id="1512">Droplet of coldblood containing Blood Echoes.
+Мисливці, підтримувані сном, черпають силу з
+Кривавих спогадів. Вони споживають кров з думками
+пошани, навіть вдячності, до своїх жертв.</text>
+<text id="1512">Крапля Холоднокрові, що містить Криваві спогади.
 
-Use to gain Blood Echoes.
+Використайте, щоб отримати Криваві спогади.
 
-Hunters sustained by the dream gain strength from
-Blood Echoes. They imbibe the blood with thoughts
-of reverence, indeed gratitude, for their victims.</text>
-<text id="1513">A thick droplet of coldblood containing Blood Echoes.
+Мисливці, підтримувані сном, черпають силу з
+Кривавих спогадів. Вони споживають кров з думками
+пошани, навіть вдячності, до своїх жертв.</text>
+<text id="1513">Густа крапля Холоднокрові, що містить Криваві спогади.
 
-Use to gain a larger amount of Blood Echoes.
+Використайте, щоб отримати більшу кількість Кривавих спогадів.
 
-A strong will produces thick blood. Doubtless,
-the product of obsession, a potent source
-of human strength.</text>
-<text id="1514">A thick droplet of coldblood containing Blood Echoes.
+Сильна воля породжує густу кров. Безсумнівно,
+це продукт одержимості, потужне джерело
+людської сили.</text>
+<text id="1514">Густа крапля Холоднокрові, що містить Криваві спогади.
 
-Use to gain a larger amount of Blood Echoes.
+Використайте, щоб отримати більшу кількість Кривавих спогадів.
 
-A strong will produces thick blood. Doubtless,
-the product of obsession, a potent source
-of human strength.</text>
-<text id="1515">A thick droplet of coldblood containing Blood Echoes.
+Сильна воля породжує густу кров. Безсумнівно,
+це продукт одержимості, потужне джерело
+людської сили.</text>
+<text id="1515">Густа крапля Холоднокрові, що містить Криваві спогади.
 
-Use to gain a larger amount of Blood Echoes.
+Використайте, щоб отримати більшу кількість Кривавих спогадів.
 
-A strong will produces thick blood. Doubtless,
-the product of obsession, a potent source
-of human strength.</text>
-<text id="1516">A rich droplet of coldblood containing Blood Echoes.
+Сильна воля породжує густу кров. Безсумнівно,
+це продукт одержимості, потужне джерело
+людської сили.</text>
+<text id="1516">Насичена крапля Холоднокрові, що містить Криваві спогади.
 
-Use to gain frenzied Blood Echoes.
+Використайте, щоб отримати навіжені Криваві спогади.
 
-This manifestation of madness comes from a mind
-teetering on the very brink, but has a sane mind ever
-produced anything of true significance?</text>
-<text id="1517">A rich droplet of coldblood containing Blood Echoes.
+Цей прояв божевілля походить із розуму,
+що балансує на самій межі, та чи створював коли-небудь
+здоровий глузд щось справді значуще?</text>
+<text id="1517">Насичена крапля Холоднокрові, що містить Криваві спогади.
 
-Use to gain frenzied Blood Echoes.
+Використайте, щоб отримати навіжені Криваві спогади.
 
-This manifestation of madness comes from a mind
-teetering on the very brink, but has a sane mind ever
-produced anything of true significance?</text>
-<text id="1518">A rich droplet of coldblood containing Blood Echoes.
+Цей прояв божевілля походить із розуму,
+що балансує на самій межі, та чи створював коли-небудь
+здоровий глузд щось справді значуще?</text>
+<text id="1518">Насичена крапля Холоднокрові, що містить Криваві спогади.
 
-Use to gain frenzied Blood Echoes.
+Використайте, щоб отримати навіжені Криваві спогади.
 
-This manifestation of madness comes from a mind
-teetering on the very brink, but has a sane mind ever
-produced anything of true significance?</text>
-<text id="1519">Coldblood of inhuman kin of the cosmos,
-brethren of the Great Ones.
+Цей прояв божевілля походить із розуму,
+що балансує на самій межі, та чи створював коли-небудь
+здоровий глузд щось справді значуще?</text>
+<text id="1519">Холоднокров нелюдських Споріднених Космосу,
+братів Великих.
 
-Use to gain unspeakable Blood Echoes.
+Використайте, щоб отримати незбагненні Криваві спогади.
 
-Dare not to delve into the world beyond humanity,
-the eldritch Truth touched upon long ago at Byrgenwerth.</text>
-<text id="1590">Coldblood of inhuman kin of the cosmos,
-brethren of the Great Ones.
+Не смійте заглиблюватися у світ поза людяністю,
+потойбічну Істину, якої торкнулися давно у Бірґенверті.</text>
+<text id="1590">Холоднокров нелюдських Споріднених Космосу,
+братів Великих.
 
-Use to gain unspeakable Blood Echoes.
+Використайте, щоб отримати незбагненні Криваві спогади.
 
-Dare not to delve into the world beyond humanity,
-the eldritch Truth touched upon long ago at Byrgenwerth.</text>
-<text id="1591">Coldblood of inhuman kin of the cosmos,
-brethren of the Great Ones.
+Не смійте заглиблюватися у світ поза людяністю,
+потойбічну Істину, якої торкнулися давно у Бірґенверті.</text>
+<text id="1591">Холоднокров нелюдських Споріднених Космосу,
+братів Великих.
 
-Use to gain unspeakable Blood Echoes.
+Використайте, щоб отримати незбагненні Криваві спогади.
 
-Dare not to delve into the world beyond humanity,
-the eldritch Truth touched upon long ago at Byrgenwerth.</text>
-<text id="1592">Relic containing the Blood Echoes of a Great One.
+Не смійте заглиблюватися у світ поза людяністю,
+потойбічну Істину, якої торкнулися давно у Бірґенверті.</text>
+<text id="1592">Реліквія, що містить Криваві спогади Великого.
 
-Use to gain cosmically nightmarish Blood Echoes.
+Використайте, щоб отримати космічно кошмарні Криваві спогади.
 
-Like a true revelation, this uncanny relic defies
-understanding. </text>
-<text id="1593">Relic containing the Blood Echoes of an old Great One.
+Ніби справжнє одкровення, ця моторошна реліквія не піддається
+розумінню. </text>
+<text id="1593">Реліквія, що містить Криваві спогади старого Великого.
 
-Use to gain cosmically nightmarish Blood Echoes.
+Використайте, щоб отримати космічно кошмарні Криваві спогади.
 
-Like a true revelation, this uncanny relic defies
-understanding. </text>
-<text id="1594">Relic containing the Blood Echoes of a revered Great One.
+Ніби справжнє одкровення, ця моторошна реліквія не піддається
+розумінню. </text>
+<text id="1594">Реліквія, що містить Криваві спогади шанованого Великого.
 
-Use to gain cosmically nightmarish Blood Echoes.
+Використайте, щоб отримати космічно кошмарні Криваві спогади.
 
-Like a true revelation, this uncanny relic defies
-understanding. </text>
+Ніби справжнє одкровення, ця моторошна реліквія не піддається
+розумінню. </text>
 <text id="1595">%null%</text>
 <text id="1596">%null%</text>
 <text id="1597">%null%</text>
@@ -613,171 +612,181 @@ understanding. </text>
 щоб осягнути її форму.
 
 Руна "Око" дозволяє робити більше відкриттів.</text>
-<text id="1650">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+<text id="1650">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Most radial blood gems have effects that
-bear upon physical attacks.</text>
-<text id="1651">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+Більшість радіальних Кривавих самоцвітів мають ефекти,
+що стосуються фізичних атак.</text>
+<text id="1651">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Most radial blood gems have effects that
-bear upon physical attacks.</text>
-<text id="1652">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+Більшість радіальних Кривавих самоцвітів мають ефекти,
+що стосуються фізичних атак.</text>
+<text id="1652">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Most radial blood gems have effects that
-bear upon physical attacks.</text>
-<text id="1653">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+Більшість радіальних Кривавих самоцвітів мають ефекти,
+що стосуються фізичних атак.</text>
+<text id="1653">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Most radial blood gems have effects that
-bear upon physical attacks.</text>
-<text id="1654">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+Більшість радіальних Кривавих самоцвітів мають ефекти,
+що стосуються фізичних атак.</text>
+<text id="1654">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Most radial blood gems have effects that
-bear upon physical attacks.</text>
-<text id="1655">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+Більшість радіальних Кривавих самоцвітів мають ефекти,
+що стосуються фізичних атак.</text>
+<text id="1655">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Most radial blood gems have effects that
-bear upon physical attacks.</text>
-<text id="1656">Petrified Blood Gem. Polish to gain a rare abyssal blood gem which fortifies weapons and adds various properties.
+Більшість радіальних Кривавих самоцвітів мають ефекти,
+що стосуються фізичних атак.</text>
+<text id="1656">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати рідкісний безодняний Кривавий самоцвіт, що посилює зброю та додає різні властивості.
 
-Most radial abyssal blood gems have effects that bear upon physical attacks.</text>
-<text id="1657">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+Більшість радіальних безодняних Кривавих самоцвітів мають ефекти, що стосуються фізичних атак.</text>
+<text id="1657">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Most triangular blood gems have effects that
-provide attribute bonuses and extra effects.</text>
-<text id="1658">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+Більшість трикутних Кривавих самоцвітів мають ефекти,
+що надають бонуси характеристик та додаткові ефекти.</text>
+<text id="1658">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Most triangular blood gems have effects that
-provide attribute bonuses and extra effects.</text>
-<text id="1659">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+Більшість трикутних Кривавих самоцвітів мають ефекти,
+що надають бонуси характеристик та додаткові ефекти.</text>
+<text id="1659">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Most triangular blood gems have effects that
-provide attribute bonuses and extra effects.</text>
-<text id="1660">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+Більшість трикутних Кривавих самоцвітів мають ефекти,
+що надають бонуси характеристик та додаткові ефекти.</text>
+<text id="1660">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Most triangular blood gems have effects that
-provide attribute bonuses and extra effects.</text>
-<text id="1661">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+Більшість трикутних Кривавих самоцвітів мають ефекти,
+що надають бонуси характеристик та додаткові ефекти.</text>
+<text id="1661">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Most triangular blood gems have effects that
-provide attribute bonuses and extra effects.</text>
-<text id="1662">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+Більшість трикутних Кривавих самоцвітів мають ефекти,
+що надають бонуси характеристик та додаткові ефекти.</text>
+<text id="1662">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Most triangular blood gems have effects that
-provide attribute bonuses and extra effects.</text>
-<text id="1663">Petrified Blood Gem. Polish to gain a rare abyssal blood gem which fortifies weapons and adds various properties.
+Більшість трикутних Кривавих самоцвітів мають ефекти,
+що надають бонуси характеристик та додаткові ефекти.</text>
+<text id="1663">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати рідкісний безодняний Кривавий самоцвіт, що посилює зброю та додає різні властивості.
 
-Most triangular blood gems have effects that provide attribute bonuses and extra effects.</text>
-<text id="1664">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+Більшість трикутних безодняних Кривавих самоцвітів мають ефекти, що надають бонуси характеристик та додаткові ефекти.</text>
+<text id="1664">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Most waning blood gems provide rare special effects
-such as fire, bolt, or healing.</text>
-<text id="1665">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+Більшість спадних Кривавих самоцвітів дають рідкісні особливі ефекти,
+такі як вогонь, блискавка або зцілення.</text>
+<text id="1665">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Most waning blood gems provide rare special effects
-such as fire, bolt, or healing.</text>
-<text id="1666">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+Більшість спадних Кривавих самоцвітів дають рідкісні особливі ефекти,
+такі як вогонь, блискавка або зцілення.</text>
+<text id="1666">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Most waning blood gems provide rare special effects
-such as fire, bolt, or healing.</text>
-<text id="1667">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+Більшість спадних Кривавих самоцвітів дають рідкісні особливі ефекти,
+такі як вогонь, блискавка або зцілення.</text>
+<text id="1667">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Most waning blood gems provide rare special effects
-such as fire, bolt, or healing.</text>
-<text id="1668">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+Більшість спадних Кривавих самоцвітів дають рідкісні особливі ефекти,
+такі як вогонь, блискавка або зцілення.</text>
+<text id="1668">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Most waning blood gems provide rare special effects
-such as fire, bolt, or healing.</text>
-<text id="1669">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+Більшість спадних Кривавих самоцвітів дають рідкісні особливі ефекти,
+такі як вогонь, блискавка або зцілення.</text>
+<text id="1669">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Most waning blood gems provide rare special effects
-such as fire, bolt, or healing.</text>
-<text id="1670">Petrified Blood Gem. Polish to gain a rare abyssal blood gem which fortifies weapons and adds various properties.
+Більшість спадних Кривавих самоцвітів дають рідкісні особливі ефекти,
+такі як вогонь, блискавка або зцілення.</text>
+<text id="1670">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати рідкісний безодняний Кривавий самоцвіт, що посилює зброю та додає різні властивості.
 
-Most waning blood gems provide rare special effects such as fire, bolt, or healing.</text>
-<text id="1671">Petrified Blood Gem. Polish to gain a blood gem which
- fortifies weapons and adds various properties.
+Більшість спадних безодняних Кривавих самоцвітів дають рідкісні особливі ефекти, такі як вогонь, блискавка або зцілення.</text>
+<text id="1671">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Circular blood gems are normally used to
-fortify firearms.</text>
-<text id="1672">Petrified Blood Gem. Polish to gain a blood gem which fortifies weapons and adds various properties.
+Круглі Криваві самоцвіти зазвичай використовуються
+для посилення вогнепальної зброї.</text>
+<text id="1672">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Circular blood gems are normally used to fortify firearms.</text>
-<text id="1673">Petrified Blood Gem. Polish to gain a blood gem which fortifies weapons and adds various properties.
+Круглі Криваві самоцвіти зазвичай використовуються
+для посилення вогнепальної зброї.</text>
+<text id="1673">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Circular blood gems are normally used to fortify firearms.</text>
-<text id="1674">Petrified Blood Gem. Polish to gain a blood gem which fortifies weapons and adds various properties.
+Круглі Криваві самоцвіти зазвичай використовуються
+для посилення вогнепальної зброї.</text>
+<text id="1674">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Circular blood gems are normally used to fortify firearms.</text>
-<text id="1675">Petrified Blood Gem. Polish to gain a blood gem which fortifies weapons and adds various properties.
+Круглі Криваві самоцвіти зазвичай використовуються
+для посилення вогнепальної зброї.</text>
+<text id="1675">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Circular blood gems are normally used to fortify firearms.</text>
-<text id="1676">Petrified Blood Gem. Polish to gain a blood gem which fortifies weapons and adds various properties.
+Круглі Криваві самоцвіти зазвичай використовуються
+для посилення вогнепальної зброї.</text>
+<text id="1676">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Circular blood gems are normally used to fortify firearms.</text>
-<text id="1677">Petrified Blood Gem. Polish to gain a rare abyssal blood gem which fortifies weapons and adds various properties.
+Круглі Криваві самоцвіти зазвичай використовуються
+для посилення вогнепальної зброї.</text>
+<text id="1677">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати рідкісний безодняний Кривавий самоцвіт, що посилює зброю та додає різні властивості.
 
-Circular abyssal blood gems are normally used to fortify firearms.</text>
-<text id="1678">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+Круглі безодняні Криваві самоцвіти зазвичай використовуються для посилення вогнепальної зброї.</text>
+<text id="1678">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Droplet blood gems are special gems that adapt
-to various weapons and shapes.</text>
-<text id="1679">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+Краплеподібні Криваві самоцвіти — особливі самоцвіти, що пристосовуються
+до різної зброї та форм.</text>
+<text id="1679">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Droplet blood gems are special gems that adapt
-to various weapons and shapes.</text>
-<text id="1680">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+Краплеподібні Криваві самоцвіти — особливі самоцвіти, що пристосовуються
+до різної зброї та форм.</text>
+<text id="1680">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Droplet blood gems are special gems that adapt
-to various weapons and shapes.</text>
-<text id="1681">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+Краплеподібні Криваві самоцвіти — особливі самоцвіти, що пристосовуються
+до різної зброї та форм.</text>
+<text id="1681">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Droplet blood gems are special gems that adapt
-to various weapons and shapes.</text>
-<text id="1682">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+Краплеподібні Криваві самоцвіти — особливі самоцвіти, що пристосовуються
+до різної зброї та форм.</text>
+<text id="1682">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Droplet blood gems are special gems that adapt
-to various weapons and shapes.</text>
-<text id="1683">Petrified Blood Gem. Polish to gain a blood gem
-which fortifies weapons and adds various properties.
+Краплеподібні Криваві самоцвіти — особливі самоцвіти, що пристосовуються
+до різної зброї та форм.</text>
+<text id="1683">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати Кривавий самоцвіт,
+що посилює зброю та додає різні властивості.
 
-Droplet blood gems are special gems that adapt
-to various weapons and shapes.</text>
-<text id="1684">Petrified Blood Gem. Polish to gain a rare abyssal blood gem which fortifies weapons and adds various properties.
+Краплеподібні Криваві самоцвіти — особливі самоцвіти, що пристосовуються
+до різної зброї та форм.</text>
+<text id="1684">Скам'янілий Кривавий самоцвіт. Відполіруйте, щоб отримати рідкісний безодняний Кривавий самоцвіт, що посилює зброю та додає різні властивості.
 
-Droplet abyssal blood gems are special gems that adapt to various weapons and shapes.</text>
-<text id="1700">A centipede-like creature discovered on successful hunts by League hunters.
+Краплеподібні безодняні Криваві самоцвіти — особливі самоцвіти, що пристосовуються до різної зброї та форм.</text>
+<text id="1700">Схожа на стоногу істота, знайдена мисливцями Ліги після успішного полювання.
 
-Vermin, found hidden within filth, are only seen by League confederates, and are the root of man's impurity. The League has assumed the task of finding and crushing all vermin.
+Шкідників, прихованих у бруді, бачать лише Союзники Ліги, і вони є коренем людської нечистоти. Ліга взяла на себе завдання знаходити та розчавлювати всіх шкідників.
 
-Perhaps there is some mercy in the madness. Those who wish to see vermin can, and those who choose to are provided with boundless purpose.</text>
-<text id="2000">Remnant of the eldritch Truth encountered at Byrgenwerth.
+Можливо, у цьому божевіллі є частка милосердя. Ті, хто хоче бачити шкідників, можуть, а тим, хто обирає це, дарується безмежна мета.</text>
+<text id="2000">Залишок потойбічної Істини, з якою зіткнулися в Бірґенверті.
 
-Use phantasms, the invertebrates known to be augurs of the Great Ones, to partially summon abandoned Ebrietas.
+Використайте примар, безхребетних, відомих як провісники Великих, щоб частково прикликати покинуту Ебрієтас.
 
-The initial encounter marked the start of an inquiry into the cosmos from within the old labyrinth, and led to the establishment of the Choir.</text>
+Перша зустріч поклала початок дослідженню космосу зсередини старого лабіринту та привела до заснування Хору.</text>
 <text id="2001">%null%</text>
 <text id="2002">%null%</text>
 <text id="2003">%null%</text>
@@ -787,16 +796,16 @@ The initial encounter marked the start of an inquiry into the cosmos from within
 <text id="2007">%null%</text>
 <text id="2008">%null%</text>
 <text id="2009">%null%</text>
-<text id="2010">One of the secret rites of the Choir.
+<text id="2010">Один із таємних ритуалів Хору.
 
-Long ago, the Healing Church used phantasms to reach
-a lofty plane of darkness, but failed to make contact
-with the outer reaches of the cosmos.
+Давним-давно Церква Зцілення використовувала примар, щоб досягти
+високої площини темряви, але не змогла встановити контакт
+із зовнішніми межами космосу.
 
-The rite failed to achieve its intended purpose,
-but instead created a small exploding star, now
-a powerful part of the Choir's arsenal. At times,
-failure is the mother of invention.</text>
+Ритуал не досяг задуманої мети,
+але натомість створив маленьку вибухову зірку, що нині є
+потужною частиною арсеналу Хору. Часом
+невдача — мати винаходу.</text>
 <text id="2011">%null%</text>
 <text id="2012">%null%</text>
 <text id="2013">%null%</text>
@@ -806,11 +815,11 @@ failure is the mother of invention.</text>
 <text id="2017">%null%</text>
 <text id="2018">%null%</text>
 <text id="2019">%null%</text>
-<text id="2020">One of the forbidden hunter tools made by Irreverent Izzy.
+<text id="2020">Один із заборонених мисливських інструментів, створених Відступником Іззі.
 
-Borrow the strength of the terrible undead darkbeasts, if only for a moment, to blast surrounding foes back with the force of a roaring beast.
+Позичте, хоч і на мить, силу жахливих немертвих темнозвірів, щоб відкинути ворогів навколо силою рику звіра.
 
-The indescribable sound is broadcast with the caster's own vocal cords, which begs the question, what terrible things lurk deep within the frames of men?</text>
+Неописанний звук лунає власними голосовими зв'язками того, хто його використовує, що змушує задуматися, які жахливі речі криються глибоко всередині людських тіл?</text>
 <text id="2021">%null%</text>
 <text id="2022">%null%</text>
 <text id="2023">%null%</text>
@@ -820,22 +829,22 @@ The indescribable sound is broadcast with the caster's own vocal cords, which be
 <text id="2027">%null%</text>
 <text id="2028">%null%</text>
 <text id="2029">%null%</text>
-<text id="2030">A heavy, syrupy liquid medicine.
+<text id="2030">Важкі, сиропоподібні рідкі ліки.
 
-Temporarily shifts weight to make deflection
-of attacks easier, but must be used with care,
-as it also slows movement with no change to defense.
+Тимчасово зміщують вагу тіла, полегшуючи відхилення
+атак, але їх слід використовувати обережно,
+оскільки вони також сповільнюють рух без зміни захисту.
 
-Its recipe for this mysterious concoction is unknown,
-but some postulate that it materializes only within
-the most desperate nightmares.</text>
-<text id="2050">Special hunter tool of the Choir, high-ranking
-members of the church. Fashioned after a bell that
-projects an arcane sound across planes of existence.
+Рецепт цього загадкового зілля невідомий,
+але дехто припускає, що воно матеріалізується лише в
+найвідчайдушніших кошмарах.</text>
+<text id="2050">Особливий мисливський інструмент Хору, високопоставлених
+членів церкви. Виготовлений за подобою дзвону, що
+проєктує таємний звук крізь площини буття.
 
-The sound of this smaller, silver version of the bell
-does not cross planes, but grants vigor and healing
-to all cooperators.</text>
+Звук цієї меншої, срібної версії дзвону
+не перетинає площини, але дарує бадьорість та зцілення
+усім союзникам по співпраці.</text>
 <text id="2051">%null%</text>
 <text id="2052">%null%</text>
 <text id="2053">%null%</text>
@@ -845,15 +854,15 @@ to all cooperators.</text>
 <text id="2057">%null%</text>
 <text id="2058">%null%</text>
 <text id="2059">%null%</text>
-<text id="2060">The bone of an old hunter whose name is lost.
+<text id="2060">Кістка старого мисливця, чиє ім'я загублене.
 
-It is said that he was an apprentice to old Gehrman,
-and a practitioner of the art of Quickening,
-a technique particular to the first hunters.
+Кажуть, він був учнем старого Германа
+та практикував мистецтво Прискорення,
+техніку, притаманну першим мисливцям.
 
-It is most appropriate that hunters, carriers of
-the torch who are sustained by the dream,
-would tease an old art from his remains.</text>
+Доречно, що мисливці, носії
+смолоскипа, підтримувані сном,
+витягнуть давнє мистецтво з його останків.</text>
 <text id="2061">%null%</text>
 <text id="2062">%null%</text>
 <text id="2063">%null%</text>
@@ -863,16 +872,16 @@ would tease an old art from his remains.</text>
 <text id="2067">%null%</text>
 <text id="2068">%null%</text>
 <text id="2069">%null%</text>
-<text id="2070">Tonitrus is a unique weapon crafted by Archibald,
-the infamous eccentric of the Healing Church workshop.
+<text id="2070">Тонітрус — унікальна зброя, створена Арчибальдом,
+славнозвісним диваком з майстерні Церкви Зцілення.
 
-This is a similar morning star mace that utilizes
-Quicksilver Bullets. When struck into the ground,
-it recreates the blue sparks that are said to surround
-the darkbeasts.
+Це подібна булава-моргенштерн, що використовує
+Ртутні кулі. При ударі об землю
+вона відтворює блакитні іскри, якими, кажуть, оповиті
+темнозвірі.
 
-Like Archibald's masterpiece, this too
-is a superb conductor of the powerful blue sparks.</text>
+Як і шедевр Арчибальда, цей витвір також
+чудовий провідник потужних блакитних іскор.</text>
 <text id="2071">%null%</text>
 <text id="2072">%null%</text>
 <text id="2073">%null%</text>
@@ -882,15 +891,15 @@ is a superb conductor of the powerful blue sparks.</text>
 <text id="2077">%null%</text>
 <text id="2078">%null%</text>
 <text id="2079">%null%</text>
-<text id="2080">One of the secret treasures hidden in Cainhurst.
-The gloves of an executioner from a faraway land.
+<text id="2080">Один із таємних скарбів, прихованих у Кейнхерсті.
+Рукавички ката з далекої землі.
 
-Passed from executioner father to executioner son,
-these gloves can be used to summon wrathful spirits
-of the past by smearing them with blood.
+Передані від батька-ката до сина-ката,
+ці рукавички можна використати, щоб прикликати гнівні духи
+минулого, змастивши їх кров'ю.
 
-It is said that the nobles found immeasurable delight
-in the dances of these vengeful specters.</text>
+Кажуть, шляхтичі знаходили незмірну втіху
+у танцях цих мстивих привидів.</text>
 <text id="2081">%null%</text>
 <text id="2082">%null%</text>
 <text id="2083">%null%</text>
@@ -900,18 +909,18 @@ in the dances of these vengeful specters.</text>
 <text id="2087">%null%</text>
 <text id="2088">%null%</text>
 <text id="2089">%null%</text>
-<text id="2090">A blade of bone coated with gruesome spinal fluid.
-Used by old labyrinth Watchers, in particular, those presiding over rituals.
+<text id="2090">Кістяний клинок, вкритий моторошною спинномозковою рідиною.
+Використовувався Наглядачами старого лабіринту, зокрема тими, що головували на ритуалах.
 
-When a victim is cut by this blade, the green spinal fluid temporarily numbs the senses, disturbing the target's gross motor skills. The blade, never intended for battle, must cut deep to be effective, and breaks.</text>
-<text id="2110">A strange gift from the messengers, inhabitants of
-the dream who revere the brave hunters.
+Коли жертву розрізає цей клинок, зелена спинномозкова рідина тимчасово притупляє відчуття, порушуючи великомоторні навички цілі. Клинок, ніколи не призначений для бою, мусить різати глибоко, щоб подіяти, і після цього ламається.</text>
+<text id="2110">Дивний дар від Посланців, мешканців
+сну, що шанують відважних мисливців.
 
-Use to envelop oneself in a black nightmarish mist,
-then transform into a messenger. The illusion is a parlor
-trick, and any large movement will break the spell.
+Використайте, щоб огорнути себе чорним кошмарним туманом,
+а потім перетворитися на Посланця. Ілюзія — простий
+фокус, і будь-який різкий рух зруйнує чари.
 
-To preserve the guise, proceed very slowly.</text>
+Щоб зберегти подобу, рухайтеся дуже повільно.</text>
 <text id="2111">%null%</text>
 <text id="2112">%null%</text>
 <text id="2113">%null%</text>
@@ -921,11 +930,11 @@ To preserve the guise, proceed very slowly.</text>
 <text id="2117">%null%</text>
 <text id="2118">%null%</text>
 <text id="2119">%null%</text>
-<text id="2120">Soft eye blessed by a phantasm.
-They were discovered through Byrgenwerth's contact with the arcane, but in the end revealed nothing.
+<text id="2120">М'яке око, благословенне примарою.
+Його відкрили завдяки контакту Бірґенверта з таємним, але зрештою воно нічого не розкрило.
 
-Deep within the eye lies a vast stretch of dark sky that rumbles with an endless meteor storm.
-The slightest rub of the tiny orb, and the rock will tumble and soar.</text>
+Глибоко всередині ока лежить неозоре темне небо, що гуркоче нескінченним метеоритним штормом.
+Легкий дотик до крихітної кулі — і камінь покотиться та злетить.</text>
 <text id="2121">%null%</text>
 <text id="2122">%null%</text>
 <text id="2123">%null%</text>
@@ -935,12 +944,12 @@ The slightest rub of the tiny orb, and the rock will tumble and soar.</text>
 <text id="2127">%null%</text>
 <text id="2128">%null%</text>
 <text id="2129">%null%</text>
-<text id="2130">Skull of a local from the violated fishing village. The inside of the skull was forcibly searched for eyes, as evidenced by innumerable scratches and indentations.
+<text id="2130">Череп місцевого мешканця зневаженого рибальського селища. Всередині черепа насильно шукали очі, про що свідчать незліченні подряпини та вм'ятини.
 
-No wonder the skull became stewed in curses.
+Не дивно, що череп просякнув прокляттями.
 
-They who offer baneful chants.
-Weep with them, as one in trance.</text>
+Вони, що підносять згубні наспіви.
+Плачте разом з ними, немов у трансі.</text>
 <text id="2131">%null%</text>
 <text id="2132">%null%</text>
 <text id="2133">%null%</text>
@@ -950,15 +959,15 @@ Weep with them, as one in trance.</text>
 <text id="2137">%null%</text>
 <text id="2138">%null%</text>
 <text id="2139">%null%</text>
-<text id="2140">Whistle of the Madaras twins, denizens of the Forbidden Woods.
-The twins grew up alongside a poisonous snake, and developed a silent, inhuman kinship.
+<text id="2140">Свисток близнюків Мадара, мешканців Забороненого Лісу.
+Близнюки виросли поруч із отруйною змією та розвинули мовчазну, нелюдську спорідненість.
 
-The poisonous snake grew uncontrollably, raised on a healthy diet of beast entrails. Even after their deaths, it is said to respond to the call of the twins' whistle from within the Nightmare.</text>
-<text id="3000">A solid shard that forms in coldblood.
+Отруйна змія росла безконтрольно, вигодована здоровим раціоном з нутрощів звірів. Кажуть, навіть після їхньої смерті вона відгукується на поклик свистка близнюків із глибин Кошмару.</text>
+<text id="3000">Твердий уламок, що утворюється в Холоднокрові.
 
-After death, a substance in the blood hardens, and that which does not crystalize is called a blood stone.
+Після смерті речовина в крові тверднe, і те, що не кристалізується, називається кров'яним каменем.
 
-At the workshop, these bloodstones are embedded in weapons to fortify them.</text>
+У Майстерні ці кров'яні камені вбудовують у зброю, щоб посилити її.</text>
 <text id="3001">%null%</text>
 <text id="3002">%null%</text>
 <text id="3003">%null%</text>
@@ -968,11 +977,11 @@ At the workshop, these bloodstones are embedded in weapons to fortify them.</tex
 <text id="3007">%null%</text>
 <text id="3008">%null%</text>
 <text id="3009">%null%</text>
-<text id="3010">A solid shard that forms in coldblood.
+<text id="3010">Твердий уламок, що утворюється в Холоднокрові.
 
-After death, a substance in the blood hardens, and that which does not crystalize is called a blood stone.
+Після смерті речовина в крові тверднe, і те, що не кристалізується, називається кров'яним каменем.
 
-At the workshop, these bloodstones are embedded in weapons to fortify them.</text>
+У Майстерні ці кров'яні камені вбудовують у зброю, щоб посилити її.</text>
 <text id="3011">%null%</text>
 <text id="3012">%null%</text>
 <text id="3013">%null%</text>
@@ -982,11 +991,11 @@ At the workshop, these bloodstones are embedded in weapons to fortify them.</tex
 <text id="3017">%null%</text>
 <text id="3018">%null%</text>
 <text id="3019">%null%</text>
-<text id="3020">A solid chunk that forms in coldblood.
+<text id="3020">Твердий шматок, що утворюється в Холоднокрові.
 
-After death, a substance in the blood hardens, and that which does not crystalize is called a blood stone.
+Після смерті речовина в крові тверднe, і те, що не кристалізується, називається кров'яним каменем.
 
-A chunk will never appear in the blood of an ordinary human. Seek deadlier foes if bloodstone chunks are needed.</text>
+Шматок ніколи не з'явиться в крові звичайної людини. Шукайте смертоносніших ворогів, якщо потрібні шматки кров'яного каменю.</text>
 <text id="3021">%null%</text>
 <text id="3022">%null%</text>
 <text id="3023">%null%</text>
@@ -996,259 +1005,259 @@ A chunk will never appear in the blood of an ordinary human. Seek deadlier foes 
 <text id="3027">%null%</text>
 <text id="3028">%null%</text>
 <text id="3029">%null%</text>
-<text id="3030">A large solid chunk that forms in coldblood.
+<text id="3030">Великий твердий шматок, що утворюється в Холоднокрові.
 
-After death, a substance in the blood hardens, and that which does not crystalize is called a blood stone.
+Після смерті речовина в крові тверднe, і те, що не кристалізується, називається кров'яним каменем.
 
-This is no mere chunk, it is nearly a boulder.
+Це не просто шматок, а майже валун.
 
-Few blood stones of such size have ever been discovered, even considering the combined experience of all the hunters.</text>
-<text id="4000">Key to the gate that blocks the Tomb of Oedon.
+Мало хто з мисливців, навіть разом узятих, коли-небудь знаходив кров'яні камені такого розміру.</text>
+<text id="4000">Ключ від брами, що блокує Гробницю Одона.
 
-Beyond the tomb, Oedon Chapel can be found
-in the center of the Cathedral Ward.
+За гробницею можна знайти Каплицю Одона
+у центрі Соборного Кварталу.
 
-Only today the church is abandoned, and some
-say that the residents of Oedon have all gone mad.</text>
-<text id="4001">Pendant of Vicar Amelia. Use to change into
-a blood gem, which fortifies weapons.
+Але нині церква покинута, і дехто
+каже, що всі мешканці Одона збожеволіли.</text>
+<text id="4001">Кулон Вікарія Амелії. Використайте, щоб перетворити на
+Кривавий самоцвіт, який посилює зброю.
 
-This pendant, passed down among the vicars who
-head the Healing Church, is a reminder of the cautionary
-adage, words that will open the gates of Byrgenwerth.</text>
+Цей кулон, що передається серед вікаріїв, які
+очолюють Церкву Зцілення, — нагадування про застережну
+максиму, слова, що відкриють браму Бірґенверта.</text>
 <text id="4002">*</text>
-<text id="4003">An old blood-stained summons, inviting an honored
-guest to the forsaken Castle Cainhurst.
+<text id="4003">Стара закривавлена повістка, що запрошує почесного
+гостя до покинутого Замку Кейнхерст.
 
-Rather bafflingly, it is addressed to you.
+Доволі спантеличливо, вона адресована вам.
 
-Do not hesitate; the stagecoach leaves from
-Hemwick crossing.</text>
+Не вагайтеся; диліжанс відправляється з
+перехрестя Хемвіка.</text>
 <text id="4004">*</text>
 <text id="4005">*</text>
-<text id="4006">Key to the Orphanage, birthplace of the Choir.
+<text id="4006">Ключ від Сирітського притулку, місця народження Хору.
 
-The Orphanage, shadowed by the Grand Cathedral,
-was a place of scholarship and experimentation,
-where young orphans became potent unseen thinkers
-for the Healing Church.
+Сирітський притулок, у затінку Великого Собору,
+був місцем науки та експериментів,
+де юні сироти ставали могутніми незримими мислителями
+для Церкви Зцілення.
 
-The Choir, that would later split the Healing Church,
-was a creation of the Orphanage.</text>
+Хор, що згодом розколов Церкву Зцілення,
+був витвором Сирітського притулку.</text>
 <text id="4007">*</text>
 <text id="4008">*</text>
-<text id="4009">Of the three great bridges that link the two
-cathedral cradles, this key opens the iron door
-that leads to the midlevel bridge.
+<text id="4009">З трьох великих мостів, що з'єднують дві
+соборні колиски, цей ключ відмикає залізні двері,
+що ведуть до мосту середнього рівня.
 
-There are no thieves in the nightmare. Then,
-why lock a door? Be warned, there must be a very,
-very good reason.</text>
-<text id="4010">The key to the Upper Cathedral Ward seal.
+У кошмарі немає злодіїв. То навіщо ж
+замикати двері? Май на увазі, для цього мусить бути
+вагома, дуже вагома причина.</text>
+<text id="4010">Ключ від печатки Верхнього Соборного Кварталу.
 
-The upper echelons of the Healing Church are formed
-by the School of Mensis, based in the Unseen Village,
-and the Choir occupying the Upper Cathedral Ward.
+Вищі щаблі Церкви Зцілення формують
+Школа Менсіса, що базується в Невидимому Селищі,
+та Хор, що займає Верхній Соборний Квартал.
 
-This key brings one a step closer to the Choir.</text>
-<text id="4011">A cloth emblem that belonged to the captain of the
-Church hunters long ago. Opens the main gate that
-leads to the round plaza of the Great Cathedral.
+Цей ключ наближає на крок до Хору.</text>
+<text id="4011">Тканинна емблема, що колись належала капітану
+мисливців Церкви. Відмикає головну браму, що
+веде до круглої площі Великого Собору.
 
-The main gate is shut tight on nights of the hunt,
-and could only be opened from the other side with
-this emblem. In other words, the captain's return,
-and this emblem, determined the end of the hunt.</text>
-<text id="4012">Key to the Lecture Theatre in the Lecture Building.
+Головна брама щільно зачинена ночами полювання,
+і відкрити її можна лише з іншого боку за допомогою
+цієї емблеми. Іншими словами, повернення капітана
+та ця емблема визначали кінець полювання.</text>
+<text id="4012">Ключ від Лекційної зали в Лекційному корпусі.
 
-Today, the two-story Lecture Building is adrift in the nightmare, but once it was a place of reflection, where scholars learned of history and archaeology.
+Нині дворовий Лекційний корпус дрейфує у кошмарі, але колись це було місцем роздумів, де науковці вивчали історію та археологію.
 
-Perhaps it still is, as the students in the lecture theatre appear to await the return of their professor.</text>
-<text id="4013">Key to the lunarium facing the lake on the second floor of Byrgenwerth College.
+Можливо, ним і залишається, адже студенти в лекційній залі, здається, чекають на повернення свого професора.</text>
+<text id="4013">Ключ від люнарію з видом на озеро на другому поверсі Коледжу Бірґенверт.
 
-In his final years, Master Willem was fond of the lookout, and the rocking chair that he kept there for meditation.
+В останні роки Майстер Віллем полюбляв цей оглядовий майданчик та крісло-гойдалку, яке тримав там для медитацій.
 
-In the end, it is said, he left his secret with the lake.</text>
-<text id="4014">Skull of Laurence, first vicar of the Healing Church.
-In reality he became the first cleric beast, and his human skull only exists within the Nightmare.
+Кажуть, зрештою він залишив свою таємницю разом з озером.</text>
+<text id="4014">Череп Лоренса, першого вікарія Церкви Зцілення.
+Насправді він став першим Звіром-Кліриком, і його людський череп існує лише в Кошмарі.
 
-The skull is a symbol of Laurence's past, and what he failed to protect. He is destined to seek his skull, but even if he found it, it could never restore his memories.</text>
-<text id="4015">Key to the inner chamber of the cell below the Grand Cathedral.
+Череп — символ минулого Лоренса та того, що він не зумів захистити. Йому судилося шукати власний череп, але навіть якщо він його знайде, це ніколи не поверне йому пам'ять.</text>
+<text id="4015">Ключ від внутрішньої камери келії під Великим Собором.
 
-The innermost chamber of the underground cell holds a lone madman. He wears a beast hide, and rings a bell that emits no sound.
+У найглибшій камері підземної келії тримають самотнього божевільного. Він носить шкуру звіра та дзвонить у дзвін, що не видає звуку.
 
-Unending death awaits those who can hear the soundless bell.</text>
+Нескінченна смерть чекає на тих, хто може почути беззвучний дзвін.</text>
 <text id="4016">%null%</text>
-<text id="4017">An eye pendant which unlocks the surgery altar.
+<text id="4017">Кулон з оком, що відмикає Хірургічний Вівтар.
 
-There are two cathedrals in the Hunter's Dream. One lies past the River of Blood, and another contains the private research hall of the Healing Church.
+У Сні Мисливця є два собори. Один лежить за Рікою Крові, а інший містить приватну Дослідницьку Залу Церкви Зцілення.
 
-Only chosen members of the Healing Church, or their lamentable patients, can enter the research hall, using this eye.
+Лише обрані члени Церкви Зцілення, або їхні жалюгідні пацієнти, можуть увійти до Дослідницької Зали, використавши це око.
 
-Grant eyes to the surgery altar skull.</text>
-<text id="4018">Key to the cell below the Grand Cathedral.
+Даруйте очі черепу Хірургічного Вівтаря.</text>
+<text id="4018">Ключ від келії під Великим Собором.
 
-Hunters are held within the underground cell, so that things better left unseen, and knowledge better left unknown, will decay quietly in the fallow darkness.</text>
-<text id="4019">Key to the balcony on the first floor of the Research Hall.
+Мисливців тримають у підземній келії, щоб речі, яким краще залишатися непоміченими, і знання, яким краще залишатися невідомими, тихо згнивали в занедбаній темряві.</text>
+<text id="4019">Ключ від балкона на першому поверсі Дослідницької Зали.
 
-Lady Maria of the Astral Clocktower gave this to the patient, Adeline.
-Maria had hoped Adeline would find comfort in the faint breeze that carried the scent of flowers from the outside, but Adeline couldn't fathom her intentions.</text>
-<text id="4020">Key to the Astral Clocktower at the top of the Grand Cathedral.
+Леді Марія з Астральної Годинникової Вежі дала його пацієнтці Аделін.
+Марія сподівалася, що Аделін знайде втіху в легкому вітерці, який приносив запах квітів ззовні, але Аделін не могла збагнути її намірів.</text>
+<text id="4020">Ключ від Астральної Годинникової Вежі на вершині Великого Собору.
 
-The caretaker of the tower's numerous patients, known to them only as Lady Maria, made her home behind the giant star-interpreting clock.</text>
-<text id="4021">A celestial dial that functions with the giant Astral Clock in the Grand Cathedral.
+Доглядачка численних пацієнтів вежі, відома їм лише як Леді Марія, влаштувала свій дім за велетенським годинником, що тлумачить зорі.</text>
+<text id="4021">Небесний Диск, що діє разом із велетенським Астральним Годинником Великого Собору.
 
-When the dial is held up toward the Astral Clock, the clock will come to life, and reveal a secret to its curious interloper.</text>
-<text id="4102">A misplaced workshop tool from the Hunter's Dream.
+Коли диск підносять до Астрального Годинника, годинник оживає та розкриває таємницю своєму допитливому гостю.</text>
+<text id="4102">Загублений інструмент Майстерні зі Сну Мисливця.
 
-The hunter who retrieves this can extract Arcane Haze
-from ritual materials.
+Мисливець, який його знайде, зможе здобувати Таємний Туман
+з ритуальних матеріалів.
 
-But alas, spent materials are lost.</text>
-<text id="4103">A misplaced workshop tool from the Hunter's Dream.
+Але, на жаль, витрачені матеріали втрачаються.</text>
+<text id="4103">Загублений інструмент Майстерні зі Сну Мисливця.
 
-The hunter who retrieves this can fortify weapons by
-kneading blood gems into them.
+Мисливець, який його знайде, зможе посилювати зброю,
+вмуровуючи в неї Криваві самоцвіти.
 
-Blood gems add properties to weapons when used to
-fortify them, as blood defines an organism.</text>
-<text id="4104">Runesmith Caryll, student of Byrgenwerth,
-transcribed the inhuman utterings of the Great Ones
-into what are now called Caryll Runes.
+Криваві самоцвіти надають зброї властивостей при посиленні,
+адже кров визначає організм.</text>
+<text id="4104">Рунознавець Каріл, студент Бірґенверта,
+записав нелюдські промовляння Великих
+у те, що нині зветься Рунами Каріла.
 
-The hunter who retrieves this workshop tool can etch
-Caryll Runes into the mind to attain their wondrous
-strength.
+Мисливець, який знайде цей інструмент Майстерні, зможе
+вкарбовувати Руни Каріла у свідомість, щоб здобути їхню дивовижну
+силу.
 
-Provost Willem would have been proud of Caryll's runes,
-as they do not rely upon blood in any measure. </text>
-<text id="4105">One of the root chalices that breaks various seals in the Old Labyrinth.
+Ректор Віллем пишався б рунами Каріл,
+адже вони жодною мірою не покладаються на кров. </text>
+<text id="4105">Одна з Всеосяжних Чаш, що знімають різні печатки у Старому Лабіринті.
 
-The glass chalice, when full, is used in a short ritual to quickly create and join a Chalice Dungeon (not for use in a ritual using standard materials).
+Скляна чаша, коли повна, використовується в короткому ритуалі, щоб швидко створити та приєднатися до Підземелля Чаші (не для використання в ритуалі зі стандартними матеріалами).
 
-Short rituals are conducted at the makeshift altar.</text>
+Короткі ритуали проводяться біля Саморобного вівтаря.</text>
 <text id="4106">%null%</text>
 <text id="4107">%null%</text>
 <text id="4108">%null%</text>
 <text id="4109">%null%</text>
-<text id="4110">Badge crafted long ago at the Workshop.
-Attests to one's prowess as a hunter of beasts.
+<text id="4110">Значок, виготовлений давно у Майстерні.
+Засвідчує майстерність власника як мисливця на звірів.
 
-The Workshop is gone, and no group recognizes
-this meaningless badge, except the messengers
-in the bath, who understand its profundity.
+Майстерні більше немає, і жодна група не визнає
+цей позбавлений сенсу значок, окрім Посланців
+у купелі, які розуміють його глибину.
 
-Certain things can only be entrusted with a hunter
-in possession of this badge, or so they believe.</text>
-<text id="4111">Badge of a Hunter of Hunters, who hunts those who have become addled with blood.
+Певні речі можна довірити лише мисливцю,
+що володіє цим значком, — принаймні так вони вважають.</text>
+<text id="4111">Значок Винищувача Мисливців, що полює на тих, хто одурманений кров'ю.
 
-The badge of the Hunter of Hunters is quietly passed down from generation to generation, usually to an outsider from the hinterlands.
+Значок Винищувача Мисливців тихо передається з покоління в покоління, зазвичай чужинцю з глушини.
 
-To be entrusted with this cursed badge, one must be strong, resilient to the seduction of blood, and gracious when taking a comrade's life.</text>
-<text id="4112">Badge crafted by the Powder Kegs,
-the heretics of the Workshop.
+Щоб отримати довіру з цим проклятим значком, потрібно бути сильним, стійким до спокуси крові та милосердним, забираючи життя побратима.</text>
+<text id="4112">Значок, виготовлений Порохівниками,
+єретиками Майстерні.
 
-The Powder Kegs adoration of complex design and
-big booms culminated in weapon designs that
-contrast with those traditionally of the Workshop.
+Захоплення Порохівників складним дизайном та
+гучними вибухами вилилося в конструкції зброї, що
+контрастують із традиційними для Майстерні.
 
-The late Powder Kegs, bless their souls, had a motto:
-"If a weapon ain't got kick, it just ain't worth it."</text>
-<text id="4113">This hunter's badge, crafted in Gehrman's time,
-has no practical purpose, except perhaps to
-assist in romanticizing about the past.
+Покійні Порохівники, земля їм пухом, мали гасло:
+"Якщо зброя не б'є віддачею, вона того не варта".</text>
+<text id="4113">Цей мисливський значок, виготовлений за часів Германа,
+не має практичного призначення, хіба що
+допомагає романтизувати минуле.
 
-The badge was a special privilege for the hunters
-of the past, and should not be dishonored.
+Значок був особливою привілегією мисливців
+минулого, і його не слід ганьбити.
 
-It should be left in peace, unless one is truly
-prepared to assume the will of those gone before.</text>
-<text id="4114">One of the badges crafted by the Healing Church.
-The silver sword is a symbol of a Church hunter.
+Його варто залишити в спокої, якщо тільки хтось не готовий
+дійсно взяти на себе волю тих, хто пішов раніше.</text>
+<text id="4114">Один зі значків, виготовлених Церквою Зцілення.
+Срібний меч — символ мисливця Церкви.
 
-Ludwig was the first of many Healing Church hunters
-to come, many of whom were clerics. As it was,
-clerics transformed into the most hideous beasts.</text>
-<text id="4115">One of the badges crafted by the Healing Church.
+Людвіг був першим з багатьох майбутніх мисливців
+Церкви Зцілення, чимало з яких були кліриками. Як виявилося,
+клірики перетворювалися на найогидніших звірів.</text>
+<text id="4115">Один зі значків, виготовлених Церквою Зцілення.
 
-The radiant sword indicates the heirs to the will of Ludwig.
+Променистий меч позначає спадкоємців волі Людвіга.
 
-These hunters, also known as Holy Blades, are what remains of an ancient line of heroes that date back to a very early age of honor and chivalry.</text>
-<text id="4116">Martyr Logarius led a band of Executioners, and this badge was crafted at their dedicated workshop. The wheel symbolizes righteous destiny.
+Ці мисливці, також відомі як Священні Клинки, — те, що лишилося від давньої лінії героїв, що сягає корінням у ранню епоху честі та лицарства.</text>
+<text id="4116">Мученик Логаріус очолював загін Карателів, і цей значок виготовили в їхній спеціальній майстерні. Колесо символізує праведну долю.
 
-Their workshop was a secretive enclave of mystical beliefs and heady fanaticism which served as the backbone of the Executioners' unique brand of justice.</text>
-<text id="4117">Badge of the royal guards of Cainhurst, loyal guardians of the Vileblood Queen Annalise.
+Їхня майстерня була таємним осередком містичних вірувань та шаленого фанатизму, що слугував хребтом особливого правосуддя Карателів.</text>
+<text id="4117">Значок королівської варти Кейнхерсту, вірних вартових Королеви Нечистокровних Анналізи.
 
-The Vilebloods are hunters of blood, and hunt prey as they search for blood dregs. The hunter who joins them is faced with a decision: to merely borrow their strength, or to become one of them, heart and soul.</text>
-<text id="4118">Badge crafted in secret by Archibald, the infamous eccentric of the Healing Church, for his friends.
+Нечистокровні — мисливці на кров, що полюють на здобич у пошуках кривавих покидьків. Мисливець, який приєднається до них, стоїть перед вибором: лише позичити їхню силу, чи стати одним з них, душею й тілом.</text>
+<text id="4118">Значок, виготовлений таємно Арчибальдом, славнозвісним диваком Церкви Зцілення, для своїх друзів.
 
-Archibald was fascinated by the blue sparks that emanate from the hides of the darkbeasts, and dedicated his life to its artificial reproduction, in a style of inquiry that, incidentally, closely followed the methodology of Byrgenwerth.</text>
-<text id="4119">Badge of a member of the Choir, elites of the
-Healing Church.
+Арчибальда зачаровували блакитні іскри, що випромінюються зі шкур темнозвірів, і він присвятив життя їхньому штучному відтворенню, у стилі досліджень, що, до речі, близько наслідував методологію Бірґенверта.</text>
+<text id="4119">Значок члена Хору, еліти
+Церкви Зцілення.
 
-The eye signifies the very cosmos.
+Око символізує сам космос.
 
-The Choir stumbled upon an epiphany, very suddenly
-and quite by accident. Here we stand, feet planted in
-the earth, but might the cosmos be very near us, only
-just above our heads?</text>
-<text id="4120">Badge crafted by the Oto Workshop, precursor to the workshop of the heretical Powder Kegs.
+Хор натрапив на осяяння, дуже раптово
+і цілком випадково. Ось ми стоїмо, ногами на
+землі, та чи не може космос бути дуже близько до нас, лише
+трохи вище наших голів?</text>
+<text id="4120">Значок, виготовлений Майстернею Ото, попередницею майстерні єретичних Порохівників.
 
-The Powder Kegs were driven by singular ideas, and crafted strange weapons of great intricacy.
-It is clear that the philosophy of the Powder Kegs was already established at this time.</text>
+Порохівниками рухали незвичайні ідеї, і вони створювали дивну зброю великої складності.
+Очевидно, що філософія Порохівників сформувалася вже тоді.</text>
 <text id="4121">%null%</text>
 <text id="4200">*</text>
-<text id="4300">A small, very ordinary hair ornament.
+<text id="4300">Маленька, зовсім звичайна прикраса для волосся.
 
-Although it has been lost for quite some time,
-one can still see signs of the care with which
-this tasteful ornament was once kept.
+Хоча вона загублена вже досить давно,
+все ще можна побачити сліди дбайливості, з якою
+колись зберігалася ця вишукана прикраса.
 
-Its color would stand out most brilliantly against
-a head of grayish hair.</text>
-<text id="4301">Silver-shining tear stone.
+Її колір найяскравіше виділявся б
+на сивуватому волоссі.</text>
+<text id="4301">Сріблясто-сяючий камінь-сльоза.
 
-Use to change into a droplet blood gem
-that fortifies any weapon.
+Використайте, щоб перетворити на краплеподібний Кривавий самоцвіт,
+що посилює будь-яку зброю.
 
-A doll sheds neither blood nor tears, and thus its
-nature remains unknown. Whoever thinks this is
-precious must be troubled by severe naiveté.</text>
+Лялька не проливає ні крові, ні сліз, тому її
+природа залишається невідомою. Той, хто вважає це
+дорогоцінним, певно, страждає на серйозну наївність.</text>
 <text id="4302">%null%</text>
 <text id="4303">*</text>
-<text id="4304">The inhuman beings known as the Great Ones imbued this ring of betrothal with some special meaning.
+<text id="4304">Нелюдські істоти, відомі як Великі, наділили цю обручку особливим значенням.
 
-In the age of the Great Ones, wedlock was a blood contract, only permitted to those slated to bear a special child.</text>
-<text id="4305">What remains of Annalise, blood queen of Cainhurst.
+У добу Великих шлюб був кровним контрактом, дозволеним лише тим, кому судилося народити особливу дитину.</text>
+<text id="4305">Те, що лишилося від Анналізи, кривавої королеви Кейнхерсту.
 
-This pinkish lump of flesh remains warm, as if cursed.
-All hail the undying queen of blood!</text>
-<text id="4306">A woman's bright-red brooch, engraved with the name Viola.
+Цей рожевуватий згусток плоті залишається теплим, немов проклятий.
+Слава невмирущій королеві крові!</text>
+<text id="4306">Яскраво-червона жіноча брошка з вигравіюваним іменем Віола.
 
-Perhaps the jewel is a gift from a hunter. Use to change into a droplet blood gem that fortifies any weapon.
+Можливо, ця коштовність — подарунок від мисливця. Використайте, щоб перетворити на краплеподібний Кривавий самоцвіт, що посилює будь-яку зброю.
 
-With the proper workshop tool, various weapons can be fortified.</text>
+За допомогою відповідного інструмента Майстерні можна посилювати різну зброю.</text>
 <text id="4307">*</text>
-<text id="4308">An old, sealed summons.
+<text id="4308">Стара, запечатана повістка.
 
-Like the first of its kind, it is an invitation to Cainhurst, but for whom is not known, as it lacks an addressee.</text>
+Як і перша така, це запрошення до Кейнхерсту, але для кого — невідомо, оскільки в ній немає адресата.</text>
 <text id="4309">*</text>
-<text id="4310">A latticed, deformed rock, or perhaps a meteorite.
+<text id="4310">Ґратчастий, спотворений камінь, а може, метеорит.
 
-Appears useless, but possesses some odd gravitational force that prevents its riddance. A dubious soul once said:
+Здається марним, але має якусь дивну гравітаційну силу, що заважає позбутися його. Одна сумнівна душа якось сказала:
 
-"Step lightly round to the right of the great cathedral, and seek an ancient, shrouded church... The gift of the godhead will grant you strength..."</text>
-<text id="4311">The eye of a blood-drunk hunter. Its pupil is collapsed and turned to mush, indicating the onset of the scourge of beasts.
+"Легко обійди праворуч від великого собору та шукай давню, оповиту завісою церкву... Дар божества дарує тобі силу..."</text>
+<text id="4311">Око сп'янілого кров'ю мисливця. Його зіниця схлопнулася та перетворилася на кашу, що свідчить про початок звірячої напасті.
 
-A hunter who goes drunk with blood is said to be taken by the Nightmare, destined to wander forever, engaged in an endless hunt. It is a fate that no hunter can escape.</text>
-<text id="4312">One of the resonating bells that cross the gaps of worlds.
-This bell is cracked and stained with the blood of beasts.
+Кажуть, мисливця, що сп'яніє від крові, забирає Кошмар, і йому судилося вічно блукати, ведучи нескінченне полювання. Це доля, якої не уникне жоден мисливець.</text>
+<text id="4312">Один з резонансних дзвонів, що перетинають прірви світів.
+Цей дзвін тріснутий і заплямований кров'ю звірів.
 
-A human must expend Insight to ring this uncanny bell.
+Людина мусить витратити Прозріння, щоб подзвонити у цей моторошний дзвін.
 
-The old hunters, who have long passed from the dream but cannot forget the feeling of the hunt, rely upon messengers to relay their thoughts.
-Ring the bell at their side, and they are certain to give a listen.
-For the night of the hunt is long, and unchanging.</text>
+Старі мисливці, що давно покинули сон, але не можуть забути відчуття полювання, покладаються на Посланців, щоб передати свої думки.
+Подзвоніть у дзвін біля них, і вони неодмінно прислухаються.
+Адже ніч полювання довга й незмінна.</text>
 <text id="4313">%null%</text>
 <text id="4314">%null%</text>
 <text id="4315">%null%</text>
@@ -1256,34 +1265,34 @@ For the night of the hunt is long, and unchanging.</text>
 <text id="4317">%null%</text>
 <text id="4318">%null%</text>
 <text id="4319">%null%</text>
-<text id="4320">A great relic, also known as the Cord of the Eye. Every infant Great One has this precursor to the umbilical cord.
+<text id="4320">Велика реліквія, також відома як Пуповина Ока. Кожен новонароджений Великий має цього попередника пуповини.
 
-Every Great One loses its child, and then yearns for a surrogate. The Third Umbilical Cord precipitated the encounter with the pale moon, which beckoned the hunters and conceived the Hunter's Dream.
+Кожен Великий втрачає свою дитину, а потім прагне заміни. Третя Пуповина спричинила зустріч з блідим місяцем, що покликав мисливців та зачав Сон Мисливця.
 
-Use to gain Insight and, so they say, eyes on the inside, although no one remembers what that truly entails.</text>
-<text id="4321">A great relic, also known as the Cord of the Eye. Every infant Great One has this precursor to the umbilical cord.
+Використайте, щоб отримати Прозріння і, кажуть, очі всередині, хоча ніхто не пам'ятає, що це насправді означає.</text>
+<text id="4321">Велика реліквія, також відома як Пуповина Ока. Кожен новонароджений Великий має цього попередника пуповини.
 
-Every Great One loses its child, and then yearns for a surrogate, and Oedon, the formless Great One, is no different. To think, it was corrupted blood that began this eldritch liaison.
+Кожен Великий втрачає свою дитину, а потім прагне заміни, і Одон, безформний Великий, не виняток. Подумати тільки, саме спотворена кров започаткувала цей потойбічний зв'язок.
 
-Use to gain Insight and, so they say, eyes on the inside, although no one remembers what that truly entails.</text>
-<text id="4322">A great relic, also known as the Cord of the Eye. Every infant Great One has this precursor to the umbilical cord.
+Використайте, щоб отримати Прозріння і, кажуть, очі всередині, хоча ніхто не пам'ятає, що це насправді означає.</text>
+<text id="4322">Велика реліквія, також відома як Пуповина Ока. Кожен новонароджений Великий має цього попередника пуповини.
 
-Provost Willem sought the Cord in order to elevate his being and thoughts to those of a Great One, by lining his brain with eyes. The only choice, he knew, if man were to ever match Their greatness.</text>
-<text id="4323">A great relic, also known as the Cord of the Eye. Every infant Great One has this precursor to the umbilical cord.
+Ректор Віллем шукав цю Пуповину, щоб піднести своє єство та думки до рівня Великого, вистеливши свій мозок очима. Це був єдиний вихід, знав він, якщо людина колись мала зрівнятися з Їхньою величчю.</text>
+<text id="4323">Велика реліквія, також відома як Пуповина Ока. Кожен новонароджений Великий має цього попередника пуповини.
 
-Every Great One loses its child, and then yearns for a surrogate. This Cord granted Mensis audience with Mergo, but resulted in the stillbirth of their brains.
+Кожен Великий втрачає свою дитину, а потім прагне заміни. Ця Пуповина дарувала Менсісу аудієнцію з Мерго, але призвела до мертвонародження їхнього мозку.
 
-Use to gain Insight and, so they say, eyes on the inside, although no one remembers what that truly entails.</text>
+Використайте, щоб отримати Прозріння і, кажуть, очі всередині, хоча ніхто не пам'ятає, що це насправді означає.</text>
 <text id="4324">%null%</text>
 <text id="4325">%null%</text>
 <text id="4326">%null%</text>
 <text id="4327">%null%</text>
 <text id="4328">%null%</text>
 <text id="4329">%null%</text>
-<text id="4330">A sacred heirloom left by Yharnam, Pthumerian Queen.
+<text id="4330">Священна реліквія, залишена Ярнам, Птумерійською Королевою.
 
-The Queen lies dead, but her horrific consciousness
-is only asleep, and stirs in unsettling motions.</text>
+Королева лежить мертвою, але її жахлива свідомість
+лише спить і ворушиться тривожними рухами.</text>
 <text id="4331">%null%</text>
 <text id="4332">%null%</text>
 <text id="4333">%null%</text>
@@ -1293,85 +1302,87 @@ is only asleep, and stirs in unsettling motions.</text>
 <text id="4337">%null%</text>
 <text id="4338">%null%</text>
 <text id="4339">%null%</text>
-<text id="4340">Greyish amoeba-shaped brain fluid. Wobbles and bounces.
+<text id="4340">Сіруватa мозкова рідина у формі амеби. Тремтить та підстрибує.
 
-Extracted from a patient whose head expanded until that was all that they were.
+Вилучена з пацієнта, чия голова розросталася, доки не стала всім, чим він був.
 
-Once, a young girl had an older brother who was determined to become a doctor, and so she willfully became his patient. In the end, this led to their encounter with the Eldritch Truth, for which they considered themselves blessed.</text>
-<text id="4341">Greyish amoeba-shaped brain fluid. Wobbles and bounces.
+Одного разу в юної дівчинки був старший брат, сповнений рішучості стати лікарем, тож вона добровільно стала його пацієнткою. Врешті це привело їх до зустрічі з потойбічною Істиною, за що вони вважали себе благословенними.</text>
+<text id="4341">Сіруватa мозкова рідина у формі амеби. Тремтить та підстрибує.
 
-Extracted from a patient whose head expanded until that was all that they were.
+Вилучена з пацієнта, чия голова розросталася, доки не стала всім, чим він був.
 
-In the early days of the Healing Church, the Great Ones were linked to the ocean, and so the cerebral patients would imbibe water, and listen for the howl of the sea.
-Brain fluid writhed inside the head, the initial makings of internal eyes.</text>
-<text id="4342">Greyish amoeba-shaped brain fluid. Wobbles and bounces.
+У ранні дні Церкви Зцілення Великих пов'язували з океаном, тож церебральні пацієнти пили воду та прислухалися до виття моря.
+Мозкова рідина звивалася всередині голови, початкові зачатки внутрішніх очей.</text>
+<text id="4342">Сіруватa мозкова рідина у формі амеби. Тремтить та підстрибує.
 
-Extracted from a patient whose head expanded until that was all that they were.
+Вилучена з пацієнта, чия голова розросталася, доки не стала всім, чим він був.
 
-We fail to realize our own latent potential, until the moment it is lost, and we sense its absence. Ironically, this is the very nature of insight, like the moment one licks one's own blood, only to be startled by its sweetness.</text>
-<text id="4900">Hat that messengers are oddly fond of.
-Commonly called a Yharnam hat.
+Ми не усвідомлюємо власний прихований потенціал, доки не втратимо його і не відчуємо цю відсутність. За іронією, саме така природа прозріння — немов той момент, коли облизуєш власну кров, лише щоб здивуватися її солодкості.</text>
+<text id="4900">Капелюх, який Посланці чомусь дуже люблять.
+Зазвичай зветься ярнамським капелюхом.
 
-The inhabitants of the stump appear to
-have an interest in adornment. Why not
-let them be happy, and revel as babes?</text>
-<text id="4901">A worn, rumpled top hat that messengers are oddly fond of.
+Мешканці пенька, здається, мають
+потяг до прикрас. Чому б не дозволити їм радіти,
+і тішитися, немов немовлятам?</text>
+<text id="4901">Зношений, зім'ятий циліндр, який Посланці чомусь дуже люблять.
 
-The inhabitants of the stump appear to have an interest in adornment. Why not let them be happy, and revel as babes?</text>
-<text id="4902">Accessory adored by naïve messengers imitating the
-bandages of scourge victims, unaware of their meaning.
+Мешканці пенька, здається, мають
+потяг до прикрас. Чому б не дозволити їм радіти,
+і тішитися, немов немовлятам?</text>
+<text id="4902">Аксесуар, обожнюваний наївними Посланцями, що імітує
+пов'язки жертв напасті, не усвідомлюючи їхнього значення.
 
-The inhabitants of the stump appear to have an
-interest in adornment. Why not let them be happy,
-and revel as babes?</text>
-<text id="4903">White ribbon that messengers are oddly fond of.
+Мешканці пенька, здається, мають
+потяг до прикрас. Чому б не дозволити їм радіти,
+і тішитися, немов немовлятам?</text>
+<text id="4903">Біла стрічка, яку Посланці чомусь дуже люблять.
 
-A ribbon made of fine lace that shines remarkably,
-more suited to pretty young girls than
-silly old messengers.</text>
-<text id="4904">Red ribbon that messengers are oddly fond of.
+Стрічка з тонкого мережива, що надзвичайно сяє,
+більше пасує гарненьким юним дівчатам, ніж
+дурненьким старим Посланцям.</text>
+<text id="4904">Червона стрічка, яку Посланці чомусь дуже люблять.
 
-The thick, pungent red was drawn from the organs
-of some unfortunate victim.
+Густий, різкий червоний колір здобутий з органів
+якоїсь нещасної жертви.
 
-A strange choice indeed, but perhaps for the messengers
-wearing this accessory constitutes a form of mourning.</text>
-<text id="4905">Hat that messengers are oddly fond of.
-A nice top hat rounds out any Yharnam gentleman.
+Дійсно дивний вибір, але, можливо, для Посланців
+носіння цього аксесуара є формою скорботи.</text>
+<text id="4905">Капелюх, який Посланці чомусь дуже люблять.
+Гарний циліндр довершує образ будь-якого ярнамського джентльмена.
 
-The inhabitants of the stump appear to have an
-interest in adornment. Why not let them be happy,
-and revel as babes?</text>
-<text id="4906">Hat that messengers are oddly fond of.
-Symbol of the preventative hunters of
-the Healing Church.
+Мешканці пенька, здається, мають
+потяг до прикрас. Чому б не дозволити їм радіти,
+і тішитися, немов немовлятам?</text>
+<text id="4906">Капелюх, який Посланці чомусь дуже люблять.
+Символ превентивних мисливців
+Церкви Зцілення.
 
-The inhabitants of the stump appear to have an
-interest in adornment. Why not let them be happy,
-and revel as babes?</text>
-<text id="4907">Accessory adored by naïve messengers imitating the
-bandages of scourge victims, unaware of their meaning.
-The spatters of blood give it a particularly nice touch.
+Мешканці пенька, здається, мають
+потяг до прикрас. Чому б не дозволити їм радіти,
+і тішитися, немов немовлятам?</text>
+<text id="4907">Аксесуар, обожнюваний наївними Посланцями, що імітує
+пов'язки жертв напасті, не усвідомлюючи їхнього значення.
+Бризки крові надають йому особливо приємного вигляду.
 
-The inhabitants of the stump appear to have an
-interest in adornment. Why not let them be happy,
-and revel as babes?</text>
-<text id="4908">Accessory adored by naïve messengers.
-The messengers wear the urns, filled with incense
-that wards off beasts, on their heads upside-down,
-suggesting a predilection to the dark.
+Мешканці пенька, здається, мають
+потяг до прикрас. Чому б не дозволити їм радіти,
+і тішитися, немов немовлятам?</text>
+<text id="4908">Аксесуар, обожнюваний наївними Посланцями.
+Посланці носять урни, наповнені пахощами,
+що відганяють звірів, на головах догори дриґом,
+що натякає на потяг до темного.
 
-The inhabitants of the stump appear to have an
-interest in adornment. Why not let them be happy,
-and revel as babes?</text>
-<text id="6100">Root Chalice that breaks multiple labyrinth seals.
+Мешканці пенька, здається, мають
+потяг до прикрас. Чому б не дозволити їм радіти,
+і тішитися, немов немовлятам?</text>
+<text id="6100">Всеосяжна Чаша, що знімає численні печатки лабіринту.
 
-Root Chalices, used in rituals to break old labyrinth
-seals, are said to change the labyrinth's form each time.
+Всеосяжні Чаші, які використовуються в ритуалах для зняття печаток
+старого лабіринту, кажуть, щоразу змінюють форму лабіринту.
 
-The old labyrinth was carved out by the Pthumerians,
-superhuman beings that are said to have unlocked
-the wisdom of the eldritch Truth.</text>
+Старий лабіринт вирізьбили Птумерійці,
+надлюдські істоти, які, кажуть, розкрили
+мудрість потойбічної Істини.</text>
 <text id="6101">*</text>
 <text id="6102">%null%</text>
 <text id="6103">%null%</text>
@@ -1380,23 +1391,23 @@ the wisdom of the eldritch Truth.</text>
 <text id="6106">%null%</text>
 <text id="6107">%null%</text>
 <text id="6108">%null%</text>
-<text id="6109">Ritual chalice found in the Church of the Good Chalice.
+<text id="6109">Ритуальна чаша, знайдена в Церкві Доброї Чаші.
 
-Use in a ritual at the tomb altar in the Hunter's Dream
-to break the seal of the old underground labyrinth.
+Використайте в ритуалі біля вівтаря гробниці у Сні Мисливця,
+щоб зняти печатку старого підземного лабіринту.
 
-Let the chalice reveal the tomb of the gods; let blood
-be the hunter's nourishment.
+Нехай чаша розкриє гробницю богів; нехай кров
+буде поживою мисливця.
 
-...And let ye partake in communion...</text>
-<text id="6200">Root Chalice that breaks multiple labyrinth seals.
+...І нехай ви скуштуєте причастя...</text>
+<text id="6200">Всеосяжна Чаша, що знімає численні печатки лабіринту.
 
-Root Chalices, used in rituals to break old labyrinth
-seals, are said to change the labyrinth's form each time.
+Всеосяжні Чаші, які використовуються в ритуалах для зняття печаток
+старого лабіринту, кажуть, щоразу змінюють форму лабіринту.
 
-The old labyrinth was carved out by the Pthumerians,
-superhuman beings that are said to have unlocked
-the wisdom of the eldritch Truth.</text>
+Старий лабіринт вирізьбили Птумерійці,
+надлюдські істоти, які, кажуть, розкрили
+мудрість потойбічної Істини.</text>
 <text id="6201">%null%</text>
 <text id="6202">%null%</text>
 <text id="6203">%null%</text>
@@ -1405,21 +1416,21 @@ the wisdom of the eldritch Truth.</text>
 <text id="6206">%null%</text>
 <text id="6207">%null%</text>
 <text id="6208">%null%</text>
-<text id="6209">A chalice that breaks a labyrinth seal.
+<text id="6209">Чаша, що знімає печатку лабіринту.
 
-But only a Root Chalice changes the shape of the
-old labyrinth when used in a ritual.
+Але лише Всеосяжна Чаша змінює форму
+старого лабіринту при використанні в ритуалі.
 
-The old labyrinth was carved out by the Pthumerians,
-superhuman beings that are said to have unlocked
-the wisdom of the eldritch Truth.</text>
-<text id="6210">Root Chalice that breaks multiple labyrinth seals.
+Старий лабіринт вирізьбили Птумерійці,
+надлюдські істоти, які, кажуть, розкрили
+мудрість потойбічної Істини.</text>
+<text id="6210">Всеосяжна Чаша, що знімає численні печатки лабіринту.
 
-Root Chalices, used in rituals to break old labyrinth
-seals, are said to change the labyrinth's form each time.
+Всеосяжні Чаші, які використовуються в ритуалах для зняття печаток
+старого лабіринту, кажуть, щоразу змінюють форму лабіринту.
 
-The hintertombs are unceremonious homes to graves
-and death, cesspools of noxious snakes and insects.</text>
+Усамітнені Гробниці — непоказні домівки могил
+та смерті, розсадники отруйних змій та комах.</text>
 <text id="6211">%null%</text>
 <text id="6212">%null%</text>
 <text id="6213">%null%</text>
@@ -1428,76 +1439,79 @@ and death, cesspools of noxious snakes and insects.</text>
 <text id="6216">%null%</text>
 <text id="6217">%null%</text>
 <text id="6218">%null%</text>
-<text id="6219">A chalice that breaks a labyrinth seal.
-Hintertombs are the peripheral catacombs
-of the old underground labyrinth.
+<text id="6219">Чаша, що знімає печатку лабіринту.
+Усамітнені Гробниці — периферійні катакомби
+старого підземного лабіринту.
 
-To this day, the Watchers continue to expand the
-hintertombs, unceremonious catacombs filled with
-graves and death.</text>
-<text id="6300">Root Chalice that breaks multiple labyrinth seals.
+Досі Наглядачі продовжують розширювати
+Усамітнені Гробниці, непоказні катакомби, наповнені
+могилами та смертю.</text>
+<text id="6300">Всеосяжна Чаша, що знімає численні печатки лабіринту.
 
-Root Chalices, used in rituals to break old labyrinth
-seals, are said to change the labyrinth's form each time.
+Всеосяжні Чаші, які використовуються в ритуалах для зняття печаток
+старого лабіринту, кажуть, щоразу змінюють форму лабіринту.
 
-The old labyrinth was carved out by the Pthumerians,
-superhuman beings that are said to have unlocked
-the wisdom of the eldritch Truth.</text>
+Старий лабіринт вирізьбили Птумерійці,
+надлюдські істоти, які, кажуть, розкрили
+мудрість потойбічної Істини.</text>
 <text id="6301">%null%</text>
-<text id="6302">Root chalice that breaks multiple labyrinth seals.
+<text id="6302">Всеосяжна Чаша, що знімає численні печатки лабіринту.
 
-When used in a ritual, this sinister chalice summons the Sinister Resonant Bell. The bell-ringing woman appears to be a mad Pthumerian.
-The old labyrinth was carved out by the Pthumerians, superhuman beings that are said to have unlocked the wisdom of the eldritch Truth.
+При використанні в ритуалі, ця зловісна чаша призиває Зловісний Резонансний Дзвін. Дзвонарка, здається, — божевільна Птумерійка.
+Старий лабіринт вирізьбили Птумерійці, надлюдські істоти, які, кажуть, розкрили мудрість потойбічної Істини.
 
-Note: Additional rite Sinister Bell is for online use only.
-The bell-ringing woman does not appear offline.</text>
+Примітка: додатковий ритуал Зловісний Дзвін лише для мережевої гри.
+Дзвонарка не з'являється офлайн.</text>
 <text id="6303">%null%</text>
 <text id="6304">%null%</text>
 <text id="6305">%null%</text>
 <text id="6306">%null%</text>
 <text id="6307">%null%</text>
 <text id="6308">%null%</text>
-<text id="6309">A chalice that breaks a labyrinth seal.
+<text id="6309">Чаша, що знімає печатку лабіринту.
 
-But only a Root Chalice changes the shape of the
-old labyrinth when used in a ritual.
+Але лише Всеосяжна Чаша змінює форму
+старого лабіринту при використанні в ритуалі.
 
-The old labyrinth was carved out by the Pthumerians,
-superhuman beings that are said to have unlocked
-the wisdom of the eldritch Truth.</text>
-<text id="6310">Root Chalice that breaks multiple labyrinth seals.
+Старий лабіринт вирізьбили Птумерійці,
+надлюдські істоти, які, кажуть, розкрили
+мудрість потойбічної Істини.</text>
+<text id="6310">Всеосяжна Чаша, що знімає численні печатки лабіринту.
 
-Root Chalices, used in rituals to break old labyrinth
-seals, are said to change the labyrinth's form each time.
+Всеосяжні Чаші, які використовуються в ритуалах для зняття печаток
+старого лабіринту, кажуть, щоразу змінюють форму лабіринту.
 
-The hintertombs are unceremonious homes to graves
-and death, cesspools of noxious snakes and insects.</text>
+Усамітнені Гробниці — непоказні домівки могил
+та смерті, розсадники отруйних змій та комах.</text>
 <text id="6311">%null%</text>
-<text id="6312">Root chalice that breaks multiple labyrinth seals.
-When used in a ritual, this sinister chalice summons the Sinister Resonant Bell. The bell-ringing woman appears to be a mad Pthumerian.
+<text id="6312">Всеосяжна Чаша, що знімає численні печатки лабіринту.
 
-The hintertombs are unceremonious homes to graves and death, cesspools of noxious snakes and insects.
+При використанні в ритуалі, ця зловісна чаша призиває Зловісний Резонансний Дзвін. Дзвонарка, здається, — божевільна Птумерійка.
 
-Note: Additional rite Sinister Bell is for online use only.
-The bell-ringing woman does not appear offline.</text>
+Усамітнені Гробниці — непоказні домівки могил та смерті, розсадники отруйних змій та комах.
+
+Примітка: додатковий ритуал Зловісний Дзвін лише для мережевої гри.
+Дзвонарка не з'являється офлайн.</text>
 <text id="6313">%null%</text>
 <text id="6314">%null%</text>
 <text id="6315">%null%</text>
 <text id="6316">%null%</text>
 <text id="6317">%null%</text>
 <text id="6318">%null%</text>
-<text id="6319">A chalice that breaks a labyrinth seal.
-Hintertombs are the peripheral catacombs
-of the old underground labyrinth.
+<text id="6319">Чаша, що знімає печатку лабіринту.
+Усамітнені Гробниці — периферійні катакомби
+старого підземного лабіринту.
 
-To this day, the Watchers continue to expand the
-hintertombs, unceremonious catacombs filled with
-graves and death.</text>
-<text id="6401">Root chalice that breaks multiple labyrinth seals.
+Досі Наглядачі продовжують розширювати
+Усамітнені Гробниці, непоказні катакомби, наповнені
+могилами та смертю.</text>
+<text id="6401">Всеосяжна Чаша, що знімає численні печатки лабіринту.
 
-This cursed chalice makes a special ritual possible, but must not be used lightly, as the resulting transformation can be utterly drastic.
+Ця проклята чаша уможливлює особливий ритуал, але її не можна використовувати необачно, адже перетворення, що настане, може бути вкрай різким.
 
-The old labyrinth was carved out by the Pthumerians, superhuman beings that are said to have unlocked the wisdom of the eldritch Truth.</text>
+Старий лабіринт вирізьбили Птумерійці,
+надлюдські істоти, які, кажуть, розкрили
+мудрість потойбічної Істини.</text>
 <text id="6402">%null%</text>
 <text id="6403">%null%</text>
 <text id="6404">%null%</text>
@@ -1505,22 +1519,21 @@ The old labyrinth was carved out by the Pthumerians, superhuman beings that are 
 <text id="6406">%null%</text>
 <text id="6407">%null%</text>
 <text id="6408">%null%</text>
-<text id="6409">A chalice that breaks a labyrinth seal.
+<text id="6409">Чаша, що знімає печатку лабіринту.
 
-Only, this defiled chalice is cursed.
+Одначе ця осквернена чаша проклята.
 
-Curses are caused by inciting the anger of the Great Ones, and used to hex others. Special materials are required to complete the ritual.
+Прокляття спричиняються розпаленням гніву Великих і використовуються, щоб зурочити інших. Для завершення ритуалу потрібні особливі матеріали.
 
-To try one's hand at curses, first seek the Bastard of Loran.</text>
-<text id="6420">Root Chalice that breaks multiple labyrinth seals.
+Щоб спробувати сили в прокляттях, спершу знайдіть Виродка Лорану.</text>
+<text id="6420">Всеосяжна Чаша, що знімає численні печатки лабіринту.
 
-Root Chalices, used in rituals to break old labyrinth
-seals, are said to change the labyrinth's form each time.
+Всеосяжні Чаші, які використовуються в ритуалах для зняття печаток
+старого лабіринту, кажуть, щоразу змінюють форму лабіринту.
 
-There are trace remains of medical procedures in
-parts of ailing Loran. Whether these were attempts to
-control the scourge of the beast, or the cause of the
-outbreak, is unknown.</text>
+У частинах Хворого Лорану залишилися сліди медичних процедур. Чи були це спроби
+стримати звірячу напасть, чи причина
+спалаху — невідомо.</text>
 <text id="6421">%null%</text>
 <text id="6422">%null%</text>
 <text id="6423">%null%</text>
@@ -1529,216 +1542,210 @@ outbreak, is unknown.</text>
 <text id="6426">%null%</text>
 <text id="6427">%null%</text>
 <text id="6428">%null%</text>
-<text id="6429">A chalice that breaks a labyrinth seal.
-Loran is a tragic land that was devoured by the sands.
+<text id="6429">Чаша, що знімає печатку лабіринту.
+Лоран — трагічна земля, поглинута пісками.
 
-The tragedy that struck this ailing land of Loran
-is said to have its roots in the scourge of the beast.
+Кажуть, трагедія, що вразила цю хвору землю Лорану,
+корениться у звірячій напасті.
 
-Some have made the dreaded extrapolation that
-Yharnam may be next.</text>
-<text id="6500">Root Chalice that breaks multiple labyrinth seals.
+Дехто зробив жахливий висновок,
+що Ярнам може бути наступним.</text>
+<text id="6500">Всеосяжна Чаша, що знімає численні печатки лабіринту.
 
-Root Chalices, used in rituals to break old labyrinth
-seals, are said to change the labyrinth's form each time.
+Всеосяжні Чаші, які використовуються в ритуалах для зняття печаток
+старого лабіринту, кажуть, щоразу змінюють форму лабіринту.
 
-The Pthumerian monarch was traditionally a woman
-who assumed a name with classical roots.</text>
+Птумерійський монарх традиційно був жінкою,
+що приймала ім'я з класичним корінням.</text>
 <text id="6501">%null%</text>
-<text id="6502">Root chalice that breaks multiple labyrinth seals.
-When used in a ritual, this sinister chalice summons
-the Sinister Resonant Bell. The bell-ringing woman
-appears to be a mad Pthumerian.
+<text id="6502">Всеосяжна Чаша, що знімає численні печатки лабіринту.
 
-The Pthumerian monarch was traditionally a woman
-who assumed a name with classical roots.
+При використанні в ритуалі, ця зловісна чаша призиває Зловісний Резонансний Дзвін. Дзвонарка, здається, — божевільна Птумерійка.
 
-Note: Additional rite Sinister Bell is for online use only.
-The bell-ringing woman does not appear offline.</text>
+Птумерійський монарх традиційно був жінкою, що приймала ім'я з класичним корінням.
+
+Примітка: додатковий ритуал Зловісний Дзвін лише для мережевої гри.
+Дзвонарка не з'являється офлайн.</text>
 <text id="6503">%null%</text>
 <text id="6504">%null%</text>
 <text id="6505">%null%</text>
 <text id="6506">%null%</text>
 <text id="6507">%null%</text>
 <text id="6508">%null%</text>
-<text id="6509">A chalice that breaks a labyrinth seal.
+<text id="6509">Чаша, що знімає печатку лабіринту.
 
-Great chalices unlock deeper reaches of the labyrinth.
-Pthumeru Ihyll was the title of both the
-Pthumerian monarch and its capital.
+Великі чаші відмикають глибші частини лабіринту.
+Птумеру Іхілл був титулом і Птумерійського монарха,
+і його столиці.
 
-This reveals that while early Pthumerians were mere
-humble guardians of the slumbering Great Ones, their
-descendants felt entitled to name themselves a leader.</text>
-<text id="6520">Root Chalice that breaks multiple labyrinth seals.
+Це розкриває, що тоді як ранні Птумерійці були лише
+смиренними охоронцями сплячих Великих, їхні
+нащадки відчули право назвати себе правителями.</text>
+<text id="6520">Всеосяжна Чаша, що знімає численні печатки лабіринту.
 
-Root Chalices, used in rituals to break old labyrinth
-seals, are said to change the labyrinth's form each time.
+Всеосяжні Чаші, які використовуються в ритуалах для зняття печаток
+старого лабіринту, кажуть, щоразу змінюють форму лабіринту.
 
-There are trace remains of medical procedures in
-parts of ailing Loran. Whether these were attempts to
-control the scourge of the beast, or the cause of the
-outbreak, is unknown.</text>
+У частинах Хворого Лорану залишилися сліди медичних процедур. Чи були це спроби
+стримати звірячу напасть, чи причина
+спалаху — невідомо.</text>
 <text id="6521">%null%</text>
-<text id="6522">Root chalice that breaks multiple labyrinth seals.
+<text id="6522">Всеосяжна Чаша, що знімає численні печатки лабіринту.
 
-When used in a ritual, this sinister chalice summons the Sinister Resonant Bell. The bell-ringing woman appears to be a mad Pthumerian.
-There are trace remains of medical procedures in parts of ailing Loran. Whether these were attempts to control the scourge of the beast, or the cause of the
-outbreak, is unknown.
-Note: Additional rite Sinister Bell is for online use only.
-The bell-ringing woman does not appear offline.</text>
+При використанні в ритуалі, ця зловісна чаша призиває Зловісний Резонансний Дзвін. Дзвонарка, здається, — божевільна Птумерійка.
+У частинах Хворого Лорану залишилися сліди медичних процедур. Чи були це спроби стримати звірячу напасть, чи причина
+спалаху — невідомо.
+Примітка: додатковий ритуал Зловісний Дзвін лише для мережевої гри.
+Дзвонарка не з'являється офлайн.</text>
 <text id="6523">%null%</text>
 <text id="6524">%null%</text>
 <text id="6525">%null%</text>
 <text id="6526">%null%</text>
 <text id="6527">%null%</text>
 <text id="6528">%null%</text>
-<text id="6529">A chalice that breaks a labyrinth seal.
-But only a Root Chalice changes the shape of the
-Chalice Dungeon when used in a ritual.
+<text id="6529">Чаша, що знімає печатку лабіринту.
+Але лише Всеосяжна Чаша змінює форму
+Підземелля Чаші при використанні в ритуалі.
 
-There are trace remains of medical procedures in
-parts of ailing Loran. Whether these were attempts to
-control the scourge of the beast, or the cause of the
-outbreak, is unknown.</text>
-<text id="6530">Root Chalice that breaks multiple labyrinth seals.
+У частинах Хворого Лорану залишилися сліди медичних процедур. Чи були це спроби
+стримати звірячу напасть, чи причина
+спалаху — невідомо.</text>
+<text id="6530">Всеосяжна Чаша, що знімає численні печатки лабіринту.
 
-Root Chalices, used in rituals to break old labyrinth
-seals, are said to change the labyrinth's form each time.
+Всеосяжні Чаші, які використовуються в ритуалах для зняття печаток
+старого лабіринту, кажуть, щоразу змінюють форму лабіринту.
 
-According to the Choir, the land of Isz lies in contact
-with the cosmos, which allowed the Great Ones to
-function on transcendental planes of thought.</text>
+За словами Хору, земля Ізз перебуває в контакті
+з космосом, що дозволяло Великим
+діяти на трансцендентних площинах думки.</text>
 <text id="6531">%null%</text>
-<text id="6532">Root chalice that breaks multiple labyrinth seals.
+<text id="6532">Всеосяжна Чаша, що знімає численні печатки лабіринту.
 
-When used in a ritual, this sinister chalice summons the Sinister Resonant Bell. The bell-ringing woman appears to be a mad Pthumerian.
-According to the Choir, the land of Isz lies in contact with the cosmos, which allowed the Great Ones to function on transcendental planes of thought.
+При використанні в ритуалі, ця зловісна чаша призиває Зловісний Резонансний Дзвін. Дзвонарка, здається, — божевільна Птумерійка.
+За словами Хору, земля Ізз перебуває в контакті з космосом, що дозволяло Великим діяти на трансцендентних площинах думки.
 
-Note: Additional rite Sinister Bell is for online use only.
-The bell-ringing woman does not appear offline.</text>
+Примітка: додатковий ритуал Зловісний Дзвін лише для мережевої гри.
+Дзвонарка не з'являється офлайн.</text>
 <text id="6533">%null%</text>
 <text id="6534">%null%</text>
 <text id="6535">%null%</text>
 <text id="6536">%null%</text>
 <text id="6537">%null%</text>
 <text id="6538">%null%</text>
-<text id="6539">A chalice that breaks a labyrinth seal.
+<text id="6539">Чаша, що знімає печатку лабіринту.
 
-Great chalices unlock deeper reaches of the labyrinth.
-The Great Isz Chalice became the cornerstone of the
-Choir, the elite delegation of the Healing Church.
+Великі чаші відмикають глибші частини лабіринту.
+Велика Чаша Ізз стала наріжним каменем
+Хору, елітної делегації Церкви Зцілення.
 
-It was also the first Great Chalice brought back to the
-surface since the time of Byrgenwerth, and allowed
-the Choir to have audience with Ebrietas.</text>
-<text id="7000">Material used in a Holy Chalice ritual.
+Вона також стала першою Великою Чашею, повернутою
+на поверхню з часів Бірґенверта, і дозволила
+Хору отримати аудієнцію з Ебрієтас.</text>
+<text id="7000">Матеріал, що використовується в ритуалі Священної Чаші.
 
-One of the basic ingredients used to satiate a Holy Chalice is this incoagulable blood.
+Один з базових інгредієнтів, необхідних для насичення Священної Чаші, — ця незгортна кров.
 
-When all is melted in blood, all is reborn.</text>
-<text id="7001">Material used in a Holy Chalice ritual.
+Коли все розтоплюється в крові, все відроджується.</text>
+<text id="7001">Матеріал, що використовується в ритуалі Священної Чаші.
 
-One of the basic ingredients used to satiate a Holy Chalice is this incoagulable blood.
+Один з базових інгредієнтів, необхідних для насичення Священної Чаші, — ця незгортна кров.
 
-When all is melted in blood, all is reborn.</text>
-<text id="7002">Material used in a Holy Chalice ritual.
+Коли все розтоплюється в крові, все відроджується.</text>
+<text id="7002">Матеріал, що використовується в ритуалі Священної Чаші.
 
-One of the basic ingredients used to satiate a Holy Chalice is this incoagulable blood.
+Один з базових інгредієнтів, необхідних для насичення Священної Чаші, — ця незгортна кров.
 
-When all is melted in blood, all is reborn.</text>
-<text id="7003">Material used in a Holy Chalice ritual.
+Коли все розтоплюється в крові, все відроджується.</text>
+<text id="7003">Матеріал, що використовується в ритуалі Священної Чаші.
 
-One of the basic ingredients used to satiate a Holy Chalice is this incoagulable blood.
+Один з базових інгредієнтів, необхідних для насичення Священної Чаші, — ця незгортна кров.
 
-When all is melted in blood, all is reborn.</text>
-<text id="7004">Material used in a Holy Chalice ritual.
+Коли все розтоплюється в крові, все відроджується.</text>
+<text id="7004">Матеріал, що використовується в ритуалі Священної Чаші.
 
-One of the basic ingredients used to satiate a Holy Chalice is this incoagulable blood.
+Один з базових інгредієнтів, необхідних для насичення Священної Чаші, — ця незгортна кров.
 
-When all is melted in blood, all is reborn.</text>
-<text id="7005">Material used in a Holy Chalice ritual.
+Коли все розтоплюється в крові, все відроджується.</text>
+<text id="7005">Матеріал, що використовується в ритуалі Священної Чаші.
 
-The remains of a skull used in a ceremony.
+Залишки черепа, використаного в церемонії.
 
-A vestige of the bizarre rites carried out by the
-old labyrinth Watchers.</text>
-<text id="7006">Material used in a Holy Chalice ritual.
+Релікт дивних ритуалів, що проводили
+Наглядачі старого лабіринту.</text>
+<text id="7006">Матеріал, що використовується в ритуалі Священної Чаші.
 
-A perfect specimen, surrounded by a faint flame.
+Досконалий зразок, оповитий ледь помітним полум'ям.
 
-A vestige of the bizarre rites carried out by the
-old labyrinth Watchers.</text>
+Релікт дивних ритуалів, що проводили
+Наглядачі старого лабіринту.</text>
 <text id="7007">*</text>
 <text id="7008">*</text>
 <text id="7009">%null%</text>
-<text id="7010">Material used in a Holy Chalice ritual.
+<text id="7010">Матеріал, що використовується в ритуалі Священної Чаші.
 
-Pale vegetation that commonly grows on coldblood inside the old labyrinth.</text>
-<text id="7011">Material used in a Holy Chalice ritual.
+Блякла рослинність, що зазвичай росте на Холоднокрові всередині старого лабіринту.</text>
+<text id="7011">Матеріал, що використовується в ритуалі Священної Чаші.
 
-Pale vegetation that commonly grows on coldblood inside the old labyrinth.</text>
-<text id="7012">Material used in a Holy Chalice ritual.
+Блякла рослинність, що зазвичай росте на Холоднокрові всередині старого лабіринту.</text>
+<text id="7012">Матеріал, що використовується в ритуалі Священної Чаші.
 
-Pale vegetation that commonly grows on coldblood in a place long ago abandoned.</text>
-<text id="7013">Material used in a Holy Chalice ritual.
+Блякла рослинність, що зазвичай росте на Холоднокрові в місці, покинутому дуже давно.</text>
+<text id="7013">Матеріал, що використовується в ритуалі Священної Чаші.
 
-Pale vegetation that commonly grows on coldblood in a place long abandoned, said to mature slowly in close proximity to death, and eventually bloom.</text>
-<text id="7014">Material used in a Holy Chalice ritual.
+Блякла рослинність, що зазвичай росте на Холоднокрові в давно покинутому місці; кажуть, повільно достигає поблизу смерті й зрештою розквітає.</text>
+<text id="7014">Матеріал, що використовується в ритуалі Священної Чаші.
 
-Pale vegetation that commonly grows on coldblood in a place long abandoned, that has bloomed into a bright red stygian flower. </text>
-<text id="7015">Material used in a Holy Chalice ritual.
+Блякла рослинність, що зазвичай росте на Холоднокрові в давно покинутому місці, яка розквітла у яскраво-червону стигійську квітку. </text>
+<text id="7015">Матеріал, що використовується в ритуалі Священної Чаші.
 
-Pale bulb that commonly grows on coldblood inside the old labyrinth, said to mature slowly in the abyss, and eventually bloom.</text>
-<text id="7016">Material used in a Holy Chalice ritual.
+Блякла цибулина, що зазвичай росте на Холоднокрові всередині старого лабіринту; кажуть, повільно достигає в безодні й зрештою розквітає.</text>
+<text id="7016">Матеріал, що використовується в ритуалі Священної Чаші.
 
-Pale vegetation that commonly grows on coldblood inside the old labyrinth that has bloomed into a bright red stygian flower. </text>
+Блякла рослинність, що зазвичай росте на Холоднокрові всередині старого лабіринту, яка розквітла у яскраво-червону стигійську квітку. </text>
 <text id="7017">*</text>
 <text id="7018">*</text>
 <text id="7019">%null%</text>
-<text id="7020">Material used in a Holy Chalice ritual.
+<text id="7020">Матеріал, що використовується в ритуалі Священної Чаші.
 
-Mold that grows from rotten flesh and blood inside the old labyrinth. Matures to bear giant spores.</text>
-<text id="7021">Material used in a Holy Chalice ritual.
+Цвіль, що росте на гнилій плоті та крові всередині старого лабіринту. Достигаючи, утворює велетенські спори.</text>
+<text id="7021">Матеріал, що використовується в ритуалі Священної Чаші.
 
-Mold that grows from rotten flesh and blood inside the old labyrinth. Matures to bear giant spores.</text>
-<text id="7022">Material used in a Holy Chalice ritual.
+Цвіль, що росте на гнилій плоті та крові всередині старого лабіринту. Достигаючи, утворює велетенські спори.</text>
+<text id="7022">Матеріал, що використовується в ритуалі Священної Чаші.
 
-Mold that grows from rotten flesh and blood inside the old labyrinth. Matures to bear giant spores.</text>
-<text id="7023">Material used in a Holy Chalice ritual.
+Цвіль, що росте на гнилій плоті та крові всередині старого лабіринту. Достигаючи, утворює велетенські спори.</text>
+<text id="7023">Матеріал, що використовується в ритуалі Священної Чаші.
 
-Mold that grows from rotten flesh and blood inside the old labyrinth. Matures to bear giant spores.</text>
-<text id="7024">Material used in a Holy Chalice ritual.
+Цвіль, що росте на гнилій плоті та крові всередині старого лабіринту. Достигаючи, утворює велетенські спори.</text>
+<text id="7024">Матеріал, що використовується в ритуалі Священної Чаші.
 
-Mold that grows from rotten flesh and blood inside the old labyrinth. Matures to bear giant spores.</text>
-<text id="7025">Material used in a Holy Chalice ritual.
+Цвіль, що росте на гнилій плоті та крові всередині старого лабіринту. Достигаючи, утворює велетенські спори.</text>
+<text id="7025">Матеріал, що використовується в ритуалі Священної Чаші.
 
-Mold that grows from rotten flesh and blood inside the old labyrinth. Matures to bear giant spores.</text>
-<text id="7026">Material used in a Holy Chalice ritual.
+Цвіль, що росте на гнилій плоті та крові всередині старого лабіринту. Достигаючи, утворює велетенські спори.</text>
+<text id="7026">Матеріал, що використовується в ритуалі Священної Чаші.
 
-Mold that grows from rotten flesh and blood inside the old labyrinth. Its giant spores eventually break off and float into the air, the best moment to use the mold as a material.</text>
+Цвіль, що росте на гнилій плоті та крові всередині старого лабіринту. Її велетенські спори зрештою відриваються та злітають у повітря — найкращий момент, щоб використати цвіль як матеріал.</text>
 <text id="7027">*</text>
 <text id="7028">*</text>
-<text id="7050">Material used in a Holy Chalice ritual.
+<text id="7050">Матеріал, що використовується в ритуалі Священної Чаші.
 
-The tiny smatterings of haze that are found in certain ritual materials. Sometimes required for special rites.
+Крихітні крихти туману, що трапляються в певних ритуальних матеріалах. Іноді потрібні для особливих ритуалів.
 
-The additional rite Sinister Bell makes the bell-ringing woman appear, and when she rings a sinister bell, hunters from other worlds will be beckoned as adversaries.</text>
-<text id="7100">Material used in a Holy Chalice ritual.
+Додатковий ритуал Зловісний Дзвін змушує з'явитися Дзвонарку, і коли вона дзвонить у зловісний дзвін, мисливці з інших світів будуть покликані як супротивники.</text>
+<text id="7100">Матеріал, що використовується в ритуалі Священної Чаші.
 
-Of the all the strange lifeforms that reside in the nooks and crannies of the old labyrinth, the slugs are clear signs of the left-behind Great Ones.</text>
-<text id="7101">Material used in a Holy Chalice ritual.
+Серед усіх дивних форм життя, що мешкають у закутках старого лабіринту, слимаки — явна ознака покинутих Великих.</text>
+<text id="7101">Матеріал, що використовується в ритуалі Священної Чаші.
 
-One of the basic ingredients used to satiate a Holy
-Chalice is this incoagulable blood.
+Один з базових інгредієнтів, необхідних для насичення Священної Чаші, — ця незгортна кров.
 
-When all is melted in blood, all is reborn.</text>
-<text id="7102">Material used in a Holy Chalice ritual.
+Коли все розтоплюється в крові, все відроджується.</text>
+<text id="7102">Матеріал, що використовується в ритуалі Священної Чаші.
 
-One of the basic ingredients used to satiate a Holy
-Chalice is this incoagulable blood.
+Один з базових інгредієнтів, необхідних для насичення Священної Чаші, — ця незгортна кров.
 
-When all is melted in blood, all is reborn.</text>
+Коли все розтоплюється в крові, все відроджується.</text>
 <text id="7103">*</text>
 <text id="7104">*</text>
 <text id="7105">*</text>
@@ -1746,17 +1753,17 @@ When all is melted in blood, all is reborn.</text>
 <text id="7107">*</text>
 <text id="7108">*</text>
 <text id="7109">%null%</text>
-<text id="7110">Material used in a Holy Chalice ritual.
+<text id="7110">Матеріал, що використовується в ритуалі Священної Чаші.
 
-Stillborn infants born of a creature of unknown origin, of the type found in some corners of the old labyrinth.</text>
-<text id="7111">Special material used in a Holy Chalice ritual.
+Мертвонароджені немовлята, породжені істотою невідомого походження, того типу, що трапляється в деяких закутках старого лабіринту.</text>
+<text id="7111">Особливий матеріал, що використовується в ритуалі Священної Чаші.
 
-Strange creatures lurk in the nooks and crannies of the
-old labyrinth.</text>
-<text id="7112">Special material used in a Holy Chalice ritual.
+Дивні істоти ховаються в закутках
+старого лабіринту.</text>
+<text id="7112">Особливий матеріал, що використовується в ритуалі Священної Чаші.
 
-Strange creatures lurk in the nooks and crannies of the
-old labyrinth.</text>
+Дивні істоти ховаються в закутках
+старого лабіринту.</text>
 <text id="7113">%null%</text>
 <text id="7114">%null%</text>
 <text id="7115">%null%</text>
@@ -1764,21 +1771,21 @@ old labyrinth.</text>
 <text id="7117">%null%</text>
 <text id="7118">%null%</text>
 <text id="7119">%null%</text>
-<text id="7120">Special material used in a Holy Chalice ritual.
+<text id="7120">Особливий матеріал, що використовується в ритуалі Священної Чаші.
 
-A body part of a saint, sacrificed by the Healing Church in their search for Truth.
+Частина тіла святого, принесена в жертву Церквою Зцілення в пошуках Істини.
 
-The additional rite Fetid Offering invigorates the Watchers, making them more treacherous than normal, but also making them worthy prey for a special hunt.</text>
-<text id="7121">Special material used in a Holy Chalice ritual.
+Додатковий ритуал Смердюче Підношення бадьорить Наглядачів, роблячи їх підступнішими, ніж зазвичай, але також вартою здобиччю для особливого полювання.</text>
+<text id="7121">Особливий матеріал, що використовується в ритуалі Священної Чаші.
 
-A body part of a saint, sacrificed by the Healing Church in their search for Truth.
+Частина тіла святого, принесена в жертву Церквою Зцілення в пошуках Істини.
 
-The additional rite Fetid Offering invigorates the Watchers, making them more treacherous than normal, but also making them worthy prey for a special hunt.</text>
-<text id="7122">Special material used in a Holy Chalice ritual.
+Додатковий ритуал Смердюче Підношення бадьорить Наглядачів, роблячи їх підступнішими, ніж зазвичай, але також вартою здобиччю для особливого полювання.</text>
+<text id="7122">Особливий матеріал, що використовується в ритуалі Священної Чаші.
 
-A body part of a saint, sacrificed by the Healing Church in their search for Truth.
+Частина тіла святого, принесена в жертву Церквою Зцілення в пошуках Істини.
 
-The Church's experiments with blood have successfully produced specimens perfect for sacrifice.</text>
+Досліди Церкви з кров'ю успішно створили зразки, ідеальні для жертвопринесення.</text>
 <text id="7123">%null%</text>
 <text id="7124">%null%</text>
 <text id="7125">%null%</text>
@@ -1786,23 +1793,23 @@ The Church's experiments with blood have successfully produced specimens perfect
 <text id="7127">%null%</text>
 <text id="7128">%null%</text>
 <text id="7129">%null%</text>
-<text id="7130">Special material used in a Holy Chalice ritual.
+<text id="7130">Особливий матеріал, що використовується в ритуалі Священної Чаші.
 
-Special body parts collected by the Healing Church.
-What was this gruesome bait used to lure?
+Особливі частини тіла, зібрані Церквою Зцілення.
+Що це за моторошна приманка?
 
-The additional rite Rotted Offering beckons ungodly forces, normally terrifying things, but also worthy prey for a special hunt.</text>
-<text id="7131">Special material used in a Holy Chalice ritual.
+Додатковий ритуал Гниле Підношення кличе нечестиві сили, зазвичай жахливі істоти, але також вартих здобиччю для особливого полювання.</text>
+<text id="7131">Особливий матеріал, що використовується в ритуалі Священної Чаші.
 
-Special body parts collected by the Healing Church.
-What was this gruesome bait used to lure?
+Особливі частини тіла, зібрані Церквою Зцілення.
+Що це за моторошна приманка?
 
-The additional rite Rotted Offering beckons ungodly forces, normally terrifying things, but also worthy prey for a special hunt.</text>
-<text id="7132">Special material used in a Holy Chalice ritual.
+Додатковий ритуал Гниле Підношення кличе нечестиві сили, зазвичай жахливі істоти, але також вартих здобиччю для особливого полювання.</text>
+<text id="7132">Особливий матеріал, що використовується в ритуалі Священної Чаші.
 
-Special body parts collected by the Healing Church.
+Особливі частини тіла, зібрані Церквою Зцілення.
 
-Corpse-ridden Yharnam was the perfect place for the collection of specimens such as these.</text>
+Засіяний трупами Ярнам був ідеальним місцем для збору таких зразків.</text>
 <text id="7133">%null%</text>
 <text id="7134">%null%</text>
 <text id="7135">%null%</text>
@@ -1810,22 +1817,22 @@ Corpse-ridden Yharnam was the perfect place for the collection of specimens such
 <text id="7137">%null%</text>
 <text id="7138">%null%</text>
 <text id="7139">%null%</text>
-<text id="7140">Special material used in a Holy Chalice ritual.
+<text id="7140">Особливий матеріал, що використовується в ритуалі Священної Чаші.
 
-Remains of Loran infant infected by the scourge.
-A harbinger of curses and symbol of defilement.
+Залишки лоранського немовляти, ураженого напастю.
+Віщун прокльонів і символ осквернення.
 
-The additional rite Curse defiles dungeons in which hunters' HP is greatly eroded, but what better place to seek cursed blood gems but in the midst of defilement?</text>
-<text id="7141">Special material used in a Holy Chalice ritual.
+Додатковий ритуал Прокляття оскверняє підземелля, у яких ОЗ мисливців значно знижується, але де ще шукати прокляті Криваві самоцвіти, як не серед осквернення?</text>
+<text id="7141">Особливий матеріал, що використовується в ритуалі Священної Чаші.
 
-A stillborn infant born of a creature of unknown origin, of the type found in some corners of the old labyrinth.
+Мертвонароджене немовля, породжене істотою невідомого походження, того типу, що трапляється в деяких закутках старого лабіринту.
 
-The apprentices of Byrgenwerth were fascinated by newborns, perhaps due to the stunning quality of these remains.</text>
-<text id="7142">Special material used in a Holy Chalice ritual.
+Учнів Бірґенверта зачаровували новонароджені, можливо, через приголомшливу якість цих останків.</text>
+<text id="7142">Особливий матеріал, що використовується в ритуалі Священної Чаші.
 
-A stillborn infant born of a creature of unknown origin, of the type found in some corners of the old labyrinth.
+Мертвонароджене немовля, породжене істотою невідомого походження, того типу, що трапляється в деяких закутках старого лабіринту.
 
-The apprentices of Byrgenwerth were fascinated by newborns, perhaps due to the stunning quality of these remains.</text>
+Учнів Бірґенверта зачаровували новонароджені, можливо, через приголомшливу якість цих останків.</text>
 <text id="7143">%null%</text>
 <text id="7144">%null%</text>
 <text id="7145">%null%</text>
@@ -1833,14 +1840,14 @@ The apprentices of Byrgenwerth were fascinated by newborns, perhaps due to the s
 <text id="7147">%null%</text>
 <text id="7148">%null%</text>
 <text id="7149">%null%</text>
-<text id="7150">Material used in a Holy Chalice ritual.
+<text id="7150">Матеріал, що використовується в ритуалі Священної Чаші.
 
-An exquisite eyeball removed quickly after death, or perhaps even before. Used to unlock the seal of the old labyrinth hintertombs.</text>
-<text id="7200">Special material used in a Holy Chalice ritual.
+Вишукане око, вилучене невдовзі після смерті, а може, навіть до неї. Використовується, щоб зняти печатку Усамітнених Гробниць старого лабіринту.</text>
+<text id="7200">Особливий матеріал, що використовується в ритуалі Священної Чаші.
 
-The immense brain that Mensis retrieved from the nightmare was indeed lined with eyes on the inside, but they were of an evil sort, and the brain itself was terribly rotten.
+Велетенський мозок, який Менсіс здобув з кошмару, справді був устелений очима всередині, але вони були лихого штибу, а сам мозок жахливо прогнив.
 
-But even still, it was a legitimate Great One, and left a relic. A living relic, at that, which is a precious thing indeed.</text>
+Але все ж це був справжній Великий, і він залишив реліквію. До того ж живу реліквію, а це справді дорогоцінна річ.</text>
 <text id="10900">*</text>
 <text id="10901">%null%</text>
 <text id="10902">%null%</text>

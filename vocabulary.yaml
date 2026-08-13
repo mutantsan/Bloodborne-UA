@@ -758,6 +758,291 @@ Locations (イベントテキスト.fmg.xml warp/lamp list — cross-check again
     en: Chamber of the Seal / Layer One-Four
     uk: Зала Печатки / Шар Перший-Четвертий
     note: "Orphan of Kos DLC arena and its 'Heart' sub-layers (e.g. 'Layer One: Heart' -> 'Шар Перший: Серце'). No prior precedent."
+  Hunter's Dream:
+    en: Hunter's Dream
+    uk: Сон Мисливця
+    note: "The game's central hub location. No prior precedent found anywhere in already-translated files; coined here (menu-msgbnd-dcx/血文字.fmg.xml id 2110)."
+  Oedon Chapel:
+    en: Oedon Chapel
+    uk: Каплиця Одона
+    note: "Uses established [[Oedon]] -> Одон. Coined in 血文字.fmg.xml id 2101."
+  Grand Cathedral:
+    en: Grand Cathedral
+    uk: Великий Собор
+    note: "Coined in 血文字.fmg.xml id 2114 (Byrgenwerth watchman gate password lore line)."
+  Small Resonant Bell:
+    en: Small Resonant Bell
+    uk: Малий Резонансний Дзвін
+    note: "Co-op summon item, parallel to established [[Beckoning Bell]] (Кличний Дзвін). Coined in 血文字.fmg.xml id 1122."
+
+Healing Church figures/factions (item-msgbnd-dcx/アイテム説明.fmg.xml):
+  Choir:
+    en: Choir
+    uk: Хор
+    note: "Healing Church's elite research division. No prior in-game precedent."
+  Caryll:
+    en: Caryll
+    uk: Каріл
+    note: "The runesmith who created the Caryll Runes. Treated as an indeclinable foreign name (matches established [[runesmith]]/[[Caryll Runes]])."
+  Annalise:
+    en: Annalise
+    uk: Анналіза
+    note: "Vileblood Queen of Cainhurst. No prior in-game precedent."
+  Archibald:
+    en: Archibald
+    uk: Арчибальд
+    note: "Church workshop eccentric mentioned in item flavor text. No prior in-game precedent."
+  Wheel hunter / Firing Hammer / Oto Workshop:
+    en: Wheel hunter / Firing Hammer / Oto Workshop
+    uk: мисливець Колеса / Стрілецький Молот / Майстерня Ото
+    note: "Obscure hunter-badge flavor text (item id 4116/4120). No prior precedent."
+  Quickening:
+    en: Quickening
+    uk: Прискорення
+    note: "Oath rune skill that speeds up rolls/quicksteps. No prior in-game precedent."
+
+Lore terms (item-msgbnd-dcx/アイテムうんちく.fmg.xml):
+  Coldblood:
+    en: coldblood / Coldblood
+    uk: холоднокров / Холоднокров
+    note: "Coined compound noun, parallel to established [[Paleblood]] -> Блідокров. Lowercase 'coldblood' (adjective use, e.g. 'see in coldblood') translates as 'холоднокровно'; capitalized noun use (the coldblood substance itself, source of Blood Echoes) as 'Холоднокров'."
+  abyssal (blood gem):
+    en: abyssal
+    uk: безодняний
+    note: "Rare blood gem tier, from 'безодня' (abyss). No prior in-game precedent."
+  Watchers:
+    en: Watchers
+    uk: Наглядачі
+    note: "Old-labyrinth ritual attendants/guardians, distinct from [[Watchdog of the Old Lords]]. No prior in-game precedent."
+  eldritch Truth:
+    en: eldritch Truth
+    uk: потойбічна Істина
+    note: "Capitalized proper concept, using established [[eldritch]] (потойбічний)."
+  River of Blood:
+    en: River of Blood
+    uk: Ріка Крові
+    note: "Location within the Hunter's Dream. No prior precedent."
+  School of Mensis:
+    en: School of Mensis
+    uk: Школа Менсіса
+  Bastard of Loran:
+    en: Bastard of Loran
+    uk: Виродок Лорану
+    note: "NPC name gating the Curse chalice rite. No prior precedent."
+  Provost Willem:
+    en: Provost Willem
+    uk: Ректор Віллем
+    note: "Alternate title for [[Master Willem]] (Майстер Віллем) — same person, distinct honorific used in some flavor text."
+  stygian flower:
+    en: stygian flower
+    uk: стигійська квітка
+    note: "Ritual material flavor text, from the River Styx. No prior precedent."
+  Third Umbilical Cord / Cord of the Eye:
+    en: Third Umbilical Cord / Cord of the Eye
+    uk: Третя Пуповина / Пуповина Ока
+    note: "Key DLC-adjacent relic items. No prior precedent."
+
+Weapons (item-msgbnd-dcx/武器名.fmg.xml, will recur in 武器うんちく.fmg.xml):
+  weapon quality modifiers (Uncanny/Lost):
+    en: Uncanny X / Lost X / X's Uncanny Y / X's Lost Y
+    uk: Незвичайний/-а/-е X / Втрачений/-а/-е X (gender agrees with X)
+    note: "Established masc forms from the Modifiers section (Незвичайний/Втрачений). Quirk: some named weapons drop their possessive in the modifier variants (Kos Parasite -> Uncanny Parasite / Lost Parasite, not 'Uncanny Kos Parasite'; Simon's Bowblade -> Uncanny Bowblade / Lost Bowblade), while others keep it (Ludwig's Holy Blade -> Ludwig's Uncanny/Lost Holy Blade). Translated to match the English source exactly per weapon family — verify against source text before assuming a pattern."
+  Amygdalan Arm:
+    en: Amygdalan Arm
+    uk: Рука Амігдали
+  Beast Claw / Beast Cutter:
+    en: Beast Claw / Beast Cutter
+    uk: Кіготь Звіра / Звірячий Різак
+  Beasthunter Saif:
+    en: Beasthunter Saif
+    uk: Сайф Звіромисливця
+  Bloodletter:
+    en: Bloodletter
+    uk: Кровопускач
+    note: "Shares root with established [[Bloodletting Beast]] (Кровопускний Звір)."
+  Boom Hammer:
+    en: Boom Hammer
+    uk: Вибуховий Молот
+  Church Pick:
+    en: Church Pick
+    uk: Церковне Кайло
+  Fist of Gratia:
+    en: Fist of Gratia
+    uk: Кулак Ґрації
+    note: "Corrected after translating 武器うんちく.fmg.xml: 'Gratia' is a hunter's name (Simple Gratia / Проста Ґрація), not the abstract word 'grace' — originally mistranslated as 'Кулак Милості' before the lore text was seen."
+  Flamesprayer:
+    en: Flamesprayer
+    uk: Вогнемет
+  Gatling Gun:
+    en: Gatling Gun
+    uk: Кулемет Гатлінга
+  Holy Moonlight Sword:
+    en: Holy Moonlight Sword
+    uk: Священний Місячний Меч
+  Kos Parasite:
+    en: Kos Parasite
+    uk: Паразит Коса
+  Loch Shield / Wooden Shield:
+    en: Loch Shield / Wooden Shield
+    uk: Щит Лох / Дерев'яний Щит
+  Ludwig's Holy Blade:
+    en: Ludwig's Holy Blade
+    uk: Священний Клинок Людвіга
+    note: "Weapon-name form; matches established NPC epithet 'Ludwig, the Holy Blade' -> 'Людвіг, Священний Клинок'."
+  Reiterpallasch:
+    en: Reiterpallasch
+    uk: Рейтерпалаш
+    note: "German cavalry-sword name, transliterated rather than translated."
+  Rifle Spear / Saw Spear:
+    en: Rifle Spear / Saw Spear
+    uk: Рушниця-Спис / Пила-Спис
+  Rosmarinus:
+    en: Rosmarinus
+    uk: Розмаринус
+    note: "Proper name, transliterated."
+  Simon's Bowblade:
+    en: Simon's Bowblade
+    uk: Лук-клинок Саймона
+  Stake Driver:
+    en: Stake Driver
+    uk: Забивач Кілків
+  Threaded Cane:
+    en: Threaded Cane
+    uk: Тростина-Батіг
+    note: "Named for its whip-blade transformation rather than a literal 'threaded' translation."
+  Whirligig Saw:
+    en: Whirligig Saw
+    uk: Пила-Дзиґа
+
+Weapon lore figures (item-msgbnd-dcx/武器うんちく.fmg.xml):
+  Brador:
+    en: Brador
+    uk: Брадор
+    note: "Healing Church assassin, wielder of the Bloodletter. No prior in-game precedent."
+  Simon:
+    en: Simon
+    uk: Саймон
+    note: "Early Healing Church hunter, wielder of Simon's Bowblade. No prior in-game precedent."
+  Simple Gratia:
+    en: Simple Gratia
+    uk: Проста Ґрація
+    note: "Hunter who gave her name to the [[Fist of Gratia]] weapon. Corrected from an earlier mistranslation ('Кулак Милості') that assumed 'Gratia' meant 'grace' rather than being a person's name."
+
+Armor lore figures (item-msgbnd-dcx/防具うんちく.fmg.xml):
+  Dores:
+    en: Dores
+    uk: Дорес
+    note: "Graveguard of the Forbidden Woods, one of Willem's two servants driven mad by the eldritch Truth. No prior in-game precedent."
+  doll:
+    en: doll
+    uk: лялька
+    note: "The Plain Doll, established via item-msgbnd-dcx/アイテムうんちく.fmg.xml Tear Stone lore ('Лялька не проливає ні крові, ні сліз')."
+  keepers (bone ash):
+    en: keepers
+    uk: Наглядачі
+    note: "Reuses the [[Watchers]] translation — same Ukrainian word covers both 'Watchers' and 'keepers' referring to the same old-labyrinth ash-preserved guardians."
+
+Blood gem naming grammar (menu-msgbnd-dcx/魔石名.fmg.xml, applies to 魔石うんちく.fmg.xml too):
+  gem name template:
+    en: "[Cursed] [Hard/Odd] [Effect] [Damp/Abyssal] Blood/Bloodtinge Gem/Gemstone (N)"
+    uk: "[Проклятий] [Твердий/Дивний] [Effect-adj] [Вологий/Безодняний] Кривавий Самоцвіт / Самоцвіт Відтінку Крові (N)"
+    note: "Fully compositional gem-name grammar covering all 3114 entries in 魔石名.fmg.xml via 448 unique templates. Hard->Твердий, Odd->Дивний (prenominal, masc, agree with Самоцвіт). Damp->Вологий, Abyssal->Безодняний (prenominal grade, established [[abyssal (blood gem)]]). 'Bloodtinge' as the noun-head swaps 'Кривавий Самоцвіт' for 'Самоцвіт Відтінку Крові' (drops the 'Кривавий' adjective, mirroring how English drops 'Blood' to avoid 'Bloodtinge Blood Gem'). Possessive effect words (Beasthunter's/Fool's/Kinhunter's/Poorman's) translate as a genitive noun placed AFTER 'Самоцвіт' rather than prenominal, e.g. 'Кривавий Самоцвіт Звіромисливця'."
+  gem effect words (adjective, prenominal):
+    en: Adept / Nourishing / Arcane / Fire / Bolt / Tempering / Cold / Dense / Dirty / Finestrike / Forlorn / Heavy / Lethal / Murky / Pulsing / Radiant / Sharp / Striking / Warm
+    uk: Вправний / Живильний / Таємний / Вогняний / Блискавичний / Гартівний / Холодний / Щільний / Брудний / Влучний / Знедолений / Важкий / Смертоносний / Каламутний / Пульсуючий / Променистий / Гострий / Ударний / Теплий
+    note: "Radiant and Striking reuse established roots ([[Radiant Sword Hunter]] -> Променистий; [[Strike (DS attack type)]] -> Ударний)."
+  gem effect words (possessive, postnominal genitive):
+    en: Beasthunter's / Fool's / Kinhunter's / Poorman's
+    uk: Звіромисливця / Блазня / Кревномисливця / Бідняка
+    note: "'Кревномисливця' (kin-hunter) is a coined compound mirroring the [[Beasthunter Saif]]-established 'звіромисливець' pattern — no prior precedent for 'Kinhunter'."
+
+Additional Caryll Runes (menu-msgbnd-dcx/魔石うんちく.fmg.xml):
+  Clawmark:
+    en: Clawmark
+    uk: Слід кігтя
+    note: "No prior in-game precedent. Distinct from but thematically related to [[Beast]] rune (Почвара)."
+  Writhe:
+    en: Writhe
+    uk: Звивання
+    note: "No prior in-game precedent."
+  Executioners (members, plural noun):
+    en: Executioners
+    uk: Каральники
+    note: "Plural noun for individual members, distinct from [[The Executioners]] (uk: Каральний Загін, the covenant/organization itself) and singular [[Executioner (singular member)]] (uk: Каратель)."
+
+Blood gem effect strings — abbreviated house style (menu-msgbnd-dcx/魔石効果.fmg.xml):
+  gem effect naming convention:
+    en: "[Label] [+/-N%] — direction (UP/DOWN) is conveyed by the sign, the words themselves are never translated"
+    uk: "[Терміна мітка] [+/-N%]"
+    note: "IMPORTANT PRECEDENT — discovered only after an initial verbose pass had to be redone: this file already had ~250 pre-existing translated entries using a heavily ABBREVIATED house style (АТК, Дод., Затрати Витрив., Збільш., 3-letter stat codes СИЛ/МСТ/МАГ, Фіз., Блиск.) rather than full words, almost certainly because the in-game tooltip has limited display width. Before translating any other short stat/tooltip-style string file, grep the target file for existing Cyrillic to check for an established abbreviation convention BEFORE writing full-word translations — do not assume verbose phrasing is safe for UI strings."
+  ATK (bare, gem effect label):
+    en: ATK
+    uk: АТК
+    note: "Kept as an abbreviation matching established precedent, distinct from the general [[ATK]] entry (uk: Атака) used in prose/tooltips with more room."
+  Дод. / Збільш. / Зменш. / Затрати Витрив.:
+    en: Add(s) / Boosts/Increases / Reduces / Stamina cost(s)
+    uk: Дод. / Збільш. / Зменш. / Затрати Витрив.
+    note: "Established abbreviation prefixes for gem-effect strings. 'Зменш.' (for damage reduction) was coined to match this family's brevity, no prior precedent existed for it specifically."
+  kin (bare, gem effect target):
+    en: the kin
+    uk: Споріднені
+    note: "Short form of [[kin of the cosmos]] used in terse UI strings ('АТК проти Споріднених')."
+
+Blood message board word/category system (menu-msgbnd-dcx/血文字.fmg.xml):
+  note: >
+    This file builds player messages from template sentences (id 10000+, e.g. 'бійся
+    <?bmsg_varA?>') combined with words picked from six categories (Creatures/Humans/
+    Tactics A/Tactics B/Places&Things/Concepts). Each category word exists in THREE
+    tiers with THEIR OWN ids: Title Case for the category menu (e.g. id 30001+),
+    lowercase singular for sentence-insertion (id 40001+), and lowercase plural
+    (id 50001+). Capitalization is NOT applied by a blanket rule — it exactly mirrors
+    whatever the English source does at that specific id (even proper nouns like
+    Doll/Messenger/kin sometimes drop capitalization in the plural tier, while others
+    like Watcher/Hunter/Executioner/Vileblood/Yharnam/Workshop/Healing Church stay
+    capitalized in every tier). When adding/fixing entries here, always check the
+    exact-id source casing rather than assuming.
+
+    High-id combo entries (id 1000000+, e.g. 1000030) are PRE-BAKED full sentences:
+    decode as 1,TTT,WWW where template_index=TTT//10 (maps to template id 10000+
+    template_index), category_index=TTT%10 (0=Creatures/1=Humans/2=TacticsA/
+    3=TacticsB/4=Places/5=Concepts), word_index=WWW. If the template contains
+    <?bmsg_varA?> the singular word form is substituted; <?bmsg_varB?> uses plural;
+    no placeholder means the combo is the template text verbatim for every word slot.
+    Generated in bulk via a script rather than hand-translated per entry — see
+    /tmp job script translate_bloodmsg_chunk3.py in the session that did this (not
+    kept in the repo).
+
+    KNOWN LIMITATION (accepted, user decision 2026-08-12): ~9 of the 40 templates
+    grammatically require genitive or accusative case for the plugged word (e.g.
+    'бійся <?bmsg_varA?>' wants genitive 'бійся звіра', not nominative 'бійся звір').
+    Word tables only provide nominative singular/plural, so those combos read with
+    minor case roughness. Decided against building full declension tables for all
+    ~180 words — the pre-existing translator's own precedent for this was already
+    inconsistent (only fixed genitive for one word, left the rest nominative), and
+    the phrases stay understandable either way. If this is ever revisited, the fix
+    is either genitive/accusative tables per word, or rephrasing the ~9 case-demanding
+    templates into nominative-safe copula constructions (as was already done for
+    id 10005/10009/10010/10011, e.g. '<?bmsg_varA?> — це ефективно').
+  Dead (word-list category, creatures):
+    en: Dead
+    uk: мрець
+    note: "Coined; distinct from [[the dead]]/undead usage elsewhere. Plural 'мерці'."
+  Malformed thing:
+    en: Malformed thing
+    uk: покруч
+    note: "Coined generic 'deformed creature' term for the word-list. Plural 'покручі'."
+  Unseen Village:
+    en: Unseen Village
+    uk: Незриме Село
+    note: "Yahar'gul. No prior in-game precedent found; coined here."
+  Bloodstone:
+    en: Bloodstone
+    uk: кровокамінь
+    note: "Ritual/chalice material category word. No prior precedent; plural 'кровокамені'."
+  Tactics A / Tactics B:
+    en: Tactics A / Tactics B
+    uk: Тактика А / Тактика Б
+    note: "Category headers for the two 'battle tactic' word lists in the message board system."
 
 Phrases:
   May the good blood guide your way:

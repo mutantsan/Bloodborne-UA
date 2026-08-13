@@ -3,7 +3,7 @@ from pathlib import Path
 from xml.etree import ElementTree
 
 WITCHY_BND_METADATA = "_witchy-bnd4.xml"
-SKIP_LINES = ("%null%", "*", " ")
+SKIP_LINES = ("%null%", "*", " ", "  ", "   ", "    ", "****", ".", "…", "<?belongMsg?>, ")
 SKIP_FILES = [
     "SP_ダイアログ.fmg.xml",
     "キーガイド.fmg.xml",
