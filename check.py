@@ -3,7 +3,18 @@ from pathlib import Path
 from xml.etree import ElementTree
 
 WITCHY_BND_METADATA = "_witchy-bnd4.xml"
-SKIP_LINES = ("%null%", "*", " ", "  ", "   ", "    ", "****", ".", "…", "<?belongMsg?>, ")
+SKIP_LINES = (
+    "%null%",
+    "*",
+    " ",
+    "  ",
+    "   ",
+    "    ",
+    "****",
+    ".",
+    "…",
+    "<?belongMsg?>, ",
+)
 SKIP_FILES = [
     "SP_ダイアログ.fmg.xml",
     "キーガイド.fmg.xml",
@@ -30,11 +41,11 @@ def check_well_formed() -> bool:
 
     ok = True
     for _type in ("menu-msgbnd-dcx", "item-msgbnd-dcx"):
-        for file in _get_msg_files(here / _type):
+        for file in _get_msg_files(here / "UA" / _type):
             try:
-                ElementTree.parse(file)
+                ElementTree.parse(file)  # noqa
             except ElementTree.ParseError as exc:
-                print(f"MALFORMED XML: `{file.name}`: {exc}")
+                print(f"MALFORMED XML: `{file.name}`: {exc}")  # noqa
                 ok = False
 
     return ok
@@ -51,7 +62,7 @@ def find_untranslated_lines():
             untrans_lines, trans_lines = _collect_untranslated_(file)
 
             if untrans_lines:
-                print(
+                print(  # noqa
                     f"There are {len(untrans_lines)} untranslated lines in `{file.name}`"
                 )
 
@@ -59,9 +70,9 @@ def find_untranslated_lines():
             translated_lines.extend(trans_lines)
 
     total = len(untranslated_lines) + len(translated_lines)
-    print(
-        f"There are {len(untranslated_lines)} untranslated lines in total so far, which is {len(untranslated_lines) / total * 100:.2f}%"
-    )
+    translation_rate = len(untranslated_lines) / total * 100
+
+    print(f"There are {len(untranslated_lines)} untranslated lines in total so far, which is {translation_rate:.2f}%")  # noqa
 
 
 def _get_msg_files(path: Path) -> list[Path]:
@@ -83,7 +94,7 @@ def _collect_untranslated_(path: Path) -> tuple[list[str], list[str]]:
     untranslated_lines = []
     translated_lines = []
 
-    entries = ElementTree.parse(path).getroot().find("entries")
+    entries = ElementTree.parse(path).getroot().find("entries")  # noqa
 
     if entries is None:
         return untranslated_lines, translated_lines
@@ -92,7 +103,7 @@ def _collect_untranslated_(path: Path) -> tuple[list[str], list[str]]:
         if not entry.text or entry.text in SKIP_LINES:
             continue
 
-        if _has_cyryllic(entry.text):
+        if _has_cyrillic(entry.text):
             translated_lines.append(f"{path.name}: {entry.text}")
             continue
 
@@ -105,12 +116,8 @@ def _collect_untranslated_(path: Path) -> tuple[list[str], list[str]]:
     return untranslated_lines, translated_lines
 
 
-def _has_cyryllic(text: str) -> bool:
-    for char in text:
-        if 0x0400 <= ord(char) <= 0x04FF:
-            return True
-
-    return False
+def _has_cyrillic(text: str) -> bool:
+    return any(0x0400 <= ord(char) <= 0x04FF for char in text)  # noqa
 
 
 if __name__ == "__main__":

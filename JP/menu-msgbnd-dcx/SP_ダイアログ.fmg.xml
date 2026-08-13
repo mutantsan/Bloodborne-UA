@@ -1,0 +1,1428 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>SP_ダイアログ.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">OK</text>
+<text id="2">CANCEL</text>
+<text id="3">YES</text>
+<text id="4">NO</text>
+<text id="15">リトライ</text>
+<text id="16">続ける</text>
+<text id="17">タイトルに戻る</text>
+<text id="18">%null%</text>
+<text id="19">%null%</text>
+<text id="20">嫌いじゃあない</text>
+<text id="21">嫌い</text>
+<text id="22">旧市街の獣を狩る</text>
+<text id="23">旧市街の獣を狩らない</text>
+<text id="4001">Bloodborne サーバーとの通信に失敗しました
+タイトル画面に戻ります</text>
+<text id="4002">%null%</text>
+<text id="4003">%null%</text>
+<text id="4004">%null%</text>
+<text id="4005">%null%</text>
+<text id="4006">共有設定の変更に失敗しました
+時間を置いて再度試してください</text>
+<text id="4007">聖杯ダンジョン情報の取得に失敗しました
+時間を置いて再度試してください</text>
+<text id="4008">%null%</text>
+<text id="4009">聖杯ダンジョンの参加に失敗しました
+時間を置いて再度試してください</text>
+<text id="4010">%null%</text>
+<text id="4011"> </text>
+<text id="4101">Bloodborne サーバーの管理者によって
+現在ご使用されているSony Entertainment Networkアカウントによる
+マルチプレイ機能のご利用は禁止されています</text>
+<text id="4102">Bloodborne サーバーの管理者によって
+現在ご使用されているSony Entertainment Networkアカウントによる
+手記の機能のご利用は禁止されています</text>
+<text id="4103">Bloodborne サーバーの管理者によって
+現在ご使用されているSony Entertainment Networkアカウントによる
+聖杯ダンジョン機能のご利用は禁止されています</text>
+<text id="4104">Bloodborne サーバーの管理者によって
+現在ご使用されているSony Entertainment Networkアカウントによる
+遺影の機能のご利用は禁止されています</text>
+<text id="4201">Bloodborne サーバーの使用が停止されました
+タイトル画面に戻ります</text>
+<text id="4301">Bloodborne サーバーとの接続が切断されました
+タイトル画面に戻ります</text>
+<text id="4401">&lt;?ssInfoMsg?&gt;
+タイトル画面に戻ります</text>
+<text id="4402">Bloodborne サーバーの状態確認に失敗しました
+タイトル画面に戻ります</text>
+<text id="4403">Bloodborne サーバーの情報取得に失敗しました
+タイトル画面に戻ります</text>
+<text id="4601">Bloodborne サーバーとの通信に失敗しました
+タイトル画面に戻ります</text>
+<text id="4602">一定時間アクセスが無かったため
+対象の聖杯ダンジョン情報は Bloodborne サーバーから削除されました</text>
+<text id="4603">入力された聖杯文字に該当するダンジョンは見つかりませんでした</text>
+<text id="4604">あなたは、入力された聖杯文字に該当するダンジョンの参加条件を満たしていません</text>
+<text id="4605">参加可能な聖杯ダンジョンは見つかりませんでした</text>
+<text id="4606">設定された検索条件を満たす聖杯ダンジョンは見つかりませんでした</text>
+<text id="4701">ネットワークとの接続が切断されました
+タイトル画面に戻ります</text>
+<text id="4801">"PlayStation Network"からサインアウトしました
+タイトル画面に戻ります</text>
+<text id="4802">"PlayStation Network"との通信が切断されました
+タイトル画面に戻ります</text>
+<text id="4803">PlayStation®Plus の機能を利用できる期間が終了しました
+タイトル画面に戻ります</text>
+<text id="5001">セッションが失われました</text>
+<text id="5002">ネットワーク接続が不安定になったため
+セッションから退出します</text>
+<text id="5003">ネットワークエラーが発生しました
+マルチプレイを終了します</text>
+<text id="40200">血の遺志が必要量に足りません</text>
+<text id="40201">%null%</text>
+<text id="40202">%null%</text>
+<text id="40203">啓蒙が必要量に足りません</text>
+<text id="40300">設定を初期状態に戻しますか？</text>
+<text id="102000">&lt;?itemName?&gt;
+を捨てます
+個数を選択してください</text>
+<text id="102001">&lt;?itemName?&gt;
+を捨てます</text>
+<text id="102002">選択されたアイテムを捨てます</text>
+<text id="102003">このアイテムは捨てられません</text>
+<text id="102004">&lt;?itemName?&gt;
+をまとめて使います
+個数を選択してください</text>
+<text id="102005">%null%</text>
+<text id="102006">%null%</text>
+<text id="102007">%null%</text>
+<text id="102008">%null%</text>
+<text id="102009">%null%</text>
+<text id="102010">装備しているアイテムは捨てられません</text>
+<text id="102011">%null%</text>
+<text id="102012">%null%</text>
+<text id="102013">%null%</text>
+<text id="102014">%null%</text>
+<text id="102015">%null%</text>
+<text id="102016">%null%</text>
+<text id="102017">%null%</text>
+<text id="102018">%null%</text>
+<text id="102019">%null%</text>
+<text id="102020">必要能力値が不足しているため
+このアイテムは使用できません</text>
+<text id="102021">%null%</text>
+<text id="102022">%null%</text>
+<text id="102023">%null%</text>
+<text id="102024">%null%</text>
+<text id="102025">%null%</text>
+<text id="102026">%null%</text>
+<text id="102027">%null%</text>
+<text id="102028">%null%</text>
+<text id="102029">%null%</text>
+<text id="102030">このアイテムには使用効果がありません</text>
+<text id="102031">%null%</text>
+<text id="102032">%null%</text>
+<text id="102033">%null%</text>
+<text id="102034">%null%</text>
+<text id="102035">%null%</text>
+<text id="102036">%null%</text>
+<text id="102037">%null%</text>
+<text id="102038">%null%</text>
+<text id="102039">%null%</text>
+<text id="102040">捨てると、付けている血晶は失われます
+よろしいですか？</text>
+<text id="102041">%null%</text>
+<text id="102042">%null%</text>
+<text id="102043">%null%</text>
+<text id="102044">%null%</text>
+<text id="102045">%null%</text>
+<text id="102046">%null%</text>
+<text id="102047">%null%</text>
+<text id="102048">%null%</text>
+<text id="102049">%null%</text>
+<text id="102050">啓蒙の上限を超えてしまいます
+上限を超えた啓蒙は失われますが、それでも使用しますか？</text>
+<text id="102051">血の遺志の上限を超えてしまいます
+上限を超えた血の遺志は失われますが、それでも使用しますか？</text>
+<text id="103000">必要能力値が不足しているため
+このアイテムは装備できません</text>
+<text id="104000">必要能力値が不足しているため
+このアイテムは装備できません</text>
+<text id="110000">ゲームを終了し、タイトル画面へ戻りますか？</text>
+<text id="110001">%null%</text>
+<text id="110002">%null%</text>
+<text id="110003">%null%</text>
+<text id="110004">%null%</text>
+<text id="110005">%null%</text>
+<text id="110006">%null%</text>
+<text id="110007">%null%</text>
+<text id="110008">%null%</text>
+<text id="110009">%null%</text>
+<text id="110010">オフラインモードのため、
+「ネットワーク設定」機能は利用できません
+ネットワーク機能を使用するには
+タイトルメニューで LOGIN を選択してください</text>
+<text id="110011">オフラインモードのため、
+「ネットワーク設定」機能は利用できません
+ネットワーク機能を使用するには
+タイトル画面へ戻ってログインし直してください</text>
+<text id="114000">ペアレンタルコントロールにより
+ユーザー作成メディアに対する制限がかかっています
+他プレイヤー名称表示の設定が
+オンラインIDに固定されます</text>
+<text id="211000">血の遺志 &lt;?demandSoul?&gt; でレベルアップしますか？</text>
+<text id="211001">編集した内容を破棄します
+よろしいですか？</text>
+<text id="211002">高める能力値が選択されていません</text>
+<text id="211003">%null%</text>
+<text id="211004">%null%</text>
+<text id="211005">%null%</text>
+<text id="211006">%null%</text>
+<text id="211007">%null%</text>
+<text id="211008">%null%</text>
+<text id="211009">%null%</text>
+<text id="211010">レベルの上限です。これ以上レベルアップできません</text>
+<text id="212000">記憶済のカレル文字と同系統の効果です
+同系統の効果は重複されませんが、よろしいですか？</text>
+<text id="221000">血の遺志 &lt;?demandSoul?&gt;
+&lt;?demandItemName?&gt; × &lt;?demandItemNum?&gt;
+を使って強化を行いますか？ </text>
+<text id="221001">血の遺志、あるいは血石が不足しています</text>
+<text id="221002">この武器は最高レベルです。これ以上強化できません</text>
+<text id="221003">%null%</text>
+<text id="221004">%null%</text>
+<text id="221005">%null%</text>
+<text id="221006">%null%</text>
+<text id="221007">%null%</text>
+<text id="221008">%null%</text>
+<text id="221009">%null%</text>
+<text id="221010">強化に必要な血の遺志が不足しています</text>
+<text id="221011">強化に必要な血石が不足しています</text>
+<text id="221012">強化に必要な血の遺志、血石が不足しています</text>
+<text id="222000">この血晶は取り外せません</text>
+<text id="222001">血晶を取り外します。取り外した血晶は失われます</text>
+<text id="222002">血晶を上書きします。古い血晶は失われます</text>
+<text id="222003">この血晶は付けた後で取り外せません
+付けてよろしいですか？</text>
+<text id="222004">既に付いている血晶と同系統の効果です
+同系統の効果は重複されませんが、よろしいですか？</text>
+<text id="222005">武器に付けられた血晶石は
+別の血晶石を付けることでしか外すことはできません</text>
+<text id="222006">所持上限を超えてしまうため、外すことができません</text>
+<text id="223000">&lt;?itemName?&gt;を
+血の遺志 &lt;?demandSoul?&gt; で
+修理します</text>
+<text id="223001">すべての修理対象を
+血の遺志 &lt;?demandSoul?&gt; で
+修理します</text>
+<text id="231000">取引数を選択してください</text>
+<text id="231001">&lt;?itemName?&gt;を
+血の遺志 &lt;?demandSoul?&gt; で
+取引します</text>
+<text id="231002">&lt;?itemName?&gt;を
+啓蒙 &lt;?demandHeroic?&gt; で
+購入します </text>
+<text id="231003">&lt;?itemName?&gt; を受け取ります</text>
+<text id="231004">%null%</text>
+<text id="231005">%null%</text>
+<text id="231006">%null%</text>
+<text id="231007">%null%</text>
+<text id="231008">%null%</text>
+<text id="231009">%null%</text>
+<text id="231010">所持上限を超えてしまうため、購入できません</text>
+<text id="231011">%null%</text>
+<text id="231012">%null%</text>
+<text id="231013">%null%</text>
+<text id="231014">%null%</text>
+<text id="231015">%null%</text>
+<text id="231016">%null%</text>
+<text id="231017">%null%</text>
+<text id="231018">%null%</text>
+<text id="231019">%null%</text>
+<text id="231020">所持上限を超えたアイテムは、保管箱に格納されました</text>
+<text id="232000">売却数を選択してください</text>
+<text id="232001">&lt;?itemName?&gt;を
+血の遺志 &lt;?sellSouls?&gt; で
+売却します</text>
+<text id="232002">このアイテムは売却できません</text>
+<text id="232003">%null%</text>
+<text id="232004">%null%</text>
+<text id="232005">%null%</text>
+<text id="232006">%null%</text>
+<text id="232007">%null%</text>
+<text id="232008">%null%</text>
+<text id="232009">%null%</text>
+<text id="232010">装備しているアイテムは売却できません</text>
+<text id="232011">売却すると、付けている血晶は失われます
+よろしいですか？</text>
+<text id="232012">売却すると、付けている血晶も売却されます
+よろしいですか？</text>
+<text id="251000">&lt;?itemName?&gt;を
+格納します
+個数を選択してください</text>
+<text id="251001">&lt;?itemName?&gt;を
+格納します</text>
+<text id="251002">選択されたアイテムを倉庫に格納します</text>
+<text id="251003">&lt;?itemName?&gt;を
+全て格納します</text>
+<text id="251004">&lt;?itemName?&gt;を
+上限まで格納しました
+格納上限を超えた分は所持しています</text>
+<text id="251005">格納上限を超えてしまうため
+&lt;?itemName?&gt;を
+格納できませんでした</text>
+<text id="251006">装備しているアイテムは格納できません</text>
+<text id="251007">使用アイテムに装備中のアイテムのため
+1つを残して格納しました</text>
+<text id="251008">このアイテムは保管箱に格納できません</text>
+<text id="251009">%null%</text>
+<text id="251010">&lt;?itemName?&gt;を
+取り出します
+個数を選択してください</text>
+<text id="251011">&lt;?itemName?&gt;を
+取り出します</text>
+<text id="251012">選択されたアイテムを所持に戻します</text>
+<text id="251013">&lt;?itemName?&gt;を
+全て取り出します</text>
+<text id="251014">&lt;?itemName?&gt;を
+上限まで取り出しました
+所持上限を超えた分は格納されています</text>
+<text id="251015">所持上限を超えてしまうため
+&lt;?itemName?&gt;を
+取り出せませんでした</text>
+<text id="262000">聖杯を外しますか？
+（現行ダンジョンは破棄され、探索記録は消去されます）</text>
+<text id="262001">オフラインモードのため、
+「聖杯ダンジョンの検索」機能は利用できません
+ネットワーク機能を使用するには
+タイトル画面へ戻ってログインし直してください</text>
+<text id="262002">オフラインモードのため、
+「聖杯文字」機能は利用できません
+ネットワーク機能を使用するには
+タイトル画面へ戻ってログインし直してください</text>
+<text id="262003">オフラインモードのため、
+「聖杯ダンジョンの共有」機能は利用できません
+ネットワーク機能を使用するには
+タイトル画面へ戻ってログインし直してください</text>
+<text id="262004">%null%</text>
+<text id="262005">すでに共有済みの聖杯ダンジョンについて
+共有範囲の再設定を行うことはできません。</text>
+<text id="263000">設定を確定して儀式を開始しますか？</text>
+<text id="263001">儀式を行い、聖杯ダンジョンを作成しますか？
+（儀式を行うことで素材が消費されます）</text>
+<text id="263002">儀式に必要な素材が不足しています</text>
+<text id="263003">%null%</text>
+<text id="263004">%null%</text>
+<text id="263005">%null%</text>
+<text id="263006">%null%</text>
+<text id="263007">%null%</text>
+<text id="263008">%null%</text>
+<text id="263009">%null%</text>
+<text id="263010">汎聖杯の儀式を行うためには、ネットワークに接続して
+サーバデータを適用する必要があります</text>
+<text id="265000">共有設定をオープンにしますか？
+注意：共有後、設定の変更はできません</text>
+<text id="265001">共有設定をクローズにしますか？
+注意：共有後、設定の変更はできません</text>
+<text id="265100">共有設定が完了しました</text>
+<text id="266000">選択した聖杯ダンジョンに参加しますか？</text>
+<text id="266001">ダンジョンに参加し、聖杯が祭壇に置かれました
+聖杯ダンジョンの探索ができます</text>
+<text id="266002">設定した検索条件の組み合わせは未解禁です</text>
+<text id="266003">聖杯の儀式を行いました
+同じ聖杯のダンジョンが検索可能になりました</text>
+<text id="266004">汎聖杯を入手しました
+同じ汎聖杯のダンジョンが検索可能になりました</text>
+<text id="266005">儀法を追加して聖杯の儀式を行いました
+同じ聖杯、追加儀法のダンジョンが検索可能になりました</text>
+<text id="267000">入力した聖杯文字に該当するダンジョンが見つかりました
+その聖杯ダンジョンにアクセスします</text>
+<text id="267001">聖杯文字 &lt;?string?&gt; で検索を行います</text>
+<text id="269000">共有された聖杯ダンジョンを簡易検索し、参加しますか？</text>
+<text id="269001">「狩人呼びの鐘」の音を簡易検索し、協力プレイを開始しますか？</text>
+<text id="269002">不吉な鐘の音を簡易検索し、敵対プレイを開始しますか？</text>
+<text id="269003">オフラインモードのため、
+「聖杯ダンジョンの簡易参加」機能は利用できません
+ネットワーク機能を使用するには
+タイトル画面へ戻ってログインし直してください</text>
+<text id="269004">%null%</text>
+<text id="269005">オフラインモードのため、
+「協力の簡易開始」機能は利用できません
+ネットワーク機能を使用するには
+タイトル画面へ戻ってログインし直してください</text>
+<text id="269006">オフラインモードのため、
+「敵対の簡易開始」機能は利用できません
+ネットワーク機能を使用するには
+タイトル画面へ戻ってログインし直してください</text>
+<text id="269007">簡易検索されたダンジョンに参加します
+聖杯が祭壇に置かれました</text>
+<text id="271000">霞を取り出す素材の数を選択してください</text>
+<text id="271001">取り出される霞の数が所持上限を超えてしまうため
+この素材から、霞を取り出すことができません</text>
+<text id="271002">取り出された霞の内
+所持上限を超えた分は、保管箱に格納されました</text>
+<text id="302000">選んだ対象を、元の世界に戻しますか？</text>
+<text id="302001">元の世界に戻す対象が存在しません</text>
+<text id="302110">協力の求めを止めますか？</text>
+<text id="302111">別世界の狩人に協力することを止めますか？</text>
+<text id="302112">別世界の狩人に敵対することを止めますか？</text>
+<text id="302113">今は、鐘を鳴らしていません
+この機能は利用できません</text>
+<text id="302114">%null%</text>
+<text id="302115">%null%</text>
+<text id="302116">%null%</text>
+<text id="302117">%null%</text>
+<text id="302118">%null%</text>
+<text id="302119">%null%</text>
+<text id="302120">%null%</text>
+<text id="302121">%null%</text>
+<text id="302122">%null%</text>
+<text id="302123">今は、共鳴がありません
+この機能は利用できません</text>
+<text id="302124">敵対プレイを終了し、元の世界に戻りますか？</text>
+<text id="302200">「狩人呼びの鐘」の音を探しています</text>
+<text id="302201">不吉な鐘の音を探しています</text>
+<text id="302202">%null%</text>
+<text id="302203">%null%</text>
+<text id="302204">%null%</text>
+<text id="302205">%null%</text>
+<text id="302206">%null%</text>
+<text id="302207">%null%</text>
+<text id="302208">%null%</text>
+<text id="302209">%null%</text>
+<text id="302210">合言葉を使って、「狩人呼びの鐘」の音を探しています </text>
+<text id="305000">オフラインモードでは血族名鑑を閲覧できません</text>
+<text id="305001">名鑑情報の取得に失敗しました</text>
+<text id="305002">血族名鑑の閲覧を終了します</text>
+<text id="305003">名鑑の情報を取得しています</text>
+<text id="305004">%null%</text>
+<text id="305005">%null%</text>
+<text id="305006">%null%</text>
+<text id="305007">%null%</text>
+<text id="305008">%null%</text>
+<text id="305009">%null%</text>
+<text id="305010">オフラインモードでは連盟員名簿を確認できません</text>
+<text id="305011">名簿情報の取得に失敗しました</text>
+<text id="305012">連盟員名簿の確認を終了します</text>
+<text id="305013">名簿の情報を取得しています</text>
+<text id="310000">自分で作成した手記はありません</text>
+<text id="310001">最近に読んだ手記はありません</text>
+<text id="311000">この手記を削除しますか？</text>
+<text id="311001">これはよい手記だ</text>
+<text id="311002">これは酷い手記だ</text>
+<text id="321000">この内容で手記を作成します</text>
+<text id="322000">この手記を一覧から削除しますか？</text>
+<text id="400001">セーブデータの読み込みに失敗しました</text>
+<text id="400002">セーブデータが破損しています</text>
+<text id="400003">前回のゲーム終了時に、システムメニューから
+「ゲームの終了」を選択していない可能性があります
+ゲームを終了するときは、システムメニューから
+「ゲームの終了」を選択してください
+
+「ゲームの終了」を選択していないと
+終了時のゲーム進行状態から、再開されない場合があります</text>
+<text id="401001">タイトル画面に戻ります</text>
+<text id="401002">オフラインモードで開始します
+
+ネットワーク機能を使用するには
+通信環境の確認後に
+タイトルメニューで LOGIN を選択してください</text>
+<text id="401003">%null%</text>
+<text id="401004">%null%</text>
+<text id="401005">%null%</text>
+<text id="401006">%null%</text>
+<text id="401007">%null%</text>
+<text id="401008">%null%</text>
+<text id="401009">%null%</text>
+<text id="401010">オンラインモードでプレイしますか？</text>
+<text id="401011">ネットワークとの接続が切断されました
+オフラインモードへ移行します
+
+ネットワーク機能を使用するには
+通信環境の確認後に
+タイトルメニューで LOGIN を選択してください</text>
+<text id="401012">"PlayStation Network"からサインアウトしました
+オフラインモードへ移行します
+
+ネットワーク機能を使用するには
+通信環境の確認後に
+タイトルメニューで LOGIN を選択してください</text>
+<text id="401013">"PlayStation Network"との通信が切断されました
+オフラインモードへ移行します
+
+ネットワーク機能を使用するには
+通信環境の確認後に
+タイトルメニューで LOGIN を選択してください</text>
+<text id="401102">セーブデータ作成に失敗しました
+再実行するにはOKを選択してください</text>
+<text id="401103">セーブデータ読み込みに失敗しました
+再実行するにはOKを選択してください</text>
+<text id="401104">セーブデータが破損しています
+削除して再作成しますか？</text>
+<text id="401105">セーブデータの削除に失敗しました
+再実行するにはOKを選択してください</text>
+<text id="401106">セーブデータの更新に失敗しました
+再実行するにはOKを選択してください</text>
+<text id="401107">セーブデータが破損しています
+再作成しますか？</text>
+<text id="401108">新しいバージョンのセーブデータです
+このセーブデータを使用するには、アプリケーションを終了して
+最新のアップデートファイルを適用してから、再起動してください </text>
+<text id="401109">DLC「Bloodborne The Old Hunters」が見つかりません
+再度DLCをダウンロードするまで、このセーブデータは使用できません</text>
+<text id="401170">DLCの使用権限がありません
+設定されたDLC要素は解除されます</text>
+<text id="401171">DLCが破損しています
+本体のデータを削除し再ダウンロードしてください</text>
+<text id="401172">DLCの読み込みに失敗しました
+再実行するにはOKを選択してください</text>
+<text id="401201">ネットワークに接続できませんでした
+ネットワーク設定を確認して下さい</text>
+<text id="401202">ネットワーク接続状態チェックに失敗しました</text>
+<text id="401203">"PlayStation Network"からサインアウトされています
+オンライン機能を使用するにはサインインして下さい</text>
+<text id="401204">サインイン状態チェックに失敗しました</text>
+<text id="401205">年齢制限によりネットワーク機能が使用できません</text>
+<text id="401206">新しいバージョンのシステムソフトウェアが存在します
+ネットワーク機能を使用するには
+システムソフトウェアを更新してください</text>
+<text id="401207">新しいバージョンのアップデートファイルが存在します
+ネットワーク機能を使用するには
+アップデートファイルをインストールしてから起動してください</text>
+<text id="401208">ネットワーク機能チェックに失敗しました</text>
+<text id="401209">ペアレンタルコントロール情報の取得に失敗しました</text>
+<text id="401210">Bloodborne サーバーの情報取得に失敗しました
+再実行するにはOKを選択してください</text>
+<text id="401211">Bloodborne サーバーの状態確認に失敗しました</text>
+<text id="401212">&lt;?ssInfoMsg?&gt;</text>
+<text id="401213">オフライン状態であることを検出しました</text>
+<text id="401214">オンライン状態チェックに失敗しました</text>
+<text id="401402">サーバーを使用せずにゲームを開始します
+
+サーバーを使用したい場合はタイトルメニューで
+LOGIN を選択してください</text>
+<text id="401403">%null%</text>
+<text id="401404">%null%</text>
+<text id="401405">%null%</text>
+<text id="401406">%null%</text>
+<text id="401407">%null%</text>
+<text id="401408">%null%</text>
+<text id="401409">%null%</text>
+<text id="401410">%null%</text>
+<text id="401411">利用規約が更新されています
+お手数ですが内容を再度確認ください</text>
+<text id="401501">ネットワークエラーが発生しました
+再実行するにはOKを選択してください</text>
+<text id="401502">Bloodborne サーバーの使用が停止されています</text>
+<text id="401503">Bloodborne サーバーへのログインに失敗しました
+再実行するにはOKを選択してください</text>
+<text id="401504">%null%</text>
+<text id="401505">%null%</text>
+<text id="401506">%null%</text>
+<text id="401507">%null%</text>
+<text id="401508">%null%</text>
+<text id="401509">%null%</text>
+<text id="401510">%null%</text>
+<text id="401511">このバージョンでのログインは
+Bloodborne サーバーで許可されていません
+ネットワーク機能を使用するには
+アップデートファイルの配信をお待ちください</text>
+<text id="401601">INFORMATION の取得に失敗しました
+再実行するにはOKを選択してください</text>
+<text id="401602">%null%</text>
+<text id="401603">PlayStation®Plus会員資格の確認に失敗しました</text>
+<text id="401604">PlayStation®Plus会員でないため
+オンラインプレイができません</text>
+<text id="401605">処理に失敗しました
+PlayStation®Plusへの加入が確認できませんでした
+
+PlayStation®Plus会員資格の確認を再度行うには
+OKを選択してください
+
+PlayStation®Plusに加入せずに続けるには
+CANCELを選択してください
+
+PlayStation®Plusに加入せずに続けた場合は
+オンラインプレイができなくなります</text>
+<text id="401606">処理に失敗しました
+PlayStation®Plusへの加入が確認できませんでした
+
+PlayStation®Plus会員資格の確認を再度行うには
+OKを選択してください
+
+PlayStation®Plusに加入せずに続けるには
+CANCELを選択してください
+
+PlayStation®Plusに加入せずに続けた場合は
+オンラインプレイができなくなります</text>
+<text id="401607">PlayStation®Plusへ未加入のため
+オフラインモードで開始します</text>
+<text id="401701">プロファイルをこれ以上作成することはできません
+すでにあるプロファイルを削除して、新規作成しますか？
+
+※ プロファイルは10個まで作成することができます</text>
+<text id="401731">オンラインプレイ用の
+キャラクター情報の初期化に失敗しました
+
+再度初期化処理を試みるには「リトライ」を選択してください
+
+ネットワーク機能を使用せずに続行する際は
+「続ける」を選択してください</text>
+<text id="401732">キャラクター情報の保存に失敗しました
+
+再度保存を試みるには「リトライ」を選択してください
+
+タイトルに戻るには「タイトルに戻る」を選択してください</text>
+<text id="401733">手記の検索情報登録に失敗しました
+
+再度処理を試みるには「リトライ」を選択してください
+
+ネットワーク機能を使用せずに続行する際は
+「続ける」を選択してください</text>
+<text id="401734">%null%</text>
+<text id="401735">メッセンジャー情報登録に失敗しました
+
+再度処理を試みるには「リトライ」を選択してください
+
+ネットワーク機能を使用せずに続行する際は
+「続ける」を選択してください</text>
+<text id="401801">トロフィー設定情報の更新が
+完了するのを待っています</text>
+<text id="401802">%null%</text>
+<text id="401803">%null%</text>
+<text id="401804">%null%</text>
+<text id="401805">%null%</text>
+<text id="401806">%null%</text>
+<text id="401807">%null%</text>
+<text id="401808">%null%</text>
+<text id="401809">%null%</text>
+<text id="401810">%null%</text>
+<text id="401811">ゲームのインストールが完了していないため
+オフラインモードで開始します</text>
+<text id="401901">許可されていない処理があるため
+Bloodborne サーバーからのデータ取得に失敗しました</text>
+<text id="401902">Bloodborne サーバーの使用が停止されています</text>
+<text id="401903">Bloodborne サーバーとの接続が切断されました</text>
+<text id="401904">Bloodborne サーバーとのデータ通信に失敗しました
+再実行するにはOKを選択してください</text>
+<text id="401905">%null%</text>
+<text id="401906">%null%</text>
+<text id="401907">%null%</text>
+<text id="401908">%null%</text>
+<text id="401909">%null%</text>
+<text id="401910">%null%</text>
+<text id="401911">許可されていない処理があるため
+Bloodborne サーバーからのデータ取得に失敗しました</text>
+<text id="401912">Bloodborne サーバーの使用が停止されています</text>
+<text id="401913">Bloodborne サーバーとの接続が切断されました</text>
+<text id="401914">Bloodborne サーバーとのデータ通信に失敗しました
+再実行するにはOKを選択してください</text>
+<text id="401991">処理に失敗しました
+タイトルに戻ります</text>
+<text id="401992">%null%</text>
+<text id="401993">%null%</text>
+<text id="401994">%null%</text>
+<text id="401995">%null%</text>
+<text id="401996">%null%</text>
+<text id="401997">%null%</text>
+<text id="401998">%null%</text>
+<text id="401999">%null%</text>
+<text id="402000">%null%</text>
+<text id="402001">記入中の誓約書を破棄して
+タイトルメニューに戻りますか？</text>
+<text id="402002">誓約書の記入を完了しますか？</text>
+<text id="402003">名前が記入されていません
+
+誓約書の記入を完了するには
+名前を記入してください</text>
+<text id="402004">誓約書情報の保存に失敗しました</text>
+<text id="402005">%null%</text>
+<text id="402006">%null%</text>
+<text id="402007">%null%</text>
+<text id="402008">%null%</text>
+<text id="402009">%null%</text>
+<text id="402010">編集内容を破棄して、初期の状態に戻しますか？</text>
+<text id="402011">%null%</text>
+<text id="402012">%null%</text>
+<text id="402013">%null%</text>
+<text id="402014">%null%</text>
+<text id="402015">%null%</text>
+<text id="402016">%null%</text>
+<text id="402017">%null%</text>
+<text id="402018">%null%</text>
+<text id="402019">%null%</text>
+<text id="402020">入力された名前は不適切な文字列が含まれているため
+キャラクターの名前に利用できません
+
+別の名前を入力してください</text>
+<text id="402021">%null%</text>
+<text id="402022">%null%</text>
+<text id="402023">%null%</text>
+<text id="402024">%null%</text>
+<text id="402025">%null%</text>
+<text id="402026">%null%</text>
+<text id="402027">%null%</text>
+<text id="402028">%null%</text>
+<text id="402029">%null%</text>
+<text id="402030">性別を変更すると
+一部の編集情報が失われます
+
+よろしいですか？</text>
+<text id="402100">編集を完了しますか？</text>
+<text id="404001">初期設定を中断し
+タイトルに戻りますか？</text>
+<text id="404002">設定の保存に失敗しました
+
+再度保存を試みるには「リトライ」を選択してください
+
+保存せずに続行する際は「続ける」を選択してください</text>
+<text id="404003">%null%</text>
+<text id="404004">%null%</text>
+<text id="404005">%null%</text>
+<text id="404006">%null%</text>
+<text id="404007">%null%</text>
+<text id="404008">%null%</text>
+<text id="404009">%null%</text>
+<text id="404010">設定内容を破棄して
+前の画面に戻りますか？</text>
+<text id="406011">選択したプロファイルで開始します</text>
+<text id="406012">選択したプロファイルを削除して
+新たにゲームを始めますか？</text>
+<text id="406013">選択したプロファイルを削除します
+よろしいですか？</text>
+<text id="406014">%null%</text>
+<text id="406015">%null%</text>
+<text id="406016">%null%</text>
+<text id="406017">%null%</text>
+<text id="406018">%null%</text>
+<text id="406019">%null%</text>
+<text id="406020">ゲームのインストールが完了していないため
+インストール完了状態で作成したセーブデータは
+ロードできません</text>
+<text id="406021">ゲームのインストールが完了していないため
+セーブデータをロードできません</text>
+<text id="420000">現在の設定を
+お気に入り設定として保存しますか？</text>
+<text id="420001">既にお気に入り設定が存在します
+現在の設定を
+上書きして保存しますか？</text>
+<text id="420002">編集中の内容を破棄して
+お気に入り設定を読み込みますか？</text>
+<text id="420003">%null%</text>
+<text id="420004">%null%</text>
+<text id="420005">%null%</text>
+<text id="420006">%null%</text>
+<text id="420007">%null%</text>
+<text id="420008">%null%</text>
+<text id="420009">%null%</text>
+<text id="420010">お気に入り設定が保存されていません</text>
+<text id="506000">所持および格納上限を超えてしまうため
+入手できなかったアイテムがあります</text>
+<text id="506001">所持および格納上限を超えてしまうため
+&lt;?itemName?&gt;
+を入手できませんでした</text>
+<text id="506002">所持および格納上限を超えてしまうため
+&lt;?itemName?&gt;
+の一部を入手できませんでした</text>
+<text id="600000">Bloodborne® Alpha Test版サービス利用規約
+
+12さい以下のおこさまは、ほごしゃのかたといっしょにおよみください。
+
+Bloodborne® Alpha Test版サービス（以下「本サービス」といいます）は、(株)ソニー・コンピュータエンタテインメント（以下「当社」といいます）が開発中のPlayStation®4向けソフトウェア「Bloodborne®」の製品版（以下「本ソフトウェア」といいます）の提供を行うためのテストを目的として、当社が運営するAlpha Test版サービスです。
+
+本サービスをご利用いただくためには、お客様にこの利用規約（以下「本規約」といいます）のすべてにご同意いただく必要があります。ご利用前に必ず本規約をお読みください。なお、お客様の本サービスのご利用には、本規約のほか、「Sony Entertainment Network利用規約（http://www.sonyentertainmentnetwork.com/ja-jp/terms-of-service/）」（以下「SEN利用規約」といいます）が適用されます。
+
+当社は、本規約の内容をお客様に予告することなく変更することがあります。
+常に最新の利用規約の内容をご確認ください。
+
+第１条（本サービスのご利用）
+１．本サービスは、PlayStation®Plusにご加入のお客様のみご利用いただけます。本サービスをご利用いただくには、PlayStation®4本体と、インターネットに接続できる通信環境および当社がお客様に提供するプロダクトコードが必要となります。
+
+２．本サービスのご利用は無料です。ただし、インターネットに接続するための通信費用はお客様の負担となります。
+
+３．お客様は、本規約に同意のうえ本サービス向けソフトウェアをダウンロードした日から、当社の判断により本サービスが終了となるまでまたは第4条に該当するまで、本サービスをご利用いただくことができます。
+
+４．設備の定期的または緊急の保守・点検作業や天災等の不可抗力など、当社がやむを得ないと判断した場合、お客様に予告することなく本サービスの提供を中断または中止することがあります。
+
+第２条（本サービスの内容）
+１．本サービスには、特定非営利活動法人コンピュータエンターテインメントレーティング機構の審査におけるレーティング「D」（対象年齢17歳以上）に相当すると判断される過激なシーンやグロテスクな表現が含まれております。
+
+２．本サービスは、本ソフトウェアおよび本ソフトウェア向けサービスのテストを目的としたAlpha Test版サービスであり、その性質上、バグや瑕疵、誤動作、その他正常にプレイできない症状等の予期できない各種不具合が含まれる可能性があります。
+
+３．本サービスの内容は、お客様に予告することなく変更される場合があります。
+
+４．お客様が本サービスのご利用にともなって生成したデータは、本サービスにおいてのみ有効なものであり、本ソフトウェアまたは本ソフトウェア向けサービスに反映されず、引き継がれることもありません。
+
+５．本サービスに関するお客様のコメント、お客様のプレイ状況等、お客様が本サービスを利用したことにより発生するデータ等は、本サービスおよび本ソフトウェアの広告宣伝のために、お客様に事前に予告することなく、各種メディアに記事として掲載される可能性があります。
+
+６．当社は、本サービスの運用上、お客様に事前に予告することなくお客様のデータを消去または削除することがあります。
+
+第３条（免責）
+１．当社は、本サービスの完全性、正確性、有用性、無害性、お客様の利用目的との適合性等一切について、何ら保証するものではありません。
+
+２．当社は、お客様が本サービスおよび本サービス向けソフトウェアを利用したことにより、お客様または第三者に損害が生じた場合であっても一切責任を負いません。
+
+３．お客様が本サービスを利用したことにより、他のお客様または第三者に対して権利侵害その他の形で損害等を与えた場合、もしくは他のお客様との間で紛争が生じた場合、お客様が自己の責任と費用負担においてこれを解決するものとし、当社に損害を与えないよう必要な措置を講じなければならないものとします。
+
+４．当社は、理由の如何を問わず、お客様のデータの一部または全部が消失した場合、もしくは当社により削除または消去された場合であっても一切責任を負いません。
+
+５．当社は、理由の如何を問わず、本サービスの中断または停止によってお客様に損害が生じた場合であっても一切責任を負いません。
+
+第４条（禁止事項）
+１．お客様がSEN利用規約または本規約に違反する行為を行ったと当社が判断した場合、当社は何らの通知なくお客様の本サービスの利用を停止することおよびその他必要な措置をとることができます。
+
+第５条（個人情報の取扱い）
+１．当社は、お客様の個人情報について、お客様への連絡、本サービス、本ソフトウェアおよび本ソフトウェア向けサービスに関するアンケートの実施、その他本サービスを運営する上で必要となる各種の確認等のために使用します。
+
+２．個人情報の取扱いについては、本規約の他、ソニーグループ・プライバシーポリシー
+（http://www.jp.playstation.com/about/privacy.html）をご参照ください。
+
+第6条（その他）
+１．本サービスの各コンテンツおよびこれらに関するデータ（以下「コンテンツ等」といいます）の著作権その他一切の権利は、当社または当社のグループ会社に帰属します。
+お客様がコンテンツ等の一部または全部を複製（私的利用目的のものは除きます）、転用、二次利用することは法律により禁止されています。
+
+■お問合せ先
+「Bloodborne® Alpha Test版サービス」についてのお問い合わせ
+（株)ソニー・コンピュータエンタテインメント
+インフォメーションセンター
+http://www.jp.playstation.com/support/
+TEL：0570-000-929　（一部のIP電話でのご利用は　050-3754-9800）
+受付時間：10:00～18:00</text>
+<text id="600001">Bloodborne® Alpha Test版サービス利用規約
+
+12さい以下のおこさまは、ほごしゃのかたといっしょにおよみください。
+
+Bloodborne® Alpha Test版サービス（以下「本サービス」といいます）は、(株)ソニー・コンピュータエンタテインメント（以下「当社」といいます）が開発中のPlayStation®4向けソフトウェア「Bloodborne®」の製品版（以下「本ソフトウェア」といいます）の提供を行うためのテストを目的として、当社が運営するAlpha Test版サービスです。
+
+本サービスをご利用いただくためには、お客様にこの利用規約（以下「本規約」といいます）のすべてにご同意いただく必要があります。ご利用前に必ず本規約をお読みください。なお、お客様の本サービスのご利用には、本規約のほか、「Sony Entertainment Network利用規約（http://www.sonyentertainmentnetwork.com/ja-jp/terms-of-service/）」（以下「SEN利用規約」といいます）が適用されます。
+
+当社は、本規約の内容をお客様に予告することなく変更することがあります。
+常に最新の利用規約の内容をご確認ください。
+
+第１条（本サービスのご利用）
+１．本サービスは、PlayStation®Plusにご加入のお客様のみご利用いただけます。本サービスをご利用いただくには、PlayStation®4本体と、インターネットに接続できる通信環境および当社がお客様に提供するプロダクトコードが必要となります。
+
+２．本サービスのご利用は無料です。ただし、インターネットに接続するための通信費用はお客様の負担となります。
+
+３．お客様は、本規約に同意のうえ本サービス向けソフトウェアをダウンロードした日から、当社の判断により本サービスが終了となるまでまたは第4条に該当するまで、本サービスをご利用いただくことができます。
+
+４．設備の定期的または緊急の保守・点検作業や天災等の不可抗力など、当社がやむを得ないと判断した場合、お客様に予告することなく本サービスの提供を中断または中止することがあります。
+
+第２条（本サービスの内容）
+１．本サービスには、特定非営利活動法人コンピュータエンターテインメントレーティング機構の審査におけるレーティング「D」（対象年齢17歳以上）に相当すると判断される過激なシーンやグロテスクな表現が含まれております。
+
+２．本サービスは、本ソフトウェアおよび本ソフトウェア向けサービスのテストを目的としたAlpha Test版サービスであり、その性質上、バグや瑕疵、誤動作、その他正常にプレイできない症状等の予期できない各種不具合が含まれる可能性があります。
+
+３．本サービスの内容は、お客様に予告することなく変更される場合があります。
+
+４．お客様が本サービスのご利用にともなって生成したデータは、本サービスにおいてのみ有効なものであり、本ソフトウェアまたは本ソフトウェア向けサービスに反映されず、引き継がれることもありません。
+
+５．本サービスに関するお客様のコメント、お客様のプレイ状況等、お客様が本サービスを利用したことにより発生するデータ等は、本サービスおよび本ソフトウェアの広告宣伝のために、お客様に事前に予告することなく、各種メディアに記事として掲載される可能性があります。
+
+６．当社は、本サービスの運用上、お客様に事前に予告することなくお客様のデータを消去または削除することがあります。
+
+第３条（免責）
+１．当社は、本サービスの完全性、正確性、有用性、無害性、お客様の利用目的との適合性等一切について、何ら保証するものではありません。
+
+２．当社は、お客様が本サービスおよび本サービス向けソフトウェアを利用したことにより、お客様または第三者に損害が生じた場合であっても一切責任を負いません。
+
+３．お客様が本サービスを利用したことにより、他のお客様または第三者に対して権利侵害その他の形で損害等を与えた場合、もしくは他のお客様との間で紛争が生じた場合、お客様が自己の責任と費用負担においてこれを解決するものとし、当社に損害を与えないよう必要な措置を講じなければならないものとします。
+
+４．当社は、理由の如何を問わず、お客様のデータの一部または全部が消失した場合、もしくは当社により削除または消去された場合であっても一切責任を負いません。
+
+５．当社は、理由の如何を問わず、本サービスの中断または停止によってお客様に損害が生じた場合であっても一切責任を負いません。
+
+第４条（禁止事項）
+１．お客様がSEN利用規約または本規約に違反する行為を行ったと当社が判断した場合、当社は何らの通知なくお客様の本サービスの利用を停止することおよびその他必要な措置をとることができます。
+
+第５条（個人情報の取扱い）
+１．当社は、お客様の個人情報について、お客様への連絡、本サービス、本ソフトウェアおよび本ソフトウェア向けサービスに関するアンケートの実施、その他本サービスを運営する上で必要となる各種の確認等のために使用します。
+
+２．個人情報の取扱いについては、本規約の他、ソニーグループ・プライバシーポリシー
+（http://www.jp.playstation.com/about/privacy.html）をご参照ください。
+
+第6条（その他）
+１．本サービスの各コンテンツおよびこれらに関するデータ（以下「コンテンツ等」といいます）の著作権その他一切の権利は、当社または当社のグループ会社に帰属します。
+お客様がコンテンツ等の一部または全部を複製（私的利用目的のものは除きます）、転用、二次利用することは法律により禁止されています。
+
+■お問合せ先
+「Bloodborne® Alpha Test版サービス」についてのお問い合わせ
+（株)ソニー・コンピュータエンタテインメント
+インフォメーションセンター
+http://www.jp.playstation.com/support/
+TEL：0570-000-929　（一部のIP電話でのご利用は　050-3754-9800）
+受付時間：10:00～18:00</text>
+<text id="600002">Bloodborne® Alpha Test版サービス利用規約
+
+12さい以下のおこさまは、ほごしゃのかたといっしょにおよみください。
+
+Bloodborne® Alpha Test版サービス（以下「本サービス」といいます）は、(株)ソニー・コンピュータエンタテインメント（以下「当社」といいます）が開発中のPlayStation®4向けソフトウェア「Bloodborne®」の製品版（以下「本ソフトウェア」といいます）の提供を行うためのテストを目的として、当社が運営するAlpha Test版サービスです。
+
+本サービスをご利用いただくためには、お客様にこの利用規約（以下「本規約」といいます）のすべてにご同意いただく必要があります。ご利用前に必ず本規約をお読みください。なお、お客様の本サービスのご利用には、本規約のほか、「Sony Entertainment Network利用規約（http://www.sonyentertainmentnetwork.com/ja-jp/terms-of-service/）」（以下「SEN利用規約」といいます）が適用されます。
+
+当社は、本規約の内容をお客様に予告することなく変更することがあります。
+常に最新の利用規約の内容をご確認ください。
+
+第１条（本サービスのご利用）
+１．本サービスは、PlayStation®Plusにご加入のお客様のみご利用いただけます。本サービスをご利用いただくには、PlayStation®4本体と、インターネットに接続できる通信環境および当社がお客様に提供するプロダクトコードが必要となります。
+
+２．本サービスのご利用は無料です。ただし、インターネットに接続するための通信費用はお客様の負担となります。
+
+３．お客様は、本規約に同意のうえ本サービス向けソフトウェアをダウンロードした日から、当社の判断により本サービスが終了となるまでまたは第4条に該当するまで、本サービスをご利用いただくことができます。
+
+４．設備の定期的または緊急の保守・点検作業や天災等の不可抗力など、当社がやむを得ないと判断した場合、お客様に予告することなく本サービスの提供を中断または中止することがあります。
+
+第２条（本サービスの内容）
+１．本サービスには、特定非営利活動法人コンピュータエンターテインメントレーティング機構の審査におけるレーティング「D」（対象年齢17歳以上）に相当すると判断される過激なシーンやグロテスクな表現が含まれております。
+
+２．本サービスは、本ソフトウェアおよび本ソフトウェア向けサービスのテストを目的としたAlpha Test版サービスであり、その性質上、バグや瑕疵、誤動作、その他正常にプレイできない症状等の予期できない各種不具合が含まれる可能性があります。
+
+３．本サービスの内容は、お客様に予告することなく変更される場合があります。
+
+４．お客様が本サービスのご利用にともなって生成したデータは、本サービスにおいてのみ有効なものであり、本ソフトウェアまたは本ソフトウェア向けサービスに反映されず、引き継がれることもありません。
+
+５．本サービスに関するお客様のコメント、お客様のプレイ状況等、お客様が本サービスを利用したことにより発生するデータ等は、本サービスおよび本ソフトウェアの広告宣伝のために、お客様に事前に予告することなく、各種メディアに記事として掲載される可能性があります。
+
+６．当社は、本サービスの運用上、お客様に事前に予告することなくお客様のデータを消去または削除することがあります。
+
+第３条（免責）
+１．当社は、本サービスの完全性、正確性、有用性、無害性、お客様の利用目的との適合性等一切について、何ら保証するものではありません。
+
+２．当社は、お客様が本サービスおよび本サービス向けソフトウェアを利用したことにより、お客様または第三者に損害が生じた場合であっても一切責任を負いません。
+
+３．お客様が本サービスを利用したことにより、他のお客様または第三者に対して権利侵害その他の形で損害等を与えた場合、もしくは他のお客様との間で紛争が生じた場合、お客様が自己の責任と費用負担においてこれを解決するものとし、当社に損害を与えないよう必要な措置を講じなければならないものとします。
+
+４．当社は、理由の如何を問わず、お客様のデータの一部または全部が消失した場合、もしくは当社により削除または消去された場合であっても一切責任を負いません。
+
+５．当社は、理由の如何を問わず、本サービスの中断または停止によってお客様に損害が生じた場合であっても一切責任を負いません。
+
+第４条（禁止事項）
+１．お客様がSEN利用規約または本規約に違反する行為を行ったと当社が判断した場合、当社は何らの通知なくお客様の本サービスの利用を停止することおよびその他必要な措置をとることができます。
+
+第５条（個人情報の取扱い）
+１．当社は、お客様の個人情報について、お客様への連絡、本サービス、本ソフトウェアおよび本ソフトウェア向けサービスに関するアンケートの実施、その他本サービスを運営する上で必要となる各種の確認等のために使用します。
+
+２．個人情報の取扱いについては、本規約の他、ソニーグループ・プライバシーポリシー
+（http://www.jp.playstation.com/about/privacy.html）をご参照ください。
+
+第6条（その他）
+１．本サービスの各コンテンツおよびこれらに関するデータ（以下「コンテンツ等」といいます）の著作権その他一切の権利は、当社または当社のグループ会社に帰属します。
+お客様がコンテンツ等の一部または全部を複製（私的利用目的のものは除きます）、転用、二次利用することは法律により禁止されています。
+
+■お問合せ先
+「Bloodborne® Alpha Test版サービス」についてのお問い合わせ
+（株)ソニー・コンピュータエンタテインメント
+インフォメーションセンター
+http://www.jp.playstation.com/support/
+TEL：0570-000-929　（一部のIP電話でのご利用は　050-3754-9800）
+受付時間：10:00～18:00</text>
+<text id="600003">Bloodborne® Alpha Test版サービス利用規約
+
+12さい以下のおこさまは、ほごしゃのかたといっしょにおよみください。
+
+Bloodborne® Alpha Test版サービス（以下「本サービス」といいます）は、(株)ソニー・コンピュータエンタテインメント（以下「当社」といいます）が開発中のPlayStation®4向けソフトウェア「Bloodborne®」の製品版（以下「本ソフトウェア」といいます）の提供を行うためのテストを目的として、当社が運営するAlpha Test版サービスです。
+
+本サービスをご利用いただくためには、お客様にこの利用規約（以下「本規約」といいます）のすべてにご同意いただく必要があります。ご利用前に必ず本規約をお読みください。なお、お客様の本サービスのご利用には、本規約のほか、「Sony Entertainment Network利用規約（http://www.sonyentertainmentnetwork.com/ja-jp/terms-of-service/）」（以下「SEN利用規約」といいます）が適用されます。
+
+当社は、本規約の内容をお客様に予告することなく変更することがあります。
+常に最新の利用規約の内容をご確認ください。
+
+第１条（本サービスのご利用）
+１．本サービスは、PlayStation®Plusにご加入のお客様のみご利用いただけます。本サービスをご利用いただくには、PlayStation®4本体と、インターネットに接続できる通信環境および当社がお客様に提供するプロダクトコードが必要となります。
+
+２．本サービスのご利用は無料です。ただし、インターネットに接続するための通信費用はお客様の負担となります。
+
+３．お客様は、本規約に同意のうえ本サービス向けソフトウェアをダウンロードした日から、当社の判断により本サービスが終了となるまでまたは第4条に該当するまで、本サービスをご利用いただくことができます。
+
+４．設備の定期的または緊急の保守・点検作業や天災等の不可抗力など、当社がやむを得ないと判断した場合、お客様に予告することなく本サービスの提供を中断または中止することがあります。
+
+第２条（本サービスの内容）
+１．本サービスには、特定非営利活動法人コンピュータエンターテインメントレーティング機構の審査におけるレーティング「D」（対象年齢17歳以上）に相当すると判断される過激なシーンやグロテスクな表現が含まれております。
+
+２．本サービスは、本ソフトウェアおよび本ソフトウェア向けサービスのテストを目的としたAlpha Test版サービスであり、その性質上、バグや瑕疵、誤動作、その他正常にプレイできない症状等の予期できない各種不具合が含まれる可能性があります。
+
+３．本サービスの内容は、お客様に予告することなく変更される場合があります。
+
+４．お客様が本サービスのご利用にともなって生成したデータは、本サービスにおいてのみ有効なものであり、本ソフトウェアまたは本ソフトウェア向けサービスに反映されず、引き継がれることもありません。
+
+５．本サービスに関するお客様のコメント、お客様のプレイ状況等、お客様が本サービスを利用したことにより発生するデータ等は、本サービスおよび本ソフトウェアの広告宣伝のために、お客様に事前に予告することなく、各種メディアに記事として掲載される可能性があります。
+
+６．当社は、本サービスの運用上、お客様に事前に予告することなくお客様のデータを消去または削除することがあります。
+
+第３条（免責）
+１．当社は、本サービスの完全性、正確性、有用性、無害性、お客様の利用目的との適合性等一切について、何ら保証するものではありません。
+
+２．当社は、お客様が本サービスおよび本サービス向けソフトウェアを利用したことにより、お客様または第三者に損害が生じた場合であっても一切責任を負いません。
+
+３．お客様が本サービスを利用したことにより、他のお客様または第三者に対して権利侵害その他の形で損害等を与えた場合、もしくは他のお客様との間で紛争が生じた場合、お客様が自己の責任と費用負担においてこれを解決するものとし、当社に損害を与えないよう必要な措置を講じなければならないものとします。
+
+４．当社は、理由の如何を問わず、お客様のデータの一部または全部が消失した場合、もしくは当社により削除または消去された場合であっても一切責任を負いません。
+
+５．当社は、理由の如何を問わず、本サービスの中断または停止によってお客様に損害が生じた場合であっても一切責任を負いません。
+
+第４条（禁止事項）
+１．お客様がSEN利用規約または本規約に違反する行為を行ったと当社が判断した場合、当社は何らの通知なくお客様の本サービスの利用を停止することおよびその他必要な措置をとることができます。
+
+第５条（個人情報の取扱い）
+１．当社は、お客様の個人情報について、お客様への連絡、本サービス、本ソフトウェアおよび本ソフトウェア向けサービスに関するアンケートの実施、その他本サービスを運営する上で必要となる各種の確認等のために使用します。
+
+２．個人情報の取扱いについては、本規約の他、ソニーグループ・プライバシーポリシー
+（http://www.jp.playstation.com/about/privacy.html）をご参照ください。
+
+第6条（その他）
+１．本サービスの各コンテンツおよびこれらに関するデータ（以下「コンテンツ等」といいます）の著作権その他一切の権利は、当社または当社のグループ会社に帰属します。
+お客様がコンテンツ等の一部または全部を複製（私的利用目的のものは除きます）、転用、二次利用することは法律により禁止されています。
+
+■お問合せ先
+「Bloodborne® Alpha Test版サービス」についてのお問い合わせ
+（株)ソニー・コンピュータエンタテインメント
+インフォメーションセンター
+http://www.jp.playstation.com/support/
+TEL：0570-000-929　（一部のIP電話でのご利用は　050-3754-9800）
+受付時間：10:00～18:00</text>
+<text id="600100">同意する</text>
+<text id="600101">同意する</text>
+<text id="600102">同意する</text>
+<text id="600103">同意する</text>
+<text id="600200">同意しない</text>
+<text id="600201">同意しない</text>
+<text id="600202">同意しない</text>
+<text id="600203">同意しない</text>
+<text id="600300">利用規約</text>
+<text id="600301">利用規約</text>
+<text id="600302">利用規約</text>
+<text id="600303">利用規約</text>
+<text id="600400">決定</text>
+<text id="600401">決定</text>
+<text id="600402">決定</text>
+<text id="600403">決定</text>
+<text id="600500">スクロール</text>
+<text id="600501">スクロール</text>
+<text id="600502">スクロール</text>
+<text id="600503">スクロール</text>
+<text id="600600">選択</text>
+<text id="600601">選択</text>
+<text id="600602">選択</text>
+<text id="600603">選択</text>
+<text id="601000">Alpha Test Program Participation Agreement 
+
+PLEASE READ THIS ENTIRE ALPHA TEST PROGRAM PARTICIPATION AGREEMENT (“AGREEMENT”) AND INDICATE WHETHER YOU AGREE TO ITS TERMS BY EITHER (I) ACCESSING OR DOWNLOADING ANY OF THE ALPHA MATERIALS; OR (II) BY CLICKING THE “YES” OR “I ACCEPT” BUTTON. 
+
+THIS AGREEMENT IS BETWEEN YOU AND SONY COMPUTER ENTERTAINMENT AMERICA LLC (“SCEA”) AND CAN BE ACCEPTED ONLY BY AN ADULT 18 YEARS OR OLDER. IN ADDITION, YOU MAY BE SUBJECT TO ADDITIONAL TERMS AND CONDITIONS OF SCEA OR A THIRD PARTY PUBLISHER FOR CERTAIN ALPHA MATERIALS. PLEASE REVIEW THOSE ADDITIONAL TERMS AND CONDITIONS CAREFULLY. IF YOU DO NOT MEET THE AGE REQUIREMENT OR DO NOT AGREE TO ALL APPLICABLE TERMS AND CONDITIONS, PLEASE DO NOT ACCESS OR DOWNLOAD THE ALPHA MATERIALS. OTHERWISE, YOUR ACCESS OR DOWNLOAD OF ANY ALPHA MATERIALS MEANS THAT YOU HAVE ACCEPTED ALL TERMS AND CONDITIONS.
+
+1. Alpha Materials and Program. SCEA will provide you with software, documentation and access to the alpha testing website (“Alpha Materials”) that is required for participation in the alpha test program (“Program”). The Program may include Alpha Materials published by SCEA or its third-party publishers. Program participation is subject to this Agreement’s terms and will require you to have access to the internet and certain hardware and equipment that are not provided to you by SCEA. SCEA may terminate this Program at any time without cause or advance notice to you.
+
+2. Participant Feedback. SCEA or its authorized third parties may obtain information from you regarding the use of the Alpha Materials or your participation in the Program, including information such as online or gaming communications or activities. Notwithstanding any selections you may have made previously to decline to receive information from SCEA or to be contacted by SCEA, SCEA may contact you to solicit information on your use of Alpha Materials. You agree to provide information to SCEA regarding your experiences using Alpha Materials, such as the connectivity and usability of Alpha Materials. Your desired responses may include responding to surveys or reporting bug problems. Information you provide to SCEA in connection with the Program, including ideas or inventions collected by SCEA is referred to as “Feedback.” You agree that Feedback (i) contains your original ideas or invention and is provided by you to SCEA without payment or conditions; (ii) once conveyed to SCEA, becomes the property and confidential information of SCEA; (iii) may be used or distributed by SCEA for any purpose in connection with Alpha Materials or development of any other product or services, including disclosure of such information to affiliates, subsidiaries or third-party developers and publishers; and (iv) permits SCEA to collect and use your personal information in connection with the Program, provided that SCEA does not distribute that information to non-affiliated third parties without your permission or as otherwise stated in the applicable privacy policy. 
+
+3. Ownership of the Program and Alpha Materials. SCEA, its affiliates or both own the Program, the Alpha Materials and the intellectual property rights associated with them. You may not copy, distribute, sell, license, loan or transfer the Alpha Materials. You shall keep the Alpha Materials in your possession, custody and control and take reasonable efforts to prevent others from using those materials. You will be responsible for any loss or damage to the Alpha Materials or to SCEA’s intellectual property rights in those materials, including loss or damage resulting from the disclosure of Alpha Materials or Program information.
+
+4. User Generated Content.  The Alpha Materials may include tools that give you the ability to communicate with other players and to create, post and distribute various forms of content for and in connection with the Program, including but not limited to pictures, photographs, videos, game-related materials (including levels and characters) and other information (individually and collectively, “User Generated Content”).  You acknowledge that SCEA and the other creators of User Generated Content have rights in their respective content under copyright and other applicable laws, and that except as expressly described in this Agreement, such rights are not licensed or otherwise transferred to you. You accept full responsibility and liability for your use of any User Generated Content in violation of any such rights.
+ You agree that you will not create, transfer, share, send, submit or upload any User Generated Content that:
+(a) is protected by copyright, patent, trademark or trade secret or otherwise subject to third-party proprietary rights, including but not limited to rights of privacy and publicity (unless you are or have permission from the rightful owner);
+(b) contains fraudulent statements or misrepresentations that could damage SCEA or any third party;
+(c) contains any statements or materials that disparage, ridicule or scorn SCEA or any third party;
+(d) is obscene, defamatory, threatening, harassing, predatory, pornographic, hateful, racially or ethnically offensive, or encourages conduct that would violate any law or is otherwise inappropriate; 
+(e) is an advertisement or solicitation of business;
+(f) is an impersonation of another person; or  
+(g) violates any of the rules of Online Conduct, other terms of this Agreement, terms of the PSN Terms of Service and Usage Agreement or any other terms related to this Program.  
+ You agree that SCEA is not responsible or liable for User Generated Content submitted or posted by you or by others. SCEA does not claim ownership of any User Generated Content that you submit or make available as part of the Program, and SCEA expressly disclaims any and all liability in connection with any User Generated Content.  SCEA has no duty to pre-screen User Generated Content.
+ SCEA has the right to edit, remove, block or refuse to post any submitted User Generated Content from any network or Internet site, including but not limited to the PlayStation® Network, for any reason without prior notice, but assumes no obligation to do so and is not responsible for any failure or delay in doing so.
+ You hereby appoint SCEA as your attorney-in-fact to request from third parties removal under the Digital Millennium Copyright Act or other applicable law or basis, in SCEA’s discretion, of any of your User Generated Content posted on a third party network or Internet site.  You agree to not contest SCEA’s request for removal of your User Generated Content from such network or Internet site.  You also agree to execute all documents, as requested by SCEA, to effect such removal.
+  
+5.  SCEA’s License of User Generated Content.   
+(a)  By posting, transferring, sharing or sending User Generated Content in any manner, you hereby grant SCEA, its affiliates, licensors and distributors and other users of the Software a non-exclusive, worldwide, fully paid-up, transferable, irrevocable, royalty-free and perpetual license to modify, adapt, translate, create derivative works from, and perform and display your User Generated Content;
+(b)  By submitting or uploading User Generated Content in any manner to SCEA, you hereby grant SCEA, its affiliates, licensors and distributors a non-exclusive, worldwide, fully paid-up, transferable, irrevocable, royalty-free and perpetual license to publish and distribute your User Generated Content (for free or for profit) and to use your User Generated Content for marketing and promotional purposes in conjunction with the Program, the game, any PlayStation computer entertainment system or any other aspect of SCEA’s business; and
+(c)  You hereby:
+(i)  Acknowledge that you have received good and valuable consideration from SCEA for the license of the rights in your User Generated Content under this Agreement;
+(ii)   Agree that your creation or distribution of User Generated Content is not in any way based upon any expectation of compensation from SCEA, its affiliates, licensors or distributors;
+(iii)  Agree that SCEA, its affiliates, licensors and distributors may - but are not required to - use your name, username, or applicable trademarks in connection with the distribution of your User Generated Content; and
+(iv)  Warrant and represent that: (A) you created your User Generated Content; (B) you have all necessary rights to your User Generated Content to fulfill your obligations under this Agreement; and (C) your User Generated Content does not infringe on the intellectual property or other rights of any third party and is not obscene, defamatory, offensive or an advertisement or solicitation of business.
+
+6. Confidential Nature of Alpha Materials, Program. You acknowledge and agree that:
+
+(a) Alpha Materials, the Program and any information regarding your use of Alpha Materials, whether shared with SCEA or not, are SCEA’s confidential information. You will use Alpha Materials only in your home solely for the purpose of testing the Alpha Materials in connection with the Program, and you will not transfer, distribute or disclose any of the Alpha Materials, Feedback, or any information in connection with the Program to any third party, including through a public exhibition or display of this information. You will not discuss your experience with Alpha Materials with </text>
+<text id="601001">Accord de Participation au Programme de Alpha Test 
+
+MERCI DE LIRE ENTIÈREMENT CET ACCORD DE PARTICIPATION AU PROGRAMME DE ALPHA TEST (« ACCORD ») ET D'INDIQUER QUE VOUS ACCEPTEZ LES TERMES SOIT EN (I) TÉLÉCHARGEANT OU EN ACCÉDANT À DES CONTENUS DE L’ALPHA ; OU (II) EN CLIQUANT SUR LE BOUTON « OUI » OU « J'ACCEPTE ». 
+
+LE PRÉSENT ACCORD EST UN CONTRAT ENTRE VOUS ET SONY COMPUTER ENTERTAINMENT AMERICA LLC (« SCEA ») ET NE PEUT ÊTRE ACCEPTÉ QUE PAR UN ADULTE DE 18 ANS OU PLUS. AFIN D'ACCÉDER À CERTAINS CONTENUS DE L’ALPHA, IL PEUT VOUS ÊTRE DEMANDÉ D'ACCEPTER DES CONDITIONS D'UTILISATION SUPPLÉMENTAIRES PROVENANT DE SCEA OU D'UN ÉDITEUR TIERS. VEUILLEZ EXAMINER ATTENTIVEMENT LES TERMES ET CONDITIONS SUPPLÉMENTAIRES. SI VOUS NE REMPLISSEZ PAS LA CONDITION D'ÂGE OU SI VOUS N'ACCEPTEZ PAS LES TERMES ET CONDITIONS D'UTILISATION APPLICABLES, VOUS NE DEVEZ PAS TÉLÉCHARGER OU ACCÉDER À DES CONTENUS DE L’ALPHA. TÉLÉCHARGER OU ACCÉDER À DES CONTENUS DE L’ALPHA SIGNIFIE QUE VOUS ACCEPTEZ L'INTÉGRALITÉ DES TERMES ET CONDITIONS D'UTILISATION.
+
+1. Contenus de l’Alpha et Programme. SCEA vous fournira le logiciel, la documentation et l'accès au site Web du Alpha test ("Contenus de l’Alpha") nécessaires pour participer au programme de Alpha test ("Programme"). Le Programme peut comprendre des Contenus de l’Alpha publiés par SCEA ou par un de ses éditeurs tiers. La participation au Programme est soumise aux termes de l'Accord et nécessite une connexion Internet ainsi que du matériel et des équipements non fournis par SCEA. SCEA peut résilier ce Programme à tout moment sans qu'aucune raison ou préavis ne vous soit adressé.
+
+2. Opinion du participant. SCEA ou des tierces parties autorisées peuvent recueillir des informations relatives à votre utilisation des Contenus de l’Alpha ou à votre participation au Programme, y compris des informations relatives à vos communications ou vos activités en ligne ou liées au jeu. Nonobstant toute sélection effectuée précédemment pour refuser de recevoir des informations de la part de SCEA ou d'être contacté par SCEA, SCEA peut vous contacter afin d'obtenir des informations sur votre utilisation des Contenus de l’Alpha. Vous acceptez de fournir à SCEA des informations relatives à vos expériences d'utilisation des Contenus de l’Alpha, comme la connectivité ou l'utilisabilité des Contenus de l’Alpha. Les informations requises peuvent comprendre des réponses à des questionnaires ou des rapports de bugs. Les informations relatives au Programme que vous fournissez à SCEA, y compris des idées ou des inventions collectées par SCEA, sont appelées "Opinion". Vous acceptez que votre Opinion (i) contienne vos idées et inventions originales, et que ce service vous soit fourni par SCEA gratuitement et sans conditions ; (ii) devienne propriété et information confidentielle de SCEA une fois transmise à SCEA ; (iii) soit utilisée ou distribuée par SCEA pour un usage lié aux Contenus de l’Alpha ou au développement de n'importe quel autre produit ou service, et que de telles informations soient divulguées à ses filiales, sociétés apparentées ou développeurs et éditeurs tiers ; et (iv) permette à SCEA de collecter et d'utiliser vos informations personnelles liées au Programme pour autant que, ce faisant, SCEA ne distribue pas ces informations à des tierces parties non affiliées sans permission de votre part, sauf disposition contraire stipulée dans la politique de confidentialité applicable. 
+
+3. Propriété du Programme et Contenus de l’Alpha. Le Programme, les Contenus de l’Alpha et tout droit de propriété intellectuelle appartiennent à SCEA, ses filiales ou aux deux. Vous n'êtes pas autorisé à copier, distribuer, vendre, communiquer ou transférer les Contenus de l’Alpha. Vous devez conserver la possession, la garde et le contrôle des Contenus de l’Alpha et vous efforcer d'empêcher des tierces personnes d'utiliser ces contenus. Vous serez tenu responsable des pertes ou des dommages occasionnés aux Contenus de l’Alpha ou aux droits de propriété intellectuelle de SCEA relatifs à ces contenus, y compris des pertes ou des dommages résultant de la divulgation des Contenus de l’Alpha ou d'informations liés au Programme.
+
+4. Contenu généré par l'utilisateur.  Les Contenus de l’Alpha peuvent comprendre des outils vous permettant de communiquer avec d'autres joueurs et de créer, publier et distribuer diverses formes de contenu en lien avec le Programme, y compris, mais non de façon limitative, des images, photos, vidéos, contenus relatifs au jeu (dont des niveaux et des caractères) et autres informations (individuellement et collectivement, « Contenu généré par l'utilisateur »).  Vous reconnaissez que SCEA et les autres créateurs de Contenu généré par l'utilisateur ont pleins droits sur leur contenu respectif protégé par le droit d'auteur et les autres lois applicables, et que, sauf expressément stipulé dans le présent Accord, ces droits ne vous sont pas réservés ou autrement transférés. Vous acceptez la pleine responsabilité de votre utilisation de tout Contenu généré par l'utilisateur faite en violation de ces droits.
+ Vous acceptez de ne pas créer, transférer, partager, envoyer, soumettre ou télécharger du Contenu généré par l'utilisateur qui :
+(a) est protégé par un droit d'auteur, un brevet, une marque de commerce ou un secret industriel ou assujetti de quelque autre manière aux droits de propriété intellectuelle d'un tiers, y compris, mais sans s'y limiter, le droit à la vie privée et le droit de publicité (à moins que vous ne soyez propriétaire desdits droits ou que leur propriétaire légal ne vous l'autorise) ;
+(b) contient des énoncés ou des représentations à caractère frauduleux, susceptibles de porter préjudice à SCEA ou à des tiers ;
+(c) contient des énoncés ou des contenus qui dénigrent ou ridiculisent SCEA ou des tiers ;
+(d) serait obscène, diffamatoire, menaçant, abusif, prédateur, pornographique, haineux, raciste, ou qui encourage une conduite qui viole une loi ou est inapproprié ;  
+(e) constitue une publicité ou une sollicitation d'affaires ;
+(f) usurpe l'identité d'une personne ; ou  
+(g) viole des règles relatives au comportement en ligne, d'autres modalités du présent Accord, les Conditions d'utilisation et Accord utilisateur PSN ou tout autre modalité se rapportant au présent Programme.  
+ Vous acceptez que SCEA ne puisse en aucun cas être tenu responsable du Contenu généré par l'utilisateur que vous ou toute autre personne aurez soumis ou publié. SCEA ne revendique pas la propriété du Contenu généré par l'utilisateur que vous soumettez ou mettez à disposition comme faisant partie du Programme, et SCEA décline expressément toute responsabilité en rapport avec ledit Contenu.  SCEA n'a aucun devoir de prévisualisation du Contenu généré par l'utilisateur.
+ SCEA se réserve le droit de modifier, supprimer, bloquer ou refuser de publier tout Contenu généré par l'utilisateur et soumis par l'entremise d'un réseau ou d'un site Internet, dont le réseau PlayStation®Network, pour quelque raison que ce soit et sans préavis, mais n'assume aucune obligation de le faire et n'est pas responsable de tout défaut ou retard en la matière.
+ Par la présente, vous désignez SCEA comme mandataire pour demander à des tierces personnes de supprimer, en vertu du Digital Millennium Copyright Act des États-Unis ou de toute autre loi ou tout instrument applicable, à la discrétion de SCEA, un Contenu généré par l'utilisateur publié sur un réseau ou un site Internet de tiers.  Vous convenez de ne pas contester une demande de SCEA de supprimer votre Contenu généré par l'utilisateur desdits réseaux ou sites Internet.  Vous convenez également de signer tous les documents, tel que demandé par SCEA, pour procéder à cette suppression.
+  
+5.  Licence de SCEA relative au Contenu généré par l'utilisateur.   
+(a)  En publiant, transférant, partageant ou envoyant du Contenu généré par l'utilisateur de quelque façon que ce soit, vous accordez à SCEA, ses sociétés affiliées, concédants et distributeurs et autres utilisateurs du Logiciel une licence mondiale non exclusive, intégralement payée, transférable, irrévocable, libre de redevances et perpétuelle leur donnant le droit de modifier, d'adapter, de traduire, de créer des produits dérivés et d'exécuter et afficher votre Contenu ;
+(b)  En soumettant ou téléchargeant du Contenu généré par l'utilisateur de quelque façon que ce soit vers SCEA, vous accordez à SCEA, ses sociétés affiliées, concédants et distributeurs et autres utilisateurs du Logiciel une licence mondiale non exclusive, intégralement payée, transférable, irrévocable, libre de redevances et perpétuelle leur donnant le droit de publier et distribuer votre Contenu (gratuitement ou non) et d'utiliser ce Contenu à des fins commerciales et promotionnelles conjointement avec le Programme, le jeu, ou un système de divertissement PlayStation ou tout autre aspect des activités de SCEA ;
+(c)  Par la présente vous :
+(i)  reconnaissez que vous avez reçu de SCEA la juste valeur de la contrepartie pour les droits d'exploitation dans votre Contenu généré par l'utilisateur dans le cadre du présent Accord ;
+(ii)   convenez que votre création ou distribution de Contenu généré par l'utilisateur n'est en aucune façon basée sur une attente de compensation de la part de SCEA, ses sociétés affiliées, concédants ou distributeurs ;
+(iii)  convenez que SCEA, ses sociétés affiliées, concédants et distributeurs peuvent (mais n'y sont pas tenus) utiliser votre nom, nom d'utilisateur ou vos marques de commerce applicables en corrélation avec la distribution de votre Contenu généré par l'utilisateur ;
+(iv)  garantissez et déclarez que : (A) vous avez créé votre Contenu généré par l'utilisateur ; (B) vous détenez tous les droits nécessaires liés à ce Contenu pour vous acquitter de toute obligation au titre des présentes; et (C) votre Contenu généré par l'utilisateur ne viole d'aucune façon la propriété intellectuelle ou tout autre droit de tiers et qu'il n'est pas de nature obscène, diffamatoire ou offensive ni ne constitue une publicité ou une sollicitation d'affaires.
+
+6. Caractère confidentiel des Contenus de l’Alpha et du Programme. Vous reconnaissez et acceptez que :
+
+(a) les Contenus de l’Alpha, le Programme et toute information relative à votre utilisation des Contenus de l’Alpha, transmise à SCEA ou pas, sont des informations confidentielles de SCEA. Vous utiliserez les Contenus de l’Alpha uniquement à votre domicile et seulement pour tester les Contenus de l’Alpha liés au Programme, et ne transférerez, ne distribuerez ou ne divulguerez aucun Contenu de l’Alpha, Opinion, ni aucune information relative au Programme à un tiers, y compris lors d'une démonstration publique ou d'un affichage de ces informations. Vous ne parlerez pas de votre expérience avec les Contenus de l’Alpha à des tiers ni ne publierez ou ne diffuserez aucune information relative à cette expérience ;
+
+(b) les Contenus de l’Alpha ne font pas l'objet de tests approfondis, sont des matériaux non finaux et ne sont pas destinés à une diffusion publique ;
+
+(c) les éléments présents dans les Contenus de l’Alpha peuvent ne pas l'être dans la version finale ;
+
+(d) les Contenus de l’Alpha peuvent porter un numéro de série afin d'être suivis et reliés à vous ;
+
+(e) la divulgation de tout Contenu de l’Alpha, de tout élément du Programme, de votre Opinion ou de votre expérience concernant les Contenus de l’Alpha ou le Programme à une tierce personne, y compris à la presse spécialisée ou grand public, à des agences de presse ou à n'importe quel concurrent de SCEA portera des préjudices importants et irréparables à SCEA, dont l'étendue peut être difficile à mesurer. Par conséquent, vous acceptez que SCEA puisse solliciter des mesures de redressement par injonction et d'autres recours judiciaires si vous manquez aux modalités de cet Accord.
+
+7. Déclarations et engagements du Participant. Vous déclarez et garantissez que vous :
+
+(a) n'avez aucune affection physique, telle que des antécédents de crises d'épilepsie ou de photosensibilité, que la pratique de jeux vidéo pourrait aggraver ou déclencher ; 
+
+(b) connaissez le risque qu'un défaut physique latent puisse être aggravé en participant à ce Programme ;
+
+(c) aurez un comportement responsable concernant votre participation au Programme et votre utilisation des Contenus de l’Alpha et de votre Opinion, suivant un code de conduite élémentaire et raisonnable ; 
+
+(d) ne porterez préjudice d'aucune façon à SCEA, sa société mère, sociétés apparentées, filiales ou éditeurs ;
+
+(e) prenez la responsabilité des actes des personnes que vous autorisez à utiliser les Contenus de l’Alpha, y compris les violations de cet Accord pouvant mener à la résiliation de votre compte PLAYSTATION®Network (“Comptes”);
+
+(f) informerez immédiatement SCEA si vous vous rendez compte que les Contenus de l’Alpha qui vous sont fournis par ce Programme sont distribués ou transférés à une tierce personne, et vous vous efforcerez de récupérer ces Contenus de l’Alpha et d'empêcher toute divulgation :
+
+(g) ne détournerez pas la propriété intellectuelle de SCEA ou d'une autre partie ;
+
+(h) ne rétro-compilerez, ne décompilerez ou ne désassemblerez pas les Contenus de l’Alpha, ne prendrez pas part à des transferts, diffusions, exports, imports ou transmissions de programmes non-autorisés et n'utiliserez aucun appareil dans le but de détourner les dispositifs d'authentification ;
+
+(i) lirez et vous familiariserez aux conditions d'utilisation du système PlayStation®3, aux avertissements et aux instructions concernant les Contenus de l’Alpha avant toute installation ou lancement de ces contenus.
+
+8. Limitations et Service. Certains FAI limitent le nombre d'appareils qui peuvent être connectés au service. Si vous n'êtes pas certain des termes de votre service, contactez votre FAI. Pour toute question relative à l'installation du produit et de l'installation du réseau, contactez le service consommateurs SCEA au (1) 800 345-7669. 
+
+9. Collecte de données. Certains Contenus de l’Alpha peuvent contenir des logiciels qui utilisent un dispositif d'authentification général ou "DNAS" (Dynamic Network Authentication System), un système d'authentification propriétaire créé par Sony Computer Entertainment Inc. ("SCEI"). Ces logiciels peuvent recueillir des informations sur le matériel et les logiciels d'un utilisateur pour l'authentification, la protection contre la copie, la propriété du compte, le système, les règles, la gestion du jeu et d'autres objectifs. Les informations collectées ne permettent pas d'identifier l'utilisateur personnellement. Cependant, un éditeur de logiciels peut relier ces informations à des informations conservées si l'utilisateur a fourni des informations d'identification personnelle à cet éditeur. Avant de fournir des informations d'identification personnelle à un éditeur, veuillez prendre connaissance de la politique de confidentialité, des termes et des conditions d'utilisation de cet éditeur. Ne fournissez aucune information d'identification personnelle à un éditeur à moins d'accepter ses conditions d’utilisation, termes et politique de confidentialité.
+
+10. Disponibilité des serveurs non garantie/exclusion. SCEA, SCEI, leurs filiales et sociétés apparentées ne garantissent pas l'activité continue des serveurs utilisés dans le cadre de ce Programme. SCEA n'est pas responsable de votre impossibilité à utiliser les Contenus de l’Alpha, des délais ou de la non-fonctionnalité des serveurs. Si vous recevez un message d'erreur en vous identifiant, veuillez contacter le département des services à la clientèle de SCEA au (1) 866 466-5333.
+
+11. DÉCLARATIONS ET GARANTIES NULLES. LES CONTENUS DE L’ALPHA, LE PROGRAMME, LES LOGICIELS ET LE MATÉRIEL FOURNIS PAR SCEA DANS LE CADRE DES TERMES DE CET ACCORD SONT FOURNIS "EN L'ÉTAT" ET, DANS LA MESURE AUTORISÉE PAR LA LOI, SCEA EXCLUT TOUTE GARANTIE OU DÉCLARATION EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE COMMERCIALISATION, D'ADAPTATION À UN OBJET PARTICULIER OU D'ABSENCE DE CONTREFAÇON. SANS SE LIMITER AUX ÉLÉMENTS PRÉCÉDENTS, SCEA NE GARANTIT PAS QUE VOUS PUISSIEZ UTILISER LES CONTENUS DE L’ALPHA EN LIGNE OU HORS LIGNE OU PARTICIPER AU PROGRAMME À TOUT MOMENT. DE TEMPS À AUTRE, LES PROBLÈMES QUI ÉCHAPPENT À TOUTE POSSIBILITÉ RAISONNABLE DE CONTRÔLE DE SCEA PEUVENT RALENTIR OU EMPÊCHER VOTRE ACCÈS AU PROGRAMME OU CAUSER LA NON-FONCTIONNALITÉ DES CONTENUS DE L’ALPHA. DANS LE CAS D'UN CONTENTIEUX CONCERNANT VOTRE UTILISATION DES CONTENUS DE L’ALPHA, DE MATÉRIEL OU DE LOGICIELS, VOUS ACCEPTEZ QUE L'ENTIÈRE RESPONSABILITÉ DE SCEA ET DE SES SOCIÉTÉS AFFILIÉES SOIT LIMITÉE À LA RÉPARATION OU AU REMPLACEMENT DES CONTENUS DE L’ALPHA AU GRÉ DE SCEA. SCEA OU UN ÉDITEUR PARTICIPANT SE RÉSERVENT LE DROIT D'INCLURE UNE VERSION À EXPIRATION AUTOMATIQUE ("BOMBE À RETARDEMENT") DU LOGICIEL OU DE CESSER D'HÉBERGER LE LOGICIEL À TOUT MOMENT. VOUS ACCEPTEZ QUE SCEA NE PUISSE ÊTRE TENU RESPONSABLE DE L'INTERRUPTION DE PROGRAMME POUR QUELQUE RAISON QUE CE SOIT. LA TOTALITÉ DES AUTRES LOGICIELS NON ÉDITÉS PAS SCEA SONT SEULE RESPONSABILITÉ DE L'ÉDITEUR CONCERNÉ. VEUILLEZ VÉRIFIER LES TERMES ET CONDITIONS D'UTILISATION LIÉS AU LOGICIEL AVANT DE JOUER. 
+
+12. GARANTIE LIMITÉE ET RECOURS. Vous acceptez que, nonobstant les dommages que vous pourriez subir pour quelque raison que ce soit (y compris des dommages directs ou généraux), l'entière responsabilité de SCEA et de toutes ses filiales, en application d'une disposition du présent Accord, ainsi que vos recours pour tous les éléments cités précédemment sont limités à dix dollars (10 $ U.S.). Les limitations précédentes, les exclusions et décharges s'appliquent dans la mesure autorisée par la loi applicable, même si le recours est déclaré irrecevable dans son objet essentiel. SCEA ou ses filiales ne seront en aucun cas responsables de tout dommage spécial, punitif, indirect ou consécutif.
+
+13. Fin de l'Accord/Résiliation. Vous pouvez résilier cet Accord à tout moment en supprimant tous les Contenus de l’Alpha électroniques et en renvoyant la copie papier des Contenus de l’Alpha qui vous a été envoyée et signifier votre résiliation par écrit en envoyant un mail à beta_test@playstation.sony.com. Vos Comptes privilégiés de participant peuvent être supprimés immédiatement si manquez aux termes et aux conditions d'utilisation de cet Accord ou si vous ne transmettez pas d'Opinion dans un délai raisonnable. SCEA se réserve aussi le droit de mettre fin à votre participation au Programme à n'importe quel moment et sans motif.
+
+14. Entente complète.  Cet Accord repose sur une entente complète entre vous et SCEA, qui gère le Programme et les Contenus de l’Alpha. Dans le cas d'un conflit entre cet Accord et les termes d'un accord passé avec une tierce partie comprenant une politique de confidentialité tierce, les termes du présent Accord l'emportent entre vous et SCEA.
+
+15. Loi applicable et tribunal compétent. Vous acceptez que les lois de l'État de Californie régissent les termes de cet Accord et votre participation au Programme.
+
+16. Questions. Si vous avez des questions concernant cet Accord, veuillez contacter Sony Computer Entertainment America LLC, Service juridique, 2207 Bridgepointe Parkway, San Mateo, CA 94404. Pour obtenir une version imprimable de cet Accord Alpha, cliquez sur http://www.us.playstation.com/support/UserAgreements.
+
+</text>
+<text id="601002">Acuerdo de participación en el programa de pruebas de la alpha 
+
+POR FAVOR, LEA ESTE ACUERDO (“ACUERDO”) DE PARTICIPACIÓN EN EL PROGRAMA DE PRUEBAS DE LA ALPHA POR COMPLETO E INDIQUE SI ACEPTA O NO LOS TÉRMINOS (I) ACCEDIENDO O DESCARGANDO CUALQUIER MATERIAL DE LA ALPHA; O (II) HACIENDO CLIC EN EL BOTÓN “SÍ” O “ACEPTO”. 
+
+ESTE ACUERDO ES ENTRE USTED Y SONY COMPUTER ENTERTAINMENT AMERICA LLC (“SCEA”) Y SOLAMENTE PUEDE ACEPTARSE POR UN ADULTO DE 18 AÑOS O MÁS. ASIMISMO, PUEDE ESTAR SUJETO A OTROS TÉRMINOS Y CONDICIONES DE SCEA O DE TERCEROS PARA CIERTOS MATERIALES DE LA ALPHA. POR FAVOR, REVISE CON ATENCIÓN ESOS TÉRMINOS Y CONDICIONES ADICIONALES. SI NO CUMPLE LOS REQUISITOS DEL ACUERDO O NO ESTÁ DE ACUERDO CON TODOS SUS TÉRMINOS Y CONDICIONES, POR FAVOR, NO ACCEDA NI DESCARGUE LOS MATERIALES DE LA ALPHA. DE LO CONTRARIO, SI ACCEDE O DESCARGA CUALQUIER MATERIAL DE LA ALPHA, ESTARÁ ACEPTANDO TODOS LOS TÉRMINOS Y CONDICIONES.
+
+1. Materiales y Programa de la alpha. SCEA le proporcionará el software, la documentación y el acceso al sitio web de prueba alpha (“Materiales Alpha”) que se requieren para la participación en el programa de prueba alpha (“Programa”). El Programa puede incluir Materiales de la alpha publicados por SCEA o por otras de sus compañías. La participación en el programa queda sujeta a estos Términos del acuerdo y será preciso que disponga de acceso a Internet, cierto hardware y equipo que SCEA no le provee. SCEA puede dar por terminado este Programa en cualquier momento sin justificación ni previo aviso.
+
+2. Comentarios de los participantes. SCEA o sus compañías autorizadas pueden obtener información de usted respecto al uso de los Materiales de la alpha o su participación en el Programa, incluyendo información sobre comunicaciones, actividades en línea o de juegos. Sin perjuicio de otras selecciones que haya realizado anteriormente para declinar recibir información de SCEA o para ser contactado por SCEA, SCEA podría contactar con usted para solicitarle información sobre el uso de los Materiales de la alpha. Usted accede a facilitar información a SCEA respecto a sus experiencias con el uso de los Materiales de la alpha, como la referida a la conectividad y facilidad de uso de los Materiales de la alpha. Las respuestas deseadas pueden incluir contestar encuestas o informar sobre errores. La información que proporcione a SCEA en relación al Programa, incluidas las ideas o inventos recopilados por SCEA, será referida como “Comentarios”. Está de acuerdo en que los Comentarios (i) contienen sus ideas o inventos originales y que se proporcionan a SCEA sin remuneración o condicionamientos; (ii) una vez entregados a SCEA, serán propiedad e información confidencial de SCEA; (iii) podrán ser usados o distribuidos por SCEA para cualquier propósito relacionado con los Materiales de la alpha o el desarrollo de cualquier otro producto o servicio, incluyendo la divulgación de dicha información entre sus filiales, subsidiarias o desarrolladores y editores de terceros; y (iv) permite a SCEA recopilar y usar su información personal referida al Programa, siempre que SCEA no divulgue dicha información a terceros no afiliados sin su permiso o contrario a lo establecido en la política de privacidad aplicable. 
+
+3. Propiedad del Programa y Materiales de la alpha. SCEA, sus filiales o ambos son propietarios del Programa, de los Materiales de la alpha y de los derechos de propiedad intelectual asociados con ellos. No debe copiar, distribuir, vender, licenciar, ceder o transferir los Materiales de la alpha. Debe guardar los Materiales de la alpha en su poder, custodia y control y realizar un esfuerzo razonable para evitar que otros los utilicen. Será responsable ante cualquier pérdida o daño que sufran los Materiales de la alpha o los derechos de propiedad intelectual de SCEA en esos materiales, incluyendo las pérdidas o daños resultantes de la divulgación de los Materiales de la alpha o la información del Programa.
+
+4. Contenido generado por el usuario.  Los Materiales Alpha pueden incluir herramientas que le darán la habilidad de poderse comunicar con otros jugadores y crear, publicar y distribuir distintos tipos de contenido para y en relación con el Programa, incluyendo pero no limitado a ilustraciones, fotografías, videos, materiales relacionados con el juego (incluyendo niveles y personajes) y otra información (individual y colectivamente, “Contenido generado por el usuario”).  Usted admite que SCEA y los otros creadores del Contenido generado por el usuario tienen los derechos de su contenido respectivo bajo los derechos de autor y otras leyes pertinentes, y que excepto que así se describa específicamente en este Acuerdo, tales derechos cuentan con licencia ni se transfieren de ninguna otra forma a su nombre. Acepta su plena responsabilidad por el uso de cualquier Contenido generado por el usuario que se considere en violación de cualquiera de estos derechos.
+ Está de acuerdo en que no creará, transferirá, compartirá, enviará ni subirá ningún Contenido generado por el usuario que:
+a) está protegido por copyright, patente, marca registrada o secreto comercial o sujeto de otra forma a los derechos de propiedad de terceros, incluyendo pero no limitado a los derechos de privacidad y publicidad (a menos de que usted sea dueño de los mismos o tenga su permiso);
+(b) contiene declaraciones fraudulentas o tergiversadas que pueden perjudicar a SCEA o algún tercero;
+(c) contiene declaraciones tergiversadas o materiales que menosprecian, ridiculizan o desdeñan a SCEA o a algún tercero;
+(d) es obsceno, difamatorio, amenazante, hostigador, rapaz, pornográfico, aborrecible, racial o étnicamente ofensivo, o que promueva una conducta que podría violar alguna ley o que sea inapropiada de cualquier otra forma; 
+(e) es un anuncio o solicitud de negocio;
+(f) es una suplantación de la identidad de otra persona; o  
+(g) viola cualquiera de las reglas de Conducta en línea, u otros términos de este Acuerdo, términos de las Condiciones del Servicio y Acuerdo de Uso de PSN u otros términos relacionados con este Programa.  
+ Está de acuerdo en que SCEA no se responsabiliza por el Contenido generado por el usuario que sea enviado o publicado por usted o por otros. SCEA no reclama la propiedad de cualquier Contenido generado por el usuario que usted envíe o facilite como parte del Programa, y SCEA renuncia de forma expresa a cualquier y toda responsabilidad relacionada con cualquier Contenido generado por el usuario.  SCEA no tiene el deber de realizar una evaluación preliminar del Contenido generado por el usuario.
+ SCEA tiene el derecho de editar, eliminar, bloquear o denegar la publicación de cualquier Contenido generado por el usuario enviado desde cualquier red o sitio de Internet, incluyendo pero sin limitarse a la PlayStation® Network, por cualquier razón sin notificación previa, pero no asume obligación alguna de hacerlo y no es responsable de ningún fallo o retraso para llevarlo a cabo.
+ Por el presente designa a SCEA como su apoderado legal para solicitar la eliminación de terceros bajo la Ley Digital del Milenio para los Derechos de Autor (DMCA) o cualquier otra ley o base, según el criterio de SCEA, de cualquiera de su Contenido generado por el usuario que haya sido publicado en una red o sitio de Internet de terceros.  Acepta no impugnar la solicitud de SCEA para la eliminación de su Contenido generado por el usuario de tal red o sitio de Internet.  También acepta ejecutar todos los documentos, como lo solicite SCEA, para hacer efectiva dicha eliminación.
+  
+5.  Licencia de SCEA del Contenido generado por el usuario.   
+(a)  Al publicar, transferir, compartir o enviar Contenido generado por el usuario de cualquier forma, por el presente otorga a SCEA, sus afiliados, licenciantes y distribuidores y otros usuarios del Software, una licencia no-exclusiva, mundial, pagada en su totalidad, transferible, irrevocable, exenta de regalías y perpetua, para modificar, adaptar, traducir, crear obras derivadas, y ejecutar y presentar su Contenido generado por el usuario;
+(b)  Al enviar o subir Contenido generado por el usuario de cualquier forma a SCEA, por el presente otorga a SCEA, sus afiliados, licenciantes y distribuidores, una licencia no-exclusiva, mundial, pagada en su totalidad, transferible, irrevocable, exenta de regalías y perpetua, para publicar y distribuir su Contenido generado por el usuario (gratuitamente o con fines de lucro) y para usar su Contenido generado por el usuario con fines de comercialización y promoción en relación con el Programa, el juego, cualquier sistema de entretenimiento informático PlayStation o cualquier otro aspecto del negocio de SCEA; y
+(c)  Por el presente:
+(i)  Acepta que ha recibido contraprestaciones onerosas de parte de SCEA para la licencia de los derechos en su Contenido generado por el usuario bajo este Acuerdo;
+(ii)   Acepta que su creación o distribución de Contenido generado por el usuario no está basado de ninguna manera en la expectativa de compensación por parte de SCEA, sus afiliados, licenciantes o distribuidores;
+(iii)  Acepta que SCEA, sus afiliados, licenciantes y distribuidores pueden - pero no están obligados a - usar su nombre, nombre de usuario, o marca comercial pertinente en relación con la distribución de su Contenido generado por el usuario; y
+(iv)  Garantiza y representa que: (A) usted ha creado su Contenido generado por el usuario; (B) tiene todos los derechos necesarios asociados con su Contenido generado por el usuario para llevar a cabo sus obligaciones bajo este Acuerdo; y (C) su Contenido generado por el usuario no infringe la propiedad intelectual u otros derechos de cualquier tercero y no es obsceno, difamatorio, ofensivo ni un anuncio o solicitud de negocio.
+
+6. Naturaleza confidencial de los materiales de la alpha y del Programa. Reconoce y acepta que:
+
+(a) Los Materiales de la alpha, el Programa y cualquier información relativa al uso de los Materiales de la alpha, compartidos o no con SCEA, son información confidencial de SCEA. Usará los Materiales de la alpha solamente en su casa y con el propósito de probar los Materiales de la alpha en relación con el Programa, y no transferirá, distribuirá o divulgará los Materiales de la alpha, la Información ni ninguna otra información en relación con el Programa a nadie, incluyendo exhibiciones públicas o presentaciones de esta información. No comentará su experiencia con los Materiales de la alpha con otros ni publicará o propagará información sobre dichas experiencias;
+
+(b) Los Materiales de la alpha no se prueban a fondo y son materiales preliminares no diseñados para el público en general;
+
+(c) Las funciones ofrecidas en los Materiales de la alpha pueden no estar disponibles en el producto final;
+
+(d) Los Materiales de la alpha pueden tener número de serie para su seguimiento e identificación;
+
+(e) la divulgación a otros, incluyendo medios de prensa, agencias de noticias o cualquier competidor de SCEA, de cualquier parte de los Materiales de la alpha, Programa, Comentarios o de sus experiencias con el uso de los Materiales de la alpha o del Programa, provocará un daño serio e irreparable a SCEA, hasta un extremo difícil de determinar. En consecuencia, acepta que SCEA tiene derecho a medidas cautelares, así como a recursos legales que pueden estar disponibles si incumple este Acuerdo.
+
+7. Garantías y representaciones de los participantes. Garantiza y representa que usted:
+
+(a) no sufre ninguna enfermedad, como epilepsia o historiales de fotosensibilidad, que podrían agravarse o desencadenarse mediante el uso de un videojuego; 
+
+(b) asume voluntariamente el riesgo de cualquier defecto físico latente que pudiera agravarse al participar en este Programa;
+
+(c) se comportará responsablemente respecto a la participación en el Programa y en el tratamiento de los Materiales de la alpha y de los Comentarios, siguiendo un código de conducta razonable y con sentido común; 
+
+(d) no causará daños de ninguna clase a SCEA, su compañía matriz, filiales, subsidiarias o editores;
+
+(e) accede a que, si permite que otro use los Materiales de la alpha, aceptará cualquier responsabilidad por su actos, incluyendo cualquier violación de este Acuerdo que podría resultar en la cancelación de su cuenta PLAYSTATION®Network (“Cuentas”);
+
+(f) notificará de inmediato a SCEA si tiene conocimiento de que los Materiales de la alpha que le han sido proporcionados como parte del Programa son distribuidos a un tercero, y se esforzará por recuperar dichos Materiales de la alpha y por evitar pérdidas posteriores.
+
+(g) No se apropiará indebidamente de la propiedad intelectual de SCEA o de cualquier otra parte;
+
+(h) no realizará actos de ingeniería inversa, descompilará o desmontará los Materiales de la alpha ni participará en la transferencia, exhibición, exportación, importación o transmisión de programas no autorizadas y no usará dispositivos para eludir ningún sistema de autenticación; y
+
+(i) leerá y se familiarizará con el uso del sistema PlayStation® y con las advertencias e instrucciones de los Materiales de la alpha antes de la instalación o configuración de los mismos.
+
+8. Limitaciones y servicio. Algunos proveedores de Internet limitan el número de dispositivos que se pueden conectar al servicio. Si no está seguro de sus términos del servicio, contacte con su proveedor. Para cualquier otra pregunta referida a la instalación del producto y la configuración de red, llame a Servicios al consumidor de SCEA al 1-800-345-7669. 
+
+9. Aceptación de la recolección de datos. Algunos Materiales de la alpha pueden contener software que usa una forma de autenticación o “DNAS” (Dynamic Network Authentication System), un sistema de autenticación de propiedad creado por Sony Computer Entertainment Inc. (“SCEI”). Dicho software puede recuperar información sobre el hardware y el software del usuario para su autenticación, protección de copia, reserva de cuenta, sistema, reglas, administración de juegos y otros propósitos. La información recopilada no identifica personalmente al usuario. Sin embargo, un editor de software puede combinar esta información con la de sus registros si el usuario le ha proporcionado información de identificación personal. Antes de proporcionar cualquier información personal a un editor, asegúrese de revisar su política de privacidad y los términos y condiciones de uso. No facilite información personal a un editor a menos que acepte las condiciones de uso y los términos de su política de privacidad.
+
+10. Ausencia de garantía de limitación de Servicio/Responsabilidad. SCEA, SCEI y cada una de sus subsidiarias y filiales no garantizan la continuidad del funcionamiento de los servidores usados en este Programa. SCEA no es responsable de que no pueda usar los Materiales de la alpha o de que se produzcan retrasos o fallos en los servidores. Si recibe un mensaje de error durante el inicio de sesión, llame a Servicios al consumidor de SCEA al 1-866-466-5333.
+
+11. AUSENCIA DE GARANTÍAS Y REPRESENTACIONES. LOS MATERIALES DE LA ALPHA, EL PROGRAMA Y CUALQUIER SOFTWARE O HARDWARE PROPORCIONADOS POR SCEA BAJO LOS TÉRMINOS DE ESTE ACUERDO SE SUMINISTRAN “TAL CUAL” Y, HASTA LO MÁXIMO PERMITIDO POR LA LEY, SCEA RECHAZA CUALQUIER REPRESENTACIÓN O GARANTÍA, YA SEA EXPRESA O IMPLÍCITA, INCLUYENDO LAS GARANTÍAS DE COMERCIABILIDAD O ADECUACIÓN A UN FIN PARTICULAR O DE NO INFRACCIÓN. SIN PERJUICIO DE LO ANTERIOR, SCEA NO GARANTIZA QUE PUEDA USAR LOS MATERIALES DE LA ALPHA EN LÍNEA O DESCONECTADO O PARTICIPAR EN ESTE PROGRAMA EN TODO MOMENTO. DE VEZ EN CUANDO, PUEDEN SURGIR PROBLEMAS MÁS ALLÁ DEL CONTROL DE SCEA QUE EVITEN O RETRASEN EL ACCESO AL PROGRAMA O QUE CAUSEN QUE EL PROGRAMA O LOS MATERIALES DE LA ALPHA NO SE PUEDAN USAR. EN EL CASO DE CUALQUIER DISPUTA EN RELACIÓN AL USO DE LOS MATERIALES DE LA ALPHA, HARDWARE O SOFTWARE, ACEPTA QUE LA RESPONSABILIDAD DE SCEA Y DE SUS COMPAÑÍAS AFILIADAS SE LIMITARÁ A LA REPARACIÓN O SUSTITUCIÓN DE LOS MATERIALES DE LA ALPHA, A DECISIÓN DE SCEA. SCEA O CUALQUIER EDITOR PARTICIPANTE SE RESERVA EL DERECHO PARA, EN CUALQUIER MOMENTO, INCLUIR UNA VERSIÓN CON FECHA DE CADUCIDAD (“BOMBA DE TIEMPO”) DEL SOFTWARE O DEJAR DE ALBERGARLO. ACCEDE A QUE SCEA NO TENDRÁ RESPONSABILIDAD ALGUNA POR LA INTERRUPCIÓN DEL PROGRAMA. TODO SOFTWARE ADICIONAL NO PUBLICADO POR SCEA SERÁ RESPONSABILIDAD EXCLUSIVA DE DICHO EDITOR. CONSULTE LOS TÉRMINOS Y CONDICIONES DEL EDITOR ASOCIADOS CON EL SOFTWARE ANTES DE JUGAR. 
+
+12. LIMITACIÓN DE RESPONSABILIDAD Y REMEDIOS. Acepta que, ante cualquier daño provocado por cualquier razón (incluyendo daños directos o generales), la única responsabilidad de SCEA y de sus filiales bajo cualquier provisión de este Acuerdo y su único remedio ante todo lo anteriormente citado será de diez dólares norteamericanos. Las limitaciones anteriores, exclusiones y responsabilidades se aplican hasta lo máximo permitido por la ley vigente, incluso si algún remedio falla en su propósito esencial. En ningún caso SCEA o sus filiales serán responsables por daños especiales, fortuitos, indirectos o derivados.
+
+13. Término/Terminación. Puede dar por terminado este Acuerdo en cualquier momento si borra todos los Materiales electrónicos de la alpha y devuelve la copia de los Materiales de la alpha que le ha sido enviada junto con una notificación escrita sobre dicha terminación enviando un e-mail a beta_test@playstation.sony.com. Los privilegios de participación de sus cuentas pueden finalizar de inmediato en el caso de que no cumpla estos Términos del acuerdo y las condiciones, o si no proporciona en un tiempo adecuado la información oportuna. SCEA también se reserva el derecho a terminar su participación en el Programa en cualquier momento y sin razón.
+
+14. Cláusula de integración.  Este Acuerdo supone la plena aceptación entre usted y SCEA, y rige el Programa y los Materiales de la alpha. En el caso de conflicto entre este Acuerdo y los términos de acuerdo de un tercero, incluyendo la política de privacidad de un tercero, prevalecerán los términos de este Acuerdo entre usted y SCEA.
+
+15. Ley vigente y tribunales. Usted acepta que las leyes del Estado de California serán las que gobernarán este Acuerdo y su participación en el Programa.
+
+16. Preguntas. Si tiene cualquier pregunta sobre este Acuerdo, póngase en contacto con Sony Computer Entertainment America LLC, Legal Department, 2207 Bridgepointe Parkway, San Mateo, CA 94404. Para obtener una copia impresa de este Acuerdo de la alpha, visite http://www.us.playstation.com/support/UserAgreements.
+
+
+</text>
+<text id="601003">Contrato de participação do programa de teste alpha 
+
+LEIA ATENTA E INTEGRALMENTE ESTE CONTRATO DE PARTICIPAÇÃO DO PROGRAMA DE TESTE ALPHA (“CONTRATO”) E INDIQUE SE VOCÊ CONCORDA COM SEUS TERMOS (I) ACESSANDO OU FAZENDO O DOWNLOAD DE QUAISQUER MATERIAIS ALPHA OU (II) CLICANDO NO BOTÃO “SIM” OU “ACEITO”. 
+
+ESTE CONTRATO É CELEBRADO ENTRE VOCÊ E A SONY COMPUTER ENTERTAINMENT AMERICA LLC (“SCEA”) E PODE SER ACEITO SOMENTE POR UM ADULTO MAIOR DE 18 ANOS DE IDADE. ALÉM DISSO, VOCÊ PODE ESTAR SUJEITO A TERMOS E CONDIÇÕES ADICIONAIS DA SCEA OU DE OUTRA EDITORA DE DETERMINADOS MATERIAIS ALPHA. LEIA ESSES TERMOS E CONDIÇÕES ADICIONAIS ATENTAMENTE. SE VOCÊ NÃO CUMPRIR A EXIGÊNCIA DE MAIORIDADE OU NÃO CONCORDAR COM TODOS OS TERMOS E CONDIÇÕES APLICÁVEIS, NÃO ACESSE NEM FAÇA O DOWNLOAD DOS MATERIAIS ALPHA. CASO CONTRÁRIO, O SEU ACESSO OU DOWNLOAD DE QUAISQUER MATERIAIS ALPHA SIGNIFICA QUE VOCÊ ACEITOU TODOS OS TERMOS E CONDIÇÕES.
+
+1. Programa e Materiais alpha. A SCEA fornecerá a você software, documentação e acesso ao site de teste alpha (“Materiais alpha”) necessários para a participação no programa de teste alpha (“Programa”). O Programa pode incluir Materiais alpha publicados pela SCEA ou por outros editores. A participação no Programa está sujeita aos termos deste Contrato e exigirá que você tenha acesso à Internet e a determinados hardwares e equipamentos, não fornecidos a você pela SCEA. A SCEA poderá encerrar esse Programa a qualquer momento sem justificativa ou notificação prévia a você.
+
+2. Feedback do participante. A SCEA ou outras empresas autorizadas poderão obter informações referentes ao uso feito por você dos Materiais alpha ou da sua participação no Programa, inclusive informações como comunicações ou atividades online ou no jogo. Não obstante quaisquer seleções que você tenha feito anteriormente de recusar o recebimento de informações da SCEA ou de ser contatado pela SCEA, a SCEA poderá entrar em contato com você para solicitar informações sobre o seu uso dos Materiais alpha. Você concorda em fornecer informações para a SCEA relativas à sua experiência com o uso dos Materiais alpha, tais como conectividade e usabilidade dos Materiais alpha. As respostas desejadas podem incluir o preenchimento de pesquisas ou o relato de problemas (""bugs""). As informações que você fornecer para a SCEA com relação ao Programa, inclusive ideias ou invenções coletadas pela SCEA, são denominadas “Feedback”. Você concorda que o Feedback (i) contenha as suas ideias ou invenções originais e seja fornecido por você para a SCEA sem pagamento ou condições; (ii) uma vez transmitido para a SCEA, passe a ser propriedade e informações confidenciais da SCEA; (iii) possa ser usado ou distribuído pela SCEA para qualquer finalidade com relação aos Materiais alpha ou o desenvolvimento de qualquer outro produto ou serviço, incluindo a divulgação de tais informações a empresas filiadas, subsidiárias ou outros desenvolvedores e editores e (iv) permita à SCEA coletar e usar as suas informações pessoais referentes ao Programa, contanto que a SCEA não distribua essas informações a empresas não afiliadas sem a sua permissão ou conforme indicado na política de privacidade aplicável. 
+
+3. Titularidade do Programa e dos Materiais alpha. O Programa, os Materiais alpha e os direitos de propriedade intelectual associados a eles pertencem à SCEA, suas afiliadas ou ambas. Você não pode copiar, distribuir, vender, licenciar, emprestar ou transferir os Materiais alpha. Você deve manter os Materiais alpha em sua posse, custódia e controle e tomar medidas razoáveis para impedir que outros indivíduos utilizem esses materiais. Você será responsável por qualquer perda ou dano aos Materiais alpha ou aos direitos de propriedade intelectual da SCEA relativos a esses materiais, inclusive perda ou dano resultante da divulgação de informações sobre os Materiais alpha ou o Programa.
+
+4. Conteúdo criado pelo usuário.  É possível que, nos Materiais alpha, haja ferramentas que possibilitem a sua comunicação com outros jogadores e a criação, publicação e distribuição de diversas formas de conteúdo para o Programa e relativas a ele, incluindo, entre outros, imagens, fotografias, vídeos, materiais relacionados ao jogo (inclusive níveis e personagens) e outras informações (denominadas, em conjunto ou separadamente, “Conteúdo criado pelo usuário”).  Você reconhece e concorda que a SCEA e os outros criadores do Conteúdo criado pelo usuário possuem direitos sobre o respectivo conteúdo de acordo com os direitos autorais e outras leis aplicáveis e que, salvo se for expressamente indicado no presente Contrato, os referidos direitos não serão licenciados ou transferidos de outra forma a você. Você assume total responsabilidade pelo uso de qualquer Conteúdo criado pelo usuário de uma forma que viole tais direitos.
+ Você concorda em não criar, transferir, compartilhar, enviar ou fazer upload de qualquer Conteúdo criado pelo usuário que:
+(a) seja protegido por direitos autorais, patentes, marcas comerciais, segredos comerciais ou que estejam sujeitos, de outra forma, aos direitos de propriedade de terceiros, incluindo, entre outros, direito de privacidade e de imagem (salvo caso seja autorizado pelo detentor desses direitos);
+(b) contenha afirmações fraudulentas ou informações falsas que possam prejudicar a SCEA ou terceiros;
+(c) contenha afirmações ou materiais que depreciem, ridicularizem ou desdenhem da SCEA ou de terceiros;
+(d) contenha qualquer tipo de obscenidade, difamação, ameaça, assédio, exploração, pornografia, intolerância, ofensas raciais ou étnicas, incentive condutas que infrinjam qualquer lei ou, ainda, seja inadequado por outro motivo; 
+(e) seja de publicidade ou ofertas de negócios;
+(f) seja de alguém se passando por outra pessoa; ou  
+(g) infrinja qualquer regra de Conduta online, cláusula do presente Contrato, dos Termos de Serviço da PSN e do Contrato de uso, ou ainda outras cláusulas relacionadas ao presente Programa.  
+ Você concorda que a SCEA não será responsabilizada pelo Conteúdo criado pelo usuário que você ou terceiros venham a enviar ou publicar. A SCEA não é proprietária do Conteúdo criado pelo usuário enviado ou disponibilizado por você como parte do Programa e fica expressamente isenta de toda e qualquer responsabilidade relacionada a qualquer Conteúdo criado pelo usuário.  A SCEA não tem a obrigação de pré-verificar o Conteúdo criado pelo usuário.
+ A SCEA tem o direito de editar, remover, bloquear ou se recusar a publicar qualquer Conteúdo criado pelo usuário enviado que esteja em alguma rede ou site da Internet, incluindo, entre outras, a PlayStation® Network, por qualquer motivo e sem aviso prévio. Todavia, ela não assume nenhuma obrigação de tomar essas medidas e não será responsabilizada por demorar ou não fazê-lo.
+ Você desde já nomeia a SCEA como sua procuradora para solicitar a terceiros a remoção, nos termos da Lei de Direitos Autorais do Milênio Digital ou por outro motivo ou lei aplicável, a critério da SCEA, do seu Conteúdo criado pelo usuário publicado em uma rede ou site da Internet de terceiros.  Você concorda em não contestar a solicitação da SCEA para remover seu Conteúdo criado pelo usuário publicado de tal rede ou site da Internet.  Ademais, você concorda em assinar todos os documentos, conforme for solicitado pela SCEA, para realizar tal remoção.
+  
+5.  Licença da SCEA de Conteúdo criado pelo usuário.   
+(a)  Ao publicar, transferir, compartilhar ou enviar o Conteúdo criado pelo usuário de qualquer forma, você concede à SCEA, suas afiliadas, licenciantes, distribuidores e outros usuários do software uma licença não exclusiva, internacional, totalmente paga, transferível, irrevogável, isenta de royalties e permanente para modificar, adaptar, traduzir, apresentar, exibir e criar obras derivadas a partir de seu Conteúdo criado pelo usuário;
+(b)  Ao enviar ou fazer upload do Conteúdo criado pelo usuário de qualquer forma para a SCEA, você concede à SCEA, suas afiliadas, licenciantes e distribuidores uma licença não exclusiva, internacional, totalmente paga, transferível, irrevogável, isenta de royalties e permanente para publicar e distribuir seu Conteúdo criado pelo usuário (gratuitamente ou com fins lucrativos) e para usar seu Conteúdo criado pelo usuário para fins promocionais e de marketing em relação ao Programa, ao jogo, a qualquer sistema de entretenimento de computador Playstation ou a qualquer aspecto das atividades comerciais da SCEA; e
+(c)  Você desde já:
+(i)  Reconhece que recebeu uma contraprestação adequada da SCEA pela licença dos direitos sobre o seu Conteúdo criado pelo usuário nos termos do presente Contrato;
+(ii)   Concorda que a criação e distribuição do seu Conteúdo criado pelo usuário não tinham, de forma alguma, o objetivo de obter remuneração da SCEA, suas afiliadas, licenciantes ou distribuidores;
+(iii)  Concorda que a SCEA, suas afiliadas, licenciantes ou distribuidores poderão - mas não são obrigados a - utilizar seu nome, nome de usuário ou marcas comerciais em relação à distribuição do seu Conteúdo criado pelo usuário; e
+(iv)  Garante e declara que: (A) você criou o seu Conteúdo criado pelo usuário; (B) você possui todos os direitos necessários sobre o Conteúdo criado pelo usuário para cumprir suas obrigações aqui estabelecidas; e (C) seu Conteúdo criado pelo usuário não infringe a propriedade intelectual ou outros direitos de nenhum terceiro nem contém obscenidade, difamação, ofensas, publicidade ou ofertas de negócios.
+
+6. Caráter confidencial dos Materiais alpha e do Programa. Pelo presente instrumento você toma ciência e concorda que:
+
+(a) os Materiais alpha, o Programa e quaisquer informações relativas ao seu uso dos Materiais alpha, sejam ou não compartilhadas com a SCEA, constituem informações confidenciais da SCEA. Você utilizará os Materiais alpha somente na sua residência com o único propósito de testar os Materiais alpha referentes ao Programa e você não irá transferir, distribuir ou divulgar nenhum dos Materiais alpha, Feedback ou nenhuma informação relativa ao Programa a terceiros, inclusive por meio da apresentação ou exibição pública das informações. Você não discutirá a sua experiência com os Materiais alpha com terceiros nem publicará ou disseminará informações sobre a experiência;
+
+(b) os Materiais alpha não são inteiramente testados e são materiais pré-lançamento, não destinados à divulgação pública;
+
+(c) os recursos de funcionalidade fornecidos nos Materiais alpha poderão não estar disponíveis na versão final;
+
+(d) os Materiais alpha poderão ter numeração de série para fins de controle e ser vinculados a você;
+
+(e) a divulgação de qualquer parte dos Materiais alpha, do Programa, do Feedback ou da sua experiência com o uso dos Materiais alpha ou o Programa a terceiros, inclusive à imprensa especializada ou comum, agências de notícias ou concorrentes da SCEA, causará danos significativos e irreparáveis à SCEA, cuja extensão pode ser difícil de determinar. Dessa forma, você concorda que a SCEA tem direito de obter medida cautelar, bem como outros recursos legais que possam estar disponíveis no caso da sua violação deste Contrato.
+
+7. Garantias e declarações do participante. Você garante e declara que:
+
+(a) não tem problemas físicos, como epilepsia ou histórico de fotossensibilidade, que poderiam ser agravados ou provocados ao jogar jogos eletrônicos; 
+
+(b) concorda conscientemente em assumir o risco de que quaisquer defeitos físicos latentes que você possa ter podem ser agravados pela participação neste Programa;
+
+(c) agirá de forma responsável com respeito à participação no Programa e o tratamento dos Materiais alpha e do Feedback, seguindo um código de conduta razoável e de bom senso; 
+
+(d) não irá, de forma alguma, prejudicar a SCEA, sua controladora, afiliadas, subsidiárias ou editoras;
+
+(e) concorda que, se permitir que outra pessoa utilize os Materiais alpha, você assume a responsabilidade por seus atos, inclusive quaisquer violações deste Contrato, o que poderia resultar no cancelamento da sua conta da PLAYSTATION®Network (“Contas”);
+
+(f) imediatamente notificará a SCEA se souber que os Materiais alpha fornecidos a você como parte deste Programa foram distribuídos ou transferidos para terceiros e você tomará todas as medidas necessárias para ajudar a recuperar os Materiais alpha e impedir qualquer perda adicional de confidencialidade.
+
+(g) não se apropriará de nenhuma propriedade intelectual da SCEA ou de terceiros;
+
+(h) não executará engenharia reversa, descompilará ou desmontará os Materiais alpha nem realizará transferência, exibição, exportação, importação ou transmissão não autorizada de programas e não usará nenhum dispositivo para burlar esquemas de autenticação e
+
+(i) lerá e se familiarizará com o uso do sistema PlayStation® apropriado e os avisos e instruções de quaisquer Materiais alpha antes da instalação ou configuração dos Materiais alpha.
+
+8. Limitações e serviço. Alguns provedores de acesso à Internet (ISPs) limitam o número de dispositivos que podem ser conectados ao serviço. Se não tiver certeza dos seus termos de serviço, entre em contato com seu ISP. Para todas as outras dúvidas relativas à instalação do produto e configuração de rede doméstica, entre em contato com o Atendimento ao consumidor da SCEA no telefone 1-800-345-7669. 
+
+9. Reconhecimento da coleta de dados. Alguns Materiais alpha podem conter software que utilize uma forma geral de autenticação ou “DNAS” (Dynamic Network Authentication System, Sistema dinâmico de autenticação de rede), um sistema de autenticação proprietário criado pela Sony Computer Entertainment Inc. (“SCEI”). Tal programa de software pode obter dados sobre o hardware e o software de um usuário para fins de autenticação, proteção de cópia, contabilidade, gerenciamento de jogos, sistema, regras e outros. Os dados coletados não identificam o usuário pessoalmente. Entretanto, uma editora de software pode combinar esses dados com dados de registros próprios, caso o usuário tenha fornecido a essa editora informações que o identifiquem pessoalmente. Antes de fornecer quaisquer informações que o identifiquem pessoalmente a uma editora, leia a política de privacidade e os termos e condições de uso da editora. Não forneça informações que o identifiquem pessoalmente a editoras, a menos que você aceite as condições de uso e os termos de sua política de privacidade.
+
+10. Nenhuma garantia de funcionamento de servidor/isenção de responsabilidade. A SCEA, a SCEI e cada uma de suas subsidiárias e afiliadas não garantem o funcionamento contínuo dos servidores usados com este Programa. A SCEA não se responsabiliza pela sua incapacidade de usar os Materiais alpha ou pelo atraso ou falha no funcionamento dos servidores. Caso você receba uma mensagem durante o login identificando um erro, entre em contato com o Atendimento ao cliente da SCEA no telefone 1-866-466-5333.
+
+11. NENHUMA GARANTIA E DECLARAÇÃO. OS MATERIAIS ALPHA, O PROGRAMA E QUAISQUER SOFTWARES OU HARDWARES FORNECIDOS PELA SCEA DE ACORDO COM OS TERMOS DESTE CONTRATO SÃO FORNECIDOS “NA FORMA EM QUE SE ENCONTRAM” E, NA MEDIDA PERMITIDA PELA LEI, A SCEA ISENTA-SE DE QUAISQUER DECLARAÇÕES E GARANTIAS DE TODA NATUREZA, EXPRESSAS OU IMPLÍCITAS, INCLUSIVE QUAISQUER GARANTIAS DE COMERCIABILIDADE OU ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA OU NÃO INFRAÇÃO. SEM LIMITAR AS DISPOSIÇÕES ANTERIORES, A SCEA NÃO GARANTE QUE VOCÊ PODERÁ USAR OS MATERIAIS ALPHA ONLINE OU OFFLINE NEM PARTICIPAR DO PROGRAMA A QUALQUER MOMENTO. EVENTUALMENTE, PROBLEMAS ALÉM DO CONTROLE RAZOÁVEL DA SCEA PODERÃO IMPEDIR OU ATRASAR O SEU ACESSO AO PROGRAMA OU OCASIONAR O NÃO FUNCIONAMENTO DO PROGRAMA OU DOS MATERIAIS ALPHA. EM CASO DE DISPUTA SOBRE O SEU USO DE QUALQUER MATERIAL ALPHA, HARDWARE OU SOFTWARE, VOCÊ CONCORDA QUE A ÚNICA RESPONSABILIDADE DA SCEA E DE SUAS EMPRESAS AFILIADAS SE LIMITARÁ AO REPARO OU SUBSTITUIÇÃO DOS MATERIAIS ALPHA, CONFORME ESCOLHA DA SCEA. A SCEA OU EDITORAS PARTICIPANTES RESERVAM-SE O DIREITO DE INCLUIR UMA VERSÃO COM VENCIMENTO AUTOMÁTICO (“TIME BOMB” OU ""BOMBA RELÓGIO"") DO SOFTWARE OU INTERROMPER A HOSPEDAGEM DO SOFTWARE A QUALQUER MOMENTO. VOCÊ CONCORDA QUE A SCEA NÃO TEM RESPONSABILIDADE PELA INTERRUPÇÃO DO PROGRAMA POR QUALQUER MOTIVO. TODOS OS OUTROS SOFTWARES NÃO PUBLICADOS PELA SCEA SÃO DE RESPONSABILIDADE UNICAMENTE DA EDITORA INDICADA. VERIFIQUE OS TERMOS E CONDIÇÕES DA EDITORA ASSOCIADA AO SOFTWARE ANTES DE JOGAR. 
+
+12. LIMITAÇÃO DE RESPONSABILIDADE E INDENIZAÇÃO. Você concorda que, não obstante quaisquer danos em que você possa incorrer por qualquer motivo (inclusive danos diretos ou gerais), toda a responsabilidade da SCEA e qualquer uma de suas afiliadas de acordo com qualquer disposição deste Contrato e sua indenização exclusiva para todas as disposições anteriores limita-se a dez dólares (US$ 10,00). As limitações, exclusões e isenções de responsabilidade anteriores aplicam-se a extensão máxima permitida pela lei, mesmo se qualquer indenização não atingir o seu propósito essencial. Em circunstância alguma a SCEA ou suas afiliadas serão responsabilizadas por quaisquer danos especiais, incidentais, indiretos ou consequentes.
+
+13. Termo/rescisão. Você pode rescindir este Contrato a qualquer momento excluindo todos os Materiais alpha eletrônicos, devolvendo a cópia física dos Materiais alpha enviados para você e fornecendo uma notificação por escrito da sua rescisão por email para beta_test@playstation.sony.com. Os seus privilégios de participação de Contas poderão ser cancelados imediatamente caso você não cumpra os termos e condições deste Contrato ou não forneça feedback razoável de forma oportuna. A SCEA também reserva-se o direito de encerrar a sua participação no Programa a qualquer momento sem justificativa.
+
+14. Totalidade do contrato.  Este Contrato constitui a totalidade dos entendimentos entre você e a SCEA, regendo o Programa e os Materiais alpha. Em caso de conflito entre este Contrato e os termos de um contrato de terceiros, inclusive política de privacidade de terceiros, os termos deste Contrato prevalecerão como o acordo entre você e a SCEA.
+
+15. Lei aplicável e foro. Você concorda que as leis do Estado da Califórnia regerão os termos deste Contrato e a sua participação no Programa.
+
+16. Dúvidas. Em caso de dúvida sobre este Contrato, entre em contato com Sony Computer Entertainment America LLC, Legal Department, 2207 Bridgepointe Parkway, San Mateo, CA 94404. Para obter uma cópia impressa deste Contrato de teste alpha, acesse http://www.us.playstation.com/support/UserAgreements.
+
+
+</text>
+<text id="601100">Accept</text>
+<text id="601101">Accepter</text>
+<text id="601102">Aceptar</text>
+<text id="601103">Aceitar</text>
+<text id="601200">Decline</text>
+<text id="601201">Refuser</text>
+<text id="601202">Rechazar</text>
+<text id="601203">Recusar</text>
+<text id="601300">User Agreement</text>
+<text id="601301">Accord utilisateur</text>
+<text id="601302">Acuerdo de usuario</text>
+<text id="601303">Contrato de Usuário</text>
+<text id="601400">Confirm</text>
+<text id="601401">Confirmer</text>
+<text id="601402">Confirmar</text>
+<text id="601403">Confirmar</text>
+<text id="601500">Scroll</text>
+<text id="601501">Parcourir</text>
+<text id="601502">Desplazarse</text>
+<text id="601503">Rolar tela</text>
+<text id="601600">Select</text>
+<text id="601601">Sélectionner</text>
+<text id="601602">Seleccionar</text>
+<text id="601603">Selecionar</text>
+<text id="602000">欧州、アジア用仮利用規約テキスト1
+欧州、アジア用仮利用規約テキスト2
+欧州、アジア用仮利用規約テキスト3
+欧州、アジア用仮利用規約テキスト4
+欧州、アジア用仮利用規約テキスト5
+欧州、アジア用仮利用規約テキスト6
+欧州、アジア用仮利用規約テキスト7
+欧州、アジア用仮利用規約テキスト8
+欧州、アジア用仮利用規約テキスト9
+欧州、アジア用仮利用規約テキスト10
+欧州、アジア用仮利用規約テキスト11
+欧州、アジア用仮利用規約テキスト12
+欧州、アジア用仮利用規約テキスト13
+欧州、アジア用仮利用規約テキスト14
+欧州、アジア用仮利用規約テキスト15
+欧州、アジア用仮利用規約テキスト16
+欧州、アジア用仮利用規約テキスト17
+欧州、アジア用仮利用規約テキスト18
+欧州、アジア用仮利用規約テキスト19
+欧州、アジア用仮利用規約テキスト20</text>
+<text id="602001">欧州、アジア用 ダミー602001 1
+欧州、アジア用 ダミー602001 2
+欧州、アジア用 ダミー602001 3
+欧州、アジア用 ダミー602001 4
+欧州、アジア用 ダミー602001 5
+欧州、アジア用 ダミー602001 6
+欧州、アジア用 ダミー602001 7
+欧州、アジア用 ダミー602001 8
+欧州、アジア用 ダミー602001 9
+欧州、アジア用 ダミー602001 10
+欧州、アジア用 ダミー602001 11
+欧州、アジア用 ダミー602001 12
+欧州、アジア用 ダミー602001 13
+欧州、アジア用 ダミー602001 14
+欧州、アジア用 ダミー602001 15
+欧州、アジア用 ダミー602001 16
+欧州、アジア用 ダミー602001 17
+欧州、アジア用 ダミー602001 18
+欧州、アジア用 ダミー602001 19
+欧州、アジア用 ダミー602001 20</text>
+<text id="602002">欧州、アジア用 ダミー602002 1
+欧州、アジア用 ダミー602002 2
+欧州、アジア用 ダミー602002 3
+欧州、アジア用 ダミー602002 4
+欧州、アジア用 ダミー602002 5
+欧州、アジア用 ダミー602002 6
+欧州、アジア用 ダミー602002 7
+欧州、アジア用 ダミー602002 8
+欧州、アジア用 ダミー602002 9
+欧州、アジア用 ダミー602002 10
+欧州、アジア用 ダミー602002 11
+欧州、アジア用 ダミー602002 12
+欧州、アジア用 ダミー602002 13
+欧州、アジア用 ダミー602002 14
+欧州、アジア用 ダミー602002 15
+欧州、アジア用 ダミー602002 16
+欧州、アジア用 ダミー602002 17
+欧州、アジア用 ダミー602002 18
+欧州、アジア用 ダミー602002 19
+欧州、アジア用 ダミー602002 20</text>
+<text id="602003">欧州、アジア用 ダミー602003 1
+欧州、アジア用 ダミー602003 2
+欧州、アジア用 ダミー602003 3
+欧州、アジア用 ダミー602003 4
+欧州、アジア用 ダミー602003 5
+欧州、アジア用 ダミー602003 6
+欧州、アジア用 ダミー602003 7
+欧州、アジア用 ダミー602003 8
+欧州、アジア用 ダミー602003 9
+欧州、アジア用 ダミー602003 10
+欧州、アジア用 ダミー602003 11
+欧州、アジア用 ダミー602003 12
+欧州、アジア用 ダミー602003 13
+欧州、アジア用 ダミー602003 14
+欧州、アジア用 ダミー602003 15
+欧州、アジア用 ダミー602003 16
+欧州、アジア用 ダミー602003 17
+欧州、アジア用 ダミー602003 18
+欧州、アジア用 ダミー602003 19
+欧州、アジア用 ダミー602003 20</text>
+<text id="602100">同意する（仮）</text>
+<text id="602101">同意する（仮）</text>
+<text id="602102">同意する（仮）</text>
+<text id="602103">同意する（仮）</text>
+<text id="602200">同意しない（仮）</text>
+<text id="602201">同意しない（仮）</text>
+<text id="602202">同意しない（仮）</text>
+<text id="602203">同意しない（仮）</text>
+<text id="602300">利用規約タイトル（仮）</text>
+<text id="602301">利用規約タイトル（仮）</text>
+<text id="602302">利用規約タイトル（仮）</text>
+<text id="602303">利用規約タイトル（仮）</text>
+<text id="602400">決定（仮）</text>
+<text id="602401">決定（仮）</text>
+<text id="602402">決定（仮）</text>
+<text id="602403">決定（仮）</text>
+<text id="602500">スクロール（仮）</text>
+<text id="602501">スクロール（仮）</text>
+<text id="602502">スクロール（仮）</text>
+<text id="602503">スクロール（仮）</text>
+<text id="602600">選択（仮）</text>
+<text id="602601">選択（仮）</text>
+<text id="602602">選択（仮）</text>
+<text id="602603">選択（仮）</text>
+</entries>
+</fmg>

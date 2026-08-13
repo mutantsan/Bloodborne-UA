@@ -4,9 +4,7 @@ from pathlib import Path
 
 WITCHY_BND_EXE = "/mnt/d/apps/WitchyBND/WitchyBND.exe"
 WITCHY_BND_METADATA = "_witchy-bnd4.xml"
-BLOODBORNE_PATH = (
-    "/mnt/d/apps/shadps4 diegolix29/games/CUSA03173/dvdroot_ps4/msg/rusru/"
-)
+BLOODBORNE_PATH = "/mnt/d/apps/shadps4/games/CUSA03173/dvdroot_ps4/msg/rusru/"
 
 
 def main():
@@ -17,8 +15,8 @@ def main():
 
 def copy_files_to_pack_folder() -> None:
     here = Path(__file__).parent
-    menu_msg_files = here / "menu-msgbnd-dcx"
-    item_msg_files = here / "item-msgbnd-dcx"
+    menu_msg_files = here / "UA" / "menu-msgbnd-dcx"
+    item_msg_files = here / "UA" / "item-msgbnd-dcx"
 
     pack_folder = here / "pack"
 
@@ -29,20 +27,20 @@ def copy_files_to_pack_folder() -> None:
 
 
 def pack_translate_files() -> None:
-    """Pack all translated files xml -> fmg -> dcx"""
-    subprocess.run([WITCHY_BND_EXE] + get_msg_files("menu"))
-    subprocess.run([WITCHY_BND_EXE] + get_msg_files("item"))
+    """Pack all translated files xml -> fmg -> dcx."""
+    subprocess.run([WITCHY_BND_EXE] + get_msg_files("menu"))  # noqa
+    subprocess.run([WITCHY_BND_EXE] + get_msg_files("item"))  # noqa
 
     here = Path(__file__).parent
 
     drop_xml_files()
 
-    subprocess.run([WITCHY_BND_EXE, here / "pack" / "menu-msgbnd-dcx"])
-    subprocess.run([WITCHY_BND_EXE, here / "pack" / "item-msgbnd-dcx"])
+    subprocess.run([WITCHY_BND_EXE, here / "pack" / "menu-msgbnd-dcx"])  # noqa
+    subprocess.run([WITCHY_BND_EXE, here / "pack" / "item-msgbnd-dcx"])  # noqa
 
 
 def get_msg_files(_type: str) -> list[Path]:
-    """Get paths to all xml files in menu and item folders
+    """Get paths to all xml files in menu and item folders.
 
     Args:
         _type (str): "menu" or "item"
@@ -72,7 +70,7 @@ def get_msg_files(_type: str) -> list[Path]:
 
 
 def drop_xml_files() -> None:
-    """Remove all xml files from pack folder
+    """Remove all xml files from pack folder.
 
     We don't need them, because we already packed them into FMG
     """
@@ -81,23 +79,17 @@ def drop_xml_files() -> None:
     menu_msg_files = here / "pack" / "menu-msgbnd-dcx"
     item_msg_files = here / "pack" / "item-msgbnd-dcx"
 
-    for file in menu_msg_files.iterdir():
-        if file.name == WITCHY_BND_METADATA:
-            continue
+    for folder in (menu_msg_files, item_msg_files):
+        for file in folder.iterdir():
+            if file.name == WITCHY_BND_METADATA:
+                continue
 
-        if file.suffix == ".xml":
-            file.unlink()
-
-    for file in item_msg_files.iterdir():
-        if file.name == WITCHY_BND_METADATA:
-            continue
-
-        if file.suffix == ".xml":
-            file.unlink()
+            if file.suffix == ".xml":
+                file.unlink()
 
 
 def replace_translation_files() -> None:
-    """Replace original files with translated ones"""
+    """Replace original files with translated ones."""
     here = Path(__file__).parent
 
     menu_msg_files = here / "pack" / "menu.msgbnd.dcx"

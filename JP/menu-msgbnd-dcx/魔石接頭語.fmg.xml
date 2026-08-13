@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>魔石接頭語.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">魔石接頭語１</text>
+<text id="2">魔石接頭語２</text>
+<text id="3">魔石接頭語３</text>
+<text id="4">魔石接頭語４</text>
+</entries>
+</fmg>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>アクセサリ説明.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">探知アイテム所有者の世界に侵略する</text>
+<text id="2">【デバッグ】魔法スロットが３が増える</text>
+<text id="100">%null%</text>
+</entries>
+</fmg>

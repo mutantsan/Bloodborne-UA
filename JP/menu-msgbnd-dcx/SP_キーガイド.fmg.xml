@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>SP_キーガイド.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1000">パッドボタン左</text>
+<text id="1001">パッドボタン右</text>
+<text id="100000">決定</text>
+<text id="100001">実行</text>
+<text id="100002">アイテム使用</text>
+<text id="100003">編集</text>
+<text id="100004">儀法の追加/解除</text>
+<text id="100005">儀法の追加/解除</text>
+<text id="100006">%null%</text>
+<text id="100007">捨てる</text>
+<text id="100008">装備/はずす</text>
+<text id="100009">格納</text>
+<text id="100010">取り出す</text>
+<text id="100011">取引</text>
+<text id="100012">売却</text>
+<text id="100013">血族の情報を見る</text>
+<text id="100014">連盟員の情報を見る</text>
+<text id="110000">戻る</text>
+<text id="110001">閉じる</text>
+<text id="110002">取り消し</text>
+<text id="120000">表示切替</text>
+<text id="120001">メニューを開いたまま実行</text>
+<text id="120002">作成完了</text>
+<text id="120003">保護状態の切替</text>
+<text id="120004">はずす</text>
+<text id="120005">投入確定</text>
+<text id="120006">儀式開始</text>
+<text id="120007">削除</text>
+<text id="120008">テスト再生</text>
+<text id="120009">自分を表示</text>
+<text id="120010">聖杯ダンジョンの共有</text>
+<text id="120011">パレット表示</text>
+<text id="120012">スライダー表示</text>
+<text id="130000">並べ替え</text>
+<text id="130001">まとめて捨てる</text>
+<text id="130002">まとめて格納する</text>
+<text id="130003">まとめて取り出す</text>
+<text id="130004">付け替え</text>
+<text id="130005">アクションの切替</text>
+<text id="130006">ステータス表示の切替</text>
+<text id="130007">最上位を表示</text>
+<text id="140000">編集ベースの切替</text>
+<text id="140001">保管箱のアイテムを表示</text>
+<text id="140002">所持アイテムを表示</text>
+<text id="150000">ページ送り</text>
+<text id="150001">%null%</text>
+<text id="150002">10ずつ増減</text>
+<text id="150003">10ずつ増加</text>
+<text id="150004">10ずつ減少</text>
+<text id="150005">ページ上送り</text>
+<text id="150006">ページ下送り</text>
+<text id="150007">すべて格納</text>
+<text id="150008">すべて取り出す</text>
+<text id="150009">全修理</text>
+<text id="150010">取り外す</text>
+<text id="150011">次の100件</text>
+<text id="150012">前の100件</text>
+<text id="150013">ズームイン</text>
+<text id="150014">ズームアウト</text>
+<text id="150015">装備箇所の変更</text>
+<text id="150016">ズーム</text>
+<text id="160000">全て修理</text>
+<text id="160001">中断</text>
+<text id="200000">選択</text>
+<text id="200001">変更</text>
+<text id="200002">固定聖杯切替</text>
+<text id="200003">数値変更</text>
+<text id="200004">%null%</text>
+<text id="200005">増減</text>
+<text id="200006">スクロール</text>
+<text id="310000">回転</text>
+<text id="320000">ヘルプ</text>
+<text id="320001">カメラリセット</text>
+<text id="400000">魔石情報</text>
+<text id="400001">お気に入り切替</text>
+<text id="400002">詳細表示切替</text>
+<text id="400003">削除</text>
+<text id="400004">よい</text>
+<text id="400005">酷い</text>
+<text id="400006">%null%</text>
+<text id="400007">操作詳説</text>
+<text id="407000">カーソル移動</text>
+<text id="407001">決定</text>
+</entries>
+</fmg>
